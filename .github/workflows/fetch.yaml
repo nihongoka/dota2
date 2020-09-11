@@ -28,4 +28,4 @@ jobs:
           git remote set-url origin https://nihongoka-bot:${{ secrets.BOT_GITHUB_TOKEN }}@github.com/nihongoka/dota2
           git add .
           git commit -m "Client version: $(<version)"
-          git push origin master
+          git diff-index --quiet HEAD || git push origin master
