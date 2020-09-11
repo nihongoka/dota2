@@ -5532,6 +5532,7 @@
     "DOTA_ItemTest_NotInTest": "Cannot Publish In Dota 2 Test",
     "DOTA_ItemTest_NotInTest_Desc": "Please use the main Dota 2 client to interact with the Steam Workshop.",
     "DOTA_ItemTest_Import": "Import",
+    "DOTA_ItemTest_Items": "Items",
     "DOTA_ItemTest_Importing": "IMPORTING",
     "DOTA_ItemTest_Import_Success": "IMPORT SUCCESSFUL",
     "DOTA_ItemTest_Import_Failed": "IMPORT FAILED",
