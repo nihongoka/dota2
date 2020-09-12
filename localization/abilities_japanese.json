@@ -18,7 +18,7 @@
     "dota_ability_variable_attack_range_melee": "攻撃射程<font color='#7d7d7d'>(Melee Only)</font>",
     "DOTA_Tooltip_ability_attribute_bonus": "属性ボーナス",
     "DOTA_Tooltip_ability_attribute_bonus_Description": "使ったポイントごとに全属性を向上",
-    "DOTA_Tooltip_ability_attribute_bonus_attribute_bonus_per_level": "BONUS:",
+    "DOTA_Tooltip_ability_attribute_bonus_attribute_bonus_per_level": "ボーナス:",
     "DOTA_Tooltip_Ability_invoker_attribute_bonus": "属性ボーナス",
     "DOTA_Tooltip_ability_invoker_attribute_bonus_attribute_bonus_per_level": "BONUS:",
     "DOTA_Tooltip_Ability_dota_base_ability_Description": "属性レベル",
@@ -27,5 +27,9 @@
     "dota_ability_variable_int": "Intelligence",
     "dota_ability_variable_agi": "Agility",
     "DOTA_Tooltip_ability_default_attack_Description": "直接攻撃によるダメージ。",
-    "DOTA_Tooltip_ability_fountain_glyph_Description": "味方の建造物とレーンクリープに6秒間無敵を付与する。ファーストタワーが破壊されるとクールダウンが解消される。"
+    "DOTA_Tooltip_ability_fountain_glyph_Description": "味方の建造物とレーンクリープに6秒間無敵を付与する。ファーストタワーが破壊されるとクールダウンが解消される。",
+    "DOTA_Tooltip_ability_fountain_buyback_cost": "コスト:",
+    "DOTA_Tooltip_ability_radar_Description": "指定した範囲900を8秒間スキャンする。8秒間の間、そのエリアに敵ヒーローがいるかどうかを表示します。",
+    "DOTA_Tooltip_radar_cooldown": "クールダウン: %s1",
+    "DOTA_Tooltip_courier_no_couriers": "クーリエが見つかりません"
 }
