@@ -1,1 +1,6 @@
-{}
+{
+    "dota_ability_variable_mana": "マナ",
+    "dota_ability_variable_health": "体力",
+    "dota_ability_variable_armor": "アーマー",
+    "dota_ability_variable_damage": "ダメージ"
+}
