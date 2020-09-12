@@ -115,5 +115,10 @@
     "DOTA_Tooltip_ability_antimage_blink": "Blink",
     "DOTA_Tooltip_ability_antimage_blink_Lore": "死神との出会いの中で、アンチメイジは捉えどころのない存在であることの価値を学んだ。",
     "DOTA_Tooltip_ability_antimage_blink_Note0": "Blinkを使用して、向かってきた投射物をかわすことができます。",
-    "DOTA_Tooltip_ability_antimage_blink_Description": "Anti-Mageが戦闘に出入りできる近距離テレポーテーション。"
+    "DOTA_Tooltip_ability_antimage_blink_Description": "Anti-Mageが戦闘に出入りできる近距離テレポーテーション。",
+    "DOTA_Tooltip_ability_antimage_blink_blink_range": "範囲:",
+    "DOTA_Tooltip_ability_antimage_spell_shield": "Spell Shield",
+    "DOTA_Tooltip_ability_antimage_spell_shield_Description": "Anti-Mageの魔法ダメージ耐性を増加させる。",
+    "DOTA_Tooltip_ability_antimage_spell_shield_aghanim_description": "%scepter_cooldown%秒に1回、Spell Shieldを自動で発動し、対象の呪文を反射させる。",
+    "DOTA_Tooltip_ability_antimage_spell_shield_Lore": "長年の瞑想と復讐への執着は、神秘的な相手に対してAnti-Mageの肌を硬化させた。"
 }
