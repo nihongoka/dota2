@@ -5,8 +5,9 @@ on: push
 jobs:
   release:
     runs-on: ubuntu-latest
-    if: github.actor == 'weblate'
+#    if: github.actor == 'weblate'
     steps:
+      - run: echo ${{ github.actor }}
       - name: Get current date
         id: date
         run: TZ=Asia/Tokyo echo "::set-output name=date::$(date +'%Y-%m-%d-%H-%M-%S')"
