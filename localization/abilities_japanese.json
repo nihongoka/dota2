@@ -97,5 +97,16 @@
     "DOTA_Tooltip_ability_necronomicon_archer_mana_burn_abilitycastrange": "キャスト範囲:",
     "DOTA_Tooltip_ability_necronomicon_archer_purge": "Purge",
     "DOTA_Tooltip_ability_filler_ability_duration": "効果時間:",
-    "DOTA_Tooltip_ability_filler_ability_hp_heal": "体力自然回復:"
+    "DOTA_Tooltip_ability_filler_ability_hp_heal": "体力自然回復:",
+    "DOTA_Tooltip_ability_necronomicon_archer_purge_Description": "敵のポジティブバフを除去し、移動速度を遅くする。\n\nディスペルタイプ: ベーシックディスペル",
+    "DOTA_Tooltip_ability_necronomicon_archer_purge_duration": "効果時間:",
+    "DOTA_Tooltip_ability_necronomicon_archer_purge_abilitycastrange": "キャストレンジ:",
+    "DOTA_Tooltip_ability_necronomicon_archer_aoe": "Archer Aura",
+    "DOTA_Tooltip_ability_necronomicon_archer_aoe_Description": "近くにいるユニットの移動速度と攻撃速度を増加させます。",
+    "DOTA_Tooltip_ability_necronomicon_archer_aoe_radius": "半径:",
+    "DOTA_Tooltip_ability_necronomicon_archer_aoe_ms_bonus": "%移動速度ボーナス:",
+    "DOTA_Tooltip_ability_necronomicon_archer_aoe_as_bonus": "攻撃速度ボーナス:",
+    "DOTA_Tooltip_ability_antimage_mana_break": "Mana Break",
+    "DOTA_Tooltip_ability_antimage_mana_break_Description": "攻撃するたびに相手のマナを燃やす。\nMana Breakは燃やしたマナの%percent_damage_per_burn%%%を対象にダメージとして与える。Mana Breakはイリュージョンによって引き起こされた場合、%illusion_percentage%%%の効果を持つ。",
+    "DOTA_Tooltip_ability_antimage_mana_break_Lore": "ターシュタルクリ僧侶の平和的な方法の修正技は、持ち主に魔法のエネルギーを向けることです。"
 }
