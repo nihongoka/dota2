@@ -27,5 +27,6 @@ jobs:
           git config user.email "71134725+nihongoka-bot@users.noreply.github.com"
           git remote set-url origin https://nihongoka-bot:${{ secrets.BOT_GITHUB_TOKEN }}@github.com/nihongoka/dota2
           git add .
+          git pull
           git diff-index --quiet HEAD || git commit -m "Client version: $(<version)"
           git push origin master
