@@ -203,5 +203,6 @@
     "DOTA_Tooltip_ability_lina_fiery_soul_Description": "Linaがスキルを使用する度に攻撃と移動速度のボーナスを付与する。この効果はスタックする。持続時間は%fiery_soul_stack_duration%秒。",
     "DOTA_Tooltip_ability_lina_fiery_soul_fiery_soul_attack_speed_bonus": "攻撃速度ボーナス:",
     "DOTA_Tooltip_ability_lina_laguna_blade_Lore": "Linaの周りの空気はあまりに強烈に熱くなるので、近づきすぎた敵は白熱する稲妻で焼け焦がされる。",
-    "DOTA_Tooltip_ability_lina_laguna_blade_aghanim_description": "Laguna BladeのダメージタイプをPureに変更し、Spell Immunityを貫通できるようになります。"
+    "DOTA_Tooltip_ability_lina_laguna_blade_aghanim_description": "Laguna BladeのダメージタイプをPureに変更し、Spell Immunityを貫通できるようになります。",
+    "DOTA_Tooltip_ability_lina_laguna_blade": "Laguna Blade"
 }
