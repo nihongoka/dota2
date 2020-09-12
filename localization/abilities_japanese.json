@@ -3,7 +3,7 @@
     "dota_ability_variable_health": "体力",
     "dota_ability_variable_armor": "アーマー",
     "dota_ability_variable_damage": "ダメージ",
-    "dota_ability_variable_str": "",
+    "dota_ability_variable_str": "Strength",
     "dota_ability_variable_all": "全ての属性",
     "dota_ability_variable_attack": "攻撃速度",
     "dota_ability_variable_hp_regen": "HP自然回復",
@@ -15,5 +15,17 @@
     "dota_ability_variable_selected_attrib": "選択した属性",
     "dota_ability_variable_attack_range": "攻撃射程<font color='#7d7d7d'>(Ranged Only)</font>",
     "dota_ability_variable_cast_range": "キャスト範囲",
-    "dota_ability_variable_attack_range_melee": "攻撃射程<font color='#7d7d7d'>(Melee Only)</font>"
+    "dota_ability_variable_attack_range_melee": "攻撃射程<font color='#7d7d7d'>(Melee Only)</font>",
+    "DOTA_Tooltip_ability_attribute_bonus": "属性ボーナス",
+    "DOTA_Tooltip_ability_attribute_bonus_Description": "使ったポイントごとに全属性を向上",
+    "DOTA_Tooltip_ability_attribute_bonus_attribute_bonus_per_level": "BONUS:",
+    "DOTA_Tooltip_Ability_invoker_attribute_bonus": "属性ボーナス",
+    "DOTA_Tooltip_ability_invoker_attribute_bonus_attribute_bonus_per_level": "BONUS:",
+    "DOTA_Tooltip_Ability_dota_base_ability_Description": "属性レベル",
+    "DOTA_Tooltip_ability_fountain_buyback": "バイバック",
+    "dota_ability_variable_status_resist": "状態異常耐性",
+    "dota_ability_variable_int": "Intelligence",
+    "dota_ability_variable_agi": "Agility",
+    "DOTA_Tooltip_ability_default_attack_Description": "直接攻撃によるダメージ。",
+    "DOTA_Tooltip_ability_fountain_glyph_Description": "味方の建造物とレーンクリープに6秒間無敵を付与する。ファーストタワーが破壊されるとクールダウンが解消される。"
 }
