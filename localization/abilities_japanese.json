@@ -113,7 +113,7 @@
     "DOTA_Tooltip_ability_antimage_mana_break_mana_per_hit": "ヒット毎のマナ燃焼:",
     "DOTA_Tooltip_ability_antimage_mana_break_mana_per_hit_pct": "ヒット毎の%最大マナ燃焼:",
     "DOTA_Tooltip_ability_antimage_blink": "Blink",
-    "DOTA_Tooltip_ability_antimage_blink_Lore": "死神との出会いの中で、アンチメイジは捉えどころのない存在であることの価値を学んだ。",
+    "DOTA_Tooltip_ability_antimage_blink_Lore": "死神との出会いの中で、Anti-Mageは捉えどころのない存在であることの価値を学んだ。",
     "DOTA_Tooltip_ability_antimage_blink_Note0": "Blinkを使用して、向かってきた投射物をかわすことができます。",
     "DOTA_Tooltip_ability_antimage_blink_Description": "Anti-Mageが戦闘に出入りできる近距離テレポーテーション。",
     "DOTA_Tooltip_ability_antimage_blink_blink_range": "範囲:",
@@ -141,5 +141,12 @@
     "DOTA_Tooltip_modifier_antimage_counterspell": "Counterspell Shield",
     "DOTA_Tooltip_modifier_antimage_counterspell_Description": "自分をターゲットにした全ての呪文をブロックし、敵に反射させる。",
     "DOTA_Tooltip_modifier_antimage_mana_void": "クールダウン増加",
-    "DOTA_Tooltip_modifier_antimage_mana_void_Description": "Mana Voidによりアビリティのクールダウンが増加している。"
+    "DOTA_Tooltip_modifier_antimage_mana_void_Description": "Mana Voidによりアビリティのクールダウンが増加している。",
+    "DOTA_Tooltip_ability_queenofpain_shadow_strike": "Shadow Strike",
+    "DOTA_Tooltip_ability_queenofpain_shadow_strike_Description": "初期ダメージが大きく、時間が経つにつれてダメージを与える毒入りの短剣を放つ。毒を受けたユニットは、移動速度が%abilityduration%秒の間遅くなります。   ダメージは%damage_interval%秒毎に与えられます。",
+    "DOTA_Tooltip_ability_queenofpain_shadow_strike_Lore": "アカシャは、その仇を取った短剣によって、犠牲者の苦しみを楽しむことができます。",
+    "DOTA_Tooltip_ability_queenofpain_shadow_strike_Note0": "影響を受けたユニットは、期間中、1秒ごとにゆっくりと元の移動速度へと回復します。",
+    "DOTA_Tooltip_ability_queenofpain_shadow_strike_movement_slow": "%移動速度減少:",
+    "DOTA_Tooltip_ability_queenofpain_shadow_strike_strike_damage": "初期ダメージ:",
+    "DOTA_Tooltip_ability_queenofpain_shadow_strike_Note1": "Shadow Strikeの効果を受けたユニットは、自分のHPが最大ヘルスの25%以下になった時、味方からのディナイが可能になる。"
 }
