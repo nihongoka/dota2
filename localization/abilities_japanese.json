@@ -60,5 +60,6 @@
     "DOTA_Tooltip_ability_courier_return_to_base_Description": "クーリエをベースに戻す",
     "DOTA_Tooltip_ability_courier_return_to_base": "ベースに戻す",
     "DOTA_Tooltip_ability_courier_go_to_secretshop": "シークレットショップに向かわせる",
-    "DOTA_Tooltip_ability_courier_go_to_secretshop_Description": "あなたのチームのシークレットショップにクーリエを送ります"
+    "DOTA_Tooltip_ability_courier_go_to_secretshop_Description": "あなたのチームのシークレットショップにクーリエを送ります",
+    "DOTA_Tooltip_ability_courier_shield_duration": "効果時間:"
 }
