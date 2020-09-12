@@ -120,5 +120,13 @@
     "DOTA_Tooltip_ability_antimage_spell_shield": "Spell Shield",
     "DOTA_Tooltip_ability_antimage_spell_shield_Description": "Anti-Mageの魔法ダメージ耐性を増加させる。",
     "DOTA_Tooltip_ability_antimage_spell_shield_aghanim_description": "%scepter_cooldown%秒に1回、Spell Shieldを自動で発動し、対象の呪文を反射させる。",
-    "DOTA_Tooltip_ability_antimage_spell_shield_Lore": "長年の瞑想と復讐への執着は、神秘的な相手に対してAnti-Mageの肌を硬化させた。"
+    "DOTA_Tooltip_ability_antimage_spell_shield_Lore": "長年の瞑想と復讐への執着は、神秘的な相手に対してAnti-Mageの肌を硬化させた。",
+    "DOTA_Tooltip_ability_antimage_spell_shield_Note0": "他の呪文耐性ソースと掛け算的にスタックする。",
+    "DOTA_Tooltip_ability_antimage_spell_shield_spell_shield_resistance": "%耐性:",
+    "DOTA_Tooltip_ability_antimage_counterspell": "Counterspell",
+    "DOTA_Tooltip_ability_antimage_counterspell_Description": "魔法耐性を得る。アクティベートすると自身を対象とするあらゆるスキルを無効化し、反射するアンチマジックシェルを得ることができる。",
+    "DOTA_Tooltip_ability_antimage_counterspell_Lore": "適切な焦点で、Anti-Mageは計算された報復に生得的な抵抗を回す。",
+    "DOTA_Tooltip_ability_antimage_counterspell_magic_resistance": "%魔法耐性:",
+    "DOTA_Tooltip_ability_antimage_counterspell_duration": "効果時間:",
+    "DOTA_Tooltip_ability_antimage_mana_void": "Mana Void"
 }
