@@ -148,5 +148,6 @@
     "DOTA_Tooltip_ability_queenofpain_shadow_strike_Note0": "影響を受けたユニットは、期間中、1秒ごとにゆっくりと元の移動速度へと回復します。",
     "DOTA_Tooltip_ability_queenofpain_shadow_strike_movement_slow": "%移動速度減少:",
     "DOTA_Tooltip_ability_queenofpain_shadow_strike_strike_damage": "初期ダメージ:",
-    "DOTA_Tooltip_ability_queenofpain_shadow_strike_Note1": "Shadow Strikeの効果を受けたユニットは、自分のHPが最大ヘルスの25%以下になった時、味方からのディナイが可能になる。"
+    "DOTA_Tooltip_ability_queenofpain_shadow_strike_Note1": "Shadow Strikeの効果を受けたユニットは、自分のHPが最大ヘルスの25%以下になった時、味方からのディナイが可能になる。",
+    "DOTA_Tooltip_ability_queenofpain_shadow_strike_duration_damage": "1回毎のダメージ:"
 }
