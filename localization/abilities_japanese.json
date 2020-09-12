@@ -13,5 +13,7 @@
     "dota_ability_variable_evasion": "回避",
     "dota_ability_variable_spell_resist": "魔法耐性",
     "dota_ability_variable_selected_attrib": "選択した属性",
-    "dota_ability_variable_attack_range": "攻撃射程<font color='#7d7d7d'>(Ranged Only)</font>"
+    "dota_ability_variable_attack_range": "攻撃射程<font color='#7d7d7d'>(Ranged Only)</font>",
+    "dota_ability_variable_cast_range": "キャスト範囲",
+    "dota_ability_variable_attack_range_melee": "攻撃射程<font color='#7d7d7d'>(Melee Only)</font>"
 }
