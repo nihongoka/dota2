@@ -11,5 +11,7 @@
     "dota_ability_variable_spell_amp": "スペルダメージ",
     "dota_ability_variable_move_speed": "移動速度",
     "dota_ability_variable_evasion": "回避",
-    "dota_ability_variable_spell_resist": "魔法耐性"
+    "dota_ability_variable_spell_resist": "魔法耐性",
+    "dota_ability_variable_selected_attrib": "選択した属性",
+    "dota_ability_variable_attack_range": "攻撃射程<font color='#7d7d7d'>(Ranged Only)</font>"
 }
