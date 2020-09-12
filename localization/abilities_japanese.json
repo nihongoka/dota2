@@ -128,5 +128,18 @@
     "DOTA_Tooltip_ability_antimage_counterspell_Lore": "適切な焦点で、Anti-Mageは計算された報復に生得的な抵抗を回す。",
     "DOTA_Tooltip_ability_antimage_counterspell_magic_resistance": "%魔法耐性:",
     "DOTA_Tooltip_ability_antimage_counterspell_duration": "効果時間:",
-    "DOTA_Tooltip_ability_antimage_mana_void": "Mana Void"
+    "DOTA_Tooltip_ability_antimage_mana_void": "Mana Void",
+    "DOTA_Tooltip_ability_antimage_mana_void_Description": "対象のユニットが失っているマナの一定割合分のダメージを、そのユニットと周囲の敵に与える。  また、対象をミニスタンさせる。",
+    "DOTA_Tooltip_ability_antimage_mana_void_Lore": "敵を屈服させた後、Anti-Mageは魔術を使ったことで罰を与える。",
+    "DOTA_Tooltip_ability_antimage_mana_void_Note0": "ダメージはプライマリターゲットのマナに基づいて計算されるが、効果範囲内の全ての敵に適用される。",
+    "DOTA_Tooltip_ability_antimage_mana_void_mana_void_damage_per_mana": "ダメージ:",
+    "DOTA_Tooltip_ability_antimage_mana_void_mana_void_ministun": "スタン時間:",
+    "DOTA_Tooltip_ability_antimage_mana_void_mana_void_aoe_radius": "半径:",
+    "DOTA_Tooltip_ability_antimage_mana_void_scepter_cooldown_increase": "セプタークールダウン増加:",
+    "DOTA_Tooltip_ability_antimage_mana_void_scepter_ministun": "セプタースタン時間:",
+    "DOTA_Tooltip_ability_antimage_mana_void_aghanim_description": "スタンの持続時間が増加します。Mana Voidでキルすると、敵の最高クールダウンアビリティのクールダウンに時間がかかるようになります。",
+    "DOTA_Tooltip_modifier_antimage_counterspell": "Counterspell Shield",
+    "DOTA_Tooltip_modifier_antimage_counterspell_Description": "自分をターゲットにした全ての呪文をブロックし、敵に反射させる。",
+    "DOTA_Tooltip_modifier_antimage_mana_void": "クールダウン増加",
+    "DOTA_Tooltip_modifier_antimage_mana_void_Description": "Mana Voidによりアビリティのクールダウンが増加している。"
 }
