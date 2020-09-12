@@ -110,5 +110,10 @@
     "DOTA_Tooltip_ability_antimage_mana_break_Description": "攻撃するたびに相手のマナを燃やす。\nMana Breakは燃やしたマナの%percent_damage_per_burn%%%を対象にダメージとして与える。Mana Breakはイリュージョンによって引き起こされた場合、%illusion_percentage%%%の効果を持つ。",
     "DOTA_Tooltip_ability_antimage_mana_break_Lore": "ターシュタルクリ僧侶の平和的な方法の修正技は、持ち主に魔法のエネルギーを向けることです。",
     "DOTA_Tooltip_courier_status": "Courier Status",
-    "DOTA_Tooltip_ability_antimage_mana_break_mana_per_hit": "ヒット毎のマナ燃焼:"
+    "DOTA_Tooltip_ability_antimage_mana_break_mana_per_hit": "ヒット毎のマナ燃焼:",
+    "DOTA_Tooltip_ability_antimage_mana_break_mana_per_hit_pct": "ヒット毎の%最大マナ燃焼:",
+    "DOTA_Tooltip_ability_antimage_blink": "Blink",
+    "DOTA_Tooltip_ability_antimage_blink_Lore": "死神との出会いの中で、アンチメイジは捉えどころのない存在であることの価値を学んだ。",
+    "DOTA_Tooltip_ability_antimage_blink_Note0": "Blinkを使用して、向かってきた投射物をかわすことができます。",
+    "DOTA_Tooltip_ability_antimage_blink_Description": "Anti-Mageが戦闘に出入りできる近距離テレポーテーション。"
 }
