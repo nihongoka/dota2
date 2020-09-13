@@ -2,10 +2,23 @@ name: Release localization data
 
 on: push
 
-jobs:
-  release:
+jobs: 
+  # Create a job with the id `restrict` which obtains the committer name
+  restrict:
     runs-on: ubuntu-latest
-#    if: github.actor == 'weblate'
+    # A job can expose output to another job
+    outputs:
+      # The value of `committer` is set (from env.GIT...) _after_ the job is done
+      committer: ${{ env.GIT_COMMIT_COMMITTER_NAME }}
+    steps:
+      - uses: actions/checkout@v2
+      # This is the action that sets the value of `env.GIT_COMMIT_COMMITTER_NAME`
+      - uses: rlespinasse/git-commit-data-action@v1
+      # https://github.community/t/how-do-i-trigger-a-commit-only-for-a-particular-user/131893/4
+  release:
+    needs: restrict
+    runs-on: ubuntu-latest
+    if: needs.restrict.outputs.committer == 'weblate'
     steps:
       - run: echo ${{ github.actor }}
       - name: Get current date
