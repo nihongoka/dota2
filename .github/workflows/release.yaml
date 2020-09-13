@@ -13,7 +13,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       # This is the action that sets the value of `env.GIT_COMMIT_COMMITTER_NAME`
-      - uses: rlespinasse/git-commit-data-action@v1
+      - uses: rlespinasse/git-commit-data-action@v1.x
       # https://github.community/t/how-do-i-trigger-a-commit-only-for-a-particular-user/131893/4
   release:
     needs: restrict
