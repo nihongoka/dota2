@@ -324,6 +324,6 @@
     "DOTA_Tooltip_ability_bloodseeker_thirst_Description": "Bloodseekerは傷ついた敵により強化され、敵ユニットを倒した時体力を回復する。また、敵ヒーローの体力が%min_bonus_pct%%%以下になると移動速度ボーナスを得る。更に、敵ヒーローの体力が%invis_threshold_pct%%%以下になるとそのヒーローが見えるようになり、透明を看破する。ボーナスはヒーロー毎にスタックする。また、Bloodseekerの最大移動速度を超えることができる。",
     "DOTA_Tooltip_ability_bloodseeker_rupture_aghanim_description": "Ruptureを2つまでチャージできるようにし、40秒毎に補給するようにする。",
     "DOTA_Tooltip_modifier_bloodseeker_thirst_vision": "Thirst",
-    "DOTA_Tooltip_ability_special_bonus_unique_bloodseeker": "-{s:value}秒 Blood Rite クールダウン",
+    "DOTA_Tooltip_ability_special_bonus_unique_bloodseeker": "-{s:value}秒 Blood Rite\nクールダウン",
     "DOTA_Tooltip_ability_special_bonus_unique_bloodseeker_4": "+{s:value} 最大 Thirst 移動速度"
 }
