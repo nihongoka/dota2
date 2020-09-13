@@ -38,5 +38,5 @@ jobs:
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
           asset_path: ./dota2jp.zip
-          asset_name: dota2jp.zip
+          asset_name: dota2jp-${{ steps.date.outputs.date }}.zip
           asset_content_type: application/zip
