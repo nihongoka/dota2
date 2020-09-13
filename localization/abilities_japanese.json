@@ -335,7 +335,7 @@
     "DOTA_Tooltip_ability_crystal_maiden_crystal_nova_nova_damage": "ダメージ:",
     "DOTA_Tooltip_ability_crystal_maiden_frostbite": "Frostbite",
     "DOTA_Tooltip_ability_crystal_maiden_frostbite_Description": "敵ユニットを氷漬けにし、移動と攻撃をできなくし、時間経過によるダメージを与える。レベル6以下のクリープには%creep_duration%秒間効果がある。",
-    "DOTA_Tooltip_ability_crystal_maiden_frostbite_Note0": "Frostbiteはルート扱いです。",
+    "DOTA_Tooltip_ability_crystal_maiden_frostbite_Note0": "Frostbiteはルート扱いだ。",
     "DOTA_Tooltip_ability_crystal_maiden_frostbite_total_damage": "ヒーロー合計ダメージ:",
     "DOTA_Tooltip_ability_crystal_maiden_frostbite_creep_total_damage": "クリープ合計ダメージ:",
     "DOTA_Tooltip_ability_crystal_maiden_frostbite_duration": "ヒーロー効果時間:",
@@ -366,11 +366,11 @@
     "DOTA_Tooltip_modifier_crystal_maiden_freezing_field": "Freezing Field",
     "DOTA_Tooltip_modifier_crystal_maiden_freezing_field_Description": "アーマーが%dMODIFIER_PROPERTY_PHYSICAL_ARMOR_BONUS%上昇している。",
     "DOTA_Tooltip_ability_special_bonus_unique_crystal_maiden_1": "+{s:value}秒 Frostbite 効果時間",
-    "DOTA_Tooltip_ability_special_bonus_unique_crystal_maiden_2": "+{s:value} Crystal Nova ダメージ",
+    "DOTA_Tooltip_ability_special_bonus_unique_crystal_maiden_2": "+{s:value} Crystal Nova\nダメージ",
     "DOTA_Tooltip_ability_special_bonus_unique_crystal_maiden_3": "+{s:value} Freezing Field ダメージ",
     "DOTA_Tooltip_ability_special_bonus_unique_crystal_maiden_4": "+{s:value}% Arcane Aura 魔法耐性",
     "DOTA_Tooltip_ability_special_bonus_unique_crystal_maiden_5": "-{s:value}s Crystal Nova\nクールダウン",
     "DOTA_Tooltip_ability_crystal_maiden_brilliance_aura_Description": "マップ上にいる全ての味方ユニットに追加のマナ自然回復を与える。Crystal Maiden自身にはボーナスがある。",
-    "DOTA_Tooltip_ability_crystal_maiden_freezing_field_Description": "チャネリング - Crystal Maidenの周囲の大量のランダムな氷の爆発を起こし、敵にスローと大ダメージを与える。チャネリング中はボーナスアーマーを得る。%abilitychanneltime%秒続く。",
+    "DOTA_Tooltip_ability_crystal_maiden_freezing_field_Description": "チャネリング - Crystal Maidenの周囲に大量のランダムな氷の爆発を起こし、敵にスローと大ダメージを与える。チャネリング中はボーナスアーマーを得る。%abilitychanneltime%秒続く。",
     "DOTA_Tooltip_modifier_crystal_maiden_crystal_nova_Description": "移動速度が%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%、攻撃速度が%dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%減少している。"
 }
