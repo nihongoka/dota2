@@ -20,7 +20,6 @@ jobs:
     runs-on: ubuntu-latest
     if: needs.restrict.outputs.committer == 'weblate'
     steps:
-      - run: echo ${{ github.actor }}
       - name: Get current date
         id: date
         run: TZ=Asia/Tokyo echo "::set-output name=date::$(date +'%Y-%m-%d-%H-%M-%S')"
@@ -29,7 +28,7 @@ jobs:
 
       - name: Create Release
         id: create_release
-        uses: actions/create-release@latest
+        uses: actions/create-release@v1
         env:
           GITHUB_TOKEN: ${{ secrets.BOT_GITHUB_TOKEN }}
         with:
