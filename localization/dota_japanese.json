@@ -6,5 +6,8 @@
     "DOTA_ExecuteAbility1": "アビリティ2",
     "DOTA_ExecuteAbility2": "アビリティ3",
     "DOTA_ExecuteAbility3": "アビリティ4",
-    "DOTA_ExecuteAbility4": "アビリティ5"
+    "DOTA_ExecuteAbility4": "アビリティ5",
+    "npc_dota_hero_queenofpain": "Queen of Pain",
+    "npc_dota_hero_antimage": "Anti-Mage",
+    "npc_dota_hero_none": "--"
 }
