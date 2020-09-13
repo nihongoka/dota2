@@ -210,7 +210,7 @@
     "DOTA_Tooltip_ability_special_bonus_unique_antimage_5": "Blinkによる操作不能な\nイリュージョン",
     "DOTA_Tooltip_ability_special_bonus_unique_antimage": "-{s:value}秒 Blink クールダウン",
     "DOTA_Tooltip_ability_special_bonus_unique_antimage_4": "+{s:value}% Counterspell\n魔法耐性",
-    "DOTA_Tooltip_ability_special_bonus_unique_antimage_5_Description": "Blinkした時、Anti-Mageが元いた場所に操作不能なイリュージョンを召喚する。  {s:outgoing_damage}%少ないダメージを与え、{s:incoming_damage}%分のダメージを受け、{s:illusion_duration}秒間持続する。",
+    "DOTA_Tooltip_ability_special_bonus_unique_antimage_5_Description": "Blinkした時、Anti-Mageが元いた場所に操作不能なイリュージョンを出現させる。  {s:outgoing_damage}%少ないダメージを与え、{s:incoming_damage}%分のダメージを受け、{s:illusion_duration}秒間持続する。",
     "DOTA_Tooltip_ability_special_bonus_unique_queen_of_pain": "Shadow Strike {s:value} 範囲化",
     "DOTA_Tooltip_ability_special_bonus_unique_queen_of_pain_2": "Scream of Pain {s:value}秒恐怖",
     "DOTA_Tooltip_ability_special_bonus_unique_queen_of_pain_2_Description": "Scream Of Painのダメージを受けた敵は恐怖して、{s:value}秒の間自分の泉に向かって逃げ出す。"
