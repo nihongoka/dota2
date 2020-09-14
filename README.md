@@ -2,13 +2,13 @@
 
 ## ダウンロード方法
 
-[この](https://github.com/nihongoka/dota2)ページの右にあるReleaseを押して出てきたページから`dota2jp-2020-09-14-19.zip
-`(数字は日付)をダウンロードしてください
+[この](https://github.com/nihongoka/dota2)ページの右にあるReleaseを押して出てきたページから`dota2jp-2020-09-14-19.zip`(数字は日付)をダウンロードしてください
 
 ## インストール方法
 
 ダウンロードした`zip`ファイルを`dota 2 beta`フォルダの中に展開してください
 
+![](https://github.com/nihongoka/dota2/blob/master/screenshots/readme-ss.png?raw=true)
 
 `game`フォルダの中にこのように`dota_japanese`フォルダがあれば正しい位置に展開できてます
 
