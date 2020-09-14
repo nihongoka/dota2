@@ -498,7 +498,7 @@
     "DOTA_Tooltip_ability_special_bonus_unique_juggernaut": "+{s:value}秒 Blade Fury",
     "DOTA_Tooltip_ability_special_bonus_unique_juggernaut_3": "+{s:value} Blade Fury DPS",
     "DOTA_Tooltip_ability_mirana_arrow": "Sacred Arrow",
-    "DOTA_Tooltip_ability_mirana_arrow_Description": "圧倒的な精密さで射程の長い矢を発射し、最初に命中した敵ユニットにスタントダメージを与える。矢が飛翔した距離に応じて、スタン時間は%arrow_min_stun%秒から%arrow_max_stun%秒となり、最高%arrow_bonus_damage%のボーナスダメージが追加される。Ancientではないクリープに当たった場合即死させる。",
+    "DOTA_Tooltip_ability_mirana_arrow_Description": "圧倒的な精密さで射程の長い矢を発射し、最初に命中した敵ユニットにスタンとダメージを与える。矢が飛翔した距離に応じて、スタン時間は%arrow_min_stun%秒から%arrow_max_stun%秒となり、最高%arrow_bonus_damage%のボーナスダメージが追加される。Ancientではないクリープに当たった場合即死させる。",
     "DOTA_Tooltip_ability_mirana_arrow_Note0": "距離150を飛翔するたび、スタン時間は0.5秒追加され、ボーナスダメージは14追加される。",
     "DOTA_Tooltip_ability_mirana_arrow_Note1": "Sacred Arrowは透明の敵にも当たる。",
     "DOTA_Tooltip_ability_mirana_arrow_arrow_range": "距離:",
@@ -506,7 +506,7 @@
     "DOTA_Tooltip_ability_mirana_arrow_arrow_max_stun": "最長スタン:",
     "DOTA_Tooltip_ability_mirana_arrow_arrow_bonus_damage": "最大ボーナスダメージ:",
     "DOTA_Tooltip_ability_mirana_invis": "Moonlight Shadow",
-    "DOTA_Tooltip_ability_mirana_invis_Description": "Miranaとすべての味方ヒーローを透明にしボーナス移動速度を与える。もしヒーローが姿を表しても、Moonlight Shadowの効果時間が切れない限り、透明状態に戻る。",
+    "DOTA_Tooltip_ability_mirana_invis_Description": "Miranaとすべての味方ヒーローを透明にし、ボーナス移動速度を与える。もしヒーローが姿を表しても、Moonlight Shadowの効果時間が切れない限り、透明状態に戻る。",
     "DOTA_Tooltip_ability_mirana_invis_Note0": "効果を受けているユニットは敵をオートアタックしない。",
     "DOTA_Tooltip_ability_mirana_invis_Note1": "魔法耐性を持っていても効果はある。",
     "DOTA_Tooltip_ability_mirana_invis_fade_delay": "透明遅延:",
@@ -518,10 +518,10 @@
     "DOTA_Tooltip_ability_mirana_leap_leap_speedbonus": "%移動速度ボーナス:",
     "DOTA_Tooltip_ability_mirana_leap_leap_speedbonus_as": "攻撃速度ボーナス:",
     "DOTA_Tooltip_ability_mirana_starfall": "Starstorm",
-    "DOTA_Tooltip_ability_mirana_starfall_Description": "周囲の敵ユニットに隕石を落としてダメージを与える。範囲%starfall_secondary_radius%以内にいるMiranaに一番近い敵ユニットには%secondary_starfall_damage_percent%%%のダメージを与える追加の隕石が降ってくる。",
+    "DOTA_Tooltip_ability_mirana_starfall_Description": "周囲の敵ユニット全員に隕石を落としてダメージを与える。範囲%starfall_secondary_radius%以内にいるMiranaに一番近い敵ユニットには%secondary_starfall_damage_percent%%%のダメージを与える追加の隕石が降ってくる。",
     "DOTA_Tooltip_ability_mirana_starfall_Note0": "StarstormはLinken's Sphereによってブロックされない。",
     "DOTA_Tooltip_ability_mirana_starfall_Note1": "Starstormは透明のユニットに命中しない。",
-    "DOTA_Tooltip_ability_mirana_starfall_Note2": "Starstormの追加の攻撃が発生する時そのユニットが死んでいた場合、他のユニットに追加攻撃が発生する。",
+    "DOTA_Tooltip_ability_mirana_starfall_Note2": "Starstormの追加の攻撃が発生する時にそのユニットが死んでいた場合、他のユニットに追加攻撃が発生する。",
     "DOTA_Tooltip_ability_mirana_starfall_starfall_radius": "範囲:",
     "DOTA_Tooltip_ability_mirana_starfall_interval_scepter": "セプター間隔:",
     "DOTA_Tooltip_modifier_mirana_leap_charge_counter": "",
@@ -536,5 +536,6 @@
     "DOTA_Tooltip_ability_special_bonus_unique_mirana_2_Description": "追加の矢は元々の矢から30度右と左にずれて発射され、同じ対象に命中することはない。",
     "DOTA_Tooltip_ability_special_bonus_unique_mirana_3": "-{s:value}秒 Sacred Arrow\nクールダウン",
     "DOTA_Tooltip_ability_special_bonus_unique_mirana_4": "-{s:value}秒 Moonlight Shadow\nクールダウン",
-    "DOTA_Tooltip_ability_mirana_starfall_aghanim_description": "自動的に%interval_scepter%秒間隔でStarstormが追加発生する。敵がMiranaのことを見えていない場合は発生しない。"
+    "DOTA_Tooltip_ability_mirana_starfall_aghanim_description": "自動的に%interval_scepter%秒間隔でStarstormが追加発生する。敵がMiranaのことを見えていない場合は発生しない。",
+    "DOTA_Tooltip_ability_nevermore_shadowraze1": "Shadowraze"
 }
