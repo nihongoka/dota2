@@ -594,5 +594,7 @@
     "DOTA_Tooltip_ability_nevermore_dark_lord": "Presence of the Dark Lord",
     "DOTA_Tooltip_ability_nevermore_requiem_Description": "Shadow Fiendは捉えた魂を悪魔的なエネルギーにして開放する。開放された時周囲にいるユニットは複数のエネルギーのダメージを受けることがある。Requiem of Soulsのダメージを受けた全てのユニットは恐怖し、当たったエネルギーに応じて移動速度が%requiem_slow_duration%秒低下する。エネルギーは捉えている魂の数だけ放出される。<br><br>Requiem of SoulsはShadow Fiendの死亡時、クールダウン中でもクールダウンを発生させることなく自動的にキャストされる。",
     "DOTA_Tooltip_modifier_nevermore_presence_Description": "Shadow Fiendの存在によりアーマーが%dMODIFIER_PROPERTY_PHYSICAL_ARMOR_BONUS%低下している。",
-    "DOTA_Tooltip_modifier_nevermore_requiem_slow_Description": "恐怖状態。移動速度が%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%減少している。"
+    "DOTA_Tooltip_modifier_nevermore_requiem_slow_Description": "恐怖状態。移動速度が%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%減少している。",
+    "DOTA_Tooltip_ability_morphling_waveform": "Waveform",
+    "DOTA_Tooltip_ability_morphling_waveform_Description": "Morphlingは液状化し前方に高速移動し、進路上にいる敵ユニットにダメージを与える。<br>Waveform中Morphlingは無敵である。"
 }
