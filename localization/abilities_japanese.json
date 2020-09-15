@@ -647,5 +647,9 @@
     "DOTA_Tooltip_ability_morphling_replicate_Description": "Morphlingは対象の敵に変身し、対象の基本のアビリティを少ないマナコストで得る。アビリティの効果時間中は自由に入れ替わることができる。",
     "DOTA_Tooltip_ability_special_bonus_unique_morphling_1": "+{s:value} Waveform 距離",
     "DOTA_Tooltip_ability_special_bonus_unique_morphling_2": "-{s:value} Morph クールダウン",
-    "DOTA_Tooltip_ability_special_bonus_unique_morphling_3_Description": "Adaptive Strikeがキャストレンジ内にいる追加の敵ユニットにも当たるようになる。"
+    "DOTA_Tooltip_ability_special_bonus_unique_morphling_3_Description": "Adaptive Strikeがキャストレンジ内にいる追加の敵ユニットにも当たるようになる。",
+    "DOTA_Tooltip_modifier_arc_warden_tempest_double_Description": "Gem of True SightとDivine Rapierを除く呪文やアイテムを使用できるArc Wardenの完全なクローン。",
+    "DOTA_Tooltip_ability_item_rapier_Note0": "Divine Rapierを落として元の持ち主の敵に拾われた場合、死亡時以外は再びドロップすることができません。",
+    "DOTA_Tooltip_Ability_item_rapier": "でぃばいんれいぴあ",
+    "DOTA_Tooltip_ability_item_rapier_Description": "<h1>パッシブ:不朽<br><br> <font color='#e03e2e'>死ぬとドロップされ、破壊できない。</font><br><br>持ち主の味方に拾われると、持ち主に返されるまで使用できなくなる。持ち主の敵に拾われて殺された場合、誰でもすぐに使用可能になる。落としたRapierをクーリエに拾わせることはできない。\n\n <h1>パッシブ:トゥルーストライク</h1> 自分の攻撃はミスしない。"
 }
