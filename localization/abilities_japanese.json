@@ -509,11 +509,11 @@
     "DOTA_Tooltip_ability_mirana_invis_Description": "Miranaとすべての味方ヒーローを透明にし、ボーナス移動速度を与える。もしヒーローが姿を表しても、Moonlight Shadowの効果時間が切れない限り、透明状態に戻る。",
     "DOTA_Tooltip_ability_mirana_invis_Note0": "効果を受けているユニットは敵をオートアタックしない。",
     "DOTA_Tooltip_ability_mirana_invis_Note1": "スペル耐性を持っていても効果はある。",
-    "DOTA_Tooltip_ability_mirana_invis_fade_delay": "透明遅延:",
+    "DOTA_Tooltip_ability_mirana_invis_fade_delay": "透明化にかかる時間:",
     "DOTA_Tooltip_ability_mirana_invis_duration": "効果時間:",
     "DOTA_Tooltip_ability_mirana_invis_bonus_movement_speed": "%移動速度上昇:",
     "DOTA_Tooltip_ability_mirana_leap": "Leap",
-    "DOTA_Tooltip_ability_mirana_leap_Description": "Miranaは戦闘中に前方に跳躍し、攻撃と移動速度にボーナスを与える獰猛な咆哮で自身を強化する。ボーナスは%leap_bonus_duration%秒間続く。",
+    "DOTA_Tooltip_ability_mirana_leap_Description": "前方に跳躍し、ボーナス攻撃速度と移動速度を得る。をボーナスは%leap_bonus_duration%秒間続く。",
     "DOTA_Tooltip_ability_mirana_leap_leap_distance": "距離:",
     "DOTA_Tooltip_ability_mirana_leap_leap_speedbonus": "%移動速度ボーナス:",
     "DOTA_Tooltip_ability_mirana_leap_leap_speedbonus_as": "攻撃速度ボーナス:",
@@ -651,5 +651,10 @@
     "DOTA_Tooltip_modifier_arc_warden_tempest_double_Description": "Gem of True SightとDivine Rapierを除く呪文やアイテムを使用できるArc Wardenの完全なクローン。",
     "DOTA_Tooltip_ability_item_rapier_Note0": "Divine Rapierを落として元の持ち主の敵に拾われた場合、死亡時以外は再びドロップすることができません。",
     "DOTA_Tooltip_Ability_item_rapier": "でぃばいんれいぴあ",
-    "DOTA_Tooltip_ability_item_rapier_Description": "<h1>パッシブ:不朽<br><br> <font color='#e03e2e'>死ぬとドロップされ、破壊できない。</font><br><br>持ち主の味方に拾われると、持ち主に返されるまで使用できなくなる。持ち主の敵に拾われて殺された場合、誰でもすぐに使用可能になる。落としたRapierをクーリエに拾わせることはできない。\n\n <h1>パッシブ:トゥルーストライク</h1> 自分の攻撃はミスしない。"
+    "DOTA_Tooltip_ability_item_rapier_Description": "<h1>パッシブ:不朽<br><br> <font color='#e03e2e'>死ぬとドロップされ、破壊できない。</font><br><br>持ち主の味方に拾われると、持ち主に返されるまで使用できなくなる。持ち主の敵に拾われて殺された場合、誰でもすぐに使用可能になる。落としたRapierをクーリエに拾わせることはできない。\n\n <h1>パッシブ:トゥルーストライク</h1> 自分の攻撃はミスしない。",
+    "DOTA_Tooltip_modifier_mirana_leap_charge_counter_Description": "Leapできる残り回数。",
+    "DOTA_Tooltip_ability_life_stealer_rage_Description": "発狂状態になり、スペル耐性と移動速度増加を得る。",
+    "DOTA_Tooltip_ability_life_stealer_rage_Note0": "このスキルを使うと、多くのバフおよびデバフは取り除かれる。",
+    "DOTA_Tooltip_ability_life_stealer_rage_movement_speed_bonus": "%移動速度ボーナス:",
+    "DOTA_Tooltip_ability_life_stealer_rage_duration": "持続時間:"
 }
