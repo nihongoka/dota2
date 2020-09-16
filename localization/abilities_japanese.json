@@ -664,8 +664,8 @@
     "DOTA_Tooltip_ability_jakiro_ice_path_damage": "ダメージ:",
     "DOTA_Tooltip_ability_jakiro_ice_path_duration": "持続時間:",
     "DOTA_Tooltip_ability_jakiro_dual_breath_Description": "Jakiroの前に氷の爆風と炎の波を引き起こす。氷は敵の動きを鈍らせ、炎は時間ごとにダメージを与える。",
-    "DOTA_Tooltip_ability_jakiro_dual_breath_Note0": "レンジ1025までのユニットに当たっている。",
-    "DOTA_Tooltip_ability_jakiro_dual_breath_Note1": "各ブレス攻撃の間には %fire_delay% 秒の間隔があります。",
+    "DOTA_Tooltip_ability_jakiro_dual_breath_Note0": "レンジ1025までのユニットに当たる。",
+    "DOTA_Tooltip_ability_jakiro_dual_breath_Note1": "各ブレス攻撃の間には %fire_delay% 秒の間隔がある。",
     "DOTA_Tooltip_ability_jakiro_dual_breath_burn_damage": "燃焼ダメージ:",
     "DOTA_Tooltip_ability_life_stealer_feast_Description": "Lifestealerの攻撃は、ターゲットの最大体力の割合に応じて自身を回復する。また、攻撃速度が増加する。",
     "DOTA_Tooltip_ability_life_stealer_feast_Note0": "Roshanには効果がない。",
@@ -862,5 +862,9 @@
     "DOTA_Tooltip_ability_witch_doctor_death_ward_attack_range_tooltip": "攻撃範囲:",
     "DOTA_Tooltip_ability_witch_doctor_death_ward_aghanim_description": "Death Wardの攻撃はトゥルーストライクを持ち、近くの敵に跳弾する。",
     "DOTA_Tooltip_modifier_voodoo_restoration_heal": "Voodoo Restoration",
-    "DOTA_Tooltip_ability_skeleton_king_reincarnation_Note4": "復活時のスローは実際に死亡した時に発動し、幽霊状態の終わりには発動しない。"
+    "DOTA_Tooltip_ability_skeleton_king_reincarnation_Note4": "復活時のスローは実際に死亡した時に発動し、幽霊状態の終わりには発動しない。",
+    "DOTA_Tooltip_ability_lich_frost_nova_Description": "ターゲットの敵ユニットにダメージを与える霜を吹き付け、範囲ダメージを与える。移動速度と攻撃速度を%abilityduration%秒の間低下させる。 選択したターゲットは基本ダメージと範囲ダメージの両方を受ける。",
+    "DOTA_Tooltip_ability_lich_frost_nova_aoe_damage": "範囲ダメージ:",
+    "DOTA_Tooltip_ability_lich_frost_nova_radius": "距離:",
+    "DOTA_Tooltip_ability_lich_frost_nova_slow_movement_speed": "%移動速度減少:"
 }
