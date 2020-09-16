@@ -931,5 +931,14 @@
     "DOTA_Tooltip_ability_leshrac_pulse_nova_mana_cost_per_second": "マナ/秒:",
     "DOTA_Tooltip_ability_leshrac_pulse_nova_damage": "ダメージ:",
     "DOTA_Tooltip_modifier_leshrac_lightning_storm_slow": "Lightning Stormによる移動速度減少",
-    "DOTA_Tooltip_modifier_leshrac_pulse_nova": "Pulse Nova"
+    "DOTA_Tooltip_modifier_leshrac_pulse_nova": "Pulse Nova",
+    "DOTA_Tooltip_ability_pudge_meat_hook_Description": "右手のフックを前方の指定した地点に投げる。フックは当たった最初のユニットを引っ掛け、敵の場合はダメージを与え、Pudge のもとに引き寄せる。",
+    "DOTA_Tooltip_ability_pudge_meat_hook_Note0": "最初に当たったユニットが敵だった場合、魔法の詠唱を中断させる。",
+    "DOTA_Tooltip_ability_pudge_meat_hook_Note1": "Meat Hookは透明な敵にも当たる。",
+    "DOTA_Tooltip_ability_pudge_meat_hook_Note2": "Meat Hookは木、高低差、建造物、ancientクリープ、Roshanを無視する。",
+    "DOTA_Tooltip_ability_pudge_meat_hook_Note3": "Meat Hookは味方ユニットも引っ張ることができるが、ダメージは与えない。",
+    "DOTA_Tooltip_ability_pudge_meat_hook_Note4": "Meat Hookはルーンも引っ張ることができ、その場合はマナコストが返還される。",
+    "DOTA_Tooltip_ability_pudge_rot_Description": "立ち込める毒で強烈なダメージを与え移動速度を低下させるが、敵ユニットだけでなくPudge自身もダメージを受ける。",
+    "DOTA_Tooltip_ability_pudge_rot_Note0": "Rotを使用してもPudgeの詠唱は中断しない。",
+    "DOTA_Tooltip_ability_pudge_rot_Note1": "Rotは透明な敵にも当たる。"
 }
