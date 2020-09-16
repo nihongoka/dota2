@@ -730,5 +730,11 @@
     "DOTA_Tooltip_ability_skeleton_king_hellfire_blast_Description": "Wraith Kingは敵ユニットを幽火で焼き焦がし、ダメージとスタンを与え、その後徐々に進行するダメージ（DoT）とスローを与える。",
     "DOTA_Tooltip_ability_skeleton_king_vampiric_aura_Description": "近くの味方ヒーローは、敵ユニットを攻撃した時に与えたダメージを基に体力を回復する。味方遠距離ヒーローは%vampiric_aura_ranged_pct%%% 回復する。味方クリープには適用されない。",
     "DOTA_Tooltip_ability_jakiro_dual_breath_slow_movement_speed_pct": "%移動速度減少:",
-    "DOTA_Tooltip_ability_furion_force_of_nature_treant_dmg_tooltip": "木の精のダメージ:"
+    "DOTA_Tooltip_ability_furion_force_of_nature_treant_dmg_tooltip": "木の精のダメージ:",
+    "DOTA_Tooltip_ability_furion_wrath_of_nature_Note0": "視界外にいる敵には当たらない。",
+    "DOTA_Tooltip_ability_furion_wrath_of_nature_Description": "マップ全体を飛び跳ねるエネルギーの玉で攻撃する。エネルギーの玉はキャスト地点の視界内の近くにいる敵から順番にぶつかっていく。最初の敵に当たってから、敵にぶつかるごとにダメージを増す。このスペルによって敵を倒すことで、ボーナスダメージを %kill_damage_duration% 秒間得る。",
+    "DOTA_Tooltip_ability_furion_wrath_of_nature_Note1": "ミニマップで地点を指定してキャストすることができ、指定された地点に一番近い敵が最初のターゲットとして選ばれる。",
+    "DOTA_Tooltip_ability_furion_wrath_of_nature_max_targets": "最大ターゲット数:",
+    "DOTA_Tooltip_ability_furion_wrath_of_nature_damage": "ダメージ:",
+    "DOTA_Tooltip_ability_furion_wrath_of_nature_damage_percent_add": "%跳ねるごとのダメージ増加:"
 }
