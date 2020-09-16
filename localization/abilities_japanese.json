@@ -802,5 +802,6 @@
     "DOTA_Tooltip_ability_witch_doctor_maledict": "Maledict",
     "DOTA_Tooltip_ability_witch_doctor_maledict_Description": "小さな範囲内の敵全てに呪いをかけ、毎秒特定のダメージを与える。呪いがかかって以降失った体力に応じて4秒間、毎秒ダメージが増幅する。",
     "DOTA_Tooltip_ability_witch_doctor_maledict_Note0": "影響を受けたヒーローの体力がMaledictがキャストされた時以上の値に回復している場合、増幅ダメージは0になる。",
-    "DOTA_Tooltip_ability_witch_doctor_maledict_abilityduration": "効果時間:"
+    "DOTA_Tooltip_ability_witch_doctor_maledict_abilityduration": "効果時間:",
+    "DOTA_Tooltip_ability_skeleton_king_reincarnation_Note3": "幽霊になった味方を殺した時のゴールドは、そもそものキルを取ったプレイヤーに与えられる。"
 }
