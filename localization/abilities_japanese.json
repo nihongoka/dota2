@@ -311,7 +311,7 @@
     "DOTA_Tooltip_modifier_bloodseeker_bloodrage_Description": "持続ダメージを受ける代わりに攻撃速度とスペルダメージが上昇している。",
     "DOTA_Tooltip_modifier_bloodseeker_thirst_vision_Description": "Bloodseekerはあなたの怪我を感知し、現在位置を正確に割り出している。",
     "DOTA_Tooltip_modifier_bloodseeker_rupture": "Rupture",
-    "DOTA_Tooltip_modifier_bloodseeker_rupture_Description": "移動すると距離に応じてダメージを受けます",
+    "DOTA_Tooltip_modifier_bloodseeker_rupture_Description": "移動すると距離に応じてダメージを受ける。",
     "DOTA_Tooltip_modifier_bloodseeker_rupture_charge_counter": "",
     "DOTA_Tooltip_ability_special_bonus_unique_bloodseeker_2": "+{s:value} Blood Rite ダメージ",
     "DOTA_Tooltip_ability_special_bonus_unique_bloodseeker_3": "+{s:value} Rupture キャスト範囲",
@@ -1475,5 +1475,9 @@
     "DOTA_Tooltip_ability_furion_sprout": "Sprout",
     "DOTA_Tooltip_ability_furion_force_of_nature": "Nature's Call",
     "DOTA_Tooltip_ability_antimage_spell_shield_aghanim_description": "%scepter_cooldown%秒に1回、Spell Shieldが対象の呪文をブロックし、反射するようにする。",
-    "DOTA_Tooltip_ability_furion_force_of_nature_treant_health_tooltip": "Treantの体力:"
+    "DOTA_Tooltip_ability_furion_force_of_nature_treant_health_tooltip": "Treantの体力:",
+    "DOTA_Tooltip_modifier_bloodseeker_blood_bath": "Blood Bath",
+    "DOTA_Tooltip_modifier_bloodseeker_blood_bath_Description": "対象をキルしたときHPを回復",
+    "DOTA_Tooltip_ability_bloodseeker_thirst_half_bonus_aoe": "回復範囲",
+    "DOTA_Tooltip_ability_bloodseeker_bloodrage_Note0": "Bloodrageは味方ユニットまたは敵ユニットにキャストすることができる。"
 }
