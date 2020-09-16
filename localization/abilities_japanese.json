@@ -729,5 +729,6 @@
     "DOTA_Tooltip_ability_furion_force_of_nature_Description": "指定範囲内の木を、Nature's Prophetの支配下におかれた木の精に変身させる。",
     "DOTA_Tooltip_ability_skeleton_king_hellfire_blast_Description": "Wraith Kingは敵ユニットを幽火で焼き焦がし、ダメージとスタンを与え、その後徐々に進行するダメージ（DoT）とスローを与える。",
     "DOTA_Tooltip_ability_skeleton_king_vampiric_aura_Description": "近くの味方ヒーローは、敵ユニットを攻撃した時に与えたダメージを基に体力を回復する。味方遠距離ヒーローは%vampiric_aura_ranged_pct%%% 回復する。味方クリープには適用されない。",
-    "DOTA_Tooltip_ability_jakiro_dual_breath_slow_movement_speed_pct": "%移動速度減少:"
+    "DOTA_Tooltip_ability_jakiro_dual_breath_slow_movement_speed_pct": "%移動速度減少:",
+    "DOTA_Tooltip_ability_furion_force_of_nature_treant_dmg_tooltip": "木の精のダメージ:"
 }
