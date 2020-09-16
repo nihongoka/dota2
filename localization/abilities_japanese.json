@@ -724,7 +724,7 @@
     "DOTA_Tooltip_ability_furion_teleportation_Note0": "マナ消費とクールタイムの発生はキャストが完了した時に行われる。つまり、キャスト中に妨害された場合はマナ消費もクールタイムも発生しない。",
     "DOTA_Tooltip_ability_furion_force_of_nature_Description": "指定範囲内の木を、Nature's Prophetの支配下におかれた木の精に変身させる。",
     "DOTA_Tooltip_ability_skeleton_king_hellfire_blast_Description": "Wraith Kingは敵ユニットを幽火で焼き焦がし、ダメージとスタンを与え、その後徐々に進行するダメージ（DoT）とスローを与える。",
-    "DOTA_Tooltip_ability_skeleton_king_vampiric_aura_Description": "近くの味方ヒーローは、敵ユニットを攻撃した時に与えたダメージを基に体力を回復する。味方遠距離ヒーローは%vampiric_aura_ranged_pct%%% 回復する。味方クリープには適用されない。",
+    "DOTA_Tooltip_ability_skeleton_king_vampiric_aura_Description": "近くの味方ヒーローは、敵ユニットを攻撃した時に与えたダメージを基に体力を回復する。味方遠距離ヒーローは近接ヒーローに比べ%vampiric_aura_ranged_pct%%% しか回復しない。味方クリープには適用されない。",
     "DOTA_Tooltip_ability_jakiro_dual_breath_slow_movement_speed_pct": "%移動速度減少:",
     "DOTA_Tooltip_ability_furion_force_of_nature_treant_dmg_tooltip": "木の精のダメージ:",
     "DOTA_Tooltip_ability_furion_wrath_of_nature_Note0": "視界外にいる敵には当たらない。",
@@ -733,7 +733,7 @@
     "DOTA_Tooltip_ability_furion_wrath_of_nature_max_targets": "最大ターゲット数:",
     "DOTA_Tooltip_ability_furion_wrath_of_nature_damage": "ダメージ:",
     "DOTA_Tooltip_ability_furion_wrath_of_nature_damage_percent_add": "%跳ねるごとのダメージ増加:",
-    "DOTA_Tooltip_ability_skeleton_king_mortal_strike_Description": "Wraith Kingは攻撃にボーナスダメージを加える機会を得る。敵ユニットを2体倒すごとにスケルトンが1体チャージされる。スケルトンが殺されると1度だけ復活する。 ",
+    "DOTA_Tooltip_ability_skeleton_king_mortal_strike_Description": "Wraith Kingは攻撃にボーナスダメージを加える機会を得る。敵ユニットを2体倒すごとにスケルトンが1体チャージされる。スケルトンは殺されると1度だけ復活する。 ",
     "DOTA_Tooltip_ability_jakiro_dual_breath_abilityduration": "効果時間:",
     "DOTA_Tooltip_ability_jakiro_dual_breath_start_radius": "開始距離:",
     "DOTA_Tooltip_ability_jakiro_dual_breath_end_radius": "末端距離:",
@@ -754,5 +754,13 @@
     "DOTA_Tooltip_ability_windrunner_powershot_arrow_range": "範囲:",
     "DOTA_Tooltip_ability_windrunner_powershot_powershot_damage": "ダメージ:",
     "DOTA_Tooltip_ability_furion_wrath_of_nature_aghanim_description": "ダメージを増加させる。もしこのスキルの効果でユニットが倒された場合、もしくはこのスキルが当たってから %scepter_buffer% 秒以内に倒された場合、特別な木の精が生まれる。\n特別な木の精のHPとダメージはNature’s Callのスキルレベルによって変わる。もしヒーローがこのスキルで倒された場合、強大な木の精が作られる。強大な木の精はHP \n %treant_large_hp_bonus_tooltip%  で、 %treant_large_damage_bonus_tooltip% ダメージを持つ。",
-    "DOTA_Tooltip_ability_windrunner_powershot_Description": "一回の攻撃に %abilitychanneltime% 秒間チャージすることで強力な一撃を放つ。長くチャージすることでより大きなダメージを与えることができる。矢が通過した跡の敵全員にダメージを与える。矢が敵に当たることに、与えるダメージは %damage_reduction%%% ずつ減少する。"
+    "DOTA_Tooltip_ability_windrunner_powershot_Description": "一回の攻撃に %abilitychanneltime% 秒間チャージすることで強力な一撃を放つ。長くチャージすることでより大きなダメージを与えることができる。矢が通過した跡の敵全員にダメージを与える。矢が敵に当たることに、与えるダメージは %damage_reduction%%% ずつ減少する。",
+    "DOTA_Tooltip_ability_skeleton_king_reincarnation_Description": "Wraith Kingの肉体は死亡後再構築され、戦闘で倒されたときに復活することができる。死亡時は、半径％slow_radius％の敵ユニットの速度が低下する。",
+    "DOTA_Tooltip_ability_skeleton_king_mortal_strike_Note0": "召喚されたスケルトンは、Wraithfire Blastを打たれたユニットを自動的に攻撃する。",
+    "DOTA_Tooltip_ability_skeleton_king_mortal_strike_crit_chance": "%クリティカル確率:",
+    "DOTA_Tooltip_ability_skeleton_king_mortal_strike_crit_mult": "%クリティカルダメージ:",
+    "DOTA_Tooltip_ability_skeleton_king_reincarnation_aghanim_description": "味方ヒーローが近くで殺されると、彼らは幽霊と化し、%scepter_duration%秒行動できる。",
+    "DOTA_Tooltip_ability_skeleton_king_reincarnation_Note0": "十分なマナがなかった場合、Wraith Kingは生き返らない。",
+    "DOTA_Tooltip_ability_skeleton_king_reincarnation_Note2": "完全なHPとマナで復活する。",
+    "DOTA_Tooltip_ability_skeleton_king_reincarnation_Note1": "Wraith KingがAegisを所持しており、Reincarnationのクールダウンが完了しているとき、Reincarnationが初めに発動する。"
 }
