@@ -656,5 +656,19 @@
     "DOTA_Tooltip_ability_life_stealer_rage_Description": "発狂状態になり、スペル耐性と移動速度増加を得る。",
     "DOTA_Tooltip_ability_life_stealer_rage_Note0": "このスキルを使うと、多くのバフおよびデバフは取り除かれる。",
     "DOTA_Tooltip_ability_life_stealer_rage_movement_speed_bonus": "%移動速度ボーナス:",
-    "DOTA_Tooltip_ability_life_stealer_rage_duration": "持続時間:"
+    "DOTA_Tooltip_ability_life_stealer_rage_duration": "持続時間:",
+    "DOTA_Tooltip_ability_jakiro_dual_breath": "Dual Breath",
+    "DOTA_Tooltip_ability_jakiro_ice_path": "Ice Path",
+    "DOTA_Tooltip_ability_jakiro_macropyre": "Macropyre",
+    "DOTA_Tooltip_ability_jakiro_ice_path_Note0": "Ice Pathが完全に作られるまでに%path_delay% 秒かかる。",
+    "DOTA_Tooltip_ability_jakiro_liquid_fire": "Liquid Fire",
+    "DOTA_Tooltip_ability_jakiro_macropyre_Note0": "Macropyreの炎は木を倒す。",
+    "DOTA_Tooltip_ability_jakiro_macropyre_Note1": "Macropyreを受けたユニットは、そのエリアを離れた後%linger_duration%秒経過しても影響を受け続ける。",
+    "DOTA_Tooltip_ability_jakiro_ice_path_path_radius": "半径:",
+    "DOTA_Tooltip_ability_jakiro_ice_path_damage": "ダメージ:",
+    "DOTA_Tooltip_ability_jakiro_ice_path_duration": "持続時間:",
+    "DOTA_Tooltip_ability_jakiro_dual_breath_Description": "Jakiroの前に氷の爆風と炎の波を引き起こす。氷は敵の動きを鈍らせ、炎は時間ごとにダメージを与える。",
+    "DOTA_Tooltip_ability_jakiro_dual_breath_Note0": "レンジ1025までのユニットに当たっている。",
+    "DOTA_Tooltip_ability_jakiro_dual_breath_Note1": "各ブレス攻撃の間には %fire_delay% 秒の間隔があります。",
+    "DOTA_Tooltip_ability_jakiro_dual_breath_burn_damage": "燃焼ダメージ:"
 }
