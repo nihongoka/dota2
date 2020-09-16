@@ -775,5 +775,11 @@
     "DOTA_Tooltip_ability_jakiro_macropyre_damage": "ダメージ毎秒:",
     "DOTA_Tooltip_ability_jakiro_macropyre_abilitycastrange": "火炎到達距離:",
     "DOTA_Tooltip_ability_jakiro_macropyre_path_radius": "火炎の幅:",
-    "DOTA_Tooltip_ability_jakiro_macropyre_duration": "効果時間:"
+    "DOTA_Tooltip_ability_jakiro_macropyre_duration": "効果時間:",
+    "DOTA_Tooltip_modifier_clarity_potion_Description": "マナを回復する。",
+    "DOTA_Tooltip_modifier_clarity_potion": "Clarity",
+    "DOTA_Tooltip_ability_seasonal_ti9_shovel": "Trusty Shovel",
+    "DOTA_Tooltip_ability_high_five": "ハイタッチ",
+    "DOTA_Tooltip_ability_frostivus2018_summon_snowman": "雪だるま召喚",
+    "DOTA_Tooltip_Ability_item_clarity": "Clarity"
 }
