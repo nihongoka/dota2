@@ -846,5 +846,10 @@
     "DOTA_Tooltip_modifier_windrunner_focusfire": "Focus Fire",
     "DOTA_Tooltip_modifier_windrunner_focusfire_Description": "大幅に上昇した攻撃速度で攻撃し続けている。ダメージは%dMODIFIER_PROPERTY_DAMAGEOUTGOING_PERCENTAGE%%%する。",
     "DOTA_Tooltip_modifier_windrunner_windrun_charge_counter_Description": "セプターにより付与された効果",
-    "DOTA_Tooltip_ability_pangolier_swashbuckle": "Swashbuckle"
+    "DOTA_Tooltip_ability_pangolier_swashbuckle": "Swashbuckle",
+    "DOTA_Tooltip_ability_lion_voodoo_Note1": "ターゲットは基本移動速度%movespeed%を持つが、最大移動速度を付与するバフは無効化されない。",
+    "DOTA_Tooltip_ability_lion_voodoo_duration": "効果時間:",
+    "DOTA_Tooltip_ability_lion_mana_drain_Description": "チャネリング - 敵ユニットのマナを毎秒吸収する。",
+    "DOTA_Tooltip_ability_lion_mana_drain_Note0": "対象がイリュージョンだった場合、即座に破壊する。",
+    "DOTA_Tooltip_ability_lion_mana_drain_mana_per_second": "毎秒マナ吸収:"
 }
