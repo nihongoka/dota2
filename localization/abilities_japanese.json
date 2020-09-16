@@ -753,7 +753,7 @@
     "DOTA_Tooltip_ability_windrunner_powershot_Note0": "矢の通り道にある木は破壊される。",
     "DOTA_Tooltip_ability_windrunner_powershot_arrow_range": "範囲:",
     "DOTA_Tooltip_ability_windrunner_powershot_powershot_damage": "ダメージ:",
-    "DOTA_Tooltip_ability_furion_wrath_of_nature_aghanim_description": "ダメージを増加させる。もしこのスキルの効果でユニットが倒された場合、もしくはこのスキルが当たってから %scepter_buffer% 秒以内に倒された場合、特別な木の精が生まれる。\n特別な木の精のHPとダメージはNature’s Callのスキルレベルによって変わる。もしヒーローがこのスキルで倒された場合、強大な木の精が作られる。強大な木の精はHP \n %treant_large_hp_bonus_tooltip%  で、 %treant_large_damage_bonus_tooltip% ダメージを持つ。",
+    "DOTA_Tooltip_ability_furion_wrath_of_nature_aghanim_description": "ダメージを増加させる。もしこのスキルの効果でユニットが倒された場合、もしくはこのスキルが当たってから %scepter_buffer% 秒以内に倒された場合、特別な木の精が生まれる。特別な木の精のHPとダメージはNature’s Callのスキルレベルによって変わる。もしヒーローがこのスキルで倒された場合、強大な木の精が作られる。強大な木の精はHP %treant_large_hp_bonus_tooltip%  で、 %treant_large_damage_bonus_tooltip% ダメージを持つ。",
     "DOTA_Tooltip_ability_windrunner_powershot_Description": "一回の攻撃に %abilitychanneltime% 秒間チャージすることで強力な一撃を放つ。長くチャージすることでより大きなダメージを与えることができる。矢が通過した跡の敵全員にダメージを与える。矢が敵に当たることに、与えるダメージは %damage_reduction%%% ずつ減少する。",
     "DOTA_Tooltip_ability_skeleton_king_reincarnation_Description": "Wraith Kingの肉体は死亡後再構築され、戦闘で倒されたときに復活することができる。死亡時は、半径％slow_radius％の敵ユニットの速度が低下する。",
     "DOTA_Tooltip_ability_skeleton_king_mortal_strike_Note0": "召喚されたスケルトンは、Wraithfire Blastを打たれたユニットを自動的に攻撃する。",
