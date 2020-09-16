@@ -997,5 +997,8 @@
     "DOTA_Tooltip_ability_item_sheepstick_Note0": "対象のベース移動速度は%sheep_movement_speed%となるが、移動速度を最大にするバフは解除されない。",
     "DOTA_Tooltip_modifier_sheepstick_debuff": "ブタにされている",
     "DOTA_Tooltip_modifier_sheepstick_debuff_Description": "ブタにされている。攻撃することもスペルを使うこともできない。",
-    "DOTA_Tooltip_modifier_heavens_halberd_buff_Description": "%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%の移動速度低下と%dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%の攻撃速度低下を受けている"
+    "DOTA_Tooltip_modifier_heavens_halberd_buff_Description": "%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%の移動速度低下と%dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%の攻撃速度低下を受けている",
+    "DOTA_Tooltip_modifier_leshrac_pulse_nova_Description": "近くの敵ユニットにダメージを与える",
+    "DOTA_Tooltip_modifier_leshrac_diabolic_edict": "Diabolic Edict",
+    "DOTA_Tooltip_modifier_leshrac_diabolic_edict_Description": "近くの敵ユニットにダメージを与える"
 }
