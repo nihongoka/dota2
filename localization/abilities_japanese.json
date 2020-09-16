@@ -819,5 +819,15 @@
     "DOTA_Tooltip_ability_item_ward_observer_Description": "<h1>Use: Plant</h1>Observer Wardを指すと、Observer Wardは範囲%vision_range% の視界をあなたのチームにもたらす。 Observer Wardは%duration_minutes_tooltip% 秒間持続する。<br><br>Hold Control to give one Observer Ward to an allied hero.<br><br>Range: %abilitycastrange%",
     "DOTA_Tooltip_ability_item_ward_dispenser_observer_vision_range_tooltip": "視界範囲",
     "DOTA_Tooltip_ability_item_ward_dispenser_observer_duration_minutes_tooltip": "視界持続時間",
-    "DOTA_Tooltip_modifier_item_buff_ward": "Observer Ward"
+    "DOTA_Tooltip_modifier_item_buff_ward": "Observer Ward",
+    "DOTA_Tooltip_ability_windrunner_windrun_Note0": "Windrunを発動したときに飛んできた飛翔物体を回避するようになる。",
+    "DOTA_Tooltip_ability_windrunner_windrun_movespeed_bonus_pct": "%移動速度ボーナス:",
+    "DOTA_Tooltip_ability_windrunner_windrun_evasion_pct_tooltip": "%回避:",
+    "DOTA_Tooltip_ability_windrunner_windrun_enemy_movespeed_bonus_pct": "%敵の移動速度減少:",
+    "DOTA_Tooltip_ability_windrunner_windrun_radius": "敵の移動速度を減少させる範囲:",
+    "DOTA_Tooltip_ability_windrunner_windrun_duration": "持続時間:",
+    "DOTA_Tooltip_ability_windrunner_windrun_scepter_bonus_movement": "%セプター移動スピードボーナス:",
+    "DOTA_Tooltip_ability_windrunner_windrun_max_charges": "セプターによるチャージ回数:",
+    "DOTA_Tooltip_modifier_windrunner_shackle_shot": "Shackleshot",
+    "DOTA_Tooltip_modifier_windrunner_windrun": "Windrun"
 }
