@@ -789,5 +789,11 @@
     "DOTA_Tooltip_ability_jakiro_macropyre_damage_scepter": "セプター所持時のダメージ毎秒:",
     "DOTA_Tooltip_Ability_item_ward_observer": "Observer Ward",
     "DOTA_Tooltip_ability_item_clarity_Description": "\n\n<h1>Use: Replenish</h1> 対象に毎秒 %mana_regen% マナ回復のバフを  %buff_duration% 秒間与える。<br><br>対象ユニットが敵ヒーローまたはRoshanに攻撃された場合、効果は失われる。<br><br>Range: %abilitycastrange%",
-    "DOTA_Tooltip_Ability_item_ward_dispenser": "Observer and Sentry Wards"
+    "DOTA_Tooltip_Ability_item_ward_dispenser": "Observer and Sentry Wards",
+    "DOTA_Tooltip_ability_windrunner_shackleshot_stun_duration": "効果時間:",
+    "DOTA_Tooltip_ability_windrunner_windrun": "Windrun",
+    "DOTA_Tooltip_ability_windrunner_shackleshot_Note1": "距離 %shackle_distance% 以内の敵または木に縛り付けることができる。",
+    "DOTA_Tooltip_ability_windrunner_shackleshot_Note2": "Shackleshotはdisjointすることができる。",
+    "DOTA_Tooltip_ability_windrunner_windrun_Description": "移動速度を増加させ、すべての物理攻撃を避け、近くにいる敵の移動速度を減少させる。",
+    "DOTA_Tooltip_ability_windrunner_windrun_aghanim_description": "Windrunを %max_charges% 回までチャージできるようになり、移動速度を増加させ、移動速度のリミットを取り除く。"
 }
