@@ -1072,5 +1072,22 @@
     "DOTA_Tooltip_ability_witch_doctor_voodoo_restoration_radius": "範囲:",
     "DOTA_Tooltip_ability_witch_doctor_voodoo_restoration_heal": "回復:",
     "DOTA_Tooltip_ability_witch_doctor_voodoo_restoration_mana_per_second": "マナ/秒:",
-    "DOTA_Tooltip_ability_witch_doctor_voodoo_restoration_Note1": "スペル耐性を持つユニットも回復できる。"
+    "DOTA_Tooltip_ability_witch_doctor_voodoo_restoration_Note1": "スペル耐性を持つユニットも回復できる。",
+    "DOTA_Tooltip_ability_item_shivas_guard_Note1": "The Arctic Blastは使用者に着いて移動する。",
+    "DOTA_Tooltip_ability_item_shivas_guard_Note2": "複数のFreezing Auraは重複しない。",
+    "DOTA_Tooltip_modifier_item_shivas_guard_aura_Description": "攻撃速度が%dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%、自動回復が%dMODIFIER_PROPERTY_LIFESTEAL_AMPLIFY_PERCENTAGE%%%減少している。",
+    "DOTA_Tooltip_modifier_item_shivas_guard_blast_Description": "移動速度が%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%低下している。",
+    "DOTA_Tooltip_ability_item_skadi_Description": "<h1>Passive: Cold Attack</h1> 通常攻撃が敵の移動速度と攻撃速度を減少させ、回復、自動回復、ライフスティール、スペルライフスティールを%cold_duration% 秒間%heal_reduction%%%減少させる。rangedユニットの場合は %cold_slow_ranged%%%移動速度低下と%cold_slow_ranged%攻撃速度低下を受ける。meleeユニットの場合は%cold_slow_melee%%%移動速度低下と%cold_slow_melee% 攻撃速度低下を受ける 。 ",
+    "DOTA_Tooltip_modifier_item_skadi_slow_Description": "%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%の移動速度低下と %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%の攻撃速度低下を受けている。",
+    "DOTA_Tooltip_modifier_item_soul_ring_buff_Description": "HPを失った代わりにマナが増加している。増加した分のマナは効果時間終了後に失われる。",
+    "DOTA_Tooltip_ability_item_stout_shield_Description": "<h1>Passive: Damage Block</h1>%block_chance%%%の確率で、meleeヒーローには%damage_block_melee%、rangedヒーローには%damage_block_ranged% のダメージをブロックする効果を付与する。",
+    "DOTA_Tooltip_ability_item_stout_shield_Note0": "複数のダメージブロックは重複しない。",
+    "DOTA_Tooltip_ability_item_talisman_of_evasion_Note0": "他の回避効果とはわずかに重複する。",
+    "DOTA_Tooltip_ability_item_tpscroll_Description": "<h1>Use: Teleport</h1>%tooltip_channel_time% 秒の詠唱のあと、味方の建造物の近くへとテレポートする。 <br><br>ダブルクリックすると、味方ベースの泉へとテレポートする。",
+    "DOTA_Tooltip_ability_item_tpscroll_Note0": "もし複数のヒーローが一つの建造物へのテレポートに成功した場合、詠唱時間はそのテレポートに成功したヒーローごとに増加する。",
+    "DOTA_Tooltip_ability_item_tpscroll_Note1": "テレポートはrootによって妨げられる。",
+    "DOTA_Tooltip_ability_item_tpscroll_2_Description": "<h1>Use: Teleport</h1>After channeling for %tooltip_channel_time%秒の詠唱の後、味方の建造物、味方ユニットまたは味方ヒーローの場所にテレポートする。 <br><br>ダブルクリックで味方ベースの泉へとテレポートする。",
+    "DOTA_Tooltip_ability_item_tpscroll_2_Note0": "もし複数のヒーローが一つの建造物へのテレポートに成功した場合、詠唱時間はそのテレポートに成功したヒーローごとに増加する。",
+    "DOTA_Tooltip_ability_item_soul_ring_Description": "<h1>Active: Sacrifice</h1>  %health_sacrifice%体力を消費することで%mana_gain% のマナを得る。効果は %duration% 秒間継続する.<br><br>もしマナ増加がマナプールを超えてしまう場合、マナプールを使用するより先に消費されるマナを作り出す。",
+    "DOTA_Tooltip_ability_item_soul_ring_Note0": "効果時間内にマナが使われなかった場合、追加で得たマナは失われる。"
 }
