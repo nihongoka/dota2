@@ -670,5 +670,6 @@
     "DOTA_Tooltip_ability_jakiro_dual_breath_Description": "Jakiroの前に氷の爆風と炎の波を引き起こす。氷は敵の動きを鈍らせ、炎は時間ごとにダメージを与える。",
     "DOTA_Tooltip_ability_jakiro_dual_breath_Note0": "レンジ1025までのユニットに当たっている。",
     "DOTA_Tooltip_ability_jakiro_dual_breath_Note1": "各ブレス攻撃の間には %fire_delay% 秒の間隔があります。",
-    "DOTA_Tooltip_ability_jakiro_dual_breath_burn_damage": "燃焼ダメージ:"
+    "DOTA_Tooltip_ability_jakiro_dual_breath_burn_damage": "燃焼ダメージ:",
+    "DOTA_Tooltip_ability_life_stealer_feast_Description": "Lifestealerの攻撃が、ターゲットの最大HPに応じて回復する。攻撃速度を上昇させる。"
 }
