@@ -736,7 +736,7 @@
     "DOTA_Tooltip_ability_skeleton_king_mortal_strike_Description": "Wraith Kingは攻撃にボーナスダメージを加える機会を得る。敵ユニットを2体倒すごとにスケルトンが1体チャージされる。スケルトンは殺されると1度だけ復活する。 ",
     "DOTA_Tooltip_ability_jakiro_dual_breath_abilityduration": "効果時間:",
     "DOTA_Tooltip_ability_jakiro_dual_breath_start_radius": "開始距離:",
-    "DOTA_Tooltip_ability_jakiro_dual_breath_end_radius": "末端距離:",
+    "DOTA_Tooltip_ability_jakiro_dual_breath_end_radius": "終了距離:",
     "DOTA_Tooltip_ability_furion_wrath_of_nature_kill_damage": "倒した敵ごとに得られるボーナスダメージ:",
     "DOTA_Tooltip_ability_furion_wrath_of_nature_kill_damage_duration": "ボーナスダメージの持続時間:",
     "DOTA_Tooltip_ability_furion_wrath_of_nature_damage_scepter": "SCEPTER有のダメージ:",
@@ -762,5 +762,18 @@
     "DOTA_Tooltip_ability_skeleton_king_reincarnation_aghanim_description": "味方ヒーローが近くで殺されると、彼らは幽霊と化し、%scepter_duration%秒行動できる。",
     "DOTA_Tooltip_ability_skeleton_king_reincarnation_Note0": "十分なマナがなかった場合、Wraith Kingは生き返らない。",
     "DOTA_Tooltip_ability_skeleton_king_reincarnation_Note2": "完全なHPとマナで復活する。",
-    "DOTA_Tooltip_ability_skeleton_king_reincarnation_Note1": "Wraith KingがAegisを所持しており、Reincarnationのクールダウンが完了しているとき、Reincarnationが初めに発動する。"
+    "DOTA_Tooltip_ability_skeleton_king_reincarnation_Note1": "Wraith KingがAegisを所持しており、Reincarnationのクールダウンが完了しているとき、Reincarnationが初めに発動する。",
+    "DOTA_Tooltip_ability_jakiro_ice_path_Description": "当たった敵をスタンさせ、ダメージを与える氷の道を作る。",
+    "DOTA_Tooltip_ability_jakiro_ice_path_path_delay": "設置時間:",
+    "DOTA_Tooltip_ability_jakiro_liquid_fire_Description": "効果範囲内の敵を燃やし、その敵に攻撃速度減少を与える。",
+    "DOTA_Tooltip_ability_jakiro_liquid_fire_Note0": "敵ユニットも建造物も燃やすことが可能。",
+    "DOTA_Tooltip_ability_jakiro_liquid_fire_slow_attack_speed_pct": "攻撃速度減少:",
+    "DOTA_Tooltip_ability_jakiro_liquid_fire_damage": "燃焼ダメージ:",
+    "DOTA_Tooltip_ability_jakiro_liquid_fire_abilityduration": "効果時間:",
+    "DOTA_Tooltip_ability_jakiro_liquid_fire_radius": "範囲:",
+    "DOTA_Tooltip_ability_jakiro_macropyre_Description": "広範囲の持続する炎を吐き出し、その炎に巻き込まれた敵ユニットに毎秒ダメージを与える。",
+    "DOTA_Tooltip_ability_jakiro_macropyre_damage": "ダメージ毎秒:",
+    "DOTA_Tooltip_ability_jakiro_macropyre_abilitycastrange": "火炎到達距離:",
+    "DOTA_Tooltip_ability_jakiro_macropyre_path_radius": "火炎の幅:",
+    "DOTA_Tooltip_ability_jakiro_macropyre_duration": "効果時間:"
 }
