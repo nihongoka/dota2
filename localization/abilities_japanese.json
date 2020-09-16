@@ -851,5 +851,15 @@
     "DOTA_Tooltip_ability_lion_voodoo_duration": "効果時間:",
     "DOTA_Tooltip_ability_lion_mana_drain_Description": "チャネリング - 敵ユニットのマナを毎秒吸収する。",
     "DOTA_Tooltip_ability_lion_mana_drain_Note0": "対象がイリュージョンだった場合、即座に破壊する。",
-    "DOTA_Tooltip_ability_lion_mana_drain_mana_per_second": "毎秒マナ吸収:"
+    "DOTA_Tooltip_ability_lion_mana_drain_mana_per_second": "毎秒マナ吸収:",
+    "DOTA_Tooltip_ability_witch_doctor_maledict_bonus_damage": "%体力減少に対する増幅ダメージ:",
+    "DOTA_Tooltip_ability_witch_doctor_death_ward": "Death Ward",
+    "DOTA_Tooltip_ability_witch_doctor_death_ward_Description": "チャネリング - 死のワードを召喚し、攻撃範囲内にいる敵ヒーローに攻撃する。最大%abilitychanneltime%秒継続する。",
+    "DOTA_Tooltip_ability_witch_doctor_death_ward_Note0": "Death Wardは無敵で、Witch Doctorが中断した時か効果時間が終了した時のみ破壊される。",
+    "DOTA_Tooltip_ability_witch_doctor_death_ward_Note1": "Death Wardはコントロールでき、特定の対象に攻撃させることができる。",
+    "DOTA_Tooltip_ability_witch_doctor_death_ward_Note2": "Death Wardは0.22秒ごとに一度攻撃する。",
+    "DOTA_Tooltip_ability_witch_doctor_death_ward_damage": "ダメージ:",
+    "DOTA_Tooltip_ability_witch_doctor_death_ward_attack_range_tooltip": "攻撃範囲:",
+    "DOTA_Tooltip_ability_witch_doctor_death_ward_aghanim_description": "Death Wardの攻撃はトゥルーストライクを持ち、近くの敵に跳弾する。",
+    "DOTA_Tooltip_modifier_voodoo_restoration_heal": "Voodoo Restoration"
 }
