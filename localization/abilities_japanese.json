@@ -829,5 +829,7 @@
     "DOTA_Tooltip_ability_windrunner_windrun_scepter_bonus_movement": "%セプター移動スピードボーナス:",
     "DOTA_Tooltip_ability_windrunner_windrun_max_charges": "セプターによるチャージ回数:",
     "DOTA_Tooltip_modifier_windrunner_shackle_shot": "Shackleshot",
-    "DOTA_Tooltip_modifier_windrunner_windrun": "Windrun"
+    "DOTA_Tooltip_modifier_windrunner_windrun": "Windrun",
+    "DOTA_Tooltip_ability_lion_voodoo_Description": "敵ユニットを無害な獣に変身させ、通常攻撃とアイテム、スキルの使用を無効化する。",
+    "DOTA_Tooltip_ability_lion_voodoo_Note0": "対象がイリュージョンだった場合、即座に破壊する。"
 }
