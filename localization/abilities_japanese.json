@@ -803,5 +803,16 @@
     "DOTA_Tooltip_ability_witch_doctor_maledict_Description": "小さな範囲内の敵全てに呪いをかけ、毎秒特定のダメージを与える。呪いがかかって以降失った体力に応じて4秒間、毎秒ダメージが増幅する。",
     "DOTA_Tooltip_ability_witch_doctor_maledict_Note0": "影響を受けたヒーローの体力がMaledictがキャストされた時以上の値に回復している場合、増幅ダメージは0になる。",
     "DOTA_Tooltip_ability_witch_doctor_maledict_abilityduration": "効果時間:",
-    "DOTA_Tooltip_ability_skeleton_king_reincarnation_Note3": "幽霊になった味方を殺した時のゴールドは、そもそものキルを取ったプレイヤーに与えられる。"
+    "DOTA_Tooltip_ability_skeleton_king_reincarnation_Note3": "幽霊になった味方を殺した時のゴールドは、そもそものキルを取ったプレイヤーに与えられる。",
+    "DOTA_Tooltip_ability_jakiro_macropyre_aghanim_description": "火炎到達距離、効果時間、ダメージが増加する。",
+    "DOTA_Tooltip_modifier_jakiro_ice_path_stun": "Ice Path",
+    "DOTA_Tooltip_modifier_jakiro_ice_path_stun_Description": "JakiroのIce Pathにより凍え死ぬ",
+    "DOTA_Tooltip_modifier_jakiro_liquid_fire_burn": "Liquid Fire",
+    "DOTA_Tooltip_modifier_jakiro_liquid_fire_burn_Description": "JakiroのLiquid Fireによりダメージと攻撃速度減少を受ける",
+    "DOTA_Tooltip_modifier_jakiro_dual_breath_slow": "Dual Breath",
+    "DOTA_Tooltip_modifier_jakiro_dual_breath_slow_Description": "JakiroのDual Breathの影響を受ける。移動速度が%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%で遅くなり、攻撃速度が%dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%で遅くなる。",
+    "DOTA_Tooltip_modifier_jakiro_dual_breath_burn": "Dual Breath",
+    "DOTA_Tooltip_modifier_jakiro_dual_breath_burn_Description": "JakiroのDual Breathのダメージを受ける",
+    "DOTA_Tooltip_modifier_jakiro_macropyre_burn": "Macropyre",
+    "DOTA_Tooltip_modifier_jakiro_macropyre_burn_Description": "JakiroのMacropyreにより、毎秒ダメージを受けている。"
 }
