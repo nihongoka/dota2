@@ -649,7 +649,7 @@
     "DOTA_Tooltip_Ability_item_rapier": "でぃばいんれいぴあ",
     "DOTA_Tooltip_ability_item_rapier_Description": "<h1>パッシブ:不朽<br><br> <font color='#e03e2e'>死ぬとドロップされ、破壊できない。</font><br><br>持ち主の味方に拾われると、持ち主に返されるまで使用できなくなる。持ち主の敵に拾われて殺された場合、誰でもすぐに使用可能になる。落としたRapierをクーリエに拾わせることはできない。\n\n <h1>パッシブ:トゥルーストライク</h1> 自分の攻撃はミスしない。",
     "DOTA_Tooltip_modifier_mirana_leap_charge_counter_Description": "Leapできる残り回数。",
-    "DOTA_Tooltip_ability_life_stealer_rage_Description": "発狂状態になり、スペル耐性と移動速度増加を得る。",
+    "DOTA_Tooltip_ability_life_stealer_rage_Description": "発狂状態になり、スペル耐性と移動速度増加を得る。\n\nディスペルタイプ: 基本ディスペル",
     "DOTA_Tooltip_ability_life_stealer_rage_Note0": "このスキルを使うと、多くのバフおよびデバフは取り除かれる。",
     "DOTA_Tooltip_ability_life_stealer_rage_movement_speed_bonus": "%移動速度ボーナス:",
     "DOTA_Tooltip_ability_life_stealer_rage_duration": "持続時間:",
@@ -835,5 +835,16 @@
     "DOTA_Tooltip_ability_lich_frost_nova": "Frost Blast",
     "DOTA_Tooltip_ability_item_enchanted_mango_Description": "<h1>Use: Eat Mango</h1> 即座に%replenish_amount%マナ回復する。<br><br>Range: %abilitycastrange%",
     "DOTA_Tooltip_modifier_smoke_of_deceit": "Smoke of Deceit",
-    "DOTA_Tooltip_Ability_item_enchanted_mango": "Enchanted Mango"
+    "DOTA_Tooltip_Ability_item_enchanted_mango": "Enchanted Mango",
+    "DOTA_Tooltip_ability_life_stealer_rage": "Rage",
+    "DOTA_Tooltip_ability_life_stealer_feast": "Feast",
+    "DOTA_Tooltip_modifier_windrunner_shackle_shot_Description": "Windrangerの矢に括りつけられた太い縄によって縛られている。",
+    "DOTA_Tooltip_modifier_windrunner_windrun_Description": "%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%% の移動速度上昇と、物理攻撃回避を得る。",
+    "DOTA_Tooltip_modifier_windrunner_windrun_slow": "Windrun Slow",
+    "DOTA_Tooltip_modifier_windrunner_windrun_slow_Description": "Windrangerの周りの突風によって %dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%移動速度が減少している。",
+    "DOTA_Tooltip_modifier_windrunner_windrun_invis_Description": "姿は見えないが、自身の周りの突風は見える。",
+    "DOTA_Tooltip_modifier_windrunner_focusfire": "Focus Fire",
+    "DOTA_Tooltip_modifier_windrunner_focusfire_Description": "大幅に上昇した攻撃速度で攻撃し続けている。ダメージは%dMODIFIER_PROPERTY_DAMAGEOUTGOING_PERCENTAGE%%%する。",
+    "DOTA_Tooltip_modifier_windrunner_windrun_charge_counter_Description": "セプターにより付与された効果",
+    "DOTA_Tooltip_ability_pangolier_swashbuckle": "Swashbuckle"
 }
