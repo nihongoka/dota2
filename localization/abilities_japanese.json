@@ -671,7 +671,7 @@
     "DOTA_Tooltip_ability_jakiro_dual_breath_Note0": "レンジ1025までのユニットに当たっている。",
     "DOTA_Tooltip_ability_jakiro_dual_breath_Note1": "各ブレス攻撃の間には %fire_delay% 秒の間隔があります。",
     "DOTA_Tooltip_ability_jakiro_dual_breath_burn_damage": "燃焼ダメージ:",
-    "DOTA_Tooltip_ability_life_stealer_feast_Description": "Lifestealerの攻撃が、ターゲットの最大HPに応じて回復する。攻撃速度を上昇させる。",
+    "DOTA_Tooltip_ability_life_stealer_feast_Description": "Lifestealerの攻撃は、ターゲットの最大体力の割合に応じて自身を回復する。また、攻撃速度が増加する。",
     "DOTA_Tooltip_ability_life_stealer_feast_Note0": "Roshanには効果がない。",
     "DOTA_Tooltip_ability_life_stealer_feast_Note1": "スペル耐性を持つユニットにも効果がある。",
     "DOTA_Tooltip_ability_life_stealer_feast_Note2": "回復量はダメージ量によって変わる。",
@@ -679,10 +679,13 @@
     "DOTA_Tooltip_ability_life_stealer_feast_hp_leech_percent": "%最大LIFE STEAL量:",
     "DOTA_Tooltip_ability_life_stealer_feast_attack_speed_bonus": "攻撃速度:",
     "DOTA_Tooltip_ability_life_stealer_open_wounds_Note0": "OpenWoundsのスロー効果は8段階にわたる。:70% / 70% / 60% / 50% / 30% / 10% / 10% / 10%,つまりスロー効果は１秒ごとに弱まっていく。",
-    "DOTA_Tooltip_ability_life_stealer_open_wounds_Description": "敵を引き裂き、対象に移動速度低下を与える。味方はOpenWoundsの効果を受けているユニットを攻撃すると、ダメージ量の一定割合を回復する。この回復効果はすべての種類の攻撃(スペルによる攻撃)に機能する。効果時間終了後、対象は時間をかけて移動速度を元の値に回復する。",
+    "DOTA_Tooltip_ability_life_stealer_open_wounds_Description": "敵を引き裂き、対象に移動速度低下を与える。味方はOpenWoundsの効果を受けているユニットを攻撃すると、ダメージ量の一定割合を回復する。この回復効果はすべての種類の攻撃(スペルによる攻撃)に機能する。効果時間終了後、対象は時間をかけて移動速度が元の値へと回復する。",
     "DOTA_Tooltip_ability_life_stealer_open_wounds_Note1": "別の種類のLifestealの効果と重複する。",
     "DOTA_Tooltip_ability_life_stealer_open_wounds_duration": "持続時間:",
     "DOTA_Tooltip_ability_life_stealer_infest_Description": "対象のユニットに寄生することで、敵から感知されなくなり、宿主の内部にいる間は一定の割合ずつ体力を回復し続ける。\n宿主の体を破り、外に出た際には近くの敵にダメージを与える。\n宿主のユニットが敵クリープまたはニュートラルクリープだった場合、そのユニットのアビリティを使うことも、自由に動くこともできる。\nこのスキルは敵ヒーローには使うことができない。\n\nDISPEL TYPE:Basic Dispel",
     "DOTA_Tooltip_Ability_item_tango": "Tango",
-    "DOTA_Tooltip_Ability_item_tango_single": "Tango（共有）"
+    "DOTA_Tooltip_Ability_item_tango_single": "Tango（共有）",
+    "DOTA_Tooltip_ability_life_stealer_open_wounds_heal_percent": "%ライフスティール:",
+    "DOTA_Tooltip_ability_life_stealer_open_wounds_slow_tooltip": "%最大スロー:",
+    "DOTA_Tooltip_ability_life_stealer_open_wounds_abilitycastrange": "キャスト範囲:"
 }
