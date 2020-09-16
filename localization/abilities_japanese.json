@@ -1001,5 +1001,6 @@
     "DOTA_Tooltip_modifier_leshrac_pulse_nova_Description": "近くの敵ユニットにダメージを与える",
     "DOTA_Tooltip_modifier_leshrac_diabolic_edict": "Diabolic Edict",
     "DOTA_Tooltip_modifier_leshrac_diabolic_edict_Description": "近くの敵ユニットにダメージを与える",
-    "DOTA_Tooltip_ability_item_shivas_guard_Description": "<h1>Active: Arctic Blast</h1> 凍える息吹を放出し、%blast_damage%の魔法攻撃と%blast_debuff_duration%秒間%blast_movement_speed%%%の移動速度低下を敵に与える。<br><br>キャスト半径: %blast_radius%\n<h1>Passive: Freezing Aura</h1> 敵ユニットの攻撃速度を %aura_attack_speed%減少させ、回復、自動回復、ライフスティールを%hp_regen_degen_aura%%%減少させる。 <br><br>効果範囲: %aura_radius%"
+    "DOTA_Tooltip_ability_item_shivas_guard_Description": "<h1>Active: Arctic Blast</h1> 凍える息吹を放出し、%blast_damage%の魔法攻撃と%blast_debuff_duration%秒間%blast_movement_speed%%%の移動速度低下を敵に与える。<br><br>キャスト半径: %blast_radius%\n<h1>Passive: Freezing Aura</h1> 敵ユニットの攻撃速度を %aura_attack_speed%減少させ、回復、自動回復、ライフスティールを%hp_regen_degen_aura%%%減少させる。 <br><br>効果範囲: %aura_radius%",
+    "DOTA_Tooltip_ability_item_shivas_guard_Note0": "息吹は%blast_speed%のスピードで最大範囲である%blast_radius%まで広がる。"
 }
