@@ -814,5 +814,10 @@
     "DOTA_Tooltip_modifier_jakiro_dual_breath_burn": "Dual Breath",
     "DOTA_Tooltip_modifier_jakiro_dual_breath_burn_Description": "JakiroのDual Breathのダメージを受ける",
     "DOTA_Tooltip_modifier_jakiro_macropyre_burn": "Macropyre",
-    "DOTA_Tooltip_modifier_jakiro_macropyre_burn_Description": "JakiroのMacropyreにより、毎秒ダメージを受けている。"
+    "DOTA_Tooltip_modifier_jakiro_macropyre_burn_Description": "JakiroのMacropyreにより、毎秒ダメージを受けている。",
+    "DOTA_Tooltip_Ability_item_smoke_of_deceit": "Smoke of Deceit",
+    "DOTA_Tooltip_ability_item_ward_observer_Description": "<h1>Use: Plant</h1>Observer Wardを指すと、Observer Wardは範囲%vision_range% の視界をあなたのチームにもたらす。 Observer Wardは%duration_minutes_tooltip% 秒間持続する。<br><br>Hold Control to give one Observer Ward to an allied hero.<br><br>Range: %abilitycastrange%",
+    "DOTA_Tooltip_ability_item_ward_dispenser_observer_vision_range_tooltip": "視界範囲",
+    "DOTA_Tooltip_ability_item_ward_dispenser_observer_duration_minutes_tooltip": "視界持続時間",
+    "DOTA_Tooltip_modifier_item_buff_ward": "Observer Ward"
 }
