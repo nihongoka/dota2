@@ -681,5 +681,6 @@
     "DOTA_Tooltip_ability_life_stealer_open_wounds_Note0": "OpenWoundsのスロー効果は8段階にわたる。:70% / 70% / 60% / 50% / 30% / 10% / 10% / 10%,つまりスロー効果は１秒ごとに弱まっていく。",
     "DOTA_Tooltip_ability_life_stealer_open_wounds_Description": "敵を引き裂き、対象に移動速度低下を与える。味方はOpenWoundsの効果を受けているユニットを攻撃すると、ダメージ量の一定割合を回復する。この回復効果はすべての種類の攻撃(スペルによる攻撃)に機能する。効果時間終了後、対象は時間をかけて移動速度を元の値に回復する。",
     "DOTA_Tooltip_ability_life_stealer_open_wounds_Note1": "別の種類のLifestealの効果と重複する。",
-    "DOTA_Tooltip_ability_life_stealer_open_wounds_duration": "持続時間:"
+    "DOTA_Tooltip_ability_life_stealer_open_wounds_duration": "持続時間:",
+    "DOTA_Tooltip_ability_life_stealer_infest_Description": "対象のユニットに寄生することで、敵から感知されなくなり、宿主の内部にいる間は一定の割合ずつ体力を回復し続ける。\n宿主の体を破り、外に出た際には近くの敵にダメージを与える。\n宿主のユニットが敵クリープまたはニュートラルクリープだった場合、そのユニットのアビリティを使うことも、自由に動くこともできる。\nこのスキルは敵ヒーローには使うことができない。\n\nDISPEL TYPE:Basic Dispel"
 }
