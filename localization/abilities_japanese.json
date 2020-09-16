@@ -798,5 +798,9 @@
     "DOTA_Tooltip_ability_windrunner_windrun_aghanim_description": "Windrunを %max_charges% 回までチャージできるようになり、移動速度を増加させ、移動速度のリミットを取り除く。",
     "DOTA_Tooltip_ability_lion_impale_Description": "地面から直線的な道筋に沿って岩石のスパイクが炸裂する。敵ユニットは空中に飛ばされ、落下時にスタンしてダメージを受ける。",
     "DOTA_Tooltip_ability_lion_impale_Note0": "Spikeは秒速 %speed% 単位で移動します。",
-    "DOTA_Tooltip_ability_lion_impale_duration": "スタン効果時間:"
+    "DOTA_Tooltip_ability_lion_impale_duration": "スタン効果時間:",
+    "DOTA_Tooltip_ability_witch_doctor_maledict": "Maledict",
+    "DOTA_Tooltip_ability_witch_doctor_maledict_Description": "小さな範囲内の敵全てに呪いをかけ、毎秒特定のダメージを与える。呪いがかかって以降失った体力に応じて4秒間、毎秒ダメージが増幅する。",
+    "DOTA_Tooltip_ability_witch_doctor_maledict_Note0": "影響を受けたヒーローの体力がMaledictがキャストされた時以上の値に回復している場合、増幅ダメージは0になる。",
+    "DOTA_Tooltip_ability_witch_doctor_maledict_abilityduration": "効果時間:"
 }
