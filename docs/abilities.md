@@ -57,8 +57,7 @@
 
 (ゲーム内では`<br>`は使えるのにメニューでは使えない…)
 
-
-
+![](https://github.com/nihongoka/dota2/blob/master/screenshots/talent-prob-n.png?raw=true)![](https://github.com/nihongoka/dota2/blob/master/screenshots/talent-prob-p.png?raw=true)
 
 ## ラベル
 
