@@ -866,5 +866,21 @@
     "DOTA_Tooltip_ability_lich_frost_nova_Description": "ターゲットの敵ユニットにダメージを与える霜を吹き付け、範囲ダメージを与える。移動速度と攻撃速度を%abilityduration%秒の間低下させる。 選択したターゲットは基本ダメージと範囲ダメージの両方を受ける。",
     "DOTA_Tooltip_ability_lich_frost_nova_aoe_damage": "範囲ダメージ:",
     "DOTA_Tooltip_ability_lich_frost_nova_radius": "距離:",
-    "DOTA_Tooltip_ability_lich_frost_nova_slow_movement_speed": "%移動速度減少:"
+    "DOTA_Tooltip_ability_lich_frost_nova_slow_movement_speed": "%移動速度減少:",
+    "DOTA_Tooltip_Ability_item_faerie_fire": "Faerie Fire",
+    "DOTA_Tooltip_Ability_item_tome_of_knowledge": "Tome of Knowledge",
+    "DOTA_Tooltip_Ability_item_ward_sentry": "Sentry Ward",
+    "DOTA_Tooltip_ability_item_faerie_fire_Description": "<h1>Use: Imbue</h1> 即座に体力%hp_restore%を回復する。",
+    "DOTA_Tooltip_ability_item_faerie_fire_bonus_damage": "+$damage",
+    "DOTA_Tooltip_modifier_item_tome_of_knowledge_consumed": "Tome of Knowledge",
+    "DOTA_Tooltip_ability_item_enchanted_mango_Note0": "コントロールキーを押しながら使うことで近くの味方ヒーローに使用できる。",
+    "DOTA_Tooltip_ability_item_enchanted_mango_hp_regen": "+$hp_regen",
+    "DOTA_Tooltip_ability_item_ward_dispenser_true_sight_range": "トゥルーサイト範囲:",
+    "DOTA_Tooltip_ability_item_ward_dispenser_sentry_duration_minutes_tooltip": "持続時間:",
+    "DOTA_Tooltip_ability_item_greater_faerie_fire_bonus_damage": "+$damage",
+    "DOTA_Tooltip_modifier_item_ward_true_sight": "Sentry Ward",
+    "DOTA_Tooltip_ability_item_mango_tree_Description": "<h1>Use: Plant a Mango Tree</h1> 地面を対象に無限にEnchanted Mangoを供給するMango Treeを生やす。この木は Enchanted Mangoesを %seconds%秒毎に生産し、更に上空視界をもたらす。<br><br>Range: %abilitycastrange%",
+    "DOTA_Tooltip_Ability_item_greater_faerie_fire": "Greater Faerie Fire",
+    "DOTA_Tooltip_ability_item_greater_faerie_fire_Description": "<h1>Use: Imbue</h1> 即座に体力%hp_restore%を回復する。",
+    "DOTA_Tooltip_ability_item_ward_sentry_Description": "<h1>Use: Plant</h1> 透明のSentry Wardを植え、トゥルーサイトを提供する。トゥルーサイトは範囲%true_sight_range%以内に存在する敵の透明ユニットやWardを看破する。<br>Lasts %duration_minutes_tooltip% minutes.<br><br>Does not grant ground vision.<br>Hold Control to give one Sentry Ward to an allied hero.<br><br>Range: %abilitycastrange%"
 }
