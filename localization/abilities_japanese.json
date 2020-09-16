@@ -737,5 +737,8 @@
     "DOTA_Tooltip_ability_furion_wrath_of_nature_max_targets": "最大ターゲット数:",
     "DOTA_Tooltip_ability_furion_wrath_of_nature_damage": "ダメージ:",
     "DOTA_Tooltip_ability_furion_wrath_of_nature_damage_percent_add": "%跳ねるごとのダメージ増加:",
-    "DOTA_Tooltip_ability_skeleton_king_mortal_strike_Description": "Wraith Kingは攻撃にボーナスダメージを加える機会を得る。敵ユニットを2体倒すごとにスケルトンが1体チャージされる。スケルトンが殺されると1度だけ復活する。 "
+    "DOTA_Tooltip_ability_skeleton_king_mortal_strike_Description": "Wraith Kingは攻撃にボーナスダメージを加える機会を得る。敵ユニットを2体倒すごとにスケルトンが1体チャージされる。スケルトンが殺されると1度だけ復活する。 ",
+    "DOTA_Tooltip_ability_jakiro_dual_breath_abilityduration": "効果時間:",
+    "DOTA_Tooltip_ability_jakiro_dual_breath_start_radius": "開始距離:",
+    "DOTA_Tooltip_ability_jakiro_dual_breath_end_radius": "末端距離:"
 }
