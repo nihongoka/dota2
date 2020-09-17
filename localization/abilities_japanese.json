@@ -1531,5 +1531,10 @@
     "DOTA_Tooltip_ability_razor_plasma_field": "Plasma Field",
     "DOTA_Tooltip_ability_razor_static_link": "Static Link",
     "DOTA_Tooltip_ability_seasonal_ti9_banner": "Battle Standard",
-    "DOTA_Tooltip_ability_seasonal_ti9_monkey_Description": "彼はあなたの敵に汚物を投げつけるので、あなたはそうする必要はありません。"
+    "DOTA_Tooltip_ability_seasonal_ti9_monkey_Description": "彼はあなたの敵に汚物を投げつけるので、あなたはそうする必要はありません。",
+    "DOTA_Tooltip_ability_vengefulspirit_command_aura_Note1": "強いイリュージョンはスペルによって即座に殺されることはない。",
+    "DOTA_Tooltip_ability_vengefulspirit_nether_swap_Description": "ターゲットのヒーロー、フレンド、または敵と瞬時にポジションを交換する。ネザースワップは、ターゲットの詠唱を中断する。",
+    "DOTA_Tooltip_ability_vengefulspirit_nether_swap_Note1": "Vengeful Spiritとターゲットの近くの木は、スペルが唱えられると破壊される。",
+    "DOTA_Tooltip_ability_vengefulspirit_nether_swap_Note2": "詠唱中のスペルはNether Swapにより中断される。",
+    "DOTA_Tooltip_ability_vengefulspirit_nether_swap_aghanim_description": "Nether Swapの後で、Vengeful Spiritの周りの敵にはFearがかかる。"
 }
