@@ -1782,5 +1782,10 @@
     "DOTA_Tooltip_modifier_treant_natures_guise": "Nature's Guise",
     "DOTA_Tooltip_ability_meepo_earthbind": "Earthbind",
     "DOTA_Tooltip_ability_meepo_earthbind_Description": "指定地点にネットを投げ、その周辺にいる全ての敵ユニットをルートにする。",
-    "DOTA_Tooltip_modifier_treant_natures_guise_root": "Nature's Guise"
+    "DOTA_Tooltip_modifier_treant_natures_guise_root": "Nature's Guise",
+    "DOTA_Tooltip_ability_dark_willow_bramble_maze_Description": "Dark Willowはターゲットエリアに %initial_creation_delay% 秒後に成長する茨の迷路を作る。  茨の中に入った敵はルートを受け時間とともにダメージを受ける。",
+    "DOTA_Tooltip_ability_dark_willow_bramble_maze_placement_count": "茨の数:",
+    "DOTA_Tooltip_ability_dark_willow_bramble_maze": "Bramble Maze",
+    "DOTA_Tooltip_ability_dark_willow_cursed_crown": "Cursed Crown",
+    "DOTA_Tooltip_ability_dark_willow_shadow_realm_Description": "Dark Willowは影の中に消え、untargetableになる。  彼女の次の攻撃は攻撃範囲が広がり、ボーナス魔法ダメージを与え、Shadow Realmを終了させる。ダメージの大きさは彼女がShadow Realmの効果を受けている時間に応じて変化し、%max_damage_duration% 秒後には最大値に達する。"
 }
