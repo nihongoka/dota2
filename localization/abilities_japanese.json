@@ -1484,11 +1484,14 @@
     "DOTA_Tooltip_modifier_furion_wrathofnature_spawn": "Wrath of Nature",
     "DOTA_Tooltip_modifier_furion_wrathofnature_buff_counter": "Wrath of Nature",
     "DOTA_Tooltip_ability_windrunner_focusfire": "Focus Fire",
-    "DOTA_Tooltip_ability_windrunner_focusfire_cancel": "Focus Fire Cancel",
+    "DOTA_Tooltip_ability_windrunner_focusfire_cancel": "Focus Fire 中断",
     "DOTA_Tooltip_ability_windrunner_powershot": "Powershot",
     "DOTA_Tooltip_ability_windrunner_shackleshot": "Shackleshot",
     "DOTA_Tooltip_ability_lion_impale": "Earth Spike",
     "DOTA_Tooltip_ability_lion_mana_drain": "Mana Drain",
     "DOTA_Tooltip_ability_razor_unstable_current_self_movement_speed_pct": "%移動速度ボーナス:",
-    "DOTA_Tooltip_ability_razor_eye_of_the_storm_Note0": "それぞれの雷撃は範囲内にいるもっとも体力の低い敵ユニットを狙う。"
+    "DOTA_Tooltip_ability_razor_eye_of_the_storm_Note0": "それぞれの雷撃は範囲内にいるもっとも体力の低い敵ユニットを狙う。",
+    "DOTA_Tooltip_ability_windrunner_windrun_charge_restore_time": "セプターチャージ時間:",
+    "DOTA_Tooltip_modifier_windrunner_windrun_invis": "Windrun 不可視化",
+    "DOTA_Tooltip_modifier_windrunner_windrun_charge_counter": "Windrunチャージ"
 }
