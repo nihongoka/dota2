@@ -1507,5 +1507,6 @@
     "DOTA_Tooltip_ability_lion_finger_of_death_damage_per_kill": "キル毎の増加ダメージ:",
     "DOTA_Tooltip_ability_lion_finger_of_death_mana_cost_scepter": "セプターマナコスト:",
     "DOTA_Tooltip_ability_lion_finger_of_death_cooldown_scepter": "セプタークールダウン:",
-    "DOTA_Tooltip_ability_lion_finger_of_death_splash_radius_scepter": "セプタースキル範囲:"
+    "DOTA_Tooltip_ability_lion_finger_of_death_splash_radius_scepter": "セプタースキル範囲:",
+    "DOTA_Tooltip_ability_lion_finger_of_death_aghanim_description": "ダメージは増え、クールダウンは減少する。Finger of Deathは狭い範囲のすべてのユニットにヒットする。"
 }
