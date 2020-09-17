@@ -2596,5 +2596,9 @@
     "DOTA_Tooltip_ability_naga_siren_song_of_the_siren_Description": "範囲内のすべての敵は、行動ができず、攻撃されることのない魔法の眠りに落とす。 Song of the Sirenを再度使用すると歌を中断することができる。",
     "DOTA_Tooltip_ability_naga_siren_song_of_the_siren_cancel_Description": "敵ユニットを歌から解放し、再び攻撃できるようにする。",
     "DOTA_Tooltip_modifier_naga_siren_song_of_the_siren_healing_Description": "Naga Sirenの歌によって回復している。",
-    "DOTA_Tooltip_ability_sniper_shrapnel_radius": "半径:"
+    "DOTA_Tooltip_ability_sniper_shrapnel_radius": "半径:",
+    "DOTA_Tooltip_ability_chen_hand_of_god_ancient_creeps_scepter": "回復できるエンシェントクリープ数:",
+    "DOTA_Tooltip_modifier_chen_penitence": "Penitence",
+    "DOTA_Tooltip_modifier_chen_penitence_Description": "移動速度が%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%減少しており、自分を攻撃するユニットの攻撃速度は増加している。",
+    "DOTA_Tooltip_modifier_chen_holy_persuasion": "Holy Persuasion"
 }
