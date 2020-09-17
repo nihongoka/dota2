@@ -2662,5 +2662,7 @@
     "DOTA_Tooltip_ability_sniper_assassinate_scepter_cast_point": "セプター照準効果時間:",
     "DOTA_Tooltip_ability_sniper_headshot_Note0": "味方のクリープにも効果あり。",
     "DOTA_Tooltip_ability_sniper_take_aim_Description": "Sniperの攻撃範囲を拡張する。起動することで1回だけ攻撃範囲ボーナスを2倍にすることが出来る。攻撃後クールダウン状態になる。",
-    "DOTA_Tooltip_ability_sniper_assassinate_Description": "スナイパーは標的となる敵ユニットをロックし、短い照準時間の後、遠距離からダメージとミニスタンを与える破壊的な一撃を放つ。"
+    "DOTA_Tooltip_ability_sniper_assassinate_Description": "スナイパーは標的となる敵ユニットをロックし、短い照準時間の後、遠距離からダメージとミニスタンを与える破壊的な一撃を放つ。",
+    "DOTA_Tooltip_ability_tinker_march_of_the_machines_Note0": "ロボット軍団は %machines_per_sec% 秒ごとに生成され大行進する。",
+    "DOTA_Tooltip_ability_tinker_march_of_the_machines_radius": "範囲:"
 }
