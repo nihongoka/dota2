@@ -2519,5 +2519,18 @@
     "DOTA_Tooltip_modifier_legion_commander_duel_damage_boost_Description": "Duelに勝利したことでボーナスダメージを得ている。",
     "DOTA_Tooltip_ability_ember_spirit_searing_chains_Description": "鉄球のついた投げ縄を放ち、近くの敵を拘束する。対象をその場にとどまらせ、継続ダメージを与える。",
     "DOTA_Tooltip_ability_ember_spirit_sleight_of_fist_Description": "猛烈なスピードで辺りを駆け回り、範囲内の敵を攻撃する。攻撃後は元の場所に戻る。 ヒーローに対してはボーナスダメージをあたえ、クリープには減少したダメージを与える。",
-    "DOTA_Tooltip_ability_ember_spirit_flame_guard_Description": "自身を炎の輪で囲み、受ける魔法攻撃を焼き尽くし、無害化する。 発動中、範囲内の敵に継続ダメージを与える。 シールドが壊れたとき、継続ダメージも失われる。"
+    "DOTA_Tooltip_ability_ember_spirit_flame_guard_Description": "自身を炎の輪で囲み、受ける魔法攻撃を焼き尽くし、無害化する。 発動中、範囲内の敵に継続ダメージを与える。 シールドが壊れたとき、継続ダメージも失われる。",
+    "DOTA_Tooltip_ability_zuus_static_field": "Static Field",
+    "DOTA_Tooltip_ability_zuus_static_field_Note0": "使用した呪文のダメージより先にStatic Fieldのダメージを与える。",
+    "DOTA_Tooltip_ability_zuus_thundergods_wrath": "Thundergod's Wrath",
+    "DOTA_Tooltip_ability_zuus_thundergods_wrath_Description": "現在地にかかわらず全ての敵ヒーローに稲妻を打ち込む。また、打ち込まれた各ヒーローの周囲のTrue Sightを得る。もし敵ヒーローが透明の場合ダメージを与えませんが、周囲のTrue Sightを得ます。",
+    "DOTA_Tooltip_ability_zuus_static_field_Description": "Zeusの呪文は命中したすべての敵を感電させ、敵の現在の体力に比例したダメージを与える。",
+    "DOTA_Tooltip_ability_zuus_static_field_Note1": "アイテムを使用してもStatic Fieldは発生しません。",
+    "DOTA_Tooltip_ability_zuus_thundergods_wrath_damage": "ダメージ:",
+    "DOTA_Tooltip_ability_zuus_thundergods_wrath_sight_radius_day": "TRUE SIGHT範囲:",
+    "DOTA_Tooltip_ability_zuus_cloud": "Nimbus",
+    "DOTA_Tooltip_ability_zuus_thundergods_wrath_aghanim_description": "近くの敵に自動的にLightning Boltを打ち込む嵐の雲を作成する呪文を獲得します。",
+    "DOTA_Tooltip_ability_zuus_cloud_cloud_duration": "効果時間:",
+    "DOTA_Tooltip_ability_zuus_cloud_Note0": "敵ヒーローが壊した場合、%cloud_bounty_tooltip% ゴールドを与える。",
+    "DOTA_Tooltip_ability_zuus_cloud_Description": "マップ上の任意の場所に嵐の雲を作成し、近くにいる敵に自動的にLightning Boltを打ち込みます。"
 }
