@@ -1989,5 +1989,22 @@
     "DOTA_Tooltip_modifier_drow_ranger_trueshot_aura": "Precision Aura",
     "DOTA_Tooltip_modifier_drow_ranger_trueshot_aura_Description": "攻撃速度が%dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%上昇している",
     "DOTA_Tooltip_ability_morphling_morph_replicate": "Morph Replicate",
-    "DOTA_Tooltip_ability_batrider_flaming_lasso_Description": "敵を投げ縄で捕まえて引きずりまわす。対象は操作できなくなり、継続ダメージを受ける。ブリンクダガーなどで一瞬で対象との距離が大きく離れると縄が切れてスキルが中断される。"
+    "DOTA_Tooltip_ability_batrider_flaming_lasso_Description": "敵を投げ縄で捕まえて引きずりまわす。対象は操作できなくなり、継続ダメージを受ける。ブリンクダガーなどで一瞬で対象との距離が大きく離れると縄が切れてスキルが中断される。",
+    "DOTA_Tooltip_ability_luna_moon_glaive": "Moon Glaives",
+    "DOTA_Tooltip_ability_luna_lucent_beam_stun_duration": "スタン時間:",
+    "DOTA_Tooltip_ability_luna_lucent_beam": "Lucent Beam",
+    "DOTA_Tooltip_ability_luna_eclipse_Note1": "Lunaが死ぬと効果は止まる",
+    "DOTA_Tooltip_ability_luna_eclipse_abilityduration": "Eclipse 効果時間:",
+    "DOTA_Tooltip_ability_luna_eclipse_beams": "総ビーム数:",
+    "DOTA_Tooltip_ability_luna_eclipse": "Eclipse",
+    "DOTA_Tooltip_ability_luna_eclipse_beams_scepter": "セプター総ビーム数:",
+    "DOTA_Tooltip_ability_luna_eclipse_duration_tooltip_scepter": "セプター効果時間:",
+    "DOTA_Tooltip_ability_luna_eclipse_radius": "効果範囲:",
+    "DOTA_Tooltip_ability_luna_eclipse_hit_count": "ユニットあたりの総ビーム数:",
+    "DOTA_Tooltip_ability_luna_lunar_blessing_bonus_night_vision": "夜間視野:",
+    "DOTA_Tooltip_ability_luna_lunar_blessing_radius": "Blessing効果範囲:",
+    "DOTA_Tooltip_ability_luna_eclipse_Note2": "透明のユニットには当たらない。",
+    "DOTA_Tooltip_ability_luna_lucent_beam_beam_damage": "ビームダメージ:",
+    "DOTA_Tooltip_ability_luna_eclipse_cast_range_tooltip_scepter": "セプターキャストレンジ:",
+    "DOTA_Tooltip_ability_luna_lunar_blessing_Description": "Lunaと味方のRangedプレイヤーユニットの攻撃ダメージが増加する。また、Lunaは夜間の視認範囲が増加する。"
 }
