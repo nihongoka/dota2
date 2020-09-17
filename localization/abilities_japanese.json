@@ -65,7 +65,7 @@
     "DOTA_Tooltip_ability_fountain_glyph_duration": "効果時間:",
     "DOTA_Tooltip_ability_radar": "スキャン {s:scan_hotkey}",
     "DOTA_Tooltip_courier_status_returning": "ベースに戻る",
-    "DOTA_Tooltip_modifier_turbo_courier_invulnerable_Description": "The courier fears not your spells.",
+    "DOTA_Tooltip_modifier_turbo_courier_invulnerable_Description": "クーリエはあなたのスキルに恐怖しません。",
     "DOTA_Tooltip_ability_backdoor_protection_in_base_Description": "建造物はダメージを軽減し、敵クリープが近くにいない間に受けたダメージを素早く回復する。",
     "DOTA_Tooltip_ability_filler_ability_Note1": "自然回復量が1分間に+2/1体力/マナ増加します。",
     "DOTA_Tooltip_glyph_cooldown": "クールダウン: %s1",
