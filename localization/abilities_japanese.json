@@ -1500,6 +1500,12 @@
     "DOTA_Tooltip_ability_lion_mana_drain_movespeed": "%移動速度減少:",
     "DOTA_Tooltip_ability_lion_finger_of_death": "Finger of Death",
     "DOTA_Tooltip_ability_lion_finger_of_death_Description": "敵ユニットに突進し、裏返そうとする。大きなダメージを与え、倒した敵の数だけダメージは強くなる。",
-    "DOTA_Tooltip_ability_lion_finger_of_death_Note0": "Finger of Death はspellをcast してからダメージが適用されるまでに%damage_delay%のdelayがあり、ダメージをアビリティで避けられることがある。",
-    "DOTA_Tooltip_ability_lion_finger_of_death_Note1": "Finger of Deathは敵ヒーローが %grace_period% 秒以内にFinger of Deathの影響で死んだ場合にのみダメージが増加する。"
+    "DOTA_Tooltip_ability_lion_finger_of_death_Note0": "Finger of Death はスペルをキャストしてからダメージが適用されるまでに%damage_delay%の遅延があり、ダメージをアビリティで避けられることがある。",
+    "DOTA_Tooltip_ability_lion_finger_of_death_Note1": "Finger of Deathは敵ヒーローが %grace_period% 秒以内にFinger of Deathの影響で死んだ場合にのみダメージが増加する。",
+    "DOTA_Tooltip_ability_lion_finger_of_death_damage": "ダメージ:",
+    "DOTA_Tooltip_ability_lion_finger_of_death_damage_scepter": "セプターダメージ:",
+    "DOTA_Tooltip_ability_lion_finger_of_death_damage_per_kill": "キル毎の増加ダメージ:",
+    "DOTA_Tooltip_ability_lion_finger_of_death_mana_cost_scepter": "セプターマナコスト:",
+    "DOTA_Tooltip_ability_lion_finger_of_death_cooldown_scepter": "セプタークールダウン:",
+    "DOTA_Tooltip_ability_lion_finger_of_death_splash_radius_scepter": "セプタースキル範囲:"
 }
