@@ -1488,5 +1488,6 @@
     "DOTA_Tooltip_ability_windrunner_powershot": "Powershot",
     "DOTA_Tooltip_ability_windrunner_shackleshot": "Shackleshot",
     "DOTA_Tooltip_ability_lion_impale": "Earth Spike",
-    "DOTA_Tooltip_ability_lion_mana_drain": "Mana Drain"
+    "DOTA_Tooltip_ability_lion_mana_drain": "Mana Drain",
+    "DOTA_Tooltip_ability_razor_unstable_current_self_movement_speed_pct": "%移動速度ボーナス:"
 }
