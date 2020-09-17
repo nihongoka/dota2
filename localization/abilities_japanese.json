@@ -1498,5 +1498,8 @@
     "DOTA_Tooltip_ability_lion_mana_drain_duration": "効果時間:",
     "DOTA_Tooltip_ability_lion_mana_drain_break_distance": "キャンセル距離:",
     "DOTA_Tooltip_ability_lion_mana_drain_movespeed": "%移動速度減少:",
-    "DOTA_Tooltip_ability_lion_finger_of_death": "Finger of Death"
+    "DOTA_Tooltip_ability_lion_finger_of_death": "Finger of Death",
+    "DOTA_Tooltip_ability_lion_finger_of_death_Description": "敵ユニットに突進し、裏返そうとする。大きなダメージを与え、倒した敵の数だけダメージは強くなる。",
+    "DOTA_Tooltip_ability_lion_finger_of_death_Note0": "Finger of Death はspellをcast してからダメージが適用されるまでに%damage_delay%のdelayがあり、ダメージをアビリティで避けられることがある。",
+    "DOTA_Tooltip_ability_lion_finger_of_death_Note1": "Finger of Deathは敵ヒーローが %grace_period% 秒以内にFinger of Deathの影響で死んだ場合にのみダメージが増加する。"
 }
