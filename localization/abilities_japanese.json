@@ -1954,5 +1954,13 @@
     "DOTA_Tooltip_Ability_item_voodoo_mask": "Voodoo Mask",
     "DOTA_Tooltip_Ability_item_whip": "Whip",
     "DOTA_Tooltip_Ability_item_pers": "Perseverance",
-    "DOTA_Tooltip_Ability_item_power_treads_str": "Strength"
+    "DOTA_Tooltip_Ability_item_power_treads_str": "Strength",
+    "DOTA_Tooltip_ability_treant_natures_guise": "Nature's Guise",
+    "DOTA_Tooltip_modifier_treant_natures_guise_Description": "木に接している間は透明化する。\n<br>%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%% のボーナス移動速度を得る。",
+    "DOTA_Tooltip_modifier_treant_natures_guise_grace_time": "Nature's Guise猶予時間",
+    "DOTA_Tooltip_modifier_treant_natures_guise_grace_time_Description": "Nature's Guiseは木から遠ざかると解除される。",
+    "DOTA_Tooltip_modifier_treant_leech_seed_slow": "Leech Seedによるスロー",
+    "DOTA_Tooltip_ability_treant_overgrowth_aghanim_description": "新しいスキルを習得:Eyes In The Forest\n<br>Overgrowthが使用された時、Eyes In The Forestが使用された木の周りにも使用される。全ての木がより早く再生するようになる。",
+    "DOTA_Tooltip_ability_treant_overgrowth_damage": "1秒あたりのダメージ:",
+    "DOTA_Tooltip_ability_treant_overgrowth_radius": "半径:"
 }
