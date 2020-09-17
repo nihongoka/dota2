@@ -1526,5 +1526,10 @@
     "DOTA_Tooltip_ability_vengefulspirit_wave_of_terror_vision_duration": "視界確保時間:",
     "DOTA_Tooltip_ability_vengefulspirit_command_aura": "Vengeance Aura",
     "DOTA_Tooltip_ability_vengefulspirit_command_aura_Description": "Vengeful Spiritの存在は近くにいる味方ユニットの遠距離攻撃範囲と主属性を増加させる。 また彼女が死亡した時に、Vengeful Spiritの強化イリュージョンを生成する。",
-    "DOTA_Tooltip_ability_vengefulspirit_command_aura_Note0": "強化イリュージョンはVengeful Spiritの死後もVengeance Auraを提供し続けます。"
+    "DOTA_Tooltip_ability_vengefulspirit_command_aura_Note0": "強化イリュージョンはVengeful Spiritの死後もVengeance Auraを提供し続けます。",
+    "DOTA_Tooltip_ability_antimage_spell_shield_Note0": "他の呪文耐性ソースと掛け算的にスタックする。",
+    "DOTA_Tooltip_ability_razor_plasma_field": "Plasma Field",
+    "DOTA_Tooltip_ability_razor_static_link": "Static Link",
+    "DOTA_Tooltip_ability_seasonal_ti9_banner": "Battle Standard",
+    "DOTA_Tooltip_ability_seasonal_ti9_monkey_Description": "彼はあなたの敵に汚物を投げつけるので、あなたはそうする必要はありません。"
 }
