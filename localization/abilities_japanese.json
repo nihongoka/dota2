@@ -1974,5 +1974,7 @@
     "DOTA_Tooltip_modifier_skeleton_king_reincarnation_scepter_Description": "倒された時、死を迎える前に%dMODIFIER_PROPERTY_TOOLTIP% 秒間生霊となる。",
     "DOTA_Tooltip_modifier_skeleton_king_reincarnation_scepter_active": "Death Delay",
     "DOTA_Tooltip_ability_enchantress_untouchable_aghanim_description": "新しいスキルを獲得する:Sproink 後方に飛び跳ねて飛んでくる投射体を避ける。また、攻撃射程が増加する。",
-    "DOTA_Tooltip_ability_enchantress_enchant": "Enchant"
+    "DOTA_Tooltip_ability_enchantress_enchant": "Enchant",
+    "DOTA_Tooltip_Ability_recipe": "Recipe: %s1",
+    "DOTA_Tooltip_Ability_item_arcane_boots2": "Arcane Boots 2"
 }
