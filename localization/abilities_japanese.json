@@ -2796,5 +2796,7 @@
     "DOTA_Tooltip_ability_templar_assassin_trap_Description": "近くの罠を破裂させ、周囲の敵に移動速度減少を与える。",
     "DOTA_Tooltip_ability_templar_assassin_trap_teleport_Description": "短い詠唱の後、指定した罠にテレポートする。このときMeldは解除されず、テレポートと同時に罠を爆発させる。",
     "DOTA_Tooltip_modifier_templar_assassin_meld_armor_Description": "アーマーが%dMODIFIER_PROPERTY_PHYSICAL_ARMOR_BONUS%低下している。",
-    "DOTA_Tooltip_modifier_templar_assassin_trap_slow_Description": "移動速度が%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%から%dMODIFIER_PROPERTY_TOOLTIP%%%減少している。"
+    "DOTA_Tooltip_modifier_templar_assassin_trap_slow_Description": "移動速度が%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%から%dMODIFIER_PROPERTY_TOOLTIP%%%減少している。",
+    "DOTA_Tooltip_rune_xp_description": "味方のヒーローにボーナス経験値を付与",
+    "DOTA_Tooltip_rune_xp": "経験値"
 }
