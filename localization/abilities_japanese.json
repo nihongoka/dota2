@@ -1972,5 +1972,7 @@
     "DOTA_Tooltip_modifier_skeleton_king_reincarnate_slow_Description": "Wraith KingによるReincarnationの効果を受けている。移動速度が%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%% 低下し、攻撃速度が%dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%低下している。",
     "DOTA_Tooltip_modifier_skeleton_king_reincarnation_scepter": "Wraith Delay",
     "DOTA_Tooltip_modifier_skeleton_king_reincarnation_scepter_Description": "倒された時、死を迎える前に%dMODIFIER_PROPERTY_TOOLTIP% 秒間生霊となる。",
-    "DOTA_Tooltip_modifier_skeleton_king_reincarnation_scepter_active": "Death Delay"
+    "DOTA_Tooltip_modifier_skeleton_king_reincarnation_scepter_active": "Death Delay",
+    "DOTA_Tooltip_ability_enchantress_untouchable_aghanim_description": "新しいスキルを獲得する:Sproink 後方に飛び跳ねて飛んでくる投射体を避ける。また、攻撃射程が増加する。",
+    "DOTA_Tooltip_ability_enchantress_enchant": "Enchant"
 }
