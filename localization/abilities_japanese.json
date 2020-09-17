@@ -2664,5 +2664,20 @@
     "DOTA_Tooltip_ability_sniper_take_aim_Description": "Sniperの攻撃範囲を拡張する。起動することで1回だけ攻撃範囲ボーナスを2倍にすることが出来る。攻撃後クールダウン状態になる。",
     "DOTA_Tooltip_ability_sniper_assassinate_Description": "スナイパーは標的となる敵ユニットをロックし、短い照準時間の後、遠距離からダメージとミニスタンを与える破壊的な一撃を放つ。",
     "DOTA_Tooltip_ability_tinker_march_of_the_machines_Note0": "ロボット軍団は %machines_per_sec% 秒ごとに生成され大行進する。",
-    "DOTA_Tooltip_ability_tinker_march_of_the_machines_radius": "範囲:"
+    "DOTA_Tooltip_ability_tinker_march_of_the_machines_radius": "範囲:",
+    "DOTA_Tooltip_ability_earth_spirit_rolling_boulder_Description": "自身を丸石化させ、%delay%秒の遅延の後指定した場所に転がっていく。当たった敵にダメージとスタンを与える。敵ヒーローか自身がスタンを受けるとその場に止まる。転がっている最中、Stone Remnantを轢いた場合、より速く、より遠くに転がることができ、当たった敵をより長い時間スタンさせる。",
+    "DOTA_Tooltip_ability_earth_spirit_rolling_boulder_speed": "転がるスピード:",
+    "DOTA_Tooltip_ability_earth_spirit_rolling_boulder_rock_speed": "Remnantを轢いた場合のスピード:",
+    "DOTA_Tooltip_ability_earth_spirit_rolling_boulder_damage": "ダメージ:",
+    "DOTA_Tooltip_ability_earth_spirit_rolling_boulder_distance": "転がる距離:",
+    "DOTA_Tooltip_ability_earth_spirit_rolling_boulder_rock_distance": "Remnantを轢いた場合の転がる距離:",
+    "DOTA_Tooltip_ability_earth_spirit_rolling_boulder_stun_duration": "スタン効果時間:",
+    "DOTA_Tooltip_ability_earth_spirit_rolling_boulder_rock_bonus_duration": "Remnantを轢いた場合のボーナススタン効果時間:",
+    "DOTA_Tooltip_ability_earth_spirit_rolling_boulder_Note0": "引かれたStone Remnantは破壊される。",
+    "DOTA_Tooltip_ability_earth_spirit_rolling_boulder_Note1": "丸石は半径150である。",
+    "DOTA_Tooltip_ability_earth_spirit_geomagnetic_grip": "Geomagnetic Grip",
+    "DOTA_Tooltip_ability_earth_spirit_geomagnetic_grip_Description": "指定したStone Remnantを引き寄せる。引き寄せられているStone Remnantに当たった敵はサイレンスとダメージを受ける。",
+    "DOTA_Tooltip_ability_earth_spirit_geomagnetic_grip_Note0": "Chronosphere、Duel、およびBlack Hole内の敵には効果がない。",
+    "DOTA_Tooltip_ability_earth_spirit_geomagnetic_grip_Note1": "Geomagnetic Gripは味方クリープもターゲットとして指定できる。",
+    "DOTA_Tooltip_ability_earth_spirit_geomagnetic_grip_duration": "サイレンス効果時間:"
 }
