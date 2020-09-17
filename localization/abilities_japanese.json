@@ -1560,5 +1560,19 @@
     "DOTA_Tooltip_ability_clinkz_death_pact_duration": "効果時間:",
     "DOTA_Tooltip_ability_clinkz_death_pact_health_gain_pct": "%ボーナス体力:",
     "DOTA_Tooltip_ability_clinkz_death_pact_damage_gain_pct": "%ボーナスダメージ:",
-    "DOTA_Tooltip_ability_clinkz_burning_army": "Burning Army"
+    "DOTA_Tooltip_ability_clinkz_burning_army": "Burning Army",
+    "DOTA_Tooltip_ability_razor_eye_of_the_storm_Note2": "Eye of the Stormを二重に使用した場合、効果がスタックする。",
+    "DOTA_Tooltip_ability_razor_eye_of_the_storm_radius": "範囲:",
+    "DOTA_Tooltip_ability_razor_eye_of_the_storm_duration": "効果時間:",
+    "DOTA_Tooltip_ability_razor_eye_of_the_storm_strike_interval": "雷撃の間隔:",
+    "DOTA_Tooltip_ability_razor_eye_of_the_storm_armor_reduction": "アーマー減少:",
+    "DOTA_Tooltip_ability_razor_eye_of_the_storm_damage": "ダメージ:",
+    "DOTA_Tooltip_ability_razor_eye_of_the_storm_aghanim_description": "Eye of the Stormの攻撃対象が二体になり建造物も攻撃対象に含まれるようになる。建造物の中でもtowers・barracks・Ancientのみが対象となる。",
+    "DOTA_Tooltip_modifier_razor_static_link_buff_Description": "%dMODIFIER_PROPERTY_PREATTACK_BONUS_DAMAGE%の攻撃力を吸収している。",
+    "DOTA_Tooltip_modifier_razor_static_link_debuff_Description": "%dMODIFIER_PROPERTY_PREATTACK_BONUS_DAMAGE%の攻撃力を失っている。",
+    "DOTA_Tooltip_modifier_razor_unstable_current_Description": "移動速度が%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%上昇している。",
+    "DOTA_Tooltip_modifier_razor_eye_of_the_storm_Description": "雷撃するたびに対象にダメージを与え、アーマーを減少させる。",
+    "DOTA_Tooltip_modifier_razor_eye_of_the_storm_armor_Description": "アーマーが%dMODIFIER_PROPERTY_PHYSICAL_ARMOR_BONUS%減少している。",
+    "DOTA_Tooltip_modifier_razor_unstablecurrent_slow_Description": "移動速度が%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%低下している。",
+    "DOTA_Tooltip_modifier_razor_plasma_field_slow_Description": "移動速度が%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%低下している。"
 }
