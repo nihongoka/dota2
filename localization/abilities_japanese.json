@@ -2595,5 +2595,6 @@
     "DOTA_Tooltip_ability_naga_siren_rip_tide_Description": "Naga Sirenと自身のイリュージョンは、一定確率で周囲の敵にダメージを与え、%duration%秒間アーマーを下げる波を起こす。",
     "DOTA_Tooltip_ability_naga_siren_song_of_the_siren_Description": "範囲内のすべての敵は、行動ができず、攻撃されることのない魔法の眠りに落とす。 Song of the Sirenを再度使用すると歌を中断することができる。",
     "DOTA_Tooltip_ability_naga_siren_song_of_the_siren_cancel_Description": "敵ユニットを歌から解放し、再び攻撃できるようにする。",
-    "DOTA_Tooltip_modifier_naga_siren_song_of_the_siren_healing_Description": "Naga Sirenの歌によって回復している。"
+    "DOTA_Tooltip_modifier_naga_siren_song_of_the_siren_healing_Description": "Naga Sirenの歌によって回復している。",
+    "DOTA_Tooltip_ability_sniper_shrapnel_radius": "半径:"
 }
