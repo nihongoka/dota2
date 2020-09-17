@@ -2212,5 +2212,10 @@
     "DOTA_Tooltip_modifier_treant_natures_grasp_damage_bonus_Description": "%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%移動速度減少と持続ダメージを受けている。",
     "DOTA_Tooltip_ability_treant_natures_grasp_Description": "地面をターゲットすることでその方向に沿って茨が出現する。茨に触れた敵ユニットにダメージと移動速度低下を与える。茨の範囲内に木があると、その茨のダメージが50%増加する。クリープへのダメージ量は半減する。",
     "DOTA_Tooltip_modifier_treant_overgrowth_Description": "移動、攻撃、ブリンクができない。",
-    "DOTA_Tooltip_modifier_treant_natures_grasp_damage_Description": "%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%移動速度減少と持続ダメージを受けている。"
+    "DOTA_Tooltip_modifier_treant_natures_grasp_damage_Description": "%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%移動速度減少と持続ダメージを受けている。",
+    "DOTA_Tooltip_ability_sniper_shrapnel_Note0": "11回ダメージを与える、スペル効果が出た時にすぐさまダメージを与え、その後は1秒ごとにダメージを与える。",
+    "DOTA_Tooltip_ability_sniper_shrapnel_Note1": "建物にダメージを与えない。",
+    "DOTA_Tooltip_ability_sniper_shrapnel_Note2": "指定したエリアの視界を得る。",
+    "DOTA_Tooltip_ability_sniper_shrapnel_slow_movement_speed": "%移動速度減少:",
+    "DOTA_Tooltip_ability_sniper_shrapnel_Description": "チャージを消費し、指定エリアに爆発性の小弾を浴びせるShrapnelの弾を発射する。敵はダメージと移動速度低下を受ける。指定エリアの視界を得る。Shrapnelのチャージは%abilitychargerestoretime%秒ごとに回復します。"
 }
