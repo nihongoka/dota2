@@ -2624,5 +2624,12 @@
     "DOTA_Tooltip_modifier_ember_spirit_fire_remnant_timer_Description": "Fire Remnantsは45秒後に消滅する。",
     "DOTA_Tooltip_ability_sniper_shrapnel_duration": "効果時間:",
     "DOTA_Tooltip_ability_sniper_shrapnel_shrapnel_damage": "ダメージ:",
-    "DOTA_Tooltip_ability_sniper_headshot": "Headshot"
+    "DOTA_Tooltip_ability_sniper_headshot": "Headshot",
+    "DOTA_Tooltip_modifier_chen_holy_persuasion_Description": "Chenの従者になった。",
+    "DOTA_Tooltip_modifier_chen_test_of_faith_teleport": "Rapture",
+    "DOTA_Tooltip_modifier_chen_test_of_faith_teleport_Description": "テレポート待ち。",
+    "DOTA_Tooltip_modifier_chen_penitence_attack_speed_buff": "Penitence",
+    "DOTA_Tooltip_modifier_chen_penitence_attack_speed_buff_Description": "攻撃速度が%dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%増加している。",
+    "DOTA_Tooltip_modifier_chen_divine_favor": "Divine Favor",
+    "DOTA_Tooltip_modifier_chen_divine_favor_Description": "HPリジェネが%dMODIFIER_PROPERTY_HEALTH_REGEN_CONSTANT%増加し、すべての受ける回復効果が%dMODIFIER_PROPERTY_HP_REGEN_AMPLIFY_PERCENTAGE%%%増加している。"
 }
