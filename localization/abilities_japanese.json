@@ -1982,5 +1982,6 @@
     "DOTA_Tooltip_modifier_skeleton_king_mortal_strike_Description": "現在のスケルトンの数",
     "DOTA_Tooltip_modifier_skeleton_king_mortal_strike_summon": "Mortal Strikeによって召喚されている",
     "DOTA_Tooltip_ability_drow_ranger_trueshot": "Precision Aura",
-    "DOTA_Tooltip_ability_drow_ranger_trueshot_Description": "Drow RangerのAgilityに応じて、味方rangedヒーローにボーナスダメージを与える。キャストした場合、味方クリープにその効果を30秒間付与する。"
+    "DOTA_Tooltip_ability_drow_ranger_trueshot_Description": "Drow RangerのAgilityに応じて、味方rangedヒーローにボーナスダメージを与える。キャストした場合、味方クリープにその効果を30秒間付与する。",
+    "DOTA_Tooltip_ability_treant_natures_guise_Description": "%cooldown_time%秒間ダメージを受けなければTreant Protectorはツリーウォーキングを得る。移動速度ボーナスとHP自然回復・HP回復効果増加ボーナスを得る。"
 }
