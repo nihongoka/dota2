@@ -1976,5 +1976,11 @@
     "DOTA_Tooltip_ability_enchantress_untouchable_aghanim_description": "新しいスキルを獲得する:Sproink 後方に飛び跳ねて飛んでくる投射体を避ける。また、攻撃射程が増加する。",
     "DOTA_Tooltip_ability_enchantress_enchant": "Enchant",
     "DOTA_Tooltip_Ability_recipe": "Recipe: %s1",
-    "DOTA_Tooltip_Ability_item_arcane_boots2": "Arcane Boots 2"
+    "DOTA_Tooltip_Ability_item_arcane_boots2": "Arcane Boots 2",
+    "DOTA_Tooltip_modifier_skeleton_king_reincarnation_scepter_active_Description": "生霊となったことで死を遅らせているが、やがて死んでしまう。",
+    "DOTA_Tooltip_modifier_skeleton_king_mortal_strike": "Mortal Strike Skeleton Charges",
+    "DOTA_Tooltip_modifier_skeleton_king_mortal_strike_Description": "現在のスケルトンの数",
+    "DOTA_Tooltip_modifier_skeleton_king_mortal_strike_summon": "Mortal Strikeによって召喚されている",
+    "DOTA_Tooltip_ability_drow_ranger_trueshot": "Precision Aura",
+    "DOTA_Tooltip_ability_drow_ranger_trueshot_Description": "Drow RangerのAgilityに応じて、味方rangedヒーローにボーナスダメージを与える。キャストした場合、味方クリープにその効果を30秒間付与する。"
 }
