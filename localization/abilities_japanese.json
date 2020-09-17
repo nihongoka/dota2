@@ -1962,5 +1962,15 @@
     "DOTA_Tooltip_modifier_treant_leech_seed_slow": "Leech Seedによるスロー",
     "DOTA_Tooltip_ability_treant_overgrowth_aghanim_description": "新しいスキルを習得:Eyes In The Forest\n<br>Overgrowthが使用された時、Eyes In The Forestが使用された木の周りにも使用される。全ての木がより早く再生するようになる。",
     "DOTA_Tooltip_ability_treant_overgrowth_damage": "1秒あたりのダメージ:",
-    "DOTA_Tooltip_ability_treant_overgrowth_radius": "半径:"
+    "DOTA_Tooltip_ability_treant_overgrowth_radius": "半径:",
+    "DOTA_Tooltip_ability_skeleton_king_reincarnation_aura_radius_tooltip_scepter": "セプター所持時に味方の死を遅らせる効果範囲:",
+    "DOTA_Tooltip_modifier_skeleton_king_hellfire_blast": "Wraithfire Blast",
+    "DOTA_Tooltip_modifier_skeleton_king_hellfire_blast_Description": "移動速度が%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%低下し、継続的にダメージを受ける",
+    "DOTA_Tooltip_modifier_skeleton_king_vampiric_aura_buff": "Vampiric Aura",
+    "DOTA_Tooltip_modifier_skeleton_king_vampiric_aura_buff_Description": "攻撃する度にHPを回復する",
+    "DOTA_Tooltip_modifier_skeleton_king_reincarnate_slow": "Reincarnate",
+    "DOTA_Tooltip_modifier_skeleton_king_reincarnate_slow_Description": "Wraith KingによるReincarnationの効果を受けている。移動速度が%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%% 低下し、攻撃速度が%dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%低下している。",
+    "DOTA_Tooltip_modifier_skeleton_king_reincarnation_scepter": "Wraith Delay",
+    "DOTA_Tooltip_modifier_skeleton_king_reincarnation_scepter_Description": "倒された時、死を迎える前に%dMODIFIER_PROPERTY_TOOLTIP% 秒間生霊となる。",
+    "DOTA_Tooltip_modifier_skeleton_king_reincarnation_scepter_active": "Death Delay"
 }
