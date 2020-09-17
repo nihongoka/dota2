@@ -2621,5 +2621,8 @@
     "DOTA_Tooltip_modifier_ember_spirit_fire_remnant_charge_counter": "Fire Remnantのチャージ回数",
     "DOTA_Tooltip_modifier_ember_spirit_fire_remnant_charge_counter_Description": "チャージがあればいつでもFire Remnantを起動することができる。",
     "DOTA_Tooltip_modifier_ember_spirit_fire_remnant_timer": "Fire Remnantの持続時間",
-    "DOTA_Tooltip_modifier_ember_spirit_fire_remnant_timer_Description": "Fire Remnantsは45秒後に消滅する。"
+    "DOTA_Tooltip_modifier_ember_spirit_fire_remnant_timer_Description": "Fire Remnantsは45秒後に消滅する。",
+    "DOTA_Tooltip_ability_sniper_shrapnel_duration": "効果時間:",
+    "DOTA_Tooltip_ability_sniper_shrapnel_shrapnel_damage": "ダメージ:",
+    "DOTA_Tooltip_ability_sniper_headshot": "Headshot"
 }
