@@ -2631,5 +2631,19 @@
     "DOTA_Tooltip_modifier_chen_penitence_attack_speed_buff": "Penitence",
     "DOTA_Tooltip_modifier_chen_penitence_attack_speed_buff_Description": "攻撃速度が%dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%増加している。",
     "DOTA_Tooltip_modifier_chen_divine_favor": "Divine Favor",
-    "DOTA_Tooltip_modifier_chen_divine_favor_Description": "HPリジェネが%dMODIFIER_PROPERTY_HEALTH_REGEN_CONSTANT%増加し、すべての受ける回復効果が%dMODIFIER_PROPERTY_HP_REGEN_AMPLIFY_PERCENTAGE%%%増加している。"
+    "DOTA_Tooltip_modifier_chen_divine_favor_Description": "HPリジェネが%dMODIFIER_PROPERTY_HEALTH_REGEN_CONSTANT%増加し、すべての受ける回復効果が%dMODIFIER_PROPERTY_HP_REGEN_AMPLIFY_PERCENTAGE%%%増加している。",
+    "DOTA_Tooltip_modifier_ember_spirit_fire_remnant_Description": "Fire Remnantsに向かって突っ込んでいる。",
+    "DOTA_Tooltip_modifier_ember_spirit_sleight_of_fist_charge_counter": "Sleight of Fistのチャージ回数",
+    "DOTA_Tooltip_modifier_ember_spirit_sleight_of_fist_caster": "Sleight of Fist",
+    "DOTA_Tooltip_modifier_ember_spirit_sleight_of_fist_caster_Description": "指定範囲内のすべての敵を攻撃している。",
+    "DOTA_Tooltip_ability_earth_spirit_boulder_smash": "Boulder Smash",
+    "DOTA_Tooltip_ability_earth_spirit_boulder_smash_rock_search_aoe": "Remnantが吹っ飛ぶ範囲:",
+    "DOTA_Tooltip_ability_earth_spirit_boulder_smash_rock_damage": "ダメージ:",
+    "DOTA_Tooltip_ability_earth_spirit_boulder_smash_duration": "スロー時間:",
+    "DOTA_Tooltip_ability_earth_spirit_boulder_smash_move_slow": "%スロー効果:",
+    "DOTA_Tooltip_ability_earth_spirit_boulder_smash_speed": "吹っ飛ぶスピード:",
+    "DOTA_Tooltip_ability_earth_spirit_boulder_smash_unit_distance": "吹っ飛ぶ距離:",
+    "DOTA_Tooltip_ability_earth_spirit_boulder_smash_rock_distance": "吹っ飛ぶ距離(Remnant):",
+    "DOTA_Tooltip_ability_earth_spirit_rolling_boulder": "Rolling Boulder",
+    "DOTA_Tooltip_ability_earth_spirit_boulder_smash_Description": "Earth Spiritが向いている方向に、味方もしくは敵を吹っ飛ばす。ある地点を指定していた場合、 %remnant_smash_radius_tooltip%以内にある一番近いStone Remnantを吹っ飛ばす。吹っ飛ばされている最中のユニットまたはRemnantは当たった敵にダメージを与える。 敵がStone Remnantに当たった場合、スロー効果を受ける。Stone Remnantは他のユニットよりも遠くに吹っ飛ぶ。"
 }
