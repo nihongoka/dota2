@@ -1574,5 +1574,10 @@
     "DOTA_Tooltip_modifier_razor_eye_of_the_storm_Description": "雷撃するたびに対象にダメージを与え、アーマーを減少させる。",
     "DOTA_Tooltip_modifier_razor_eye_of_the_storm_armor_Description": "アーマーが%dMODIFIER_PROPERTY_PHYSICAL_ARMOR_BONUS%減少している。",
     "DOTA_Tooltip_modifier_razor_unstablecurrent_slow_Description": "移動速度が%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%低下している。",
-    "DOTA_Tooltip_modifier_razor_plasma_field_slow_Description": "移動速度が%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%低下している。"
+    "DOTA_Tooltip_modifier_razor_plasma_field_slow_Description": "移動速度が%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%低下している。",
+    "DOTA_Tooltip_modifier_terrorblade_fear": "恐怖",
+    "DOTA_Tooltip_modifier_terrorblade_fear_Description": "TerrobladeのMetamorphosisによって恐怖している。",
+    "DOTA_Tooltip_modifier_terrorblade_metamorphosis": "Metamorphosis",
+    "DOTA_Tooltip_modifier_terrorblade_metamorphosis_transform_aura_applier": "Metamorphosisのオーラ",
+    "DOTA_Tooltip_modifier_terrorblade_reflection_slow": "Reflection"
 }
