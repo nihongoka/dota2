@@ -1005,7 +1005,7 @@
     "DOTA_Tooltip_ability_item_shivas_guard_Note0": "息吹は%blast_speed%のスピードで最大範囲である%blast_radius%まで広がる。",
     "DOTA_Tooltip_modifier_life_stealer_rage_Description": "攻撃速度が上昇し、スペル耐性と100%の魔法ダメージ耐性を得ている。",
     "DOTA_Tooltip_ability_storm_spirit_static_remnant_Note2": "爆発は %static_remnant_damage_radius% の範囲内のユニットにヒットするが、%static_remnant_radius% の範囲内でのみ発動する。",
-    "DOTA_Tooltip_ability_storm_spirit_ball_lightning_Description": "Storm Spiritは揮発性の電気となり、マナの続く限り指定した地点まで飛んでいく。起動時のマナコストは総マナプールの%ball_lightning_initial_mana_base%+%ball_lightning_initial_mana_percentage%%% であり、100ユニット移動時のコストは総マナプールの%ball_lightning_travel_cost_base%+%ball_lightning_travel_cost_percent%%%である。ダメージは移動した100ユニットあたりのダメージで表される。",
+    "DOTA_Tooltip_ability_storm_spirit_ball_lightning_Description": "Storm Spiritは揮発性の電気となり、マナの続く限り指定した地点まで飛んでいく。起動時のマナコストは%ball_lightning_initial_mana_base%+総マナプールの%ball_lightning_initial_mana_percentage%%% であり、100ユニット移動時のコストは%ball_lightning_travel_cost_base%+総マナプールの%ball_lightning_travel_cost_percent%%%である。ダメージは移動した100ユニットあたりのダメージで表される。",
     "DOTA_Tooltip_ability_storm_spirit_ball_lightning_Note0": "移動中にスキルとアイテムの使用が可能である。",
     "DOTA_Tooltip_ability_razor_static_link_Note0": "リンクは、自身か対象のどちらかが死亡するか、自身と対象が%drain_range_buffer%ユニット以上離れた時に解除される。",
     "DOTA_Tooltip_ability_razor_plasma_field_Description": "円状のプラズマの波を放ち、触れた敵ユニットにダメージを与えて減速させる。ダメージと移動速度減少量はRazorから離れているほど増加する。Plasma Field は行きと帰りで１回ずつ、各ユニットに２回命中する。",
@@ -1029,8 +1029,8 @@
     "DOTA_Tooltip_ability_storm_spirit_overload_Description": "スキルを使用した次の通常攻撃時、対象とその周囲に追加ダメージを与え、減速させる。",
     "DOTA_Tooltip_ability_storm_spirit_overload_Note0": "Overloadはアイテムの使用では発動しない。",
     "DOTA_Tooltip_ability_storm_spirit_overload_Note1": "Overloadはスタックしない。",
-    "DOTA_Tooltip_ability_storm_spirit_overload_overload_move_slow": "%移動速度減少:",
-    "DOTA_Tooltip_ability_storm_spirit_overload_overload_attack_slow": "攻撃速度減少:",
+    "DOTA_Tooltip_ability_storm_spirit_overload_overload_move_slow": "%移動速度低下:",
+    "DOTA_Tooltip_ability_storm_spirit_overload_overload_attack_slow": "%攻撃速度低下:",
     "DOTA_Tooltip_ability_storm_spirit_overload_abilityduration": "効果時間:",
     "DOTA_Tooltip_ability_storm_spirit_overload_overload_damage": "ダメージ:",
     "DOTA_Tooltip_ability_storm_spirit_overload_overload_aoe": "範囲:",
@@ -1489,5 +1489,6 @@
     "DOTA_Tooltip_ability_windrunner_shackleshot": "Shackleshot",
     "DOTA_Tooltip_ability_lion_impale": "Earth Spike",
     "DOTA_Tooltip_ability_lion_mana_drain": "Mana Drain",
-    "DOTA_Tooltip_ability_razor_unstable_current_self_movement_speed_pct": "%移動速度ボーナス:"
+    "DOTA_Tooltip_ability_razor_unstable_current_self_movement_speed_pct": "%移動速度ボーナス:",
+    "DOTA_Tooltip_ability_razor_eye_of_the_storm_Note0": "それぞれの雷撃は範囲内にいるもっとも体力の低い敵ユニットを狙う。"
 }
