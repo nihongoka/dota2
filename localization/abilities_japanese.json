@@ -1483,5 +1483,9 @@
     "DOTA_Tooltip_ability_furion_wrath_of_nature": "Wrath of Nature",
     "DOTA_Tooltip_modifier_furion_wrathofnature_spawn": "Wrath of Nature",
     "DOTA_Tooltip_modifier_furion_wrathofnature_buff_counter": "Wrath of Nature",
-    "DOTA_Tooltip_ability_windrunner_focusfire": "Focus Fire"
+    "DOTA_Tooltip_ability_windrunner_focusfire": "Focus Fire",
+    "DOTA_Tooltip_ability_windrunner_focusfire_cancel": "Focus Fire Cancel",
+    "DOTA_Tooltip_ability_windrunner_powershot": "Powershot",
+    "DOTA_Tooltip_ability_windrunner_shackleshot": "Shackleshot",
+    "DOTA_Tooltip_ability_lion_impale": "Earth Spike"
 }
