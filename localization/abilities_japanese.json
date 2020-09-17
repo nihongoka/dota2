@@ -1468,5 +1468,12 @@
     "DOTA_Tooltip_Ability_item_orb_of_destruction_duration": "効果時間:",
     "DOTA_Tooltip_Ability_item_the_leveller_demolish": "%建造物へのボーナスダメージ:",
     "DOTA_Tooltip_Ability_item_titan_sliver_base_attack_damage": "%+ベースダメージ",
-    "DOTA_Tooltip_ability_item_witless_shako_Description": "着用者の最大HPを増加させるが、マナの最大量を低下させる。"
+    "DOTA_Tooltip_ability_item_witless_shako_Description": "着用者の最大HPを増加させるが、マナの最大量を低下させる。",
+    "DOTA_Tooltip_ability_antimage_spell_shield": "Spell Shield",
+    "DOTA_Tooltip_modifier_life_stealer_infest": "宿主への侵入",
+    "DOTA_Tooltip_modifier_life_stealer_assimilate": "同化された",
+    "DOTA_Tooltip_ability_furion_sprout": "Sprout",
+    "DOTA_Tooltip_ability_furion_force_of_nature": "Nature's Call",
+    "DOTA_Tooltip_ability_antimage_spell_shield_aghanim_description": "%scepter_cooldown%秒に1回、Spell Shieldが対象の呪文をブロックし、反射するようにする。",
+    "DOTA_Tooltip_ability_furion_force_of_nature_treant_health_tooltip": "Treantの体力:"
 }
