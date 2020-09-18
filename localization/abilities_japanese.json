@@ -2858,5 +2858,12 @@
     "DOTA_Tooltip_ability_tiny_toss_Description": "Tinyの半径%grab_radius%内の最も近いユニットをつかみ、ターゲットユニットまたはルーンに向けて発射し、着地点にダメージを与えます。投げられたユニットが敵の場合、追加で%bonus_damage_pct%%%を与えます。",
     "DOTA_Tooltip_ability_puck_phase_shift_Description": "チャネリング - Puckは一時的に別次元に移動し、害から逃れます。",
     "DOTA_Tooltip_ability_dazzle_poison_touch_Description": "複数の敵ユニットへダメージを与える毒を円錐状に放ちます。ターゲットにダメージとスローを与え続けます。ターゲットが攻撃されるたびに、効果時間が更新されます。",
-    "DOTA_Tooltip_ability_dazzle_shallow_grave_Note0": "Shallow Graveの効果中、HPは1未満になりませんが、AxeのCulling Bladeではヒーローを殺せます。"
+    "DOTA_Tooltip_ability_dazzle_shallow_grave_Note0": "Shallow Graveの効果中、HPは1未満になりませんが、AxeのCulling Bladeではヒーローを殺せます。",
+    "DOTA_Tooltip_ability_tinker_march_of_the_machines_duration": "持続時間:",
+    "DOTA_Tooltip_ability_tinker_march_of_the_machines_damage": "ダメージ:",
+    "DOTA_Tooltip_ability_tinker_rearm_Description": "詠唱－一部を除いたTinkerのスキルとアイテムのクールダウンをリセットする。",
+    "DOTA_Tooltip_ability_tinker_rearm_Note0": "Aeon Disk、Arcane Boots、Black King Bar、Hand of Midas、Helm of the Dominator、Linken's Sphere、Meteor Hammer、Necronomicon、Pipe of Insight、Tome of Knowledge、and Refresher Orb 以外のアイテムであれば Rearm はクールダウンをリセットします。",
+    "DOTA_Tooltip_ability_tinker_rearm_abilitychanneltime": "リセットまでの時間:",
+    "DOTA_Tooltip_modifier_tinker_laser_blind": "レーザーブラインド",
+    "DOTA_Tooltip_modifier_tinker_laser_blind_Description": "%dMODIFIER_PROPERTY_MISS_PERCENTAGE%%% 回の攻撃をミスします。"
 }
