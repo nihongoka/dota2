@@ -1765,7 +1765,7 @@
     "DOTA_Tooltip_ability_razor_unstable_current": "Storm Surge",
     "DOTA_Tooltip_ability_razor_eye_of_the_storm": "Eye of the Storm",
     "DOTA_Tooltip_ability_razor_eye_of_the_storm_Note1": "Eye of the Storm使用中にStatic Linkを使用するとリンクされた敵ヒーローを優先して攻撃するようになる。",
-    "DOTA_Tooltip_modifier_razor_static_link_buff": "Static Link",
+    "DOTA_Tooltip_modifier_razor_static_link_buff": "スタティック・リンク",
     "DOTA_Tooltip_modifier_treant_leech_seed_slow_Description": "時間の経過とともにダメージを受けている。\n<br>%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%の移動速度減少を受けている。",
     "DOTA_Tooltip_ability_treant_eyes_in_the_forest_Note0": "Eyes In The Forestを使用された木を介してOvergrowthによるダメージを受ける。",
     "DOTA_Tooltip_modifier_treant_leech_seed": "Leech Seed",
