@@ -3174,5 +3174,9 @@
     "DOTA_Tooltip_ability_tiny_craggy_exterior_Note0": "攻撃が着地した時にダメージとスタンが発生します。",
     "DOTA_Tooltip_ability_tiny_tree_grab_Description": "木を掴むことで、限定数の攻撃が可能になります。攻撃範囲にボーナスを付与します。攻撃はより大きなダメージを与え、途中のユニットにもダメージを与えることができます。木を投げることで、遠くにいるユニットに攻撃を与えることができます。",
     "DOTA_Tooltip_ability_tiny_toss_tree_Description": "対象のユニットに木を投げつけ、対象の周りにダメージを与えます。",
-    "DOTA_Tooltip_ability_tiny_toss_tree_splash_pct": "％拡散ダメージ:"
+    "DOTA_Tooltip_ability_tiny_toss_tree_splash_pct": "％拡散ダメージ:",
+    "DOTA_Tooltip_ability_visage_grave_chill_Description": "対象の移動速度と攻撃速度を吸収し、Visageに付与する。",
+    "DOTA_Tooltip_ability_visage_gravekeepers_cloak_Description": "ダメージを吸収するバリアー層を展開する。  Visageがプレーヤーからダメージを受けると、バリアーが1つ剥がれる。バリアーは時間で修復される。",
+    "DOTA_Tooltip_ability_visage_soul_assumption_Description": "周囲のヒーローが%damage_limit%ダメージ受ける毎に霊魂をチャージする。霊魂を打ち出すと、ベースダメージに加えてチャージ数分のダメージを与える。",
+    "DOTA_Tooltip_ability_visage_summon_familiars_Description": "2体のFamiliarを召喚する。<br>FamiliarはStone Formのアビリティを持つ。<br>Stone Fromを使うとFamiliarは石になって落下し、敵をスタンする。Stone From中のFamiliarは無敵状態になり、HPが急速に回復する。<br>Familiarは倒されると、多くのゴールドを落とす。"
 }
