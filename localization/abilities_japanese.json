@@ -3166,5 +3166,10 @@
     "DOTA_Tooltip_ability_special_bonus_unique_omniknight_1": "+{s:value} Purification ダメージ/回復",
     "DOTA_Tooltip_ability_special_bonus_unique_omniknight_3": "-{s:value}s Heavenly Grace クールダウン",
     "DOTA_Tooltip_ability_tiny_avalanche": "Avalanche",
-    "DOTA_Tooltip_ability_tiny_avalanche_Description": "岩雪崩を起こし、敵ユニットに短い間隔で断続的にダメージとスタンを与える。Tossされているユニットは3倍のダメージを受ける。"
+    "DOTA_Tooltip_ability_tiny_avalanche_Description": "岩雪崩を起こし、敵ユニットに短い間隔で断続的にダメージとスタンを与える。Tossされているユニットは3倍のダメージを受ける。",
+    "DOTA_Tooltip_ability_zuus_lightning_bolt_Note0": "この能力でチャネリング呪文やアイテムを中断することができます。",
+    "DOTA_Tooltip_ability_zuus_cloud_Note1": "ゼウスの現在のレベルのライトニングボルトのストライクで最も近い敵ユニットに影響を与える。",
+    "DOTA_Tooltip_ability_zuus_cloud_lore": "雷神の怒りが高まるところには、嵐の雲がすぐに集まってくる。",
+    "DOTA_Tooltip_ability_tiny_craggy_exterior_Description": "タイニーの攻撃を受けた敵にダメージを跳ね返す。タイニーを攻撃するMeleeの敵は気絶するチャンスがあります。Growではレベルが上がるごとにprocの確率が上がります。",
+    "DOTA_Tooltip_ability_tiny_craggy_exterior_Note0": "攻撃が着地した時にダメージとスタンが発生します。"
 }
