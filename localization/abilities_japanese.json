@@ -3225,5 +3225,6 @@
     "DOTA_Tooltip_ability_nyx_assassin_mana_burn_Description": "対象のマナを減らし、減らせた分だけダメージを与える。対象のIntelligenceが高いほど多くマナを減らせる。",
     "DOTA_Tooltip_ability_nyx_assassin_spiked_carapace_Description": "1回だけダメージを無効化して反射し、スタンも与える。このアビリティを使用してもVendettaは解除されない。\n\nBurrowed使用中に使った場合は付近の敵をスタンさせるアビリティに変化する。",
     "DOTA_Tooltip_ability_nyx_assassin_vendetta_Description": "透明化して移動速度が増加し、このアビリティを解除する代わりに1回通常攻撃にボーナスダメージとブレイク状態付与効果が追加される。通常攻撃・アビリティもしくはアイテムの使用で解除される。",
-    "DOTA_Tooltip_ability_nyx_assassin_burrow_Description": "地面に潜り、通常攻撃と移動ができなくなるかわりに各種ボーナスを得る。Spiked Carapaceは周囲の敵ユニットをスタンさせるアビリティに変化し、Mana BurnとImpaleの射程が伸び、Impaleのクールダウンが減少し、HP・MPリジェネが増加し、受けるダメージが減少し、透明化する。"
+    "DOTA_Tooltip_ability_nyx_assassin_burrow_Description": "地面に潜り、通常攻撃と移動ができなくなるかわりに各種ボーナスを得る。Spiked Carapaceは周囲の敵ユニットをスタンさせるアビリティに変化し、Mana BurnとImpaleの射程が伸び、Impaleのクールダウンが減少し、HP・MPリジェネが増加し、受けるダメージが減少し、透明化する。",
+    "DOTA_Tooltip_rune_regeneration": "リジェネレーション"
 }
