@@ -1973,7 +1973,7 @@
     "DOTA_Tooltip_modifier_skeleton_king_reincarnation_scepter": "Wraith Delay",
     "DOTA_Tooltip_modifier_skeleton_king_reincarnation_scepter_Description": "倒された時、死を迎える前に%dMODIFIER_PROPERTY_TOOLTIP% 秒間生霊となる。",
     "DOTA_Tooltip_modifier_skeleton_king_reincarnation_scepter_active": "Death Delay",
-    "DOTA_Tooltip_ability_enchantress_untouchable_aghanim_description": "新しいスキルを獲得する:Sproink 後方に飛び跳ねて飛んでくる投射体を避ける。また、攻撃射程が増加する。",
+    "DOTA_Tooltip_ability_enchantress_untouchable_aghanim_description": "新しいスキルを獲得:Sproink 後方に飛び跳ねて飛んでくる投射体を避ける。また、攻撃射程が増加する。",
     "DOTA_Tooltip_ability_enchantress_enchant": "Enchant",
     "DOTA_Tooltip_Ability_recipe": "Recipe: %s1",
     "DOTA_Tooltip_Ability_item_arcane_boots2": "Arcane Boots 2",
@@ -2802,7 +2802,7 @@
     "DOTA_Tooltip_ability_zuus_cloud_Note2": "タワーとクリープがNimbusに与えるダメージは半分になる。",
     "DOTA_Tooltip_ability_tiny_avalanche_radius": "半径：",
     "DOTA_Tooltip_ability_tiny_avalanche_total_duration": "AVALANCHE効果時間：",
-    "DOTA_Tooltip_modifier_zuus_static_field_Description": "Zeusがスペルを唱えるたびに、周囲の敵に現在のHPの1%分のダメージを与えます",
+    "DOTA_Tooltip_modifier_zuus_static_field_Description": "Zeusがスペルを唱えるたびに、周囲の敵に現在の体力の割合ダメージを与えます",
     "DOTA_Tooltip_ability_tiny_avalanche_avalanche_damage": "AVALANCHEダメージ：",
     "DOTA_Tooltip_ability_tiny_craggy_exterior_bonus_armor": "アーマー：",
     "DOTA_Tooltip_ability_tiny_craggy_exterior_damage": "ダメージ：",
@@ -3164,5 +3164,7 @@
     "DOTA_Tooltip_ability_omniknight_guardian_angel_aghanim_description": "効果範囲がGlobalになり効果時間が増加し、HP回復を付与する。また、対象に建物を含むようになる。",
     "DOTA_Tooltip_modifier_omniknight_repel_Description": "%dMODIFIER_PROPERTY_STATUS_RESISTANCE_STACKING%%%異常耐性、%dMODIFIER_PROPERTY_STATS_STRENGTH_BONUS%Strengthボーナス、%dMODIFIER_PROPERTY_HEALTH_REGEN_CONSTANT%体力自然回復ボーナスを獲得している。",
     "DOTA_Tooltip_ability_special_bonus_unique_omniknight_1": "+{s:value} Purification ダメージ/回復",
-    "DOTA_Tooltip_ability_special_bonus_unique_omniknight_3": "-{s:value}s Heavenly Grace クールダウン"
+    "DOTA_Tooltip_ability_special_bonus_unique_omniknight_3": "-{s:value}s Heavenly Grace クールダウン",
+    "DOTA_Tooltip_ability_tiny_avalanche": "Avalanche",
+    "DOTA_Tooltip_ability_tiny_avalanche_Description": "岩雪崩を起こし、敵ユニットに短い間隔で断続的にダメージとスタンを与える。Tossされているユニットは3倍のダメージを受ける。"
 }
