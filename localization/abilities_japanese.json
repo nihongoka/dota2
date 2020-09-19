@@ -1593,7 +1593,7 @@
     "DOTA_Tooltip_modifier_vengefulspirit_command_aura_effect": "Vengeance Aura",
     "DOTA_Tooltip_modifier_vengefulspirit_command_aura_effect_Description": "主属性. +%dMODIFIER_PROPERTY_TOOLTIP%と+%dMODIFIER_PROPERTY_ATTACK_RANGE_BONUS%の攻撃範囲の提供。",
     "DOTA_Tooltip_modifier_vengefulspirit_command_negative_aura_effect": "Vengeance Aura",
-    "DOTA_Tooltip_modifier_vengefulspirit_command_negative_aura_effect_Description": "dMODIFIER_PROPERTY_BASEDAMAGEOUTGOING_PERCENTAGE%%でダメージを減少させる",
+    "DOTA_Tooltip_modifier_vengefulspirit_command_negative_aura_effect_Description": "%dMODIFIER_PROPERTY_BASEDAMAGEOUTGOING_PERCENTAGE%%%ダメージを減少させる",
     "DOTA_Tooltip_modifier_vengefulspirit_nether_swap_charge_counter": "Swap Charges",
     "DOTA_Tooltip_modifier_vengefulspirit_wave_of_terror_fear": "Nether Swap Fear",
     "DOTA_Tooltip_modifier_vengefulspirit_wave_of_terror_fear_description": "Vengeful Spiritによって恐怖している",
