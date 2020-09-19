@@ -3424,5 +3424,12 @@
     "DOTA_Tooltip_ability_death_prophet_spirit_siphon_Description": "Death Prophetと敵ユニットの間に魂のリンクを作り出し、%damage% + 最大HPの%damage_pct%%%と移動速度%movement_slow%%%を奪う。",
     "DOTA_Tooltip_ability_death_prophet_exorcism_Description": "悪霊を解き放ち、近くの敵ユニットや建造物の生命力を奪います。 スペル終了時、Death Prophetは与えたダメージに比例して回復します。 ％abilityduration％秒続きます。",
     "DOTA_Tooltip_modifier_death_prophet_spirit_siphon_charge_counter_Description": "チャージがある時はいつでもSpirit Siphonを使用できます。",
-    "DOTA_Tooltip_modifier_death_prophet_spirit_siphon_Description": "移動速度%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%増加。"
+    "DOTA_Tooltip_modifier_death_prophet_spirit_siphon_Description": "移動速度%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%増加。",
+    "DOTA_Tooltip_ability_medusa_split_shot_Note0": "追加攻撃の対象は選択した対象にもっとも近い敵ユニットが選ばれる。",
+    "DOTA_Tooltip_ability_medusa_split_shot_Note1": "MedusaがSplit Shotを発動中にイリュージョンを作った場合、イリュージョンの攻撃でもSplit Shotが発動する。",
+    "DOTA_Tooltip_ability_medusa_split_shot_damage_modifier_tooltip": "%追加攻撃のダメージ:",
+    "DOTA_Tooltip_ability_medusa_split_shot_arrow_count": "攻撃対象数:",
+    "DOTA_Tooltip_ability_medusa_mystic_snake": "Mystic Snake",
+    "DOTA_Tooltip_ability_medusa_split_shot": "Split Shot",
+    "DOTA_Tooltip_ability_medusa_split_shot_Description": "通常攻撃を１度に複数体に撃てるようになる。選択した対象以外への追加攻撃のダメージは通常のものより減る。\n\n追加攻撃には通常攻撃に付く効果(クリティカルなど)が付かない。"
 }
