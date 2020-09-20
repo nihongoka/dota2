@@ -3787,5 +3787,10 @@
     "DOTA_Tooltip_modifier_beastmaster_inner_beast": "Inner Beast",
     "DOTA_Tooltip_modifier_beastmaster_hawk_invisibility": "Invisibility",
     "DOTA_Tooltip_modifier_beastmaster_boar_poison_effect": "Boar Poison",
-    "DOTA_Tooltip_modifier_beastmaster_primal_roar_speed": "Primal Roar"
+    "DOTA_Tooltip_modifier_beastmaster_primal_roar_speed": "Primal Roar",
+    "DOTA_Tooltip_ability_visage_grave_chill": "Grave Chill",
+    "DOTA_Tooltip_ability_visage_soul_assumption_soul_base_damage": "ベースダメージ:",
+    "DOTA_Tooltip_ability_visage_soul_assumption_soul_charge_damage": "チャージ毎のダメージ:",
+    "DOTA_Tooltip_ability_visage_soul_assumption_stack_limit": "最大チャージ数:",
+    "DOTA_Tooltip_ability_visage_stone_form_self_cast_Description": "短時間で、最も近いFamiliarが石となって地面に落下し、範囲内の敵をスタンさせダメージを与える。<br>Familiarは無敵状態になり、HPが急速に回復する。%stone_duration%秒後、Stone Formは自動的に解除される。"
 }
