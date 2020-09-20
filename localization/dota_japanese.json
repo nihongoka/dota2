@@ -250,5 +250,6 @@
     "npc_dota_hero_grimstroke:n": "Grimstroke",
     "npc_dota_hero_mars:n": "Mars",
     "npc_dota_hero_creep_radiant": "",
-    "npc_dota_hero_creep_dire": ""
+    "npc_dota_hero_creep_dire": "",
+    "DOTA_AttackMove": "アタックムーブ / フォースアタック"
 }
