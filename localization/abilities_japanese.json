@@ -3675,5 +3675,17 @@
     "DOTA_Tooltip_modifier_satyr_hellcaller_unholy_aura_bonus_Description": "HP自然回復が毎秒 %dMODIFIER_PROPERTY_HEALTH_REGEN_CONSTANT% 回復する。",
     "DOTA_Tooltip_ability_mud_golem_rock_destroy_Description": "Mud Golemsは死ぬと2体のShard Golemsに分裂する。Shard Golemsは %shard_health_tooltip% のHPを持ち、%shard_damage_tooltip%の攻撃力を持ち、%shard_duration_tooltip% 秒間生き残る。",
     "DOTA_Tooltip_ability_harpy_storm_chain_lightning_Description": "Harpy Stormcrafter は高圧の電気ボルトを対象の敵に向けて放ち、ダメージを与える。電気ボルトは対象の近くにいる他の敵にも跳弾するが、跳弾毎に与えるダメージは減る。",
-    "DOTA_Tooltip_ability_blue_dragonspawn_overseer_devotion_aura_bonus_armor": "ボーナスアーマー:"
+    "DOTA_Tooltip_ability_blue_dragonspawn_overseer_devotion_aura_bonus_armor": "ボーナスアーマー:",
+    "DOTA_Tooltip_ability_troll_warlord_berserkers_rage": "Berserker's Rage",
+    "DOTA_Tooltip_ability_troll_warlord_berserkers_rage_Description": "このアビリティをONにしている間攻撃方法が遠距離攻撃から近接攻撃に変化し、各種ボーナスを得る。近接攻撃に低確率で敵を移動不可状態にする効果を付与し、移動速度・アーマーが増加するが攻撃速度は減少する。\n\nONにしている間Whirling Axesの効果が変化する。",
+    "DOTA_Tooltip_ability_troll_warlord_berserkers_rage_Note0": "遠距離攻撃ユニットか近距離攻撃ユニットかでクールダウンが変化するアイテムのクールダウンは使用時の攻撃方法のものが適用される。",
+    "DOTA_Tooltip_ability_troll_warlord_berserkers_rage_bonus_move_speed": "移動速度ボーナス:",
+    "DOTA_Tooltip_ability_troll_warlord_berserkers_rage_bonus_armor": "アーマーボーナス:",
+    "DOTA_Tooltip_ability_troll_warlord_berserkers_rage_base_attack_time": "近接攻撃モードの基礎攻撃速度:",
+    "DOTA_Tooltip_ability_troll_warlord_berserkers_rage_ensnare_duration": "移動不可時間:",
+    "DOTA_Tooltip_ability_troll_warlord_whirling_axes_ranged": "Whirling Axes (Ranged)",
+    "DOTA_Tooltip_ability_troll_warlord_whirling_axes_ranged_Note0": "Roshanには効かない。",
+    "DOTA_Tooltip_ability_troll_warlord_whirling_axes_ranged_axe_damage": "ダメージ:",
+    "DOTA_Tooltip_ability_troll_warlord_berserkers_rage_ensnare_chance": "%移動不可の発動確率:",
+    "DOTA_Tooltip_ability_troll_warlord_whirling_axes_ranged_Description": "5本の斧を扇状に範囲%axe_range%に投げて敵ユニットにダメージとスローを与える。"
 }
