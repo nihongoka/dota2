@@ -3687,5 +3687,6 @@
     "DOTA_Tooltip_ability_troll_warlord_whirling_axes_ranged_Note0": "Roshanには効かない。",
     "DOTA_Tooltip_ability_troll_warlord_whirling_axes_ranged_axe_damage": "ダメージ:",
     "DOTA_Tooltip_ability_troll_warlord_berserkers_rage_ensnare_chance": "%移動不可の発動確率:",
-    "DOTA_Tooltip_ability_troll_warlord_whirling_axes_ranged_Description": "5本の斧を扇状に範囲%axe_range%に投げて敵ユニットにダメージとスローを与える。"
+    "DOTA_Tooltip_ability_troll_warlord_whirling_axes_ranged_Description": "5本の斧を扇状に範囲%axe_range%に投げて敵ユニットにダメージとスローを与える。",
+    "DOTA_Tooltip_ability_zuus_static_field_damage_health_pct": "%体力減少:"
 }
