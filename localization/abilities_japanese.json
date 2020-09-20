@@ -3629,5 +3629,22 @@
     "DOTA_Tooltip_modifier_ursa_enrage_Description": "%dMODIFIER_PROPERTY_INCOMING_DAMAGE_PERCENTAGE%%%ダメージ軽減.",
     "DOTA_Tooltip_ability_special_bonus_unique_ursa_6": "Enrage に{s:value}% 異常耐性追加",
     "DOTA_Tooltip_ability_polar_furbolg_ursa_warrior_thunder_clap_radius": "範囲:",
-    "DOTA_Tooltip_modifier_polar_furbolg_ursa_warrior_thunder_clap_Description": "移動速度%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%減少 攻撃速度%dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%減少."
+    "DOTA_Tooltip_modifier_polar_furbolg_ursa_warrior_thunder_clap_Description": "移動速度%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%減少 攻撃速度%dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%減少.",
+    "DOTA_Tooltip_ability_medusa_stone_gaze_Note0": "Stone Gazeを発動中でも他のユニットのStone Gazeの影響を受ける。",
+    "DOTA_Tooltip_ability_medusa_stone_gaze_radius": "範囲:",
+    "DOTA_Tooltip_ability_medusa_stone_gaze_slow": "%スロー:",
+    "DOTA_Tooltip_ability_medusa_stone_gaze_bonus_physical_damage": "%物理ダメージボーナス:",
+    "DOTA_Tooltip_ability_medusa_stone_gaze_duration": "効果時間:",
+    "DOTA_Tooltip_ability_medusa_stone_gaze_stone_duration": "石化時間:",
+    "DOTA_Tooltip_ability_medusa_stone_gaze_speed_boost": "%速度ボーナス:",
+    "DOTA_Tooltip_modifier_medusa_mystic_snake_slow": "Mystic Snake",
+    "DOTA_Tooltip_modifier_medusa_mana_shield": "Mana Shield",
+    "DOTA_Tooltip_modifier_medusa_mana_shield_Description": "受けるダメージの一部をマナを消費して無効化している。",
+    "DOTA_Tooltip_modifier_medusa_stone_gaze": "Stone Gaze",
+    "DOTA_Tooltip_modifier_medusa_stone_gaze_Description": "移動速度が%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%上昇しており、Medusaを向いている敵ユニットは攻撃速度と移動速度が減少している。",
+    "DOTA_Tooltip_modifier_medusa_mystic_snake_slow_Description": "移動速度が%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%減少しており、振り向き速度が%dMODIFIER_PROPERTY_TURN_RATE_PERCENTAGE%%%減少している。",
+    "DOTA_Tooltip_modifier_medusa_stone_gaze_facing": "Stone Gaze",
+    "DOTA_Tooltip_modifier_medusa_stone_gaze_facing_Description": "35%のスローを受けている。<br>このままMedusaの方を向き続けると石化する。",
+    "DOTA_Tooltip_modifier_medusa_stone_gaze_stone": "Stone Gaze",
+    "DOTA_Tooltip_modifier_medusa_stone_gaze_stone_Description": "石化している。<br>受ける物理ダメージが%dMODIFIER_PROPERTY_INCOMING_PHYSICAL_DAMAGE_PERCENTAGE%%%増加している。"
 }
