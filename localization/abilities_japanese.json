@@ -3688,7 +3688,7 @@
     "DOTA_Tooltip_ability_troll_warlord_whirling_axes_ranged_axe_damage": "ダメージ:",
     "DOTA_Tooltip_ability_troll_warlord_berserkers_rage_ensnare_chance": "%移動不可の発動確率:",
     "DOTA_Tooltip_ability_troll_warlord_whirling_axes_ranged_Description": "5本の斧を扇状に範囲%axe_range%に投げて敵ユニットにダメージと移動速度減少を与える。",
-    "DOTA_Tooltip_ability_zuus_static_field_damage_health_pct": "%体力減少:",
+    "DOTA_Tooltip_ability_zuus_static_field_damage_health_pct": "HP減少率:",
     "DOTA_Tooltip_ability_troll_warlord_whirling_axes_ranged_axe_slow_duration": "移動速度減少時間:",
     "DOTA_Tooltip_ability_troll_warlord_whirling_axes_ranged_movement_speed": "%移動速度減少量:",
     "DOTA_Tooltip_ability_troll_warlord_whirling_axes_melee": "Whirling Axes (Melee)",
@@ -3727,5 +3727,6 @@
     "DOTA_Tooltip_ability_troll_warlord_battle_trance_scepter_cast_range_tooltip": "セプター対象指定範囲:",
     "DOTA_Tooltip_modifier_troll_warlord_whirling_axes_slow": "Whirling Axesのスロウ",
     "DOTA_Tooltip_modifier_troll_warlord_fervor_Description": "攻撃速度が%dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%増加している。",
-    "DOTA_Tooltip_modifier_troll_warlord_battle_trance_Description": "%dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%攻撃速度ボーナス、 %dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%移動速度ボーナス、ライフスティール、不死状態が付与されている。"
+    "DOTA_Tooltip_modifier_troll_warlord_battle_trance_Description": "%dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%攻撃速度ボーナス、 %dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%移動速度ボーナス、ライフスティール、不死状態が付与されている。",
+    "DOTA_Tooltip_ability_shadow_demon_demonic_purge_Description": "標的となる敵のユニットをパージしてバフを取り除き、一定時間の移動速度減少を与える。標的となったユニットは効果時間終了まで徐々に移動速度を取り戻し、効果時間終了時にダメージを与える。Disrupitionを受けているユニットもDemonic Purgeの対象となりうる。\n\nディスペルタイプ: 基本ディスペル"
 }
