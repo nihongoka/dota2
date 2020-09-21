@@ -4305,5 +4305,13 @@
     "DOTA_Tooltip_ability_special_bonus_unique_clockwerk": "{s:value}s Battery Assault 攻撃間隔",
     "DOTA_Tooltip_ability_special_bonus_unique_clockwerk_2": "+{s:value} Rocket Flare ダメージ",
     "DOTA_Tooltip_ability_special_bonus_unique_clockwerk_3": "+{s:value} Battery Assault ダメージ",
-    "DOTA_Tooltip_ability_naga_siren_mirror_image_Description": "Naga Sirenの鏡像を複数体生成する。<br>\n<br>\nディスペルタイプ: 基本ディスペル"
+    "DOTA_Tooltip_ability_naga_siren_mirror_image_Description": "Naga Sirenの鏡像を複数体生成する。<br>\n<br>\nディスペルタイプ: 基本ディスペル",
+    "DOTA_Tooltip_ability_visage_soul_assumption_stack_duration": "チャージ保持時間:",
+    "DOTA_Tooltip_ability_visage_soul_assumption_damage_limit": "必要ダメージしきい値:",
+    "DOTA_Tooltip_ability_visage_soul_assumption": "Soul Assumption",
+    "DOTA_Tooltip_ability_visage_soul_assumption_radius": "ダメージチャージ範囲:",
+    "DOTA_Tooltip_ability_visage_gravekeepers_cloak": "Gravekeeper's Cloak",
+    "DOTA_Tooltip_ability_visage_grave_chill_movespeed_bonus": "%MOVE SPEED 吸収:",
+    "DOTA_Tooltip_ability_visage_grave_chill_attackspeed_bonus": "攻撃速度吸収:",
+    "DOTA_Tooltip_ability_visage_grave_chill_chill_duration": "効果時間:"
 }
