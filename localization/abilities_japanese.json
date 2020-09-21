@@ -4303,5 +4303,6 @@
     "DOTA_Tooltip_ability_special_bonus_unique_riki_5_Description": "透明看破アイテム以外ではRikiの不可視状態が解除されない。(攻撃等で不可視が解除されない)",
     "DOTA_Tooltip_ability_special_bonus_unique_tusk_4_Description": "通常攻撃に、確率でWalrus Punchが発動するようになる。発動にはマナ消費やクールダウンが伴う。",
     "DOTA_Tooltip_ability_special_bonus_unique_sniper_4": "Assassinate詠唱時間-{s:value}秒",
-    "DOTA_Tooltip_ability_special_bonus_unique_sniper_5": "Shrapnelスロー効果{s:value}%"
+    "DOTA_Tooltip_ability_special_bonus_unique_sniper_5": "Shrapnelスロー効果{s:value}%",
+    "DOTA_Tooltip_ability_item_abyssal_blade_Note1": "他のバッシュと重複しない。"
 }
