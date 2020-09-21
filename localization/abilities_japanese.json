@@ -2525,7 +2525,7 @@
     "DOTA_Tooltip_ability_zuus_thundergods_wrath": "Thundergod's Wrath",
     "DOTA_Tooltip_ability_zuus_thundergods_wrath_Description": "現在地にかかわらず全ての敵ヒーローに稲妻を打ち込む。また、打ち込まれた各ヒーローの周囲のTrue Sightを得る。もし敵ヒーローが透明の場合ダメージを与えませんが、周囲のTrue Sightを得ます。",
     "DOTA_Tooltip_ability_zuus_static_field_Description": "Zeusの呪文は命中したすべての敵を感電させ、敵の現在の体力に比例したダメージを与える。",
-    "DOTA_Tooltip_ability_zuus_static_field_Note1": "アイテムを使用してもStatic Fieldは発生しない。",
+    "DOTA_Tooltip_ability_zuus_static_field_Note1": "アイテムの使用によってStatic Fieldは発生しません。",
     "DOTA_Tooltip_ability_zuus_thundergods_wrath_damage": "ダメージ:",
     "DOTA_Tooltip_ability_zuus_thundergods_wrath_sight_radius_day": "TRUE SIGHT範囲:",
     "DOTA_Tooltip_ability_zuus_cloud": "Nimbus",
