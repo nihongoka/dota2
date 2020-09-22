@@ -4327,5 +4327,11 @@
     "DOTA_Tooltip_ability_doom_bringer_scorched_earth_Description": "近くの敵にダメージを与える炎のカーペットを敷き、移動速度を増加させる。",
     "DOTA_Tooltip_ability_visage_grave_chill_Note0": "対象とVisageのバフはそれぞれディスペルできる。",
     "DOTA_Tooltip_ability_visage_grave_chill_Note1": "対象の速度低下とは独立して速度上昇効果を得る。",
-    "DOTA_Tooltip_ability_visage_grave_chill_Note2": "Grave Chillを使うとVisageから%radius%以内のFamiliarも同様のボーナスを受ける。"
+    "DOTA_Tooltip_ability_visage_grave_chill_Note2": "Grave Chillを使うとVisageから%radius%以内のFamiliarも同様のボーナスを受ける。",
+    "DOTA_Tooltip_ability_shredder_chakram_2_Note1": "２つチャクラムによるスロウ効果は重複しない。",
+    "DOTA_Tooltip_ability_shredder_chakram_2_radius": "範囲:",
+    "DOTA_Tooltip_ability_shredder_chakram_2_pass_damage": "通過時ダメージ:",
+    "DOTA_Tooltip_ability_shredder_chakram_2_mana_per_second": "持続マナコスト:",
+    "DOTA_Tooltip_ability_shredder_chakram_2_damage_per_second": "持続ダメージ:",
+    "DOTA_Tooltip_ability_shredder_return_chakram_2_Description": "Timbersawにチャクラムを引き戻す。"
 }
