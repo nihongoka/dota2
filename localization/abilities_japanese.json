@@ -4313,5 +4313,16 @@
     "DOTA_Tooltip_ability_visage_gravekeepers_cloak": "Gravekeeper's Cloak",
     "DOTA_Tooltip_ability_visage_grave_chill_movespeed_bonus": "%MOVE SPEED 吸収:",
     "DOTA_Tooltip_ability_visage_grave_chill_attackspeed_bonus": "攻撃速度吸収:",
-    "DOTA_Tooltip_ability_visage_grave_chill_chill_duration": "効果時間:"
+    "DOTA_Tooltip_ability_visage_grave_chill_chill_duration": "効果時間:",
+    "DOTA_Tooltip_ability_doom_bringer_devour_Description": "敵もしくは中立のクリープを消費し、そのクリープが持っていた特殊能力を獲得する。オートキャストが無効化されている場合、Doomはクリープの能力を取得しない。スキルの効果時間中、ボーナスの体力自然回復を付与する。持続時間はクールダウンに等しい。",
+    "DOTA_Tooltip_ability_doom_bringer_devour_Note0": "Doomにクリープ本来のキルゴールドをボーナスゴールドと一緒に与える。",
+    "DOTA_Tooltip_ability_doom_bringer_devour_Note1": "能力のないクリープをむさぼっても、それまで持っていた能力は維持されます。",
+    "DOTA_Tooltip_ability_doom_bringer_devour_creep_level": "最大クリープレベル:",
+    "DOTA_Tooltip_ability_doom_bringer_devour_bonus_gold": "ボーナスゴールド:",
+    "DOTA_Tooltip_ability_doom_bringer_devour_regen": "HP自然回復:",
+    "DOTA_Tooltip_ability_doom_bringer_scorched_earth_Note0": "Scorched EarthはDoomを中心に、Doomの後を追う。",
+    "DOTA_Tooltip_ability_doom_bringer_scorched_earth_damage_per_second": "ダメージ:",
+    "DOTA_Tooltip_ability_doom_bringer_scorched_earth_radius": "範囲:",
+    "DOTA_Tooltip_ability_doom_bringer_scorched_earth_bonus_movement_speed_pct": "%ボーナス移動速度:",
+    "DOTA_Tooltip_ability_doom_bringer_scorched_earth_Description": "近くの敵にダメージを与える炎のカーペットを敷き、移動速度を増加させる。"
 }
