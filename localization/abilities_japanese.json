@@ -2273,7 +2273,7 @@
     "DOTA_Tooltip_ability_chen_divine_favor_heal_rate": "HPリジェネボーナス:",
     "DOTA_Tooltip_ability_chen_divine_favor_teleport_delay": "テレポート待ち時間:",
     "DOTA_Tooltip_ability_batrider_flaming_lasso_aghanim_description": "Flaming Lassoは敵2人を拘束するようになる。",
-    "DOTA_Tooltip_modifier_batrider_sticky_napalm_Description": "sticky napalm使用者から受けるダメージが%dMODIFIER_PROPERTY_TOOLTIP%上昇、<br>振り向き速度が%dMODIFIER_PROPERTY_TURN_RATE_PERCENTAGE%%%減少、<br>移動速度が%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%減少。",
+    "DOTA_Tooltip_modifier_batrider_sticky_napalm_Description": "Sticky Napalm使用者から受けるダメージが%dMODIFIER_PROPERTY_TOOLTIP%上昇、\n振り向き速度が%dMODIFIER_PROPERTY_TURN_RATE_PERCENTAGE%%%減少、\n移動速度が%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%減少。",
     "DOTA_Tooltip_ability_chen_penitence_Description": "指定した敵を遅くし、それを攻撃する味方を速くする。",
     "DOTA_Tooltip_ability_chen_divine_favor_Description": "パッシブ効果:周囲の味方ユニットのHPリジェネを増加させ、より大きく回復効果を受けるオーラを出す。\n\nアクティブ効果:指定した味方を6秒後に自分のそばにテレポートさせる。自分に使った場合、操作している中立ユニットを自分のそばにテレポートさせる。指定した味方が6秒以内にダメージを受けた場合、テレポートが中断される。",
     "DOTA_Tooltip_ability_invoker_tornado_base_damage": "ベースダメージ:",
