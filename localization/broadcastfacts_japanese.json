@@ -1,3 +1,6 @@
 {
-    "DOTA_BroadcastFact_AbilityMovie_viper_viper_strike": "対象にスローと持続ダメージを与える。"
+    "DOTA_BroadcastFact_AbilityMovie_viper_viper_strike": "対象にスローと持続ダメージを与える。",
+    "DOTA_BroadcastFact_AbilityMovie_disruptor_glimpse": "対象のヒーローを数秒前に居た地点に戻す。",
+    "DOTA_BroadcastFact_AbilityMovie_oracle_fates_edict": "ターゲットを武装解除させ100%の魔法耐性を与える。敵と味方に使用できる。",
+    "DOTA_BroadcastFact_AbilityMovie_oracle_false_promise": "効果が切れるまで、回復あるいは受けるダメージを遅らせる。遅れた回復は2倍となる。"
 }
