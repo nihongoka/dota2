@@ -4413,5 +4413,13 @@
     "DOTA_Tooltip_ability_obsidian_destroyer_essence_aura_Description": "近くにいる味方のヒーローやOutworld Devourer自身がスペルを唱えるたびに、そのヒーローは自分のマナプールの何％かを回復するチャンスを得る。  Outworld Devourerはまた、パッシブでベースマナプールにボーナスを得る。  クールダウンがなく、トグル可能ないくつかのスキルは、Essence Auraを発動できない。",
     "DOTA_Tooltip_ability_obsidian_destroyer_sanity_eclipse_Description": "自分のマナと対象のマナの差に応じて敵にダメージを与えるサイキックブラストを放つ。Sanity's EclipseはAstral Imprisonmentで罠にかかったユニットにヒットさせることができる。\n <h1>チャージカウンター</h1> EclipseはこのバフのチャージごとにOutworld Devourerの最大マナを増加させる。チャージはヒーローに対して、Arcane Orbに当たるごとに1回、Astral imprisonmentに当たるごとに3回得ることができる。各チャージは既存の持続時間を補充する。",
     "DOTA_Tooltip_modifier_obsidian_destroyer_essence_aura_effect_Description": "スペルを唱えた後、あなたのマナプールの何％かを回復するチャンスがあります。",
-    "DOTA_Tooltip_modifier_obsidian_destroyer_astral_imprisonment_charge_counter_Description": "チャージが空いている時はいつでもAstral Imprisonmentをキャストすることができます。"
+    "DOTA_Tooltip_modifier_obsidian_destroyer_astral_imprisonment_charge_counter_Description": "チャージが空いている時はいつでもAstral Imprisonmentをキャストすることができます。",
+    "DOTA_Tooltip_ability_keeper_of_the_light_illuminate_Description": "光のエネルギーを詠唱する。Releaseすることで空中視野を与える光の波が送り出され、詠唱時間に比例したダメージを与える。",
+    "DOTA_Tooltip_ability_keeper_of_the_light_illuminate_Note0": "チャネリング時間に比例して視野を増加させる。",
+    "DOTA_Tooltip_ability_keeper_of_the_light_illuminate_max_channel_time": "最大チャネリング時間:",
+    "DOTA_Tooltip_ability_keeper_of_the_light_illuminate_range": "範囲:",
+    "DOTA_Tooltip_ability_keeper_of_the_light_illuminate_end_Description": "早めにチャンネリングを解放しましょう。",
+    "DOTA_Tooltip_ability_keeper_of_the_light_chakra_magic_Description": "対象のユニットのマナを回復し、現在クールダウン中の全てのアビリティのクールダウンを一定量減少させる。敵にキャストすることができ、100の移動につき現在のマナの%mana_leak_pct%%%を消費するデバフを付与する。",
+    "DOTA_Tooltip_ability_keeper_of_the_light_chakra_magic_cooldown_reduction": "クールダウン減少:",
+    "DOTA_Tooltip_ability_keeper_of_the_light_chakra_magic_duration": "敵キャスト時効果時間:"
 }
