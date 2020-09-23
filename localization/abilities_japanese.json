@@ -4421,5 +4421,13 @@
     "DOTA_Tooltip_ability_keeper_of_the_light_illuminate_end_Description": "早めにチャンネリングを解放しましょう。",
     "DOTA_Tooltip_ability_keeper_of_the_light_chakra_magic_Description": "対象のユニットのマナを回復し、現在クールダウン中の全てのアビリティのクールダウンを一定量減少させる。敵にキャストすることができ、100の移動につき現在のマナの%mana_leak_pct%%%を消費するデバフを付与する。",
     "DOTA_Tooltip_ability_keeper_of_the_light_chakra_magic_cooldown_reduction": "クールダウン減少:",
-    "DOTA_Tooltip_ability_keeper_of_the_light_chakra_magic_duration": "敵キャスト時効果時間:"
+    "DOTA_Tooltip_ability_keeper_of_the_light_chakra_magic_duration": "敵キャスト時効果時間:",
+    "DOTA_Tooltip_ability_alchemist_unstable_concoction_Description": "敵に投げつけられる不安定な薬品を調合し、爆発した地点周辺にスタンとダメージを与える。調合時間を増やすほど、ダメージとスタン時間も増える。%brew_time% 秒以上調合すると、最大品質の薬効を得る。ただし、投げつけずに %brew_explosion% 秒以上調合を続けてしまうと、薬品は Alchemist の手元で爆発してしまう。",
+    "DOTA_Tooltip_ability_alchemist_unstable_concoction_Note0": "調合中、このアビリティは Unstable Concoction Throw に置き換わる。Alchemist は調合中も普段通りに移動や行動が可能。",
+    "DOTA_Tooltip_ability_alchemist_unstable_concoction_Note1": "Alchemist の頭上に調合の残り時間が表示される。このタイマーは敵からも視認可能。",
+    "DOTA_Tooltip_ability_alchemist_unstable_concoction_Note2": "このスキルで自殺が可能。",
+    "DOTA_Tooltip_ability_alchemist_unstable_concoction_Note3": "Unstable Concoction はディスジョイント不可。",
+    "DOTA_Tooltip_ability_alchemist_chemical_rage_Description": "Alchemist は自身のオーガを化学的に誘発した憤怒へ引き込み、基礎攻撃クールダウンを減少させ移動速度とHP自然回復を増加させる。\n\nディスペルタイプ: 基本ディスペル",
+    "DOTA_Tooltip_ability_alchemist_unstable_concoction_Note4": "投げつけると、Unstable Concoction の調合は切り上げられる。",
+    "DOTA_Tooltip_ability_alchemist_goblins_greed_Description": "Alchemist が敵やバウンティルーンから追加ゴールドを錬金する。殺す度に、Alchemist は基礎ボーナスゴールドと余剰ボーナスゴールドを得る。Alchemist が次の %duration% 秒までにゴールドを落とす別のユニットを殺すと、余剰ボーナスゴールドの追加分が合計に加算される。また、バウンティルーンからより多くのゴールドを得られるようになる。"
 }
