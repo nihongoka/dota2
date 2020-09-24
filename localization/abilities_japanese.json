@@ -4563,5 +4563,6 @@
     "DOTA_Tooltip_ability_alchemist_chemical_rage_bonus_health_regen": "追加 HP 回復:",
     "DOTA_Tooltip_ability_alchemist_chemical_rage_bonus_movespeed": "追加移動速度:",
     "DOTA_Tooltip_ability_alchemist_chemical_rage_scepter_bonus_damage": "SCEPTER 追加ダメージ:",
-    "DOTA_Tooltip_modifier_alchemist_scepter_bonus_damage_Description": "味方に与えた Aghanim's Scepter から %dMODIFIER_PROPERTY_PREATTACK_BONUS_DAMAGE% 追加攻撃力と %dMODIFIER_PROPERTY_SPELL_AMPLIFY_PERCENTAGE%%% スペル増幅を得ている。"
+    "DOTA_Tooltip_modifier_alchemist_scepter_bonus_damage_Description": "味方に与えた Aghanim's Scepter から %dMODIFIER_PROPERTY_PREATTACK_BONUS_DAMAGE% 追加攻撃力と %dMODIFIER_PROPERTY_SPELL_AMPLIFY_PERCENTAGE%%% スペル増幅を得ている。",
+    "DOTA_Tooltip_ability_huskar_inner_vitality": "Inner Vitality"
 }
