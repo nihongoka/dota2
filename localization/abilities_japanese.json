@@ -4600,5 +4600,6 @@
     "DOTA_Tooltip_ability_winter_wyvern_arctic_burn_Description": "Winter Wyvernは北極の風に乗って空を舞い、地形を無視して移動できる。舞い上がっている間、彼女の攻撃はより遠くへ、より速く移動し、魔法のフリーズで敵の動きを鈍らせ、1秒ごとに現在のヘルスの%percent_damage%%%を奪う。また、彼女の視力は夜の寒気に対して強化されており、夜空に舞い上がっている間、視界の範囲が%night_vision_bonus%増加している。",
     "DOTA_Tooltip_ability_winter_wyvern_splinter_blast_Description": "脆い氷のボールを敵に向けて発射する。氷は衝撃で砕け散り、メインターゲットには何の影響も与えないが、半径 %split_radius% の範囲内にいる近くの敵にダメージを与える破片を飛ばす。これらの破片を受けた敵は %movespeed_slow_tooltip%%% の速度低下を受ける。",
     "DOTA_Tooltip_ability_winter_wyvern_winters_curse_Description": "Winter Wyvernは敵をその場で凍らせ、対象の近くにいる敵に呪いをかけ、凍った味方に攻撃速度を上げて攻撃させる。凍結した味方と呪いをかけられた味方は、Winter Wyvernや彼女がコントロールしているユニットを除いて、敵からのダメージを受けない。",
-    "DOTA_Tooltip_modifier_winter_wyvern_cold_embrace_Description": "物理攻撃の耐性を得て、同時に体力が自然回復している。"
+    "DOTA_Tooltip_modifier_winter_wyvern_cold_embrace_Description": "物理攻撃の耐性を得て、同時に体力が自然回復している。",
+    "DOTA_Tooltip_modifier_ti9_monkey_poop": "Simian Steamer"
 }
