@@ -4740,5 +4740,12 @@
     "DOTA_Tooltip_ability_broodmother_spawn_spiderite_Description": "攻撃した敵ユニットがこのアビリティの効果時間中に死んだとき、死体からspideriteが生まれる。",
     "DOTA_Tooltip_modifier_broodmother_spin_web_Description": "HP自然回復が%dMODIFIER_PROPERTY_HEALTH_REGEN_CONSTANT%増加し、移動速度が%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%増加している。",
     "DOTA_Tooltip_modifier_broodmother_incapacitating_bite_orb_Description": "攻撃が%dMODIFIER_PROPERTY_MISS_PERCENTAGE%%%の確率で失敗し、移動速度が%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%減少している。",
-    "DOTA_Tooltip_modifier_broodmother_poison_sting_debuff_Description": "1秒ごとに%dMODIFIER_PROPERTY_TOOLTIP%ダメージを受け、移動速度が%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%減少している。"
+    "DOTA_Tooltip_modifier_broodmother_poison_sting_debuff_Description": "1秒ごとに%dMODIFIER_PROPERTY_TOOLTIP%ダメージを受け、移動速度が%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%減少している。",
+    "DOTA_Tooltip_ability_disruptor_static_storm_Description": "Static Stormを発生させ、範囲内の敵をサイレンス状態にし、ダメージを与える。<br>ダメージは時間経過で徐々に　大きくなる。",
+    "DOTA_Tooltip_ability_disruptor_static_storm_radius": "範囲:",
+    "DOTA_Tooltip_ability_disruptor_static_storm_damage_max": "毎秒最大ダメージ:",
+    "DOTA_Tooltip_ability_disruptor_static_storm_duration": "効果時間:",
+    "DOTA_Tooltip_ability_disruptor_static_storm_pulses": "与ダメージ回数:",
+    "DOTA_Tooltip_ability_disruptor_static_storm_duration_scepter": "Scepter効果時間:",
+    "DOTA_Tooltip_ability_disruptor_static_storm_pulses_scepter": "Scepter与ダメージ回数:"
 }
