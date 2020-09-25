@@ -2016,7 +2016,6 @@
     "DOTA_Tooltip_ability_zuus_lightning_bolt_Description": "敵ユニットに稲妻を打ち込み、ダメージとミニスタンを与える。打ち込んだ地点から%sight_radius_night%の範囲内に、遮るもののない視界とTrue Sightを一時的に得ることができる。地面に打つことができ、%spread_aoe%の範囲内にいる最も近い敵ヒーローにダメージを与える。",
     "DOTA_Tooltip_ability_morphling_morph_replicate_Description": "複製した敵の姿と元の自分の姿を切り替える。",
     "DOTA_Tooltip_ability_morphling_hybrid": "Hybrid",
-    "DOTA_Tooltip_ability_morphling_hybrid_Description": "-",
     "DOTA_Tooltip_ability_morphling_hybrid_duration": "効果時間:",
     "DOTA_Tooltip_modifier_morphling_morph_Description": "STR: %-dMODIFIER_PROPERTY_STATS_STRENGTH_BONUS%<br>\nAGI: %-dMODIFIER_PROPERTY_STATS_AGILITY_BONUS%",
     "DOTA_Tooltip_modifier_morphling_replicate_timer": "Morph Clone Timer",
