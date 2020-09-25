@@ -251,5 +251,6 @@
     "npc_dota_hero_mars:n": "Mars",
     "npc_dota_hero_creep_radiant": "",
     "npc_dota_hero_creep_dire": "",
-    "DOTA_AttackMove": "アタックムーブ / フォースアタック"
+    "DOTA_AttackMove": "アタックムーブ / フォースアタック",
+    "npc_dota_hero_bristleback_hype": "Bristleback は戦闘になると、戦闘から本当に背を向ける。背中と側面で受けるすべてのダメージを減少し、注意深く戦闘に身を乗り出し、針を噴射しダメージを与え、鼻水でスローをかける。"
 }
