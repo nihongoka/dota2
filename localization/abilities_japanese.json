@@ -4939,5 +4939,9 @@
     "DOTA_Tooltip_ability_techies_suicide_Description": "敵の真っ只中に突っ込み、衝撃で起爆し広範囲に及ぶダメージとサイレンスを与える。着弾時にTechiesは最大HPの50%のダメージを受ける。",
     "DOTA_Tooltip_ability_techies_remote_mines_aghanim_description": "ダメージとキャスト範囲が増加する。",
     "DOTA_Tooltip_ability_special_bonus_unique_techies": "+{s:value} Blast Off! ダメージ",
-    "DOTA_Tooltip_ability_special_bonus_unique_techies_3": "-{s:value}s Proximity Mines クールダウン"
+    "DOTA_Tooltip_ability_special_bonus_unique_techies_3": "-{s:value}s Proximity Mines クールダウン",
+    "DOTA_Tooltip_modifier_shredder_whirling_death_debuff_Description": "メイン属性の数値を一定量失う。",
+    "DOTA_Tooltip_modifier_shredder_reactive_armor_Description": "スタック毎にボーナスアーマーとHP自然回復を得る。",
+    "DOTA_Tooltip_modifier_shredder_chakram_debuff_Description": "Chakramは持続ダメージと移動速度減少を付与する。",
+    "DOTA_Tooltip_modifier_shredder_chakram_disarm_Description": "Chakramが浮遊していた場合、通常攻撃ができない。"
 }
