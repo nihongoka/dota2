@@ -5227,5 +5227,6 @@
     "DOTA_Tooltip_modifier_ice_vortex_Description": "スローを受け、追加の魔法ダメージを受ける",
     "DOTA_Tooltip_modifier_chilling_touch_Description": "攻撃は追加の魔法ダメージを与え、敵を一時的に減速させる。",
     "DOTA_Tooltip_modifier_chilling_touch_slow_Description": "移動速度%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%減少。",
-    "DOTA_Tooltip_modifier_ice_blast_Description": "時間をかけてダメージを受け、HPを回復したり自然回復したりすることはできません。 <br>HPが低くなりすぎると即座に粉砕されます。"
+    "DOTA_Tooltip_modifier_ice_blast_Description": "時間をかけてダメージを受け、HPを回復したり自然回復したりすることはできません。 <br>HPが低くなりすぎると即座に粉砕されます。",
+    "DOTA_Tooltip_ability_pangolier_swashbuckle_Description": "ベクトル指定。指定した軌道を走り抜け、描いた方向上のすべての敵を素早いスワイプで数回切り裂く。\n\nLucky Shot はこのダメージでも発動するチャンスがある。"
 }
