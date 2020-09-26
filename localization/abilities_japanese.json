@@ -5221,5 +5221,11 @@
     "DOTA_Tooltip_ability_snapfire_spit_creep_burn_damage": "1秒あたりの燃焼ダメージ:",
     "DOTA_Tooltip_ability_snapfire_spit_creep_move_slow_pct": "%敵の移動速度減少:",
     "DOTA_Tooltip_ability_snapfire_spit_creep_burn_ground_duration": "火の海持続時間:",
-    "DOTA_Tooltip_ability_snapfire_spit_creep_stun_duration": "スタン時間:"
+    "DOTA_Tooltip_ability_snapfire_spit_creep_stun_duration": "スタン時間:",
+    "DOTA_Tooltip_modifier_cold_feet_Description": "周期的なダメージを受け、動かなければその場で凍りつく",
+    "DOTA_Tooltip_modifier_ancientapparition_coldfeet_freeze_Description": "Ancient Apparitionに凍らされた。",
+    "DOTA_Tooltip_modifier_ice_vortex_Description": "スローを受け、追加の魔法ダメージを受ける",
+    "DOTA_Tooltip_modifier_chilling_touch_Description": "攻撃は追加の魔法ダメージを与え、敵を一時的に減速させる。",
+    "DOTA_Tooltip_modifier_chilling_touch_slow_Description": "移動速度%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%減少。",
+    "DOTA_Tooltip_modifier_ice_blast_Description": "時間をかけてダメージを受け、HPを回復したり自然回復したりすることはできません。 <br>HPが低くなりすぎると即座に粉砕されます。"
 }
