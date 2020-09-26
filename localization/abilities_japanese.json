@@ -5068,5 +5068,18 @@
     "DOTA_Tooltip_ability_shredder_reactive_armor_bonus_armor": "ボーナスアーマー:",
     "DOTA_Tooltip_ability_shredder_reactive_armor_bonus_hp_regen": "ボーナスHP回復:",
     "DOTA_Tooltip_ability_shredder_reactive_armor_stack_limit": "最大スタック:",
-    "DOTA_Tooltip_ability_shredder_reactive_armor_stack_duration": "スタック持続時間:"
+    "DOTA_Tooltip_ability_shredder_reactive_armor_stack_duration": "スタック持続時間:",
+    "DOTA_Tooltip_ability_shredder_chakram_2_Description": "その場で回転し続けるサブの鋸刃を指定地点に発射し、周囲にダメージを与える。さらに、巻き込まれた敵は体力が %slow_health_percentage%%% 減少するごとに、移動速度も減少する。刃はダメージを与え伸縮時の進路上の木を伐採する。使用時はマナを消費し続け、通常攻撃ができなくなる。",
+    "DOTA_Tooltip_ability_shredder_chakram_Description": "その場で回転し続けるメインの鋸刃を指定地点に発射し、周囲にダメージを与える。鋸刃に巻き込まれた敵は体力が %slow_health_percentage%%% 減少するごとに移動速度も減少する。刃はダメージを与え伸縮時の進路上の木を伐採する。使用時はマナを消費し続け、通常攻撃ができなくなる。",
+    "DOTA_Tooltip_ability_shredder_chakram_Note0": "Chakram はマナが無くなるか %break_distance% 以上離れると自動的に手元に戻る。",
+    "DOTA_Tooltip_ability_shredder_chakram_radius": "範囲:",
+    "DOTA_Tooltip_ability_shredder_chakram_pass_damage": "PASS ダメージ:",
+    "DOTA_Tooltip_ability_shredder_chakram_damage_per_second": "ダメージ/秒:",
+    "DOTA_Tooltip_ability_shredder_chakram_slow": "%減速:",
+    "DOTA_Tooltip_ability_shredder_chakram_mana_per_second": "マナ/秒:",
+    "DOTA_Tooltip_ability_shredder_chakram_aghanim_description": "Chakram をもう一つ得る。",
+    "DOTA_Tooltip_ability_shredder_return_chakram_Description": "Chakram を手元に戻す。",
+    "DOTA_Tooltip_ability_shredder_chakram_2_Note0": "Chakram はマナが無くなるか %break_distance% 以上離れると自動的に手元に戻る。",
+    "DOTA_Tooltip_ability_shredder_chakram_2_slow": "%減速:",
+    "DOTA_Tooltip_modifier_shredder_timber_chain_Description": "進路上のすべての敵にダメージを与える。"
 }
