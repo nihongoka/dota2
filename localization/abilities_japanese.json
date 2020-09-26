@@ -5044,7 +5044,7 @@
     "DOTA_Tooltip_ability_special_bonus_unique_oracle_4_Description": "False Promiseを使用した対象に不可視効果を追加する。False Promiseが終了するまで続く。消えるまで0.6秒かかる。",
     "DOTA_Tooltip_ability_special_bonus_unique_oracle_5": "-{s:value}s Purifying Flames クールダウン",
     "DOTA_Tooltip_ability_special_bonus_unique_oracle_6": "-{s:value}s False Promise クールダウン",
-    "DOTA_Tooltip_ability_special_bonus_unique_oracle_7": "-{s:value}s Fortune's End <br>最大チャネリング時間",
+    "DOTA_Tooltip_ability_special_bonus_unique_oracle_7": "-{s:value}s Fortune's End 最大チャネリング時間",
     "DOTA_Tooltip_ability_centaur_khan_endurance_aura_bonus_attack_speed": "攻撃速度:",
     "DOTA_Tooltip_ability_centaur_khan_endurance_aura_radius": "範囲:",
     "DOTA_Tooltip_ability_centaur_khan_war_stomp_Description": "Centaur Conquerorの強力な蹄が地面を踏みつけ、周囲の敵にスタンとダメージを与える。ヒーローはスタンから素早く復帰する。",
