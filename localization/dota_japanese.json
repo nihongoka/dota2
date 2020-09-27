@@ -252,5 +252,10 @@
     "npc_dota_hero_creep_radiant": "",
     "npc_dota_hero_creep_dire": "",
     "DOTA_AttackMove": "アタックムーブ / フォースアタック",
-    "npc_dota_hero_bristleback_hype": "Bristleback は戦闘になると、戦闘から本当に背を向ける。背中と側面で受けるすべてのダメージを減少し、注意深く戦闘に身を乗り出し、針を噴射しダメージを与え、鼻水でスローをかける。"
+    "npc_dota_hero_bristleback_hype": "Bristleback は戦闘になると、戦闘から本当に背を向ける。背中と側面で受けるすべてのダメージを減少し、注意深く戦闘に身を乗り出し、針を噴射しダメージを与え、鼻水でスローをかける。",
+    "DOTA_MainMenu_Store": "ストア",
+    "DOTA_MainMenu_Learn": "修練",
+    "DOTA_MainMenu_Mods": "アーケード",
+    "DOTA_MainMenu_Heroes": "ヒーロー",
+    "DOTA_MainMenu_Watch": "観戦"
 }
