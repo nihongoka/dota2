@@ -16,18 +16,25 @@ def default(data):
 def simple(key):
     return lambda data: data[key]
 
+def remove_special_key(tokens):
+    del tokens['DOTA_GiftedItems']
+    del tokens['DOTA_GifterText_Random']
+    del tokens['DOTA_GifterText_All']
+    del tokens['DOTA_GifterText_SelfOpen']
+    del tokens['DOTA_GifterText_Title']
+
 files = [
-    ('abilities', default),
-    ('broadcastfacts', default),
-    ('chat', default),
-    ('dota', default),
-    ('gameui', default),
-    ('hero_chat_wheel', simple('hero_chat_wheel')),
-    ('hero_lore', default),
+    ('abilities', default, None),
+    ('broadcastfacts', default, None),
+    ('chat', default, None),
+    ('dota', default, remove_special_key),
+    ('gameui', default, None),
+    ('hero_chat_wheel', simple('hero_chat_wheel'), None),
+    ('hero_lore', default, None),
 #   huge
 #   ('items', default),
-    ('leagues', simple('leagues')),
-    ('richpresence', default),
+    ('leagues', simple('leagues'), None),
+    ('richpresence', default, None),
 #   useless?
 #   ('patchnotes/patchnotes', simple('patch')),
 ]
@@ -42,5 +49,7 @@ for file in files:
     with urllib.request.urlopen(req) as res:
         data = vdf.loads(res.read().decode())
         tokens = file[1](data)
+        if file[2]:
+            file[2](tokens)
         with open('localization/' + file[0] + '_english' + '.json', 'w') as fw:
             json.dump(tokens, fw, indent=4)
