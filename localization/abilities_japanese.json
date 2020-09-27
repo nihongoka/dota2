@@ -5267,5 +5267,7 @@
     "DOTA_Tooltip_modifier_gyrocopter_rocket_barrage_Description": "ロケットを一斉発射している。",
     "DOTA_Tooltip_modifier_gyrocopter_homing_missile_charge_counter": "Homing Missileのチャージ数",
     "DOTA_Tooltip_modifier_gyrocopter_flak_cannon_Description": "近くのすべてのターゲットに攻撃する。",
-    "DOTA_Tooltip_modifier_gyrocopter_call_down_slow_Description": "Gyrocopterのロケットで%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%移動速度低下。"
+    "DOTA_Tooltip_modifier_gyrocopter_call_down_slow_Description": "Gyrocopterのロケットで%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%移動速度低下。",
+    "DOTA_Tooltip_ability_wisp_spirits_Description": "Ioを中心に円を描くように舞う精霊を5体召喚する。精霊が敵ヒーローに衝突すると爆発し、周囲の敵にダメージを与える。Creepに衝突した際には軽いダメージを与えますが爆発はしない。持続時間が終了した時に残存した精霊はすべて爆発する。",
+    "DOTA_Tooltip_ability_wisp_spirits_Note0": "召喚後、精霊との距離感を調整できる。"
 }
