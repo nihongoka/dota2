@@ -3056,7 +3056,7 @@
     "DOTA_Tooltip_ability_slardar_amplify_damage_duration": "効果時間:",
     "DOTA_Tooltip_modifier_slardar_sprint_river_Description": "川にいる間移動速度が増加する",
     "DOTA_Tooltip_modifier_slardar_sprint_Description": "%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%移動速度増加。",
-    "DOTA_Tooltip_modifier_slardar_amplify_damage_Description": "アーマーが%dMODIFIER_PROPERTY_PHYSICAL_ARMOR_BONUS%減少する。\nSlardarにTrue Sightを与えている。",
+    "DOTA_Tooltip_modifier_slardar_amplify_damage_Description": "アーマーが%dMODIFIER_PROPERTY_PHYSICAL_ARMOR_BONUS%減少する。\nSlardarにTrue Sightを与える。",
     "DOTA_Tooltip_modifier_slardar_bash_active_Description": "4回攻撃するごとにバッシュが発生する。",
     "DOTA_Tooltip_ability_dazzle_shadow_wave_damage": "ダメージ：",
     "DOTA_Tooltip_modifier_dazzle_bad_juju_armor_Description": "%fMODIFIER_PROPERTY_PHYSICAL_ARMOR_BONUS%アーマー減少",
@@ -5434,5 +5434,14 @@
     "DOTA_Tooltip_ability_undying_flesh_golem_slow": "%スロー:",
     "DOTA_Tooltip_modifier_undying_decay_buff_Description": "%dMODIFIER_PROPERTY_EXTRA_STRENGTH_BONUS% strengthを奪っている。",
     "DOTA_Tooltip_ability_undying_tombstone_Description": "tombstoneを指定地点に召喚する。Zombiesは範囲内の全敵ユニットの隣に次々と生まれ、攻撃する。ZombiesはDeathlustスキルを持ち、攻撃は対象にスローを与える。ターゲットの体力が一定未満になると、Zombieの攻撃速度と移動速度が上昇する。",
-    "DOTA_Tooltip_ability_undying_tombstone_zombie_deathstrike_Description": "攻撃が敵ユニットにスローを与える。攻撃を受けたユニットの体力がしきい値未満になると、zombieの移動速度と攻撃速度は強化を受ける。"
+    "DOTA_Tooltip_ability_undying_tombstone_zombie_deathstrike_Description": "攻撃が敵ユニットにスローを与える。攻撃を受けたユニットの体力がしきい値未満になると、zombieの移動速度と攻撃速度は強化を受ける。",
+    "DOTA_Tooltip_ability_slardar_bash": "Bash of the Deep",
+    "DOTA_Tooltip_ability_slardar_amplify_damage": "Corrosive Haze",
+    "DOTA_Tooltip_modifier_slardar_sprint_river": "Guardian Sprint River",
+    "DOTA_Tooltip_modifier_slardar_sprint": "Guardian Sprint",
+    "DOTA_Tooltip_modifier_necrolyte_reapers_scythe": "Reaper's Scythe",
+    "DOTA_Tooltip_ability_slardar_sprint": "Guardian Sprint",
+    "DOTA_Tooltip_modifier_slithereen_crush": "Slithereen Crush",
+    "DOTA_Tooltip_ability_slardar_slithereen_crush": "Slithereen Crush",
+    "DOTA_Tooltip_Ability_item_dimensional_doorway_Description": "<h1>Active</h1> マップ上のどこかへ即座にテレポートをする。"
 }
