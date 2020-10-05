@@ -5641,5 +5641,8 @@
     "DOTA_Tooltip_rune_bounty_description": "ボーナスゴールドを獲得する。",
     "DOTA_Tooltip_modifier_rune_doubledamage_Description": "ベースダメージを%dMODIFIER_PROPERTY_BASEDAMAGEOUTGOING_PERCENTAGE%%%増加させる",
     "DOTA_Tooltip_modifier_rune_regen": "ルーンで回復中",
-    "DOTA_Tooltip_modifier_rune_arcane": "アルケーン"
+    "DOTA_Tooltip_modifier_rune_arcane": "アルケーン",
+    "DOTA_Tooltip_rune_unknown": "不明",
+    "DOTA_Tooltip_rune_unknown_description": "不明なルーン",
+    "DOTA_Tooltip_modifier_rune_doubledamage": "ダブルダメージ"
 }
