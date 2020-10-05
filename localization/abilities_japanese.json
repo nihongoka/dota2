@@ -5636,5 +5636,7 @@
     "DOTA_Tooltip_modifier_pangolier_gyroshell_ricochet": "跳ねっ返り!",
     "DOTA_Tooltip_modifier_pangolier_luckyshot_disarm": "Lucky Shot",
     "DOTA_Tooltip_rune_invisibility_description": "45秒間透明状態になっている。 この状態は、通常攻撃するか、スキルまたはアイテムを使用することによって解除される。",
-    "DOTA_Tooltip_rune_regeneration_description": "効果時間中、体力とマナを最大値まで回復する。"
+    "DOTA_Tooltip_rune_regeneration_description": "効果時間中、体力とマナを最大値まで回復する。",
+    "DOTA_Tooltip_rune_bounty": "バウンティー",
+    "DOTA_Tooltip_rune_bounty_description": "ボーナスゴールドを獲得します。"
 }
