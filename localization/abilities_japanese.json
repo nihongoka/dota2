@@ -1493,7 +1493,7 @@
     "DOTA_Tooltip_modifier_windrunner_windrun_invis": "Windrun 不可視化",
     "DOTA_Tooltip_modifier_windrunner_windrun_charge_counter": "Windrunチャージ",
     "DOTA_Tooltip_ability_lion_voodoo": "Hex",
-    "DOTA_Tooltip_ability_lion_mana_drain_duration": "効果時間:",
+    "DOTA_Tooltip_ability_lion_mana_drain_duration": "詠唱時間:",
     "DOTA_Tooltip_ability_lion_mana_drain_break_distance": "キャンセル距離:",
     "DOTA_Tooltip_ability_lion_mana_drain_movespeed": "%移動速度減少:",
     "DOTA_Tooltip_ability_lion_finger_of_death": "Finger of Death",
