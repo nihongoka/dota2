@@ -5364,7 +5364,7 @@
     "DOTA_Tooltip_modifier_warlock_shadow_word_Description": "敵である場合は継続ダメージを受け、味方であれば回復を受ける。",
     "DOTA_Tooltip_modifier_warlock_upheaval": "Upheaval",
     "DOTA_Tooltip_modifier_warlock_upheaval_Description": "移動速度が低下している。",
-    "DOTA_Tooltip_ability_tiny_tree_grab_throw_splash_pct": "%投擲ダメージ:",
+    "DOTA_Tooltip_ability_tiny_tree_grab_throw_splash_pct": "%投擲範囲ダメージ:",
     "DOTA_Tooltip_ability_puck_illusory_orb_Note1": "Ethereal JauntでOrbに移動することで飛翔物体をdisjointできる。",
     "DOTA_Tooltip_ability_puck_phase_shift_Note0": "Phase Shift中でも、Puckの衝突判定の大きさは維持される。",
     "DOTA_Tooltip_modifier_puck_phase_shift_Description": "存在の外側に一時的にシフトしている",
