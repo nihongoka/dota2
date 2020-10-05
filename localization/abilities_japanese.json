@@ -5112,7 +5112,7 @@
     "DOTA_Tooltip_ability_keeper_of_the_light_blinding_light_duration": "効果時間:",
     "DOTA_Tooltip_ability_keeper_of_the_light_blinding_light_damage": "ダメージ:",
     "DOTA_Tooltip_ability_keeper_of_the_light_blinding_light_abilitycastrange": "キャスト範囲:",
-    "DOTA_Tooltip_ability_keeper_of_the_light_blinding_light_radius": "効果範囲:",
+    "DOTA_Tooltip_ability_keeper_of_the_light_blinding_light_radius": "範囲:",
     "DOTA_Tooltip_ability_keeper_of_the_light_will_o_wisp_on_count": "フリック回数:",
     "DOTA_Tooltip_ability_special_bonus_unique_keeper_of_the_light_2": "+{s:value} Chakra Magic マナ回復",
     "DOTA_Tooltip_ability_special_bonus_unique_keeper_of_the_light_3": "+{s:value} Will-O-Wisp フリック数",
