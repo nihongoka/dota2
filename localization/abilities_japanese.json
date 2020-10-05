@@ -3641,7 +3641,7 @@
     "DOTA_Tooltip_modifier_medusa_stone_gaze_Description": "移動速度が%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%上昇しており、Medusaを向いている敵ユニットは攻撃速度と移動速度が減少している。",
     "DOTA_Tooltip_modifier_medusa_mystic_snake_slow_Description": "移動速度が%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%減少しており、振り向き速度が%dMODIFIER_PROPERTY_TURN_RATE_PERCENTAGE%%%減少している。",
     "DOTA_Tooltip_modifier_medusa_stone_gaze_facing": "Stone Gaze",
-    "DOTA_Tooltip_modifier_medusa_stone_gaze_facing_Description": "35%のスローを受けている。<br>このままMedusaの方を向き続けると石化する。",
+    "DOTA_Tooltip_modifier_medusa_stone_gaze_facing_Description": "35%%のスローを受けている。<br>このままMedusaの方を向き続けると石化する。",
     "DOTA_Tooltip_modifier_medusa_stone_gaze_stone": "Stone Gaze",
     "DOTA_Tooltip_modifier_medusa_stone_gaze_stone_Description": "石化している。<br>受ける物理ダメージが%dMODIFIER_PROPERTY_INCOMING_PHYSICAL_DAMAGE_PERCENTAGE%%%増加している。",
     "DOTA_Tooltip_ability_satyr_soulstealer_mana_burn_Description": "Satyr Mindstealer は敵の魂のかけらを取り除くことで、敵のマナを燃焼させ、燃焼させたマナと同等のダメージを与える。",
