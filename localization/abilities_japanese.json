@@ -3164,7 +3164,7 @@
     "DOTA_Tooltip_ability_special_bonus_unique_omniknight_3": "-{s:value}s Heavenly Grace クールダウン",
     "DOTA_Tooltip_ability_tiny_avalanche": "Avalanche",
     "DOTA_Tooltip_ability_tiny_avalanche_Description": "岩雪崩を起こし、敵ユニットに短い間隔で断続的にダメージとスタンを与える。Tossされているユニットは3倍のダメージを受ける。",
-    "DOTA_Tooltip_ability_zuus_lightning_bolt_Note0": "このスキルを使って、スペルやアイテムの詠唱を中断できます。",
+    "DOTA_Tooltip_ability_zuus_lightning_bolt_Note0": "このスキルを使って、スペルやアイテムの詠唱を中断できる。",
     "DOTA_Tooltip_ability_zuus_cloud_Note1": "Zeusの現在のレベルのLightning Boltを最も近い敵ユニットにキャストする。",
     "DOTA_Tooltip_ability_zuus_cloud_lore": "雷神の怒りが高まるところには、嵐の雲がすぐに集まってくる。",
     "DOTA_Tooltip_ability_tiny_craggy_exterior_Description": "Tinyに攻撃を与えた敵にダメージを跳ね返す。Tinyを攻撃する近接の敵は確率でスタンする。Growのレベルが上がるごとに確率が上昇する。",
