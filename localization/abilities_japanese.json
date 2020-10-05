@@ -520,7 +520,7 @@
     "DOTA_Tooltip_ability_mirana_starfall_Note2": "Starstormの追加の攻撃が発生する時にそのユニットが死んでいた場合、他のユニットに追加攻撃が発生する。",
     "DOTA_Tooltip_ability_mirana_starfall_starfall_radius": "範囲:",
     "DOTA_Tooltip_ability_mirana_starfall_interval_scepter": "SCEPTER 間隔:",
-    "DOTA_Tooltip_modifier_mirana_leap_charge_counter": "Leapの残りチャージ回数",
+    "DOTA_Tooltip_modifier_mirana_leap_charge_counter": "Leapチャージ数",
     "DOTA_Tooltip_modifier_mirana_leap_buff": "Leap",
     "DOTA_Tooltip_modifier_mirana_leap_buff_Description": "移動速度が%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%上昇し、攻撃速度が%dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%上昇している",
     "DOTA_Tooltip_modifier_mirana_starfall_scepter_thinker": "Starstormチャージ数",
