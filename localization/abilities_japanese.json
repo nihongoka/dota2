@@ -707,7 +707,7 @@
     "DOTA_Tooltip_ability_life_stealer_assimilate_eject_damage_tooltip": "爆発ダメージ:",
     "DOTA_Tooltip_ability_life_stealer_assimilate_eject_radius_tooltip": "爆発範囲:",
     "DOTA_Tooltip_modifier_life_stealer_open_wounds_Description": "%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%移動速度を低下させる",
-    "DOTA_Tooltip_ability_furion_sprout_Description": "ユニットの周りを取り囲むように木を芽生えさせ、対象のユニットをその場から動けなくし、範囲 %vision_range%の視界を得る。",
+    "DOTA_Tooltip_ability_furion_sprout_Description": "ユニットの周りを取り囲むように木を芽生えさせる。対象のユニットをその場にとどまらせ、範囲 %vision_range%の視界を得る。",
     "DOTA_Tooltip_ability_furion_sprout_Note0": "このスペルはどんなユニットにも使用することができ、地面を対象にすることもできる。",
     "DOTA_Tooltip_ability_furion_sprout_Note1": "このスキルにより作られた木は通常の木と同じように機能する。",
     "DOTA_Tooltip_ability_furion_sprout_duration": "効果時間:",
