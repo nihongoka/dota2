@@ -5694,5 +5694,17 @@
     "DOTA_Tooltip_ability_spirit_breaker_charge_of_darkness_aghanim_description": "Charge of Darknessの移動速度が増加し、クールダウンが減少する。",
     "DOTA_Tooltip_ability_spirit_breaker_bulldoze_Description": "Spirit Breakerは敵を突破するために移動速度と異常耐性を得る。Charge中も使用することができる。",
     "DOTA_Tooltip_ability_spirit_breaker_nether_strike_Description": "Spirit Breakerは冥界へと滑り込み、不幸な犠牲者の隣に現れる。現れる際に現在のレベルのGreater Bashが発生し、ボーナスダメージを与える。通常の2倍の距離でノックバックする。",
-    "DOTA_Tooltip_modifier_spirit_breaker_bulldoze_Description": "%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%移動速度と%dMODIFIER_PROPERTY_STATUS_RESISTANCE_STACKING%%%異常耐性を得ている。"
+    "DOTA_Tooltip_modifier_spirit_breaker_bulldoze_Description": "%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%移動速度と%dMODIFIER_PROPERTY_STATUS_RESISTANCE_STACKING%%%異常耐性を得ている。",
+    "DOTA_Tooltip_ability_invoker_quas_health_regen_per_instance": "インスタンスあたりのHP自然回復:",
+    "DOTA_Tooltip_ability_invoker_quas_Description": "氷のエレメントの操作が可能になります。 各<font color='#7998b5'>Quas</font>インスタンスはHP自然回復を増加させます。\n",
+    "DOTA_Tooltip_ability_invoker_wex_Description": "嵐のエレメントの操作が可能になります。 各<font color='#d671a9'>Wex</font> インスタンスは攻撃速度と移動速度を増加させます。",
+    "DOTA_Tooltip_ability_invoker_exort_Description": "炎のエレメントの操作が可能になります。 各<font color='#cabe68'>Exort</font>インスタンスは攻撃力を増加させます。",
+    "DOTA_Tooltip_ability_invoker_empty1_Description": "Invokeをキャストすることでスロットを、現在アクティブなInvokerの<font color='#7998b5'>Quas</font>, <font color='#d671a9'>Wex</font>, and <font color='#cabe68'>Exort</font>に基づいた10個のスペルのうちの１個に置き換えます。",
+    "DOTA_Tooltip_ability_invoker_empty2_Description": "Invokeをキャストすることでスロットを、現在アクティブなInvokerの<font color='#7998b5'>Quas</font>, <font color='#d671a9'>Wex</font>, and <font color='#cabe68'>Exort</font>に基づいた10個のスペルのうちの１個に置き換えます。",
+    "DOTA_Tooltip_ability_invoker_quas_Note0": "Invokerは３つまでインスタンスを持てます。",
+    "DOTA_Tooltip_ability_invoker_wex_Note0": "Invokerは３つまでインスタンスを持てます。",
+    "DOTA_Tooltip_ability_invoker_wex_move_speed_per_instance": "%インスタンスあたりの移動速度:",
+    "DOTA_Tooltip_ability_invoker_wex_attack_speed_per_instance": "インスタンスあたりの攻撃速度:",
+    "DOTA_Tooltip_ability_invoker_exort_Note0": "Invokerは３つまでインスタンスを持てます。",
+    "DOTA_Tooltip_ability_invoker_exort_bonus_damage_per_instance": "インスタンスあたりのダメージ:"
 }
