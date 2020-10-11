@@ -5790,5 +5790,6 @@
     "DOTA_Tooltip_ability_faceless_void_chronosphere": "Chronosphere",
     "DOTA_Tooltip_modifier_faceless_void_timelock_freeze": "Time Lock",
     "DOTA_Tooltip_modifier_faceless_void_chronosphere_freeze": "Chronosphere",
-    "DOTA_Tooltip_ability_faceless_void_time_dilation": "Time Dilation"
+    "DOTA_Tooltip_ability_faceless_void_time_dilation": "Time Dilation",
+    "DOTA_Tooltip_ability_death_prophet_carrion_swarm": "Crypt Swarm"
 }
