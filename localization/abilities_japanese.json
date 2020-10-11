@@ -5778,5 +5778,11 @@
     "DOTA_Tooltip_ability_invoker_ghost_walk_area_of_effect": "半径:",
     "DOTA_Tooltip_ability_invoker_ghost_walk_enemy_slow": "%敵へのスロー(<font color='#7998b5'>QUAS</font>):\n",
     "DOTA_Tooltip_ability_invoker_cold_snap_Description": "Invokerは敵から熱を引き出し、<font color='#7998b5'>Quas</font>のレベルに基づいた持続時間の間、敵を芯まで冷やす。敵はダメージを受け、一時的に凍結状態になる。この状態でさらにダメージを受けると、敵は再び凍結し、ボーナスダメージを与える。敵は一定の頻繁でしか凍結できないが、凍結のクールダウンは<font color='#7998b5'>Quas</font>のレベルに応じて減少する。",
-    "DOTA_Tooltip_ability_invoker_tornado_Description": "高速で移動する竜巻を放ち、通り道の敵ユニットを拾い上げ、無力にも空中に吊るしてから間もなく運命に急落させる。<font color='#d671a9'>Wex</font>のレベルに応じて遠くまで移動する。<font color='#7998b5'>Quas</font>のレベルに基づいて敵を空中に保持する。基本ダメージに加え、<font color='#d671a9'>Wex</font>のレベルに応じた追加ダメージを与える。\n\nディスペルタイプ: 基本ディスペル"
+    "DOTA_Tooltip_ability_invoker_tornado_Description": "高速で移動する竜巻を放ち、通り道の敵ユニットを拾い上げ、無力にも空中に吊るしてから間もなく運命に急落させる。<font color='#d671a9'>Wex</font>のレベルに応じて遠くまで移動する。<font color='#7998b5'>Quas</font>のレベルに基づいて敵を空中に保持する。基本ダメージに加え、<font color='#d671a9'>Wex</font>のレベルに応じた追加ダメージを与える。\n\nディスペルタイプ: 基本ディスペル",
+    "DOTA_Tooltip_ability_death_prophet_exorcism": "Exorcism",
+    "DOTA_Tooltip_modifier_death_prophet_exorcism": "Exorcism",
+    "DOTA_Tooltip_ability_luna_lunar_grace": "Lunar Blessing",
+    "DOTA_Tooltip_ability_death_prophet_spirit_siphon": "Spirit Siphon",
+    "DOTA_Tooltip_modifier_death_prophet_spirit_siphon": "Spirit Siphon",
+    "DOTA_Tooltip_ability_luna_lunar_blessing": "Lunar Blessing"
 }
