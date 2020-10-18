@@ -416,7 +416,7 @@
     "DOTA_Tooltip_ability_special_bonus_unique_drow_ranger_1": "+{s:value}% Multishot ダメージ",
     "DOTA_Tooltip_ability_special_bonus_unique_drow_ranger_3": "+{s:value} Marksmanship 確率",
     "DOTA_Tooltip_ability_earthshaker_fissure": "Fissure",
-    "DOTA_Tooltip_ability_earthshaker_fissure_Description": "強大なトーテムで地面を叩いて、線上の敵ユニットにスタンとダメージを与え、通行不能な石の壁を作り出す。",
+    "DOTA_Tooltip_ability_earthshaker_fissure_Description": "強大なトーテムで地面を叩いて、直線上の敵ユニットにスタンとダメージを与え、通行不能な岩の壁を作り出す。",
     "DOTA_Tooltip_ability_earthshaker_fissure_fissure_range": "FISSURE距離:",
     "DOTA_Tooltip_ability_earthshaker_fissure_fissure_duration": "FISSURE効果時間:",
     "DOTA_Tooltip_ability_earthshaker_fissure_stun_duration": "スタン時間:",
@@ -5937,5 +5937,9 @@
     "DOTA_Tooltip_ability_item_whip_bonus_damage": "+$damage",
     "DOTA_Tooltip_ability_item_oblivion_staff_bonus_intellect": "+$int",
     "DOTA_Tooltip_ability_item_pipe_health_regen": "+$hp_regen",
-    "DOTA_Tooltip_ability_item_point_booster_bonus_mana": "+$mana"
+    "DOTA_Tooltip_ability_item_point_booster_bonus_mana": "+$mana",
+    "DOTA_Tooltip_ability_death_prophet_silence": "サイレンス",
+    "DOTA_Tooltip_modifier_luna_lunar_blessing_aura": "Lunar Blessing",
+    "DOTA_Tooltip_modifier_luna_eclipse": "Eclipse",
+    "DOTA_Tooltip_ability_luna_eclipse_Note3": "ビームは%beam_interval%秒間隔で射出され、セプターを持つと%beam_interval_scepter%秒になる。"
 }
