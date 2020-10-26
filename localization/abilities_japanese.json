@@ -4872,7 +4872,7 @@
     "DOTA_Tooltip_ability_chaos_knight_phantasm_illusion_duration": "イリュージョン持続時間:",
     "DOTA_Tooltip_ability_chaos_knight_phantasm_incoming_damage_tooltip": "%イリュージョンの与ダメージ:",
     "DOTA_Tooltip_ability_chaos_knight_phantasm_outgoing_damage_tooltip": "%イリュージョンの被ダメージ:",
-    "DOTA_Tooltip_ability_chaos_knight_phantasm_aghanim_description": "味方のイリュージョンを作り出す。自身のイリュージョンを1体追加で召喚する。",
+    "DOTA_Tooltip_ability_chaos_knight_phantasm_aghanim_description": "味方のイリュージョンも作り出す。自身のイリュージョンを1体追加で召喚する。",
     "DOTA_Tooltip_modifier_chaos_knight_chaos_strike_debuff_Description": "%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%移動速度低下.",
     "DOTA_Tooltip_modifier_chaos_knight_reality_rift_debuff_Description": "%dMODIFIER_PROPERTY_PHYSICAL_ARMOR_BONUS%アーマー低下.",
     "DOTA_Tooltip_ability_chaos_knight_phantasm_Note1": "Chaos Knight はキャスト時%invuln_duration%秒間不死身となり、スタンとダメージを避ける。",
@@ -6600,5 +6600,14 @@
     "DOTA_Tooltip_ability_shadow_demon_shadow_poison_Description": "直線上にダメージを与え、敵ユニットを毒で苦しめる。毒は対象のスタック数に基づいて、1/2/4/8/16倍のダメージを与える。最大スタック数は%max_multiply_stacks%である。更に追加でスタックしても%bonus_stack_damage%ダメージの追加しかしない。<br>この遅延ダメージはShadow Poisonの効果が切れるか、Shadow Poison Releaseを発動したときに与えられる。",
     "DOTA_Tooltip_ability_shadow_demon_demonic_purge_purge_damage": "パージダメージ:",
     "DOTA_Tooltip_ability_shadow_demon_demonic_purge_aghanim_description": "クールダウンがなくなり、チャージ数%max_charges%になり%charge_restore_time_tooltip_scepter%秒ごとにリストアされる。更にDemonic Purgeの効果時間中対象のパッシブアビリティをブレイクする。",
-    "DOTA_Tooltip_modifier_shadow_demon_purge_slow_Description": "%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%スローしている。Demonic Purgeの時間中、有用なバフが取り除かれ続ける"
+    "DOTA_Tooltip_modifier_shadow_demon_purge_slow_Description": "%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%スローしている。Demonic Purgeの時間中、有用なバフが取り除かれ続ける",
+    "DOTA_Tooltip_ability_chaos_knight_chaos_bolt": "Chaos Bolt",
+    "DOTA_Tooltip_ability_chaos_knight_chaos_bolt_Note0": "スタンの長さとダメージ量は反比例する。",
+    "DOTA_Tooltip_ability_chaos_knight_chaos_bolt_Note1": "周囲のイリュージョンもスキルを発動しているふりをする。",
+    "DOTA_Tooltip_ability_chaos_knight_reality_rift": "Reality Rift",
+    "DOTA_Tooltip_ability_chaos_knight_chaos_strike": "Chaos Strike",
+    "DOTA_Tooltip_ability_chaos_knight_phantasm": "Phantasm",
+    "DOTA_Tooltip_modifier_chaos_knight_chaos_strike_debuff": "Chaos Strike",
+    "DOTA_Tooltip_modifier_chaos_knight_reality_rift_debuff": "不具にされた",
+    "DOTA_Tooltip_ability_chaos_knight_phantasm_incoming_damage_tooltip_scepter": "%セプターPHANTASM受ダメージ:"
 }
