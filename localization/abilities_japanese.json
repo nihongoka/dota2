@@ -3789,7 +3789,7 @@
     "DOTA_Tooltip_ability_visage_soul_assumption_soul_base_damage": "ベースダメージ:",
     "DOTA_Tooltip_ability_visage_soul_assumption_soul_charge_damage": "チャージ毎のダメージ:",
     "DOTA_Tooltip_ability_visage_soul_assumption_stack_limit": "最大チャージ数:",
-    "DOTA_Tooltip_ability_visage_stone_form_self_cast_Description": "短い時間の後、Familiarは石になり地面を叩きつけ、周囲の全てのターゲットにダメージとスタンを与える。<br>そしてFamiliarは無敵になり、急速に体力を回復する。<br>%stone_duration%秒後にFamiliarは自動的にStone Formを終了する。",
+    "DOTA_Tooltip_ability_visage_stone_form_self_cast_Description": "短い時間の後、最も近いFamiliarが石になり地面を叩きつけ、周囲の全てのターゲットにダメージとスタンを与える。<br>そしてFamiliarは無敵になり、急速に体力を回復する。<br>%stone_duration%秒後にFamiliarは自動的にStone Formを終了する。",
     "DOTA_Tooltip_ability_tusk_ice_shards_Note0": "通れない壁を作る。",
     "DOTA_Tooltip_ability_tusk_ice_shards_shard_width": "範囲:",
     "DOTA_Tooltip_ability_tusk_ice_shards_shard_damage": "ダメージ:",
