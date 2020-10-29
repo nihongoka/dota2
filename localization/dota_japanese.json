@@ -404,5 +404,13 @@
     "DOTA_RespawnTime": "リスポーンまで後%s1秒",
     "DOTA_RespawnOutOfLives": "チームのライフがないのでリスポーンできません",
     "DOTA_Shop": "ショップを開く",
-    "DOTA_AttribArmor": "アーマー"
+    "DOTA_AttribArmor": "アーマー",
+    "dota_dashboard_action_matchmaking": "マッチメイキング",
+    "dota_watch_live_tab": "生中継",
+    "DOTA_WatchTabName_Live": "生中継",
+    "DOTA_WatchTabName_Featured": "おすすめ",
+    "DOTA_WatchTabName_Replays": "リプレイ",
+    "DOTA_WatchTabName_Tournaments": "トーナメント",
+    "DOTA_WatchTabName_Downloads": "ダウンロード",
+    "dota_dashboard_action_private": "プライベート"
 }
