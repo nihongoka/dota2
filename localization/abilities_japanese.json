@@ -6824,5 +6824,18 @@
     "DOTA_Tooltip_ability_rubick_null_field_Description": "魔術に熟練したRubickは近くにいる敵の感覚を麻痺させたり自分の感覚を増加させるオーラを作り出す。攻撃的なモードと防御的なモードを切り替えることで、敵の魔法耐性を下げたり味方の魔法耐性をあげることができる。",
     "DOTA_Tooltip_ability_rubick_spell_steal_Description": "Rubickは敵ヒーローの魔法の本質を研究することで、敵ヒーローが最後に使ったスペルをの秘密を知ることができる。Rubickはそのスペルを数分間か死ぬまで使うことができる。",
     "DOTA_Tooltip_modifier_rubick_fade_bolt_buff_Description": "攻撃力が%dMODIFIER_PROPERTY_PREATTACK_BONUS_DAMAGE%上昇している。",
-    "DOTA_Tooltip_modifier_rubick_null_field_effect_Description": "Rubickの影響を受けた味方は魔法耐性が%dMODIFIER_PROPERTY_MAGICAL_RESISTANCE_BONUS%%%上昇している。Rubickの影響を受けた敵は魔法耐性が%dMODIFIER_PROPERTY_MAGICAL_RESISTANCE_BONUS%%%下がっている。"
+    "DOTA_Tooltip_modifier_rubick_null_field_effect_Description": "Rubickの影響を受けた味方は魔法耐性が%dMODIFIER_PROPERTY_MAGICAL_RESISTANCE_BONUS%%%上昇している。Rubickの影響を受けた敵は魔法耐性が%dMODIFIER_PROPERTY_MAGICAL_RESISTANCE_BONUS%%%下がっている。",
+    "DOTA_Tooltip_modifier_keeper_of_the_light_will_o_wisp_aura_Description": "範囲内の敵は、明滅する光に催眠術をかけられ、行動できなくなる。",
+    "DOTA_Tooltip_ability_wisp_spirits_aghanim_description": "Spritsはパッシブとなり、毎秒周囲に発生する。最大5個。",
+    "DOTA_Tooltip_ability_wisp_spirits_out_Description": "Spritsをあなたから遠いところへ送る。onとoffでトグルできる。",
+    "DOTA_Tooltip_ability_wisp_empty1_Description": "Spritsをあなたの近くに呼び寄せる。onとoffでトグルできる。Spritsが起動中のみ利用可能になる。",
+    "DOTA_Tooltip_modifier_keeper_of_the_light_will_o_wisp_Description": "行動できない。",
+    "DOTA_Tooltip_ability_wisp_spirits_creep_damage": "クリープダメージ:",
+    "DOTA_Tooltip_ability_wisp_spirits_hero_damage": "ヒーローダメージ:",
+    "DOTA_Tooltip_ability_wisp_spirits_max_range": "発振半径:",
+    "DOTA_Tooltip_ability_wisp_spirits_explode_radius": "爆発半径:",
+    "DOTA_Tooltip_ability_wisp_spirits_spirit_duration": "効果時間:",
+    "DOTA_Tooltip_ability_wisp_spirits_in_Description": "Spritsを内外へ呼びよせる。",
+    "DOTA_Tooltip_ability_wisp_relocate_Note0": "敵は、キャストの遅延中にフィールドとターゲットの場所のミニマップ上に視覚的なインジケータを見ることができます。",
+    "DOTA_Tooltip_ability_wisp_empty2_Description": "Spritsをあなたの遠くに送り込む。onとoffでトグルできる。Spritsが起動中のみ利用可能になる。"
 }
