@@ -31123,6 +31123,7 @@
     "DOTA_EventGameName_Diretide2020": "Diretide",
     "DOTA_Diretide2020_Play_CandyHeader": "CANDY COLLECTED",
     "DOTA_RP_PLAYING_DIRETIDE_MATCH": "Diretide: Round %s1 as %s2",
+    "DOTA_RP_PLAYING_DIRETIDE_MATCH_PREGAME": "Diretide: Hero Selection",
     "DOTA_Diretide2020_Title": "Diretide",
     "dota_page_match_details_legend_candy_scored": "SCORED",
     "dota_page_match_details_legend_candy_scored_tooltip": "Taffy Scored",
