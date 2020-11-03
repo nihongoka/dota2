@@ -6145,6 +6145,7 @@
     "DOTA_CrateRecycle_MarketPrice": "Market",
     "DOTA_CrateRecycle_SelectTier": "Select Tier",
     "DOTA_CrateRecycle_Owned": "Owned",
+    "DOTA_CrateRecycle_Your_Listings": "Your Listings",
     "DOTA_CrateRecycle_NumOwned": "{d:item_amount} available",
     "DOTA_CrateRecycle_AddToList": "Add To List",
     "DOTA_CrateRecycle_AllAdded": "Added To List",
@@ -31154,5 +31155,6 @@
     "diretide2020_game_info_dont_show_again": "Don't Show Again",
     "diretide2020_game_daily_bonus_earned": "Daily Win Bonus Earned",
     "diretide2020_game_daily_bonus_timer": "Resets in {t:d:t:T:countdown_time}",
-    "diretide2020_game_daily_bonus_available": "Daily Win Bonus Available"
+    "diretide2020_game_daily_bonus_available": "Daily Win Bonus Available",
+    "diretide2020_show_event_details": "Show event details"
 }
