@@ -3685,7 +3685,7 @@
     "DOTA_Tooltip_ability_troll_warlord_whirling_axes_ranged_axe_damage": "ダメージ:",
     "DOTA_Tooltip_ability_troll_warlord_berserkers_rage_ensnare_chance": "%移動不可の発動確率:",
     "DOTA_Tooltip_ability_troll_warlord_whirling_axes_ranged_Description": "5本の斧を扇状に範囲%axe_range%に投げて敵ユニットにダメージと移動速度減少を与える。",
-    "DOTA_Tooltip_ability_zuus_static_field_damage_health_pct": "HP減少率:",
+    "DOTA_Tooltip_ability_zuus_static_field_damage_health_pct": "%HP減少率:",
     "DOTA_Tooltip_ability_troll_warlord_whirling_axes_ranged_axe_slow_duration": "移動速度減少時間:",
     "DOTA_Tooltip_ability_troll_warlord_whirling_axes_ranged_movement_speed": "%移動速度減少量:",
     "DOTA_Tooltip_ability_troll_warlord_whirling_axes_melee": "Whirling Axes (Melee)",
