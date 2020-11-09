@@ -412,5 +412,15 @@
     "DOTA_WatchTabName_Replays": "リプレイ",
     "DOTA_WatchTabName_Tournaments": "トーナメント",
     "DOTA_WatchTabName_Downloads": "ダウンロード",
-    "dota_dashboard_action_private": "プライベート"
+    "dota_dashboard_action_private": "プライベート",
+    "DOTA_InventoryMenu_DropFromStash": "スタッシュから落とす",
+    "DOTA_InventoryMenu_TeleportToNeutralStash": "中立スタッシュにテレポート",
+    "DOTA_InventoryMenu_Sell": "売却",
+    "DOTA_InventoryMenu_Disassemble": "分解",
+    "DOTA_InventoryMenu_ShowInShop": "ショップ内で表示",
+    "DOTA_InventoryMenu_MoveToStash": "スタッシュに入れる",
+    "DOTA_InventoryMenu_Alertable": "味方に呼びかけ",
+    "DOTA_InventoryMenu_LockCombine": "合成を禁止",
+    "DOTA_InventoryMenu_UnlockCombine": "合成を許可",
+    "DOTA_InventoryMenu_DropAtFountain": "泉に落とす"
 }
