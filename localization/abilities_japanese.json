@@ -5082,7 +5082,7 @@
     "DOTA_Tooltip_ability_shredder_chakram_2_Note0": "Chakram はマナが無くなるか %break_distance% 以上離れると自動的に手元に戻る。",
     "DOTA_Tooltip_ability_shredder_chakram_2_slow": "%減速:",
     "DOTA_Tooltip_modifier_shredder_timber_chain_Description": "進路上のすべての敵にダメージを与える。",
-    "DOTA_Tooltip_ability_keeper_of_the_light_will_o_wisp_Description": "対象エリアにIgnis Fatuusを召喚するし、ONとOFFを交互に繰り返し明滅する。アクティブ時、範囲内全ての敵がWill-O-Wispの方を向きながらスタンする。Will-O-Wispは効果範囲内外から攻撃でき、一定回数の攻撃を受けると死亡し、効果が終了する。",
+    "DOTA_Tooltip_ability_keeper_of_the_light_will_o_wisp_Description": "対象エリアにIgnis Fatuusを召喚し、ONとOFFを交互に繰り返し明滅させる。アクティブ時、範囲内全ての敵がWill-O-Wispの方を向きながらスタンする。Will-O-Wispは効果範囲内外から攻撃でき、一定回数の攻撃を受けると死亡し、効果が終了する。",
     "DOTA_Tooltip_ability_keeper_of_the_light_blinding_light_Description": "眩しい光を対象エリアに放ち、範囲内の敵ユニットにノックバックとブラインド効果を与え、攻撃をミスさせる。%knockback_duration% 秒で距離%knockback_distance% をノックバックさせる,",
     "DOTA_Tooltip_ability_visage_gravekeepers_cloak_damage_reduction": "%レイヤー毎のダメージ軽減:",
     "DOTA_Tooltip_ability_visage_gravekeepers_cloak_max_layers": "最大レイヤー数:",
