@@ -489,5 +489,9 @@
     "DOTA_NeedMana": "%s1秒",
     "DOTA_Basics": "基本",
     "DOTA_Upgrades": "上位",
-    "DOTA_Attributes": "属性"
+    "DOTA_Attributes": "属性",
+    "dota_chatwheel_message_MissingHero": "%s1を見失った!",
+    "dota_chatwheel_message_ReturnedHero": "%s1が戻った!",
+    "dota_chatwheel_message_MissingHero:g": "%s1を見失った!",
+    "dota_chatwheel_message_ReturnedHero:g": "%s1が戻った!"
 }
