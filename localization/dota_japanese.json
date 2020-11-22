@@ -493,5 +493,8 @@
     "dota_chatwheel_message_MissingHero": "%s1を見失った!",
     "dota_chatwheel_message_ReturnedHero": "%s1が戻った!",
     "dota_chatwheel_message_MissingHero:g": "%s1を見失った!",
-    "dota_chatwheel_message_ReturnedHero:g": "%s1が戻った!"
+    "dota_chatwheel_message_ReturnedHero:g": "%s1が戻った!",
+    "DOTA_Tip_Temp2": "これはサンプルティップス2です",
+    "DOTA_Tip_Temp3": "これはサンプルティップス3です",
+    "DOTA_Tip_Temp1": "これはサンプルティップス1です"
 }
