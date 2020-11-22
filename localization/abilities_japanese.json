@@ -1817,7 +1817,7 @@
     "DOTA_Tooltip_ability_phantom_assassin_phantom_strike_abilitycastrange": "キャスト範囲:",
     "DOTA_Tooltip_ability_phantom_assassin_blur": "Blur",
     "DOTA_Tooltip_ability_phantom_assassin_blur_Description": "内面に集中することで、敵の攻撃を回避する能力を高める。自身の体を霞んで見えるようにすることができ、それにより敵ヒーローが近くに来るまでは自身を不可視状態にできる。\n\n他の回避効果とわずかに重複する。",
-    "DOTA_Tooltip_ability_phantom_assassin_blur_aghanim_description": "Blurが瞬時に発動するようにし、ディスペル効果を持つようになる。敵ヒーローを倒す度にスキルのクールダウンがリセットされる。Blurのクールタイムを縮小する。",
+    "DOTA_Tooltip_ability_phantom_assassin_blur_aghanim_description": "Blurが瞬時に発動するようになり、ディスペル効果を持つようになる。敵ヒーローを倒す度にスキルのクールダウンがリセットされる。Blurのクールタイムを減少させる。",
     "DOTA_Tooltip_ability_phantom_assassin_blur_bonus_evasion": "%回避:",
     "DOTA_Tooltip_ability_phantom_assassin_blur_radius": "不可視状態を保てる敵ヒーローからの範囲:",
     "DOTA_Tooltip_ability_phantom_assassin_blur_fade_duration": "不可視状態が解けるまでの猶予:",
