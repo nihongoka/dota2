@@ -3153,7 +3153,7 @@
     "DOTA_Tooltip_ability_special_bonus_unique_omniknight_5": "+{s:value} Heavenly Grace HP自然回復",
     "DOTA_Tooltip_ability_special_bonus_unique_omniknight_6": "-{s:value}s Purification クールダウン",
     "DOTA_Tooltip_ability_special_bonus_unique_omniknight_7": "-{s:value}s Guardian Angel クールダウン",
-    "DOTA_Tooltip_ability_meepo_ransack_Description": "通常攻撃の度に敵から体力を奪い、全てのミーポを回復させる。",
+    "DOTA_Tooltip_ability_meepo_ransack_Description": "通常攻撃の度に敵から体力を奪い、全てのMeepoを回復させる。",
     "DOTA_Tooltip_ability_meepo_divided_we_stand_Description": "不完全なMeepoのクローンを召喚する。クローンは本体と同じ様にゴールドと経験値を獲得し、経験値、属性、スキルを共有する。クローンは本体が履いている靴のみ複製する。いずれかのMeepoが死んだ時、全てのMeepoが死ぬ。",
     "DOTA_Tooltip_modifier_meepo_geostrike_debuff_Description": "移動速度が減少し、持続ダメージを受けている。",
     "DOTA_Tooltip_ability_omniknight_pacify_Description": "影響を受けた敵が与えるスペルダメージを軽減する。",
