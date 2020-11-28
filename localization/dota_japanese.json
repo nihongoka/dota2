@@ -496,5 +496,13 @@
     "dota_chatwheel_message_ReturnedHero:g": "%s1が戻った!",
     "DOTA_Tip_Temp2": "これはサンプルティップス2です",
     "DOTA_Tip_Temp3": "これはサンプルティップス3です",
-    "DOTA_Tip_Temp1": "これはサンプルティップス1です"
+    "DOTA_Tip_Temp1": "これはサンプルティップス1です",
+    "dota_settings_shadowquality_off": "無",
+    "dota_settings_shadowquality_ultra": "超",
+    "dota_settings_texturequality": "テクスチャのクオリティ",
+    "dota_settings_texturequality_low": "低",
+    "dota_settings_texturequality_med": "中",
+    "dota_settings_texturequality_high": "高",
+    "dota_settings_particlequality": "エフェクトのクオリティ",
+    "dota_settings_shadowquality": "影のクオリティ"
 }
