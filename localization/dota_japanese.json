@@ -504,5 +504,14 @@
     "dota_settings_texturequality_med": "中",
     "dota_settings_texturequality_high": "高",
     "dota_settings_particlequality": "エフェクトのクオリティ",
-    "dota_settings_shadowquality": "影のクオリティ"
+    "dota_settings_shadowquality": "影のクオリティ",
+    "dota_tip_hero_pudge_1": "PudgeのDismemberアビリティはチャネリングなのでサイレンスやスタンで中断させることができます。",
+    "dota_tip_hero_pudge_2": "Pudgeは予期しない角度から攻めてくることがよくあります。Observer Wardを使って十分な視界を確保し、チームの生存率を高めましょう。",
+    "dota_tip_hero_pudge_3": "PudgeはMeat Hookを使ってルーンを自身の下や味方の安全な場所に動かすことができます。",
+    "dota_tip_hero_pudge_5": "PudgeのRotはPudge自身と相手に魔法ダメージを与えます。Pudgeは自身へのRotのダメージを軽減するために魔法ダメージを軽減するアイテムを買うことがあります。",
+    "dota_tip_hero_pudge_6": "PudgeのMeat Hookはダメージ無しで味方に使うこともできます。これを使って、味方を安全な場所に引き寄せたりできます。",
+    "dota_tip_hero_pudge_10": "素のPudgeはアーマーが低いので、アーマーを減らすアビリティと組み合わせると、Pudgeにとって致命的なダメージを出せるでしょう。",
+    "dota_tip_hero_pudge_11": "PudgeのDismemberはAbaddonのAphotic Shieldやlegion CommanderのPress the Attackなど、強化ディスペルを与えることで中断させることができます。",
+    "dota_tip_hero_pudge_4": "PudgeのMeat Hookは魔法耐性を持っている対象でも引き寄せ、ダメージを与えることはできますが、アイテムの使用やチャネリングスキルは中断させることはできません。",
+    "dota_tip_hero_pudge_8": "Dismemberの効果音は、例えPudgeが見えていないとしてもすべてのプレイヤーに聞こえ、この音を使ってPudgeが何をしているのか推測することができます。"
 }
