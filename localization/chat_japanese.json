@@ -1,1 +1,13 @@
-{}
+{
+    "filter_teamchange": "チームの変更",
+    "chat_say": "発言:",
+    "chat_filterbutton": "フィルター",
+    "filter_joinleave": "参加/退出",
+    "filter_namechange": "名前の変更",
+    "filter_publicchat": "公開チャット",
+    "filter_servermsg": "サーバーメッセージ",
+    "chat_say_coach": "発言(生徒へ):",
+    "chat_say_student": "発言(コーチへ):",
+    "chat_sourcetv": "(Dota TV) %s1",
+    "chat_say_team": "発言(チーム):"
+}
