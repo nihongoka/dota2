@@ -7309,5 +7309,7 @@
     "DOTA_Tooltip_ability_special_bonus_unique_mars_arena_of_blood_hp_regen": "Arena Of Bloodは味方に{s:value}HP回復を提供する",
     "DOTA_Tooltip_ability_special_bonus_unique_mars_gods_rebuke_extra_crit": "God's Rebuke +{s:value}% クリティカル",
     "DOTA_Tooltip_ability_special_bonus_unique_mars_spear_cooldown": "-{s:value}s Spear クールダウン",
-    "DOTA_Tooltip_ability_mars_arena_of_blood_Description": "短い準備期間のあと、Marsは不死の戦士であるAsh Legionが並ぶアリーナを召喚し、敵の攻撃と移動を阻害させる。アリーナの内側に近づいた敵ヒーローは槍で押し返され、ダメージとノックバックを受ける。"
+    "DOTA_Tooltip_ability_mars_arena_of_blood_Description": "短い準備期間のあと、Marsは不死の戦士であるAsh Legionが並ぶアリーナを召喚し、敵の攻撃と移動を阻害させる。アリーナの内側に近づいた敵ヒーローは槍で押し返され、ダメージとノックバックを受ける。",
+    "DOTA_Tooltip_ability_void_spirit_aether_remnant": "Aether Remnant",
+    "npc_dota_hero_void_spirit": "Void Spirit"
 }
