@@ -2187,7 +2187,7 @@
     "DOTA_Tooltip_ability_treant_natures_grasp_movement_slow": "%移動速度減少:",
     "DOTA_Tooltip_ability_treant_natures_grasp_vines_duration": "つるの持続時間:",
     "DOTA_Tooltip_ability_treant_leech_seed": "Leech Seed",
-    "DOTA_Tooltip_ability_treant_leech_seed_Description": "Treant protectorは敵ユニットに体力を吸い取る種を植え付け、そのユニットへ持続ダメージと移動速度低下を与える。その種は周囲の味方ユニットを回復させる。",
+    "DOTA_Tooltip_ability_treant_leech_seed_Description": "Treant Protectorは敵ユニットに体力を吸い取る種を植え付け、そのユニットへ持続ダメージと移動速度低下を与える。その種は周囲の味方ユニットを回復させる。",
     "DOTA_Tooltip_ability_treant_leech_seed_leech_damage": "1秒あたりのダメージ/回復:",
     "DOTA_Tooltip_ability_treant_leech_seed_movement_slow": "%移動速度低下:",
     "DOTA_Tooltip_ability_treant_leech_seed_slow_duration": "移動速度低下の効果時間:",
