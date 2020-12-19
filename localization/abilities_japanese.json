@@ -7311,5 +7311,8 @@
     "DOTA_Tooltip_ability_special_bonus_unique_mars_spear_cooldown": "-{s:value}s Spear クールダウン",
     "DOTA_Tooltip_ability_mars_arena_of_blood_Description": "短い準備期間のあと、Marsは不死の戦士であるAsh Legionが並ぶアリーナを召喚し、敵の攻撃と移動を阻害させる。アリーナの内側に近づいた敵ヒーローは槍で押し返され、ダメージとノックバックを受ける。",
     "DOTA_Tooltip_ability_void_spirit_aether_remnant": "Aether Remnant",
-    "npc_dota_hero_void_spirit": "Void Spirit"
+    "npc_dota_hero_void_spirit": "Void Spirit",
+    "DOTA_Tooltip_ability_hoodwink_acorn_shot": "Acorn Shot",
+    "DOTA_Tooltip_ability_hoodwink_scepter_description": "寛大なAghanimはまだこのヒーローにScepterアップグレードを与えていません。",
+    "DOTA_Tooltip_ability_hoodwink_shard_description": "AghanimはこのヒーローのためのShardをまだ作っていません。"
 }
