@@ -4740,7 +4740,7 @@
     "DOTA_Tooltip_modifier_broodmother_spin_web_Description": "HP自然回復が%dMODIFIER_PROPERTY_HEALTH_REGEN_CONSTANT%増加し、移動速度が%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%増加している。",
     "DOTA_Tooltip_modifier_broodmother_incapacitating_bite_orb_Description": "攻撃が%dMODIFIER_PROPERTY_MISS_PERCENTAGE%%%の確率で失敗し、移動速度が%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%減少している。",
     "DOTA_Tooltip_modifier_broodmother_poison_sting_debuff_Description": "1秒ごとに%dMODIFIER_PROPERTY_TOOLTIP%ダメージを受け、移動速度が%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%減少している。",
-    "DOTA_Tooltip_ability_disruptor_static_storm_Description": "Static Stormを発生させ、範囲内の敵をサイレンス状態にし、ダメージを与える。<br>ダメージは時間経過で徐々に　大きくなる。",
+    "DOTA_Tooltip_ability_disruptor_static_storm_Description": "Static Stormを発生させ、範囲内の敵をサイレンス状態にし、ダメージを与える。<br>ダメージは時間経過で徐々に大きくなる。",
     "DOTA_Tooltip_ability_disruptor_static_storm_radius": "範囲:",
     "DOTA_Tooltip_ability_disruptor_static_storm_damage_max": "毎秒最大ダメージ:",
     "DOTA_Tooltip_ability_disruptor_static_storm_duration": "効果時間:",
@@ -7375,6 +7375,6 @@
     "DOTA_Tooltip_ability_life_stealer_ghoul_frenzy": "Ghoul Frenzy",
     "DOTA_Tooltip_ability_ancient_apparition_ice_vortex_shard_description": "Ice Vortexが秒間40ダメージを与え、攻撃速度を20減少させるようになる。",
     "DOTA_Tooltip_ability_ancient_apparition_chilling_touch_scepter_description": "クールダウンを0にする。",
-    "DOTA_Tooltip_ability_disruptor_thunder_strike_shard_description": "Thunder Strikeが味方を対象にキャストできるようになる。味方にキャストした場合、放電の範囲が160増加し、放電のたびに1秒間対象の味方に移動速度+50%% と 攻撃速度+75 のバフを与える。",
+    "DOTA_Tooltip_ability_disruptor_thunder_strike_shard_description": "Thunder Strikeが味方を対象にキャストできるようになる。味方にキャストした場合、雷撃の範囲が160増加し、雷撃のたびに1秒間対象の味方に 移動速度+50%% と 攻撃速度+75 のバフを与える。",
     "DOTA_Tooltip_ability_disruptor_static_storm_scepter_description": "アイテムをミュートさせる。"
 }
