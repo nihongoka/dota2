@@ -7365,5 +7365,7 @@
     "DOTA_Tooltip_ability_special_bonus_unique_hoodwink_bushwhack_cooldown": "Bushwhackのクールダウン-{s:value}秒",
     "DOTA_Tooltip_modifier_hoodwink_camouflage_Description": "木の隣にいて移動・攻撃・アビリティとアイテムの使用をしていないため透明化している。",
     "DOTA_Tooltip_ability_hoodwink_sharpshooter": "Sharpshooter",
-    "DOTA_Tooltip_ability_hoodwink_acorn_shot_bounce_count": "跳ね返る回数:"
+    "DOTA_Tooltip_ability_hoodwink_acorn_shot_bounce_count": "跳ね返る回数:",
+    "DOTA_Tooltip_ability_antimage_counterspell_shard_description": "Counterspellを成功させると、イリュージョンを生成してスキルを発動した敵を5秒間攻撃を行い、Counterspell発動に使ったマナコストが回復する。",
+    "DOTA_Tooltip_ability_antimage_mana_overload": "Blink Fragment"
 }
