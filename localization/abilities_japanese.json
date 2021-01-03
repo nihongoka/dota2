@@ -102,7 +102,7 @@
     "DOTA_Tooltip_ability_necronomicon_archer_purge_duration": "効果時間:",
     "DOTA_Tooltip_ability_necronomicon_archer_purge_abilitycastrange": "キャスト範囲:",
     "DOTA_Tooltip_ability_necronomicon_archer_aoe": "Archer Aura",
-    "DOTA_Tooltip_ability_necronomicon_archer_aoe_Description": "近くにいるユニットの移動速度と攻撃速度を増加させる。",
+    "DOTA_Tooltip_ability_necronomicon_archer_aoe_Description": "近くにいるユニットの移動速度を増加させる。",
     "DOTA_Tooltip_ability_necronomicon_archer_aoe_radius": "半径:",
     "DOTA_Tooltip_ability_necronomicon_archer_aoe_ms_bonus": "%移動速度ボーナス:",
     "DOTA_Tooltip_ability_necronomicon_archer_aoe_as_bonus": "攻撃速度ボーナス:",
@@ -509,7 +509,7 @@
     "DOTA_Tooltip_ability_mirana_invis_duration": "効果時間:",
     "DOTA_Tooltip_ability_mirana_invis_bonus_movement_speed": "%移動速度上昇:",
     "DOTA_Tooltip_ability_mirana_leap": "Leap",
-    "DOTA_Tooltip_ability_mirana_leap_Description": "前方に跳躍し、ボーナス攻撃速度と移動速度を得る。をボーナスは%leap_bonus_duration%秒間続く。",
+    "DOTA_Tooltip_ability_mirana_leap_Description": "前方に跳躍し、ボーナス攻撃速度と移動速度を得る。ボーナスは%leap_bonus_duration%秒間続く。",
     "DOTA_Tooltip_ability_mirana_leap_leap_distance": "距離:",
     "DOTA_Tooltip_ability_mirana_leap_leap_speedbonus": "%移動速度ボーナス:",
     "DOTA_Tooltip_ability_mirana_leap_leap_speedbonus_as": "攻撃速度ボーナス:",
@@ -7368,7 +7368,7 @@
     "DOTA_Tooltip_ability_hoodwink_acorn_shot_bounce_count": "跳ね返る回数:",
     "DOTA_Tooltip_ability_antimage_counterspell_shard_description": "Counterspellを成功させると、イリュージョンを生成してスキルを発動した敵を5秒間攻撃を行い、Counterspell発動に使ったマナコストが回復する。",
     "DOTA_Tooltip_ability_antimage_mana_overload": "Blink Fragment",
-    "DOTA_Tooltip_ability_queenofpain_blink_shard_description": "Blinkの発動地点と到着地点の両方で範囲300の衝撃波が発動するようになる。衝撃波は150ダメージと1.5秒間のサイレンスを与える。",
+    "DOTA_Tooltip_ability_queenofpain_blink_shard_description": "Blinkの発動地点と到着地点の両方で範囲300の衝撃波が発生する。衝撃波は150ダメージと1.5秒間のサイレンスを与える。",
     "DOTA_Tooltip_ability_antimage_mana_overload_Description": "イリュージョンを指定した対象か地点にBlinkさせ7秒間攻撃させる。Counterspellの効果はBlink Fragmentで作ったイリュージョンにも複製される。",
     "DOTA_Tooltip_ability_queenofpain_sonic_wave_scepter_description": "ダメージを増加させ、クールダウンを減少させる。",
     "DOTA_Tooltip_ability_lina_laguna_blade_shard_description": "Laguna Bladeのキャスト範囲が150増加し、地点指定でも発動できるようになる。最大キャスト範囲まで貫通するようになり、射線上の全ユニットにもダメージを与える。",
@@ -7376,5 +7376,8 @@
     "DOTA_Tooltip_ability_ancient_apparition_ice_vortex_shard_description": "Ice Vortexが秒間40ダメージを与え、攻撃速度を20減少させるようになる。",
     "DOTA_Tooltip_ability_ancient_apparition_chilling_touch_scepter_description": "クールダウンを0にする。",
     "DOTA_Tooltip_ability_disruptor_thunder_strike_shard_description": "Thunder Strikeが味方を対象にキャストできるようになる。味方にキャストした場合、雷撃の範囲が160増加し、雷撃のたびに1秒間対象の味方に 移動速度+50%% と 攻撃速度+75 のバフを与える。",
-    "DOTA_Tooltip_ability_disruptor_static_storm_scepter_description": "アイテムをミュートさせる。"
+    "DOTA_Tooltip_ability_disruptor_static_storm_scepter_description": "アイテムをミュートさせる。",
+    "DOTA_Tooltip_ability_mirana_arrow_scepter_description": "飛翔しているプライマリSacred Arrowの周囲500以内に入った敵にStarstormを放つ。また、プライマリSacred Arrowに当たった敵に50%のダメージを与える第二のStarstormを放つ。",
+    "DOTA_Tooltip_ability_lina_laguna_blade_scepter_description": "Laguna Bladeのダメージタイプをピュアダメージに変え、スペル耐性を貫通するようになる。",
+    "DOTA_Tooltip_ability_mirana_leap_shard_description": "Leapの最大チャージ数を1増加させる。Leapによるバフの間、Miranaの攻撃は1.5倍のクリティカル攻撃になる。"
 }
