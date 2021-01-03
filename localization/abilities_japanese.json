@@ -667,14 +667,14 @@
     "DOTA_Tooltip_ability_jakiro_dual_breath_Note0": "距離1025までのユニットに当たる。",
     "DOTA_Tooltip_ability_jakiro_dual_breath_Note1": "各ブレス攻撃の間には %fire_delay% 秒の間隔がある。",
     "DOTA_Tooltip_ability_jakiro_dual_breath_burn_damage": "燃焼ダメージ:",
-    "DOTA_Tooltip_ability_life_stealer_feast_Description": "Lifestealerの攻撃は、ターゲットの最大体力の割合に応じて自身を回復する。また、攻撃速度が増加する。",
+    "DOTA_Tooltip_ability_life_stealer_feast_Description": "Lifestealerの攻撃は、ターゲットの最大体力の割合に応じて自身を回復する。",
     "DOTA_Tooltip_ability_life_stealer_feast_Note0": "Roshanには効果がない。",
     "DOTA_Tooltip_ability_life_stealer_feast_Note1": "スペル耐性を持つユニットにも効果がある。",
     "DOTA_Tooltip_ability_life_stealer_feast_Note2": "回復量はダメージ量によって変わる。",
     "DOTA_Tooltip_ability_life_stealer_feast_Note3": "異なる種類のライフスチールと重複して効果を持つ。",
     "DOTA_Tooltip_ability_life_stealer_feast_hp_leech_percent": "%最大ライフスチール量:",
     "DOTA_Tooltip_ability_life_stealer_feast_attack_speed_bonus": "攻撃速度:",
-    "DOTA_Tooltip_ability_life_stealer_open_wounds_Note0": "Open Woundsのスロー効果は8段階にわたる: 70% / 70% / 60% / 50% / 30% / 10% / 10% / 10%、つまりスロー効果は1秒ごとに弱まっていく。",
+    "DOTA_Tooltip_ability_life_stealer_open_wounds_Note0": "Open Woundsのスロー効果は8段階にわたる: 50% / 50% / 40% / 30% / 20% / 10% / 10% / 10%、つまりスロー効果は1秒ごとに弱まっていく。",
     "DOTA_Tooltip_ability_life_stealer_open_wounds_Description": "敵を引き裂き、対象に移動速度低下を与える。味方はOpenWoundsの効果を受けているユニットを攻撃すると、ダメージ量の一定割合を回復する。この回復効果はすべての種類の攻撃(スペルによる攻撃)に機能する。効果時間終了後、対象は時間をかけて移動速度が元の値へと回復する。",
     "DOTA_Tooltip_ability_life_stealer_open_wounds_Note1": "別の種類のLifestealの効果と重複する。",
     "DOTA_Tooltip_ability_life_stealer_open_wounds_duration": "持続時間:",
@@ -7371,5 +7371,10 @@
     "DOTA_Tooltip_ability_queenofpain_blink_shard_description": "Blinkの発動地点と到着地点の両方で範囲300の衝撃波が発動するようになる。衝撃波は150ダメージと1.5秒間のサイレンスを与える。",
     "DOTA_Tooltip_ability_antimage_mana_overload_Description": "イリュージョンを指定した対象か地点にBlinkさせ7秒間攻撃させる。Counterspellの効果はBlink Fragmentで作ったイリュージョンにも複製される。",
     "DOTA_Tooltip_ability_queenofpain_sonic_wave_scepter_description": "ダメージを増加させ、クールダウンを減少させる。",
-    "DOTA_Tooltip_ability_lina_laguna_blade_shard_description": "Laguna Bladeのキャスト範囲が150増加し、地点指定でも発動できるようになる。最大キャスト範囲まで貫通するようになり、射線上の全ユニットにもダメージを与える。"
+    "DOTA_Tooltip_ability_lina_laguna_blade_shard_description": "Laguna Bladeのキャスト範囲が150増加し、地点指定でも発動できるようになる。最大キャスト範囲まで貫通するようになり、射線上の全ユニットにもダメージを与える。",
+    "DOTA_Tooltip_ability_life_stealer_ghoul_frenzy": "Ghoul Frenzy",
+    "DOTA_Tooltip_ability_ancient_apparition_ice_vortex_shard_description": "Ice Vortexが秒間40ダメージを与え、攻撃速度を20減少させるようになる。",
+    "DOTA_Tooltip_ability_ancient_apparition_chilling_touch_scepter_description": "クールダウンを0にする。",
+    "DOTA_Tooltip_ability_disruptor_thunder_strike_shard_description": "Thunder Strikeが味方を対象にキャストできるようになる。味方にキャストした場合、放電の範囲が160増加し、放電のたびに1秒間対象の味方に移動速度+50%% と 攻撃速度+75 のバフを与える。",
+    "DOTA_Tooltip_ability_disruptor_static_storm_scepter_description": "アイテムをミュートさせる。"
 }
