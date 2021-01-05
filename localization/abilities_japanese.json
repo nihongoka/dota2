@@ -2996,10 +2996,10 @@
     "DOTA_Tooltip_ability_enigma_demonic_conversion_abilityduration": "効果時間:",
     "DOTA_Tooltip_ability_enigma_midnight_pulse_Note0": "ダメージはスペル耐性を貫通する。",
     "DOTA_Tooltip_ability_enigma_midnight_pulse_Note1": "このスキルは範囲内の木を破壊する。",
-    "DOTA_Tooltip_ability_enigma_midnight_pulse_Note2": "複数のMidnight Pulseは効果がスタックする。",
+    "DOTA_Tooltip_ability_enigma_midnight_pulse_Note2": "複数のMidnight Pulseは効果が重複する。",
     "DOTA_Tooltip_ability_enigma_midnight_pulse_duration": "効果時間:",
     "DOTA_Tooltip_ability_enigma_midnight_pulse_damage_percent": "%1秒ごとのダメージ:",
-    "DOTA_Tooltip_ability_enigma_midnight_pulse_radius": "半径:",
+    "DOTA_Tooltip_ability_enigma_midnight_pulse_radius": "範囲:",
     "DOTA_Tooltip_ability_enigma_black_hole_Note0": "ディスエイブルはスペル耐性を貫通する。",
     "DOTA_Tooltip_ability_enigma_black_hole_far_damage": "1秒ごとのダメージ:",
     "DOTA_Tooltip_ability_enigma_black_hole_far_radius": "半径:",
@@ -7418,5 +7418,10 @@
     "DOTA_Tooltip_ability_phantom_assassin_fan_of_knives_Description": "鋭いナイフを範囲550にばら撒き、最大体力の12%のピュアダメージと3秒間のブレイクを与える。",
     "DOTA_Tooltip_ability_phantom_assassin_blur_scepter_description": "Blur のキャスト時間が0になり、ディスペル効果を得る。Phantom Assassin がキルをすると全てのスキルがリフレッシュされる。Blur のクールダウンを減らし、Fade Time 解除の猶予時間を0.75に増加させる。",
     "DOTA_Tooltip_ability_phantom_assassin_blur_shard_description": "Blur の効果中、移動速度が40%増加する。",
-    "DOTA_Tooltip_ability_phantom_assassin_fan_of_knives": "Fan of Knives"
+    "DOTA_Tooltip_ability_phantom_assassin_fan_of_knives": "Fan of Knives",
+    "DOTA_Tooltip_ability_enigma_black_hole_shard_description": "Black Holeの範囲1200以内にいるユニットは、毎秒175の距離だけ中心に吸い寄せられる。",
+    "DOTA_Tooltip_ability_enigma_black_hole_radius": "範囲:",
+    "DOTA_Tooltip_ability_enigma_black_hole_damage": "秒間ダメージ:",
+    "DOTA_Tooltip_ability_enigma_black_hole_scepter_description": "現在のレベルの Midnight Pulse を Black Hole に追加する。",
+    "DOTA_Tooltip_ability_special_bonus_unique_enigma_9": "+{s:value} Midnight Pulse 範囲"
 }
