@@ -183,7 +183,7 @@
     "DOTA_Tooltip_ability_lina_laguna_blade_damage": "ダメージ:",
     "DOTA_Tooltip_modifier_lina_fiery_soul_Description": "攻撃速度が%dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%増加、移動速度が%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%増加しました。",
     "DOTA_Tooltip_ability_lina_light_strike_array_light_strike_array_stun_duration": "スタン時間:",
-    "DOTA_Tooltip_ability_lina_fiery_soul_Description": "Linaがスキルを使用する度に攻撃と移動速度のボーナスを付与する。この効果はスタックする。持続時間は%fiery_soul_stack_duration%秒。",
+    "DOTA_Tooltip_ability_lina_fiery_soul_Description": "Linaがスキルを使用する度に攻撃と移動速度のボーナスを付与する。この効果は重複する。持続時間は%fiery_soul_stack_duration%秒。",
     "DOTA_Tooltip_ability_lina_fiery_soul_fiery_soul_attack_speed_bonus": "攻撃速度ボーナス:",
     "DOTA_Tooltip_ability_lina_laguna_blade_aghanim_description": "Laguna Bladeのダメージタイプをピュアに変更し、スペル耐性を貫通できるようになる。",
     "DOTA_Tooltip_ability_lina_laguna_blade": "Laguna Blade",
@@ -1559,7 +1559,7 @@
     "DOTA_Tooltip_ability_clinkz_death_pact_health_gain_pct": "%ボーナス体力:",
     "DOTA_Tooltip_ability_clinkz_death_pact_damage_gain_pct": "%ボーナスダメージ:",
     "DOTA_Tooltip_ability_clinkz_burning_army": "Burning Army",
-    "DOTA_Tooltip_ability_razor_eye_of_the_storm_Note2": "Eye of the Stormを二重に使用した場合、効果がスタックする。",
+    "DOTA_Tooltip_ability_razor_eye_of_the_storm_Note2": "Eye of the Stormを二重に使用した場合、効果が重複する。",
     "DOTA_Tooltip_ability_razor_eye_of_the_storm_radius": "範囲:",
     "DOTA_Tooltip_ability_razor_eye_of_the_storm_duration": "効果時間:",
     "DOTA_Tooltip_ability_razor_eye_of_the_storm_strike_interval": "雷撃の間隔:",
@@ -7414,5 +7414,9 @@
     "DOTA_Tooltip_modifier_skeleton_king_vampiric_aura_Description": "現在のSkeletonの数。",
     "DOTA_Tooltip_modifier_skeleton_king_vampiric_aura_summon": "Vampiric Spirit で召喚",
     "DOTA_Tooltip_ability_juggernaut_blade_fury_shard_description": "Blade Furyの間、移動速度が100増加し、1秒に1回近くのランダムなユニットを攻撃して75%のダメージを与える。",
-    "DOTA_Tooltip_ability_special_bonus_unique_juggernaut_5": "-{s:value}s Healing Ward クールダウン"
+    "DOTA_Tooltip_ability_special_bonus_unique_juggernaut_5": "-{s:value}s Healing Ward クールダウン",
+    "DOTA_Tooltip_ability_phantom_assassin_fan_of_knives_Description": "鋭いナイフを範囲550にばら撒き、最大体力の12%のピュアダメージと3秒間のブレイクを与える。",
+    "DOTA_Tooltip_ability_phantom_assassin_blur_scepter_description": "Blur のキャスト時間が0になり、ディスペル効果を得る。Phantom Assassin がキルをすると全てのスキルがリフレッシュされる。Blur のクールダウンを減らし、Fade Time 解除の猶予時間を0.75に増加させる。",
+    "DOTA_Tooltip_ability_phantom_assassin_blur_shard_description": "Blur の効果中、移動速度が40%増加する。",
+    "DOTA_Tooltip_ability_phantom_assassin_fan_of_knives": "Fan of Knives"
 }
