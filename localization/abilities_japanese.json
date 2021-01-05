@@ -7400,5 +7400,9 @@
     "DOTA_Tooltip_ability_dragon_knight_elder_dragon_form_shard_description": "Elder Dragon Form発動中に使用できるスキル Fireball を獲得する。",
     "DOTA_Tooltip_ability_dragon_knight_elder_dragon_form_abilitydraft_note": "Fireball は Elder Dragon Form 発動中のみ使用できる",
     "DOTA_Tooltip_ability_dragon_knight_fireball": "Fireball",
-    "DOTA_Tooltip_ability_dragon_knight_fireball_Description": "Elder Dragon Form の間使用できる。%duration%秒の間、 範囲%radius%を火の海にして、範囲内にいる敵に%damage%秒間ダメージを与える。"
+    "DOTA_Tooltip_ability_dragon_knight_fireball_Description": "Elder Dragon Form の間使用できる。%duration%秒の間、 範囲%radius%を火の海にして、範囲内にいる敵に秒間%damage%ダメージを与える。",
+    "DOTA_Tooltip_ability_sven_storm_bolt_scepter_description": "キャスト範囲を広げ、 storm hammer と共に Sven が移動する。",
+    "DOTA_Tooltip_ability_special_bonus_unique_sven_5": "+{s:value}s Warcry 効果時間",
+    "DOTA_Tooltip_ability_sven_storm_bolt_shard_description": "Storm Hammer は敵にディスペルを与えるようになった。",
+    "DOTA_Tooltip_ability_special_bonus_unique_sven_6": "+{s:value}% Warcry 移動速度"
 }
