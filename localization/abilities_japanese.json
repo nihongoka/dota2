@@ -7391,5 +7391,9 @@
     "DOTA_Tooltip_modifier_life_stealer_ghoul_frenzy_slow_Description": "移動速度 %dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%% 減少。",
     "DOTA_Tooltip_modifier_life_stealer_infest_enemy_hero_Description": "あなたは敵ヒーローに寄生されている。",
     "DOTA_Tooltip_ability_windrunner_windrun_scepter_description": "Windrunに %max_charges% のチャージを付与し、移動速度を増加させ、移動速度制限を解除する。",
-    "DOTA_Tooltip_ability_lion_mana_drain_shard_description": "Mana Drainは対象の攻撃速度を90減少させ、トゥルーサイトを得るようになる。"
+    "DOTA_Tooltip_ability_lion_mana_drain_shard_description": "Mana Drainは対象の攻撃速度を90減少させ、トゥルーサイトを得るようになる。",
+    "dota_ability_variable_primary_attribute": "自分の属性",
+    "dota_ability_variable_mana_regen_aura": "マナ自然回復オーラ",
+    "dota_ability_variable_spell_lifesteal_creep": "クリープに対してのスペル攻撃の何割か回復する",
+    "dota_ability_variable_spell_lifesteal_hero": "ヒーローに対してのスペル攻撃の何割か回復する"
 }
