@@ -477,7 +477,7 @@
     "DOTA_Tooltip_ability_juggernaut_omni_slash_cooldown_scepter": "SCEPTER クールダウン:",
     "DOTA_Tooltip_ability_juggernaut_omni_slash_abilitydraft_note": "Swift Slashはアビリティドラフトで有効。",
     "DOTA_Tooltip_ability_juggernaut_swift_slash": "Swiftslash",
-    "DOTA_Tooltip_ability_juggernaut_swift_slash_Description": "短時間Omnislashを発動する。",
+    "DOTA_Tooltip_ability_juggernaut_swift_slash_Description": "短時間のミニOmnislashを発動する。",
     "DOTA_Tooltip_ability_juggernaut_swift_slash_duration": "効果時間:",
     "DOTA_Tooltip_modifier_juggernaut_blade_fury": "Blade Fury",
     "DOTA_Tooltip_modifier_juggernaut_blade_fury_Description": "スペル耐性を持ち、毎秒ダメージを与えている",
@@ -7412,5 +7412,7 @@
     "DOTA_Tooltip_ability_skeleton_king_reincarnation_scepter_description": "味方ヒーローが Wraith King の近くで死亡したとき、死霊となり、%scepter_duration%秒の間その死を遅らせる。変身したユニットに攻撃速度 +70 、移動速度 +25%% のバフを与える。",
     "DOTA_Tooltip_modifier_skeleton_king_vampiric_aura": "Vampiric Spirit Skeleton チャージ",
     "DOTA_Tooltip_modifier_skeleton_king_vampiric_aura_Description": "現在のSkeletonの数。",
-    "DOTA_Tooltip_modifier_skeleton_king_vampiric_aura_summon": "Vampiric Spirit で召喚"
+    "DOTA_Tooltip_modifier_skeleton_king_vampiric_aura_summon": "Vampiric Spirit で召喚",
+    "DOTA_Tooltip_ability_juggernaut_blade_fury_shard_description": "Blade Furyの間、移動速度が100増加し、1秒に1回近くのランダムなユニットを攻撃して75%のダメージを与える。",
+    "DOTA_Tooltip_ability_special_bonus_unique_juggernaut_5": "-{s:value}s Healing Ward クールダウン"
 }
