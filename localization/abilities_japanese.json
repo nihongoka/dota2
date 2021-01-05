@@ -1023,7 +1023,7 @@
     "DOTA_Tooltip_ability_storm_spirit_static_remnant_static_remnant_damage_radius": "範囲:",
     "DOTA_Tooltip_ability_razor_static_link_drain_length": "リンク持続時間:",
     "DOTA_Tooltip_ability_razor_static_link_drain_duration": "バフ持続時間:",
-    "DOTA_Tooltip_ability_razor_unstable_current_Description": "自身の移動速度が上昇する。",
+    "DOTA_Tooltip_ability_razor_unstable_current_Description": "Razorの移動速度が上昇する。",
     "DOTA_Tooltip_ability_razor_eye_of_the_storm_Description": "強力な雷雲を召喚し、体力が最も低い敵ユニット一体を雷撃してダメージを与え、アーマーを減少させる。",
     "DOTA_Tooltip_ability_storm_spirit_electric_vortex_aghanim_description": "Electric VortexはStorm Spiritの周りにいる範囲内の全ての敵にヒットする。",
     "DOTA_Tooltip_ability_storm_spirit_overload_Description": "スキルを使用した次の通常攻撃時、対象とその周囲に追加ダメージを与え、減速させる。",
@@ -7419,9 +7419,11 @@
     "DOTA_Tooltip_ability_phantom_assassin_blur_scepter_description": "Blur のキャスト時間が0になり、ディスペル効果を得る。Phantom Assassin がキルをすると全てのスキルがリフレッシュされる。Blur のクールダウンを減らし、Fade Time 解除の猶予時間を0.75に増加させる。",
     "DOTA_Tooltip_ability_phantom_assassin_blur_shard_description": "Blur の効果中、移動速度が40%増加する。",
     "DOTA_Tooltip_ability_phantom_assassin_fan_of_knives": "Fan of Knives",
-    "DOTA_Tooltip_ability_enigma_black_hole_shard_description": "Black Holeの範囲1200以内にいるユニットは、毎秒175の距離だけ中心に吸い寄せられる。",
+    "DOTA_Tooltip_ability_enigma_black_hole_shard_description": "Black Holeから範囲1200以内にいるユニットは、毎秒175の距離だけ中心に吸い寄せられる。",
     "DOTA_Tooltip_ability_enigma_black_hole_radius": "範囲:",
     "DOTA_Tooltip_ability_enigma_black_hole_damage": "秒間ダメージ:",
     "DOTA_Tooltip_ability_enigma_black_hole_scepter_description": "現在のレベルの Midnight Pulse を Black Hole に追加する。",
-    "DOTA_Tooltip_ability_special_bonus_unique_enigma_9": "+{s:value} Midnight Pulse 範囲"
+    "DOTA_Tooltip_ability_special_bonus_unique_enigma_9": "+{s:value} Midnight Pulse 範囲",
+    "DOTA_Tooltip_ability_razor_unstable_current_shard_description": "Storm Surgeが、攻撃された時に18%の確率で、スキルの標的となった時は常に、敵2体までを襲うフォーク状の雷を放つ。120ダメージと1.5秒間50%の速度低下を与える。",
+    "DOTA_Tooltip_ability_razor_eye_of_the_storm_scepter_description": "Eye of the Stormが2つの異なるユニットを攻撃するようになり、建造物も攻撃するようになる。建造物を攻撃する場合、タワーとバラックとエンシェントが対象となる。"
 }
