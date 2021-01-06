@@ -7452,5 +7452,9 @@
     "DOTA_Tooltip_modifier_ogre_magi_frost_armor": "Ice Armor",
     "DOTA_Tooltip_modifier_ogre_magi_frost_armor_slow": "Ice Armor スロー",
     "DOTA_Tooltip_modifier_ogre_magi_frost_armor_slow_Description": "移動速度が %dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%% 減少し、攻撃速度が %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT% 減少する。",
-    "DOTA_Tooltip_modifier_item_medallion_of_courage_armor_reduction": "Medallion of Courage"
+    "DOTA_Tooltip_modifier_item_medallion_of_courage_armor_reduction": "Medallion of Courage",
+    "DOTA_Tooltip_ability_witch_doctor_death_ward_scepter_description": "Death ward の攻撃が跳躍しトゥルーストライクになる。",
+    "DOTA_Tooltip_ability_witch_doctor_voodoo_switcheroo_Description": "Witch Doctor は2秒間 Death Wardに変身する。Death Wardは -30攻撃速度。変身中はハイド状態になる。",
+    "DOTA_Tooltip_ability_witch_doctor_voodoo_switcheroo_duration": "効果時間:",
+    "DOTA_Tooltip_ability_witch_doctor_voodoo_switcheroo": "Voodoo Switcheroo"
 }
