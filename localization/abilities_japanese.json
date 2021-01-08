@@ -2004,7 +2004,7 @@
     "DOTA_Tooltip_ability_luna_eclipse_Note2": "透明のユニットには当たらない。",
     "DOTA_Tooltip_ability_luna_lucent_beam_beam_damage": "ビームダメージ:",
     "DOTA_Tooltip_ability_luna_eclipse_cast_range_tooltip_scepter": "SCEPTER キャスト範囲:",
-    "DOTA_Tooltip_ability_luna_lunar_blessing_Description": "Lunaと味方のレンジプレイヤーユニットの攻撃ダメージが増加する。また、Lunaは夜間の視認範囲が増加する。",
+    "DOTA_Tooltip_ability_luna_lunar_blessing_Description": "Lunaと味方ヒーローの攻撃ダメージが増加する。また、Lunaは夜間の視認範囲が増加する。",
     "DOTA_Tooltip_ability_zuus_arc_lightning": "Arc Lightning",
     "DOTA_Tooltip_ability_zuus_arc_lightning_Description": "近くの敵ユニットの間を飛び跳ねる稲妻を放つ。",
     "DOTA_Tooltip_ability_zuus_arc_lightning_jump_count": "ジャンプ数:",
@@ -7514,5 +7514,14 @@
     "DOTA_Tooltip_modifier_item_armlet_unholy_strength": "Unholy Strength",
     "DOTA_Tooltip_modifier_item_blade_mail_reflect": "Blade Mail Reflection",
     "DOTA_Tooltip_Ability_item_recipe_swift_blink": "Swift Blink Recipe",
-    "DOTA_Tooltip_Ability_item_recipe_arcane_blink": "Arcane Blink Recipe"
+    "DOTA_Tooltip_Ability_item_recipe_arcane_blink": "Arcane Blink Recipe",
+    "DOTA_Tooltip_ability_earthshaker_fissure_shard_description": "Fissureのクールダウンが2秒短縮され、Earthshakerがその上を歩けるようになる。また、アビリティを発動するたびに、設置されているFissureの周りにAftershockが放たれる。",
+    "DOTA_Tooltip_ability_earthshaker_enchant_totem_scepter_description": "Enchant Totemは範囲%distance_scepter%の地点指定能力になる。Earthshakerがジャンプして目標地点に着地し、そこにEnchant Totemをキャストするようになる。この能力をセルフキャストすると、ジャンプせずに元の形で動作する。",
+    "DOTA_Tooltip_ability_tidehunter_gush_scepter_description": "Gushは、一列に並んだ敵ユニットに影響を与える地点指定のアビリティとなる。 クールダウンを減少させる。",
+    "DOTA_Tooltip_ability_luna_lucent_beam_shard_description": "Lucent beamが、地点指定で発動できるようになり、指定した地点から範囲325以内の敵ユニット当たるようになる。また、スタン時間が1.2秒に増加し、3秒間Lunaに移動速度 +30% のボーナスを付与する。",
+    "DOTA_Tooltip_ability_earthshaker_fissure_abilitydraft_note": "ShardをアップグレードするにはAftershockのドラフトが必要。",
+    "DOTA_Tooltip_ability_tidehunter_anchor_smash_shard_description": "Anchor Smashのダメージが90増加し、建物に影響を与えるようになる。クールダウンを1秒減少させる。",
+    "DOTA_Tooltip_ability_luna_lunar_blessing_bonus_damage": "ダメージボーナス:",
+    "DOTA_Tooltip_ability_luna_eclipse_scepter_description": "Eclipseを範囲指定もしくは味方ユニット指定でキャストできるようになる。味方ユニットにキャストした場合、そのユニットにスキルが追従する。また、総Lucent Beam数と持続時間が増加し、1ユニットあたりの攻撃回数の制限がなくなり、ビームの出現速度が2倍になる。",
+    "DOTA_Tooltip_ability_special_bonus_unique_tidehunter_5": "-{s:value}s Anchor Smash クールダウン"
 }
