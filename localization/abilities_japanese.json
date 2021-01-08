@@ -7545,5 +7545,7 @@
     "DOTA_Tooltip_ability_special_bonus_unique_jakiro_7": "+{s:value} Macropyre ダメージ",
     "DOTA_Tooltip_ability_polar_furbolg_ursa_warrior_thunder_clap": "Thunder Clap",
     "DOTA_Tooltip_ability_polar_furbolg_ursa_warrior_thunder_clap_Description": "Hellbear Smasherは、巨大な手を叩き、耳をつんざくような爆風を発生させる。爆風は近くの敵にダメージとスローを与える。",
-    "DOTA_Tooltip_modifier_polar_furbolg_ursa_warrior_thunder_clap": "Thunder Clap"
+    "DOTA_Tooltip_modifier_polar_furbolg_ursa_warrior_thunder_clap": "Thunder Clap",
+    "DOTA_Tooltip_ability_zuus_static_field_shard_description": "Active効果を追加する。マリオジャンプを行い、範囲2000以内で最も近い、可視状態の敵ユニット（ヒーロー優先）にStatic Fieldダメージと2.5秒間の100%スローを与える。移動中に使用した場合、その方向にジャンプする。クールダウン:14。 マナコスト:100。",
+    "DOTA_Tooltip_ability_special_bonus_unique_zeus_4": "+{s:value} Thundergod's Wrath ダメージ"
 }
