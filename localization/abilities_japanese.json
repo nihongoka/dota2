@@ -7613,7 +7613,7 @@
     "DOTA_Tooltip_ability_vengefulspirit_command_aura_bonus_base_damage": "%基礎攻撃力ボーナス:",
     "DOTA_Tooltip_modifier_vengefulspirit_wave_of_terror_buff": "Wave of Terror",
     "DOTA_Tooltip_modifier_vengefulspirit_wave_of_terror_buff_Description": "敵の基礎攻撃力を奪っている。",
-    "DOTA_Tooltip_ability_leshrac_split_earth_shard_description": "Split Earthの発動から5秒後、範囲が75増加した2度目のSplit Earthが同じ場所で発動される。再発動する範囲の予告線は両チームともに確認できる。",
+    "DOTA_Tooltip_ability_leshrac_split_earth_shard_description": "Split Earthを同じ場所で追加で2回繰り返す。5秒ごとに範囲が75増加した追加のSplit Earthが発動される。再発動する範囲の予告線は両チームともに確認できる。",
     "DOTA_Tooltip_ability_leshrac_greater_lightning_storm": "Nihilism",
     "DOTA_Tooltip_ability_leshrac_greater_lightning_storm_duration": "効果時間:",
     "DOTA_Tooltip_ability_leshrac_greater_lightning_storm_magic_amp": "%魔法ダメージ増加:",
