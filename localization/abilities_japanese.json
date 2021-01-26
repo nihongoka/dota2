@@ -354,7 +354,7 @@
     "DOTA_Tooltip_ability_crystal_maiden_freezing_field_scepter_delay": "SCEPTER FROSTBITE遅延:",
     "DOTA_Tooltip_modifier_crystal_maiden_crystal_nova": "Crystal Nova",
     "DOTA_Tooltip_modifier_crystal_maiden_frostbite": "Frostbite",
-    "DOTA_Tooltip_modifier_crystal_maiden_frostbite_Description": "移動と攻撃ができなくなっている。%fMODIFIER_PROPERTY_TOOLTIP%秒ごとに%dMODIFIER_PROPERTY_TOOLTIP%ダメージを受けている。",
+    "DOTA_Tooltip_modifier_crystal_maiden_frostbite_Description": "移動と攻撃ができなくなっている。%dMODIFIER_PROPERTY_TOOLTIP%ダメージを%fMODIFIER_PROPERTY_TOOLTIP%秒ごとに受けている。",
     "DOTA_Tooltip_modifier_crystal_maiden_brilliance_aura_effect": "Arcane Aura",
     "DOTA_Tooltip_modifier_crystal_maiden_brilliance_aura_effect_Description": "%fMODIFIER_PROPERTY_MANA_REGEN_CONSTANT%マナ自然回復と%dMODIFIER_PROPERTY_MAGICAL_RESISTANCE_BONUS%%%ボーナス魔法耐性を得ている。",
     "DOTA_Tooltip_modifier_crystal_maiden_freezing_field_slow": "Freezing Field スロー",
@@ -7617,5 +7617,6 @@
     "DOTA_Tooltip_ability_leshrac_greater_lightning_storm": "Nihilism",
     "DOTA_Tooltip_ability_leshrac_greater_lightning_storm_duration": "効果時間:",
     "DOTA_Tooltip_ability_leshrac_greater_lightning_storm_magic_amp": "%魔法ダメージ増加:",
-    "DOTA_Tooltip_ability_leshrac_greater_lightning_storm_slow": "%スロー:"
+    "DOTA_Tooltip_ability_leshrac_greater_lightning_storm_slow": "%スロー:",
+    "dota_ability_variable_debuff_amp": "デバフ持続時間"
 }
