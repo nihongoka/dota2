@@ -7618,5 +7618,6 @@
     "DOTA_Tooltip_ability_leshrac_greater_lightning_storm_duration": "効果時間:",
     "DOTA_Tooltip_ability_leshrac_greater_lightning_storm_magic_amp": "%魔法ダメージ増加:",
     "DOTA_Tooltip_ability_leshrac_greater_lightning_storm_slow": "%スロー:",
-    "dota_ability_variable_debuff_amp": "デバフ持続時間"
+    "dota_ability_variable_debuff_amp": "デバフ持続時間",
+    "DOTA_Tooltip_ability_furion_greater_sprout_Description": "半径300の円形状に生える木の囲いを%duration%秒間維持する。囲いの中にいる敵を2秒間Ensnare状態にし、1秒ごとに150ダメージ与える。"
 }
