@@ -1685,7 +1685,7 @@
     "DOTA_Tooltip_modifier_pudge_flesh_heap_Description": "%dMODIFIER_PROPERTY_MAGICAL_RESISTANCE_BONUS%%%の魔法耐性と%0fMODIFIER_PROPERTY_STATS_STRENGTH_BONUS%のボーナスSTRを得る",
     "DOTA_Tooltip_ability_sandking_sand_storm_Description": "敵ユニットを攻撃する恐ろしい砂嵐を作り出す。砂嵐の中にいる間Sand Kingは不可視状態となる。範囲を離れると砂嵐は消える。",
     "DOTA_Tooltip_ability_sandking_caustic_finale_Description": "Sand Kingの攻撃が敵ユニットに毒を注入し、移動速度低下をもたらす。毒を注入されたユニットが死ぬと爆散し、周りのユニットにダメージを与える。",
-    "DOTA_Tooltip_ability_sandking_epicenter_Description": "CHANNELED - %abilitychanneltime%秒の詠唱後、地球の内側をかき乱すことで激しい地震をもたらす。範囲内にいる敵はダメージと移動速度低下を受ける。振動の回数を追う毎にその効果範囲とダメージ量が上昇する。",
+    "DOTA_Tooltip_ability_sandking_epicenter_Description": "チャネリング - %abilitychanneltime%秒の詠唱後、地球の内側をかき乱すことで激しい地震をもたらす。範囲内にいる敵はダメージと移動速度低下を受ける。振動の回数を追う毎にその効果範囲とダメージ量が上昇する。",
     "DOTA_Tooltip_modifier_sandking_sand_storm_Description": "自身を不可視状態にし、近くの敵ユニットに毎秒%dMODIFIER_PROPERTY_TOOLTIP% のダメージを与える。",
     "DOTA_Tooltip_modifier_sand_king_caustic_finale_slow_Description": "移動速度が%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%低下している。",
     "DOTA_Tooltip_modifier_sand_king_epicenter_Description": "地中に衝撃を送り込んで、範囲内の敵にダメージと移動速度低下を与えている",
