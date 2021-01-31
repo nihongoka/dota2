@@ -2511,7 +2511,7 @@
     "DOTA_Tooltip_ability_legion_commander_overwhelming_odds_Description": "敵の数を敵の仇とし、ユニットまたはヒーローの数に応じたダメージを与えると同時にボーナス移動速度を得る。 イリュージョンや召喚されたユニットに対しては、それらの現在HPに応じた量のボーナスダメージを与える。",
     "DOTA_Tooltip_ability_legion_commander_moment_of_courage_Description": "攻撃を受けた際、一定の確率でライフスティールを伴うカウンターを行う。",
     "DOTA_Tooltip_ability_legion_commander_moment_of_courage_hp_leech_percent": "%ライフスティール量:",
-    "DOTA_Tooltip_ability_legion_commander_duel_Description": "Legion Commanderと対象となった敵ヒーローは強制的に短い時間互いを攻撃しあう。 両者ともにアイテムやアビリティを使用することはできない。 どちらか一方がその効果時間中に倒れた場合、買ったヒーローは永久的にボーナスダメージを得る。",
+    "DOTA_Tooltip_ability_legion_commander_duel_Description": "Legion Commanderと対象となった敵ヒーローは強制的に短い時間互いを攻撃しあう。 両者ともにアイテムやアビリティを使用することはできない。 どちらか一方がその効果時間中に倒れた場合、勝ったヒーローは永久的にボーナスダメージを得る。",
     "DOTA_Tooltip_modifier_legion_commander_overwhelming_odds_Description": "%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%% のボーナス移動速度を得ている。",
     "DOTA_Tooltip_modifier_legion_commander_duel_damage_boost_Description": "Duelに勝利したことでボーナスダメージを得ている。",
     "DOTA_Tooltip_ability_ember_spirit_searing_chains_Description": "鉄球のついた投げ縄を放ち、近くの敵を拘束する。対象をその場にとどまらせ、継続ダメージを与える。",
