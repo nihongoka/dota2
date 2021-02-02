@@ -2,15 +2,15 @@ name: Release localization data
 
 on:
   schedule:
-  - cron: '5 * * * *'
+  - cron: '0 */3 * * *'
 
-jobs: 
+jobs:
   release:
     runs-on: ubuntu-latest
     steps:
       - name: Get current date
         id: date
-        run: echo "::set-output name=date::$(TZ=Asia/Tokyo date +'%Y-%m-%d-%H')"
+        run: echo "::set-output name=date::$(TZ=UTC date +'%Y-%m-%d-%H-M-UTC')"
 
       - uses: actions/checkout@v2
 
