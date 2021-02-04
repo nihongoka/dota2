@@ -7641,5 +7641,16 @@
     "DOTA_Tooltip_ability_item_mask_of_madness_Description": "<h1>Active: Berserk</h1>攻撃速度を%berserk_bonus_attack_speed%、移動速度を%berserk_bonus_movement_speed%上昇させるが、自分のアーマーが%berserk_armor_reduction% 下がり、サイレンス状態になる。%berserk_duration% 秒間続く。\n<h1>Passive: Lifesteal</h1>与えたダメージ量の%lifesteal_percent%%%だけ自身のHPを回復する。",
     "DOTA_Tooltip_ability_item_voodoo_mask_Description": "<h1>Passive: Spell Lifesteal</h1>ダメージの種類にかかわらず、スペルによって与えたダメージ量の%hero_lifesteal%%% を回復する。  <br><br>クリープに対しては、回復量が%creep_lifesteal%%%へ減少する。",
     "DOTA_Tooltip_ability_item_magic_stick_Description": "<h1>Active: Energy Charge</h1> チャージごとに%restore_per_charge% HPとマナを即座に回復する。<br><br> 最大 %max_charges% チャージ。見えている敵が範囲 %charge_radius% の中でスキルを使用したとき、チャージがたまる。",
-    "DOTA_Tooltip_ability_item_magic_stick_Note1": "特定のスキルやアイテムによってはチャージが得られない。"
+    "DOTA_Tooltip_ability_item_magic_stick_Note1": "特定のスキルやアイテムによってはチャージが得られない。",
+    "DOTA_Tooltip_ability_phantom_lancer_spirit_lance_shard_description": "Spirit Lanceが半径900以内の敵に1回跳ねかえるようになる。イリュージョンダメージを+30%% 増加させ、キャスト距離を200増加させる。",
+    "DOTA_Tooltip_ability_special_bonus_unique_phantom_assassin_8": "Stifling Dagger +{s:value} キャスト範囲 & 地点指定",
+    "DOTA_Tooltip_ability_special_bonus_unique_phantom_assassin_8_Description": "Stifling Daggerの対象にBlink Strikeする。800の視界を得る。効果は2分持続する。",
+    "DOTA_Tooltip_ability_drow_ranger_frost_arrows_shard_description": "Frost Arrowsは敵ヒーローに7秒間Hypothermiaのスタックを与えるようになる。Hypothermiaは1スタックごとに回復効果を10%減少させ、負うダメージを5増加させる。スタックの付いた敵ヒーローが死亡した場合、破裂して周囲650の敵に25%%スローと、60ダメージ/スタックの魔法ダメージを与える。最大スタック数: 7",
+    "DOTA_Tooltip_ability_drow_ranger_marksmanship_scepter_Description": "Drow Rangerの通常攻撃はターゲットに当たった後2つに裂け、近くの2ユニットに半分のダメージで当たるようになる。",
+    "DOTA_Tooltip_ability_special_bonus_unique_phantom_lancer_7": "+{s:value} Spirit Lance 複数対象",
+    "DOTA_Tooltip_ability_drow_ranger_multishot_wave_count": "ウェーブ数:",
+    "DOTA_Tooltip_ability_drow_ranger_multishot_scepter_wave_count": "SCEPTER ウェーブ数:",
+    "DOTA_Tooltip_ability_drow_ranger_multishot_arrow_count_per_wave": "ウェーブあたりの弓矢数:",
+    "DOTA_Tooltip_ability_phantom_lancer_juxtapose_scepter_description": "Juxtaposeにアクティブ効果を追加する。juxtaposeで生成されたイリュージョンを一旦全て消滅させ、最大数のイリュージョンを素早く作成する。このスキルによって作成されたイリュージョンは持続時間が本来より10秒増加する。",
+    "DOTA_Tooltip_ability_special_bonus_unique_drow_ranger_7": "-{s:value}秒 Gust クールダウン"
 }
