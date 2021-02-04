@@ -7645,7 +7645,7 @@
     "DOTA_Tooltip_ability_phantom_lancer_spirit_lance_shard_description": "Spirit Lanceが半径900以内の敵に1回跳ねかえるようになる。イリュージョンダメージを+30%% 増加させ、キャスト距離を200増加させる。",
     "DOTA_Tooltip_ability_special_bonus_unique_phantom_assassin_8": "Stifling Dagger +{s:value} キャスト範囲 & 地点指定",
     "DOTA_Tooltip_ability_special_bonus_unique_phantom_assassin_8_Description": "Stifling Daggerの対象にBlink Strikeする。800の視界を得る。効果は2分持続する。",
-    "DOTA_Tooltip_ability_drow_ranger_frost_arrows_shard_description": "Frost Arrowsは敵ヒーローに7秒間Hypothermiaのスタックを与えるようになる。1スタックごとに回復効果を10%減少させ、ダメージを5増加させる。スタックの付いた敵ヒーローが死亡した場合、破裂して周囲650の敵に25%%スローと、60ダメージ/スタックの魔法ダメージを与える。最大スタック数: 7",
+    "DOTA_Tooltip_ability_drow_ranger_frost_arrows_shard_description": "Frost Arrowsは敵ヒーローに7秒間Hypothermiaのスタックを与えるようになる。1スタックごとに回復効果を 10%% 減少させ、ダメージを5%%増加させる。スタックの付いた敵ヒーローが死亡した場合、破裂して周囲650の敵に25%%スローと、60ダメージ/スタックの魔法ダメージを与える。最大スタック数: 7",
     "DOTA_Tooltip_ability_drow_ranger_marksmanship_scepter_Description": "Drow Rangerの通常攻撃はターゲットに当たった後2つに裂け、近くの2ユニットに半分のダメージで当たるようになる。",
     "DOTA_Tooltip_ability_special_bonus_unique_phantom_lancer_7": "+{s:value} Spirit Lance 複数対象",
     "DOTA_Tooltip_ability_drow_ranger_multishot_wave_count": "ウェーブ数:",
