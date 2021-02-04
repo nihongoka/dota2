@@ -7652,5 +7652,9 @@
     "DOTA_Tooltip_ability_drow_ranger_multishot_scepter_wave_count": "SCEPTER ウェーブ数:",
     "DOTA_Tooltip_ability_drow_ranger_multishot_arrow_count_per_wave": "ウェーブあたりの弓矢数:",
     "DOTA_Tooltip_ability_phantom_lancer_juxtapose_scepter_description": "Juxtaposeにアクティブ効果を追加する。juxtaposeで生成されたイリュージョンを一旦全て消滅させ、最大数のイリュージョンを素早く作成する。このスキルによって作成されたイリュージョンは持続時間が本来より10秒増加する。",
-    "DOTA_Tooltip_ability_special_bonus_unique_drow_ranger_7": "-{s:value}秒 Gust クールダウン"
+    "DOTA_Tooltip_ability_special_bonus_unique_drow_ranger_7": "-{s:value}秒 Gust クールダウン",
+    "DOTA_Tooltip_ability_pudge_rot_scepter_description": "Rotの範囲が%scepter_rot_radius_bonus%、ダメージが%scepter_rot_damage_bonus%増加する。<br><br>影響下の敵のHP自然回復効果を25%%減少させる。",
+    "DOTA_Tooltip_ability_pudge_dismember_shard_description": "クールダウンを10秒減らし、Dismemberを味方に発動できるようになる。味方に使用した場合、秒間%scepter_regen_pct%%%を回復させる。",
+    "DOTA_Tooltip_ability_pudge_rot_scepter_rot_damage_bonus": "SCEPTERボーナスダメージ:",
+    "DOTA_Tooltip_ability_pudge_rot_scepter_rot_radius_bonus": "SCEPTERボーナス範囲:"
 }
