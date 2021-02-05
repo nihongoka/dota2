@@ -7669,7 +7669,7 @@
     "DOTA_Tooltip_modifier_item_swift_blink_buff_Description": "ダメージと攻撃速度が40増加した。移動速度が%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%増加し、ユニットをすり抜けて移動できる。移動速度制限が解除されている。",
     "DOTA_Tooltip_ability_monkey_king_tree_dance_shard_description": "Tree Danceのクールダウンが0.4に、発動モーションが0.1に短縮される。",
     "DOTA_Tooltip_ability_item_swift_blink_Description": "<h1>Active: Swift Blink</h1> 最大距離%blink_range%をブリンクする。<br><br>ブリンク後%duration%秒間、自身はユニットをすり抜けるようになり、%bonus_movement%%%の移動速度ボーナス、 +%bonus_attack_speed%攻撃速度、 +%bonus_attack_damage%ダメージの効果を得る。<br><br>Swift Blinkは敵ヒーローやRoshanからダメージを受けた後%blink_damage_cooldown%秒間は使用できない。",
-    "DOTA_Tooltip_ability_item_arcane_blink_Description": "<h1>Active: Arcane Blink</h1> 最大距離%blink_range%をブリンクする。<br><br>ブリンク後%duration%秒間、%base_cooldown%%%のクールダウン軽減と%cast_pct_improvement%%%キャストポイント減少を得る。 <br><br>Arcane Blinkは敵ヒーローやRoshanからダメージを受けた後%blink_damage_cooldown%秒間は使用できない。",
+    "DOTA_Tooltip_ability_item_arcane_blink_Description": "<h1>Active: Arcane Blink</h1> 最大距離%blink_range%をブリンクする。<br><br>ブリンク後%duration%秒間、%base_cooldown%%%のクールダウン軽減と%cast_pct_improvement%%%スキル発動モーション減少を得る。 <br><br>Arcane Blinkは敵ヒーローやRoshanからダメージを受けた後%blink_damage_cooldown%秒間は使用できない。",
     "DOTA_Tooltip_Ability_item_venom_gland": "Venom Gland",
     "DOTA_Tooltip_Ability_item_gladiator_helm": "Gladiator Helm",
     "DOTA_Tooltip_Ability_item_possessed_mask": "Possessed Mask",
@@ -7717,6 +7717,6 @@
     "DOTA_Tooltip_Ability_item_recipe_nullifier": "Nullifier Recipe",
     "DOTA_Tooltip_Ability_item_recipe_bfury": "Battle Fury Recipe",
     "DOTA_Tooltip_modifier_item_arcane_blink_buff": "Arcane Blink",
-    "DOTA_Tooltip_modifier_item_arcane_blink_buff_Description": "キャストポイントの持続時間が50%%減少した。アビリティのクールダウン時間が25%%減少した。",
+    "DOTA_Tooltip_modifier_item_arcane_blink_buff_Description": "スキル発動モーションが50%%減少した。アビリティのクールダウン時間が25%%減少した。",
     "DOTA_Tooltip_Ability_item_recipe_satanic": "Satanic Recipe"
 }
