@@ -2,7 +2,7 @@ name: Fetch localization data from dotabuff/d2vpkr
 
 on:
   schedule:
-    - cron: '*/15 * * * *'
+    - cron: '0 */3 * * *'
 
 jobs:
   build:
