@@ -351,7 +351,7 @@
     "DOTA_Tooltip_ability_crystal_maiden_freezing_field_bonus_armor": "ボーナスアーマー:",
     "DOTA_Tooltip_ability_crystal_maiden_freezing_field_aghanim_description": "一定時間Freezing Field内にいるユニットをFrostbiteで氷漬けにするようにする。",
     "DOTA_Tooltip_ability_crystal_maiden_freezing_field_abilitydraft_note": "セプターの効果を発動させるにはFrostbiteをドラフトしている必要がある。",
-    "DOTA_Tooltip_ability_crystal_maiden_freezing_field_scepter_delay": "SCEPTER FROSTBITE遅延:",
+    "DOTA_Tooltip_ability_crystal_maiden_freezing_field_scepter_delay": "セプターFROSTBITE遅延:",
     "DOTA_Tooltip_modifier_crystal_maiden_crystal_nova": "Crystal Nova",
     "DOTA_Tooltip_modifier_crystal_maiden_frostbite": "Frostbite",
     "DOTA_Tooltip_modifier_crystal_maiden_frostbite_Description": "移動と攻撃ができなくなっている。%dMODIFIER_PROPERTY_TOOLTIP%ダメージを%fMODIFIER_PROPERTY_TOOLTIP%秒ごとに受けている。",
