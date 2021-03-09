@@ -4146,7 +4146,7 @@
     "DOTA_Tooltip_ability_item_assault_Description": "<h1>Passive: Assault Aura</h1>周囲の味方のユニットと建造物は攻撃速度%aura_attack_speed%とアーマー%aura_positive_armor%上昇し、周囲の敵のユニットと建造物のアーマーを%aura_negative_armor%低下させる。<br><br>範囲:%aura_radius%",
     "DOTA_Tooltip_ability_item_assault_bonus_attack_speed": "+$attack",
     "DOTA_Tooltip_ability_item_assault_bonus_armor": "+$armor",
-    "DOTA_Tooltip_ability_item_basher_Description": "<h1>Passive: Bash</h1>メレーヒーローの攻撃で%bash_chance_melee%%%の確率で対象を%bash_duration% 秒間スタンさせると同時に%bonus_chance_damage%ボーナス物理ダメージを与える。<br>レンジヒーローの場合は%bash_chance_ranged%%%の確率でスタンさせる。",
+    "DOTA_Tooltip_ability_item_basher_Description": "<h1>Passive: Bash</h1>近接ヒーローの攻撃で%bash_chance_melee%%%の確率で対象を%bash_duration% 秒間スタンさせると同時に%bonus_chance_damage%ボーナス物理ダメージを与える。<br>遠距離ヒーローの場合は%bash_chance_ranged%%%の確率でスタンさせる。",
     "DOTA_Tooltip_ability_item_basher_Note0": "ほかのバッシュとは重複しないが、ミニバッシュとは重複する。",
     "DOTA_Tooltip_ability_item_basher_Note1": "以下のヒーローはこのアイテムのバッシュは発動しない: Spirit Breaker、 Faceless Void、 Slardar。",
     "DOTA_Tooltip_ability_item_basher_bonus_damage": "+$damage",
@@ -8011,5 +8011,13 @@
     "DOTA_Tooltip_ability_templar_assassin_psionic_trap_shard_description": "Psionic Trapsの最大設置数が4個増加し、敵ユニットに最大3秒サイレンスを与えるようになる。効果時間はトラップ設置からの時間に比例して増加する。",
     "DOTA_Tooltip_ability_night_stalker_void_scepter_description": "Voidが周囲900以内の敵全体に作用するAoEアビリティとなりミニスタン時間が増加する。",
     "DOTA_Tooltip_ability_weaver_time_lapse_scepter_description": "Time Lapseのクールダウンが短縮され、味方を対象として発動できるようになる。",
-    "DOTA_Tooltip_ability_obsidian_destroyer_astral_imprisonment_scepter_description": "最大2チャージのチャージ式アビリティになり、射程が%scepter_range_bonus%増加する。"
+    "DOTA_Tooltip_ability_obsidian_destroyer_astral_imprisonment_scepter_description": "最大2チャージのチャージ式アビリティになり、射程が%scepter_range_bonus%増加する。",
+    "DOTA_Tooltip_ability_item_bloodthorn_Description": "<h1>Active: Soul Rend</h1>対象ユニットに%silence_duration%秒間サイレンスをかける。サイレンスが切れる時、サイレンス中に受けていたダメージの%silence_damage_percent%%%を追加魔法ダメージとして与える。<br><br>サイレンスをかけた対象に対しての攻撃はTrue Strikeとなり、%tooltip_crit_chance%%% の確率で %target_crit_multiplier%%% のダメージを与える。<br><br>範囲: %abilitycastrange%",
+    "DOTA_Tooltip_modifier_bloodthorn_debuff_Description": "サイレンスを受けている。サイレンスが切れた時、サイレンス中に受けたダメージの30%%を魔法ダメージとして受ける。\n受ける攻撃はすべてクリティカルとなり、130%%のダメージを受ける。",
+    "DOTA_Tooltip_ability_item_mekansm_Note0": "25 秒以内に Restore を受けたユニットに対して、Restore は機能しない。",
+    "DOTA_Tooltip_ability_item_mekansm_Note1": "複数のMekansmによってオーラは重複しない。",
+    "DOTA_Tooltip_ability_item_holy_locket_Description": "<h1>Active: Energy Charge</h1> 指定した味方ユニットのHPとマナをチャージごとに%restore_per_charge% 即座に回復する。<br><br> 最大 %max_charges% チャージ。 %charge_gain_timer% 秒ごと、または見えている敵が範囲 %charge_radius% の中でスキルを使用したとき、チャージがたまる。",
+    "DOTA_Tooltip_modifier_orchid_malevolence_debuff_Description": "サイレンスを受けている。サイレンスが切れる時、サイレンス中に受けたダメージの30%を追加魔法ダメージとして受ける。",
+    "DOTA_Tooltip_ability_item_mekansm_Description": "<h1>Active: Restore</h1>範囲 %heal_radius% 内にいる味方ユニットの体力を %heal_amount% 回復する。\n<h1>Passive: Mekansm Aura</h1>範囲 %aura_radius% 内にいる味方ユニットにHP自然回復 %heal_amount% 増加させる。",
+    "DOTA_Tooltip_ability_item_bloodthorn_Note0": "クリティカルは建造物には機能しない。"
 }
