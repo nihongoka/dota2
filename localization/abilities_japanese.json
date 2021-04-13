@@ -3509,7 +3509,7 @@
     "DOTA_Tooltip_ability_dark_seer_wall_of_replica_Description": "ねじれた光の壁をせり上げ、それを横切る敵ヒーローのレプリカを作成する。レプリカはDark Seerが操作できる。レプリカは破壊されるか、壁の効果が終わるまで持続する。",
     "DOTA_Tooltip_ability_huskar_burning_spear_Description": "Huskarは槍に火をつけ、通常攻撃で時間経過とともにダメージを与える。 複数回攻撃することで、スタックしさらなるダメージを与えることができる。 各攻撃はHuskarの体力の一部を消費する。 %abilityduration%秒持続する。",
     "DOTA_Tooltip_ability_weaver_the_swarm_Note0": "虫は敵ユニットに接触すると、死ぬか効果時間が切れるまで残る。",
-    "DOTA_Tooltip_ability_weaver_the_swarm_Note2": "虫は上空視界を持つが、粘着している対象が透明になった時死んでしまう。",
+    "DOTA_Tooltip_ability_weaver_the_swarm_Note2": "虫は視界を持ち、くっついた透明ヒーローを看破する。",
     "DOTA_Tooltip_ability_weaver_the_swarm_duration": "効果時間:",
     "DOTA_Tooltip_ability_weaver_the_swarm_armor_reduction": "攻撃毎のアーマー低下:",
     "DOTA_Tooltip_ability_weaver_the_swarm_attack_rate": "攻撃頻度:",
@@ -3537,7 +3537,7 @@
     "DOTA_Tooltip_ability_special_bonus_unique_weaver_2": "+{s:value} Shukuchi 移動速度上昇",
     "DOTA_Tooltip_ability_weaver_the_swarm_Description": "%count% 体の虫を行進させる。虫は接触した敵ユニットに噛み付き、攻撃して虫が死ぬまでアーマーを下げる。",
     "DOTA_Tooltip_ability_weaver_the_swarm_Note1": "虫は魔法に対して無敵であり、ヒーローの攻撃で%destroy_attacks%回攻撃すると死ぬ。他のユニットではヒーローの半分のダメージを与える。",
-    "DOTA_Tooltip_ability_weaver_shukuchi_Description": "自身が透明になり、移動速度が上昇する。効果中、すれ違ったユニットにダメージを与える。",
+    "DOTA_Tooltip_ability_weaver_shukuchi_Description": "透明になり、最大移動速度を得て、すれ違ったユニットにダメージを与える。",
     "DOTA_Tooltip_ability_weaver_time_lapse_Description": "自身の場所、HPとマナを5秒前に戻す。\n\nディスペルタイプ: 強化ディスペル",
     "DOTA_Tooltip_ability_special_bonus_unique_weaver_3": "+{s:value} Swarm アーマー低下",
     "DOTA_Tooltip_ability_special_bonus_unique_weaver_4": "+{s:value} Swarm 壊すのに必要な攻撃回数",
@@ -8142,5 +8142,6 @@
     "DOTA_Tooltip_ability_broodmother_silken_bola_movement_speed": "%移動速度減少:",
     "DOTA_Tooltip_ability_broodmother_silken_bola_impact_damage": "着弾ダメージ:",
     "DOTA_Tooltip_ability_broodmother_silken_bola_attack_damage": "攻撃ボーナス:",
-    "DOTA_Tooltip_ability_broodmother_silken_bola_miss_chance": "%ミス確率:"
+    "DOTA_Tooltip_ability_broodmother_silken_bola_miss_chance": "%ミス確率:",
+    "DOTA_Tooltip_ability_bounty_hunter_wind_walk_shard_description": "透明化中、40%のダメージ軽減を得るようになる。また、透明化中から攻撃すると対象に1秒間のスタンを与えるようになる。クールダウンが5秒減少する。"
 }
