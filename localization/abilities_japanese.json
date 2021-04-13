@@ -8158,5 +8158,6 @@
     "DOTA_Tooltip_ability_chaos_knight_reality_rift_shard_description": "自身と自身のイリュージョンの範囲1200以内にいる敵のヒーローにReality Riftを使用できるようにする。自身と自身のイリュージョンが対象のいる地点にテレポートする。",
     "DOTA_Tooltip_ability_meepo_poof_shard_description": "範囲2000以内にいる味方にpoofが使えるようになる。",
     "DOTA_Tooltip_ability_keeper_of_the_light_spirit_form_illuminate_heal": "%ILLUMINATE HEAL:",
-    "DOTA_Tooltip_ability_medusa_mana_shield_bonus_mana": "ボーナスマナ:"
+    "DOTA_Tooltip_ability_medusa_mana_shield_bonus_mana": "ボーナスマナ:",
+    "DOTA_Tooltip_ability_troll_warlord_rampage_Description": "射程グローバル。味方のヒーロー全員に%attack_speed%攻撃速度または%status_resistance%%%異常耐性をTrollの現在のスタンスに基づいて%duration%秒の間付与する。Rangedの場合は攻撃速度を、Meleeは異常耐性を与える。"
 }
