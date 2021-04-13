@@ -50,5 +50,10 @@
     "GameUI_JoystickLabel": "コントローラーを有効",
     "GameUI_GameMenu_Multiplayer": "マルチプレイヤー ",
     "GameUI_AspectWide16x9": "ワイドスクリーン 16:9",
-    "GameUI_GameMenu_PlayerList": "プレイヤーをミュート"
+    "GameUI_GameMenu_PlayerList": "プレイヤーをミュート",
+    "GameUI_ReverseMouseLabel": "マウスの上下軸を反転する",
+    "GameUI_MouseLookLabel": "マウスを使って周りを見る",
+    "GameUI_ReverseJoystick": "ゲームパッドの上下軸を反転する",
+    "GameUI_Spray_Import_Error_Writing_Temp_Output": "一時ファイルの作成でエラーが発生しました。",
+    "GameUI_Spray_Import_Error_TGA_Format_Not_Supported": "このファイルのTGAフォーマットはサポートされていません。 サポートされているTGAフォーマットは24ビットRGBと32ビットRGBAです。"
 }
