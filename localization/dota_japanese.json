@@ -524,5 +524,9 @@
     "dota_chatwheel_label_Missing_Bottom": "ボトムで見失った",
     "dota_chatwheel_label_Go": "行け！",
     "dota_chatwheel_label_Follow": "ついてきて",
-    "dota_chatwheel_label_Spread_Out": "散らばろう"
+    "dota_chatwheel_label_Spread_Out": "散らばろう",
+    "dota_chatwheel_label_Split_Farm": "分かれてファームしよう",
+    "dota_chatwheel_label_Attack": "攻撃しよう！",
+    "dota_chatwheel_label_BRB": "すぐに戻る",
+    "dota_chatwheel_label_OMW": "ここに向かう"
 }
