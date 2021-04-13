@@ -8146,5 +8146,17 @@
     "DOTA_Tooltip_ability_bounty_hunter_wind_walk_shard_description": "透明化中、40%のダメージ軽減を得るようになる。また、透明化中から攻撃すると対象に1秒間のスタンを与えるようになる。クールダウンが5秒減少する。",
     "DOTA_Tooltip_ability_batrider_flamebreak_shard_description": "Flamebreakが2チャージになり、衝撃時にSticky Napalmのチャージを与えるようになる。",
     "DOTA_Tooltip_ability_invoker_chaos_meteor_shard_description": "Chaos Meteorsを2つ追加し、1つ目にわずかな角度をつけて着地させる。クールダウンを15秒減少させる。",
-    "DOTA_Tooltip_ability_ursa_earthshock_shard_description": "Earthshock発動時に1.5秒間Enrageバフを得る。クールダウンを2減少させる。。"
+    "DOTA_Tooltip_ability_ursa_earthshock_shard_description": "Earthshock発動時に1.5秒間Enrageバフを得る。クールダウンを2減少させる。。",
+    "DOTA_Tooltip_ability_lycan_shapeshift_health_bonus": "体力ボーナス:",
+    "DOTA_Tooltip_modifier_ogre_magi_smash_buff": "Fire Shield",
+    "DOTA_Tooltip_modifier_ogre_magi_smash_buff_Description": "85%%のダメージを吸収し、攻撃してきてたユニットに火の玉を放つ。",
+    "DOTA_Tooltip_ability_slark_depth_shroud": "Depth Shroud",
+    "DOTA_Tooltip_ability_item_aghanims_shard_Description": "<h1>Passive: Ability Upgrade</h1>自分のアビリティを強化する。",
+    "DOTA_Tooltip_ability_item_aghanims_shard_roshan_Description": "<h1>Passive: Ability Upgrade</h1>自分のアビリティを強化する。",
+    "DOTA_Tooltip_ability_slark_depth_shroud_Description": "指定した地点に範囲300の暗雲を%duration%秒間設置する。半径内の味方は透明化し、一時的にShadow Danceを得る。キャスト範囲: 800. クールダウン:75",
+    "DOTA_Tooltip_ability_troll_warlord_rampage": "Rampage",
+    "DOTA_Tooltip_ability_chaos_knight_reality_rift_shard_description": "自身と自身のイリュージョンの範囲1200以内にいる敵のヒーローにReality Riftを使用できるようにする。自身と自身のイリュージョンが対象のいる地点にテレポートする。",
+    "DOTA_Tooltip_ability_meepo_poof_shard_description": "範囲2000以内にいる味方にpoofが使えるようになる。",
+    "DOTA_Tooltip_ability_keeper_of_the_light_spirit_form_illuminate_heal": "%ILLUMINATE HEAL:",
+    "DOTA_Tooltip_ability_medusa_mana_shield_bonus_mana": "ボーナスマナ:"
 }
