@@ -8162,5 +8162,7 @@
     "DOTA_Tooltip_ability_troll_warlord_rampage_Description": "射程グローバル。味方のヒーロー全員に%attack_speed%攻撃速度または%status_resistance%%%異常耐性をTrollの現在のスタンスに基づいて%duration%秒の間付与する。Rangedの場合は攻撃速度を、Meleeは異常耐性を与える。",
     "DOTA_Tooltip_modifier_black_king_bar_immune": "Black King Bar",
     "DOTA_Tooltip_modifier_black_king_bar_immune_Description": "スペル耐性。",
-    "DOTA_Tooltip_ability_item_buckler_armor": "+$armor"
+    "DOTA_Tooltip_ability_item_buckler_armor": "+$armor",
+    "DOTA_Tooltip_ability_skywrath_mage_shard_description": "アビリティを唱えるたびに35秒間知inteligence+5、アーマー+1を得る。この効果はスタックする。",
+    "DOTA_Tooltip_ability_elder_titan_echo_stomp_abilitydraft_note": "Echo Stompは、Astral Spiritが召喚されているかどうかに関わらず、物理ダメージと魔法ダメージの両方を与える。"
 }
