@@ -7666,7 +7666,7 @@
     "DOTA_Tooltip_Ability_item_recipe_iron_talon": "Iron Talon Recipe",
     "DOTA_Tooltip_ability_item_overwhelming_blink_Note1": "Overwhelming Blinkで最大射程以上の距離でブリンク地点を指定した場合、代わりに最大射程の4/5の距離にブリンクする。",
     "DOTA_Tooltip_modifier_item_overwhelming_blink_debuff_Description": "移動速度が%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%低下し、攻撃速度が%dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%減少する。",
-    "DOTA_Tooltip_modifier_item_swift_blink_buff_Description": "ダメージと攻撃速度が40増加した。移動速度が%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%増加し、ユニットをすり抜けて移動できる。移動速度制限が解除されている。",
+    "DOTA_Tooltip_modifier_item_swift_blink_buff_Description": "ダメージと攻撃速度が40増加した。移動速度が%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%増加し、ユニットをすり抜けて移動できる。",
     "DOTA_Tooltip_ability_monkey_king_tree_dance_shard_description": "Tree Danceのクールダウンが0.4に、キャストポイントが0.1に短縮される。",
     "DOTA_Tooltip_ability_item_swift_blink_Description": "<h1>Active: Swift Blink</h1> 最大距離%blink_range%をブリンクする。<br><br>ブリンク後%duration%秒間、自身はユニットをすり抜けるようになり、%bonus_movement%%%の移動速度ボーナス、 +%bonus_attack_speed%攻撃速度、 +%bonus_attack_damage%ダメージの効果を得る。<br><br>Swift Blinkは敵ヒーローやRoshanからダメージを受けた後%blink_damage_cooldown%秒間は使用できない。",
     "DOTA_Tooltip_ability_item_arcane_blink_Description": "<h1>Active: Arcane Blink</h1> 最大距離%blink_range%をブリンクする。<br><br>ブリンク後%duration%秒間、%base_cooldown%%%のクールダウン軽減と%cast_pct_improvement%%%キャストポイント減少を得る。 <br><br>Arcane Blinkは敵ヒーローやRoshanからダメージを受けた後%blink_damage_cooldown%秒間は使用できない。",
@@ -8159,5 +8159,8 @@
     "DOTA_Tooltip_ability_meepo_poof_shard_description": "範囲2000以内にいる味方にpoofが使えるようになる。",
     "DOTA_Tooltip_ability_keeper_of_the_light_spirit_form_illuminate_heal": "%ILLUMINATE HEAL:",
     "DOTA_Tooltip_ability_medusa_mana_shield_bonus_mana": "ボーナスマナ:",
-    "DOTA_Tooltip_ability_troll_warlord_rampage_Description": "射程グローバル。味方のヒーロー全員に%attack_speed%攻撃速度または%status_resistance%%%異常耐性をTrollの現在のスタンスに基づいて%duration%秒の間付与する。Rangedの場合は攻撃速度を、Meleeは異常耐性を与える。"
+    "DOTA_Tooltip_ability_troll_warlord_rampage_Description": "射程グローバル。味方のヒーロー全員に%attack_speed%攻撃速度または%status_resistance%%%異常耐性をTrollの現在のスタンスに基づいて%duration%秒の間付与する。Rangedの場合は攻撃速度を、Meleeは異常耐性を与える。",
+    "DOTA_Tooltip_modifier_black_king_bar_immune": "Black King Bar",
+    "DOTA_Tooltip_modifier_black_king_bar_immune_Description": "スペル耐性。",
+    "DOTA_Tooltip_ability_item_buckler_armor": "+$armor"
 }
