@@ -522,5 +522,7 @@
     "dota_chatwheel_label_Missing_Top": "トップで見失った",
     "dota_chatwheel_label_Missing_Mid": "ミッドで見失った",
     "dota_chatwheel_label_Missing_Bottom": "ボトムで見失った",
-    "dota_chatwheel_label_Go": "行け！"
+    "dota_chatwheel_label_Go": "行け！",
+    "dota_chatwheel_label_Follow": "ついてきて",
+    "dota_chatwheel_label_Spread_Out": "散らばろう"
 }
