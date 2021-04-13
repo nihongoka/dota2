@@ -8164,5 +8164,19 @@
     "DOTA_Tooltip_modifier_black_king_bar_immune_Description": "スペル耐性。",
     "DOTA_Tooltip_ability_item_buckler_armor": "+$armor",
     "DOTA_Tooltip_ability_skywrath_mage_shard_description": "アビリティを唱えるたびに35秒間知inteligence+5、アーマー+1を得る。この効果はスタックする。",
-    "DOTA_Tooltip_ability_elder_titan_echo_stomp_abilitydraft_note": "Echo Stompは、Astral Spiritが召喚されているかどうかに関わらず、物理ダメージと魔法ダメージの両方を与える。"
+    "DOTA_Tooltip_ability_elder_titan_echo_stomp_abilitydraft_note": "Echo Stompは、Astral Spiritが召喚されているかどうかに関わらず、物理ダメージと魔法ダメージの両方を与える。",
+    "DOTA_Tooltip_ability_item_mage_slayer_Description": "<h1>Passive: Mage Slayer</h1>敵を攻撃したとき、%duration%秒間対象のスペルダメージを%spell_amp_debuff%%% 減少させるデバフを与える。",
+    "DOTA_Tooltip_ability_item_mage_slayer_bonus_damage": "+$damage",
+    "DOTA_Tooltip_modifier_item_mage_slayer_debuff_Description": "与えるスペルダメージが35%%減少している。",
+    "DOTA_Tooltip_modifier_bloodthorn_debuff": "Bloodthorn",
+    "DOTA_Tooltip_Ability_item_echo_sabre_Description": "<h1>Passive: Echo Strike</h1>近接攻撃を高速で2回攻撃することができる。2回攻撃のとき、%movement_slow%%%の移動速度減少を%slow_duration% 秒間与える。",
+    "DOTA_Tooltip_modifier_echo_sabre_debuff": "Echo Sabre Slow",
+    "DOTA_Tooltip_modifier_echo_sabre_debuff_Description": "移動速度が100%減少している。",
+    "DOTA_Tooltip_Ability_item_blight_stone_Note0": "派生アイテムと重複しない。",
+    "DOTA_Tooltip_ability_item_dragon_lance_Description": "<h1>Passive: Dragon's Reach</h1>遠距離ヒーローの攻撃範囲を%base_attack_range%増加させる。",
+    "DOTA_Tooltip_ability_item_dragon_lance_Note0": "パッシブ効果は重複しない。",
+    "DOTA_Tooltip_Ability_item_wind_lace_Description": "複数のWind Laceによってボーナスは重複しない。",
+    "DOTA_Tooltip_ability_item_mage_slayer_bonus_magical_armor": "%+$spell_resist",
+    "DOTA_Tooltip_ability_item_mage_slayer_bonus_agility": "+$agi",
+    "DOTA_Tooltip_modifier_item_mage_slayer_debuff": "Mage Slayer"
 }
