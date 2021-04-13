@@ -7960,13 +7960,13 @@
     "DOTA_Tooltip_ability_enchantress_natures_attendants_shard_description": "Nature's Attendantsの妖精3匹が常に周りを飛行するようになる。",
     "DOTA_Tooltip_ability_omniknight_guardian_angel_scepter_description": "効果時間が増加して範囲がマップ全体になり、HP自然回復を付与するようになる。(対象に建物も含まれる)",
     "DOTA_Tooltip_ability_omniknight_hammer_of_purity_Description": "%bonus_damage%+基礎ダメージの%base_damage%%%のピュアダメージを与える攻撃を行い、自身はダメージと同量のHPを回復する。オートキャスト設定できる。 クールダウン: 6",
-    "DOTA_Tooltip_ability_huskar_inner_fire_shard_description": "Inner Fireのクールダウンが3秒短縮され、当たった敵のHP回復量（アビリティ・自動回復等種類問わず）が50%%・移動速度が40%%減少するようになる。",
+    "DOTA_Tooltip_ability_huskar_inner_fire_shard_description": "Inner Fireのクールダウンが3秒短縮され、当たった敵のHP回復量が50%%・移動速度が40%%減少するようになる。ディセーブル中もキャストできる。",
     "DOTA_Tooltip_ability_huskar_life_cast_range_bonus": "セプター射程:",
-    "DOTA_Tooltip_ability_night_stalker_hunter_in_the_night_shard_description": "夜間はHunter in the Nightにアクティブ効果が追加される。弱いNPCユニットを即死させ、最大HP・マナの25%を回復できる。 クールダウン: 20",
+    "DOTA_Tooltip_ability_night_stalker_hunter_in_the_night_shard_description": "Hunter in the Nightにアクティブ効果が追加される。クリープを即死させ、最大HP35%と最大マナの25%を回復する。昼間はエンシェントクリープを対象とすることはできない。 クールダウン: 20",
     "DOTA_Tooltip_ability_broodmother_spin_web_abilitydraft_note": "シャード:Silen Bolaは習得できない。",
     "DOTA_Tooltip_ability_broodmother_spin_web_scepter_description": "巣の最大設置数と移動速度が増加し、巣の上では移動速度上限が解放される。",
     "DOTA_Tooltip_ability_broodmother_silken_bola": "Silken Bola",
-    "DOTA_Tooltip_ability_broodmother_silken_bola_Description": "Spin Webのチャージを１消費して指定した敵ユニットを%duration%秒間移動不能状態にし、毎秒75ダメージを与える。",
+    "DOTA_Tooltip_ability_broodmother_silken_bola_Description": "対象の敵ユニットに移動速度減少とダメージを与え、攻撃をミスさせる。対象に攻撃するユニットはボーナス魔法ダメージを与える。",
     "DOTA_Tooltip_ability_broodmother_silken_bola_duration": "効果時間:",
     "DOTA_Tooltip_ability_bounty_hunter_shuriken_toss_scepter_description": "手裏剣の着弾時に対象にJinadaが発動するようになる。また、キャスト射程が増加しクールダウンが短縮される。",
     "DOTA_Tooltip_ability_bounty_hunter_track_shard_description": "味方も本来の半分量Track移動速度ボーナスを受けるようになり、Trackを受けている敵の周囲600の視界を得られるようになる。",
@@ -8137,5 +8137,10 @@
     "DOTA_Tooltip_ability_antimage_blink_shard_description": "範囲を 300 伸ばし、クールダウンを 2 秒減少させる。",
     "DOTA_Tooltip_ability_life_stealer_feast_hp_damage_percent": "%最大体力ダメージ:",
     "DOTA_Tooltip_modifier_enchantress_natures_attendants_shard": "Nature's Attendants",
-    "DOTA_Tooltip_modifier_enchantress_natures_attendants_shard_Description": "近くのユニットを回復している"
+    "DOTA_Tooltip_modifier_enchantress_natures_attendants_shard_Description": "近くのユニットを回復している",
+    "DOTA_Tooltip_ability_broodmother_silken_bola_shard_description": "Silken Bolaは範囲550の範囲攻撃となり、ミス確率が80%に増加する。",
+    "DOTA_Tooltip_ability_broodmother_silken_bola_movement_speed": "%移動速度減少:",
+    "DOTA_Tooltip_ability_broodmother_silken_bola_impact_damage": "着弾ダメージ:",
+    "DOTA_Tooltip_ability_broodmother_silken_bola_attack_damage": "攻撃ボーナス:",
+    "DOTA_Tooltip_ability_broodmother_silken_bola_miss_chance": "%ミス確率:"
 }
