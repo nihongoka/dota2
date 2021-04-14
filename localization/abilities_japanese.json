@@ -7996,7 +7996,7 @@
     "DOTA_Tooltip_ability_lycan_summon_wolves_shard_description": "毎ウェーブどれか１つのクリープウェーブにコントロールできないオオカミが1匹構成されるようになる。",
     "DOTA_Tooltip_ability_lone_druid_spirit_bear_scepter_description": "Lone Druidから離れていてもクマが攻撃可能になり、Lone Druidが死亡してもクマが生き続けられるようになる。",
     "DOTA_Tooltip_ability_dark_seer_normal_punch_Description": "新アビリティ習得 - Normal Punch. 数秒ごとの通常攻撃がいたって普通なパンチになり、分身が飛び出るような勢いで敵を殴りつけて2.25秒間スタンさせ350距離ノックバックさせるようになる。直前3秒間の自分の移動距離に応じてダメージが増加する、最大は900距離の250ダメージ。イリュージョンは5秒持続する。 クールダウン: 14",
-    "DOTA_Tooltip_ability_lone_druid_savage_roar_shard_description": "Savage Roar発動時に4秒間周囲700以内の味方ユニットの移動速度が +20%、攻撃速度が +60増加するようになる。",
+    "DOTA_Tooltip_ability_lone_druid_savage_roar_shard_description": "Savage Roar発動時に4秒間周囲700以内の味方ユニットの移動速度が +20%、攻撃速度が +60増加するようになる。基本ディスペルを与える。Lone DruidとSpirit Bearは、双方がキャストが可能かどうかに関わらず発動できる。",
     "DOTA_Tooltip_ability_lone_druid_true_form_druid_scepter_description": "Lone Druidから離れていてもクマが攻撃可能になり、Lone Druidが死亡してもクマが生き続けられるようになる。",
     "DOTA_Tooltip_ability_brewmaster_drunken_brawler_active_multiplier": "アクティブ中の確率倍率:",
     "DOTA_Tooltip_ability_brewmaster_primal_split_shard_description": "Primal SplitでVoidパンダが出現するようになる。Astral Pulseを習得しており、周囲500の敵ユニットに20/30/40%のスロウと2秒のDisarmを与えられる。 ",
