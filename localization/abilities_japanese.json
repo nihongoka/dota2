@@ -8931,5 +8931,15 @@
     "DOTA_Tooltip_Ability_item_oakheart_strength": "+$str",
     "DOTA_Tooltip_Ability_item_oakheart_Description": "<h1>Active: Rejuvenate</h1>指定した味方ヒーローを体力を%duration%秒かけて%heal%回復する。<br><br>対象が敵ヒーローかRoshanに攻撃されると効果がなくなる。",
     "DOTA_Tooltip_Ability_item_stormcrafter_Description": "<h1>Active</h1>自身を%cyclone_duration%秒間、竜巻で打ち上げる。\n\n<h1>Passive</h1>範囲%range%内にいる敵に電撃を放ち、%damage%ダメージと%slow_duration％秒間%slow%%%の移動速度減少を与える。電撃は%interval%秒ごとに発生する。",
-    "DOTA_Tooltip_Ability_item_stormcrafter_bonus_mana_regen": "+$mana_regen"
+    "DOTA_Tooltip_Ability_item_stormcrafter_bonus_mana_regen": "+$mana_regen",
+    "DOTA_Tooltip_Ability_item_overflowing_elixir_Description": "%health%体力と%mana%マナを%duration%秒間で回復する。ルーンを詰めることができる。",
+    "DOTA_Tooltip_Ability_item_mysterious_hat_manacost_reduction": "%+$マナコスト減少",
+    "DOTA_Tooltip_Ability_item_star_mace_movement_speed_pct": "%+$move_speed",
+    "DOTA_Tooltip_Ability_item_star_mace_bonus_mana_regen": "+$mana_regen",
+    "DOTA_Tooltip_Ability_item_penta_edged_sword_damage": "+$damage",
+    "DOTA_Tooltip_Ability_item_mysterious_hat_spell_amp": "%+$スペル増幅",
+    "DOTA_Tooltip_Ability_item_satchel_Description": "獲得する経験値が %xp_gain%%%増加する。",
+    "DOTA_Tooltip_Ability_item_star_mace_Description": "<h1>Passive: Cleave</h1>近接ヒーローは攻撃力の%cleave_damage_percent%%%を物理ダメージとして対象の周囲%cleave_distance%までの円錐型の範囲で敵に与える。",
+    "DOTA_Tooltip_Ability_item_mysterious_hat_bonus_health": "+$health",
+    "DOTA_Tooltip_Ability_item_satchel_bonus_all_stats": "+$all"
 }
