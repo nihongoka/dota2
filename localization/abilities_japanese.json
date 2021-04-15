@@ -8922,7 +8922,7 @@
     "DOTA_Tooltip_Ability_item_venom_gland_degen": "%HP自然回復減少:",
     "DOTA_Tooltip_Ability_item_venom_gland_float": "デバフ効果時間:",
     "DOTA_Tooltip_Ability_item_trickster_cloak_Description": "<h1>Active: Cloak</h1>%duration%秒間透明化する。",
-    "DOTA_Tooltip_Ability_item_possessed_mask_primary_attribute": "+$第一属性",
+    "DOTA_Tooltip_Ability_item_possessed_mask_primary_attribute": "+$primary_attribute",
     "DOTA_Tooltip_Ability_item_trickster_cloak_magic_resistance": "%+$evasion",
     "DOTA_Tooltip_Ability_item_wizard_glass_cooldown_reduction": "%+クールダウン減少",
     "DOTA_Tooltip_Ability_item_venom_gland_debuff_amp": "%デバフ増幅:"
