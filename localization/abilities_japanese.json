@@ -8922,8 +8922,14 @@
     "DOTA_Tooltip_Ability_item_venom_gland_degen": "%HP自然回復減少:",
     "DOTA_Tooltip_Ability_item_venom_gland_float": "デバフ効果時間:",
     "DOTA_Tooltip_Ability_item_trickster_cloak_Description": "<h1>Active: Cloak</h1>%duration%秒間透明化する。",
-    "DOTA_Tooltip_Ability_item_possessed_mask_primary_attribute": "",
+    "DOTA_Tooltip_Ability_item_possessed_mask_primary_attribute": "+$primary_attribute",
     "DOTA_Tooltip_Ability_item_trickster_cloak_magic_resistance": "%+$evasion",
     "DOTA_Tooltip_Ability_item_wizard_glass_cooldown_reduction": "%+クールダウン減少",
-    "DOTA_Tooltip_Ability_item_venom_gland_debuff_amp": "%デバフ増幅:"
+    "DOTA_Tooltip_Ability_item_venom_gland_debuff_amp": "%デバフ増幅:",
+    "DOTA_Tooltip_Ability_item_ancient_perseverance_hp_regen": "+$hp_regen",
+    "DOTA_Tooltip_Ability_item_ancient_perseverance_mana_regen_amp": "%+マナ自然回復増幅",
+    "DOTA_Tooltip_Ability_item_oakheart_strength": "+$str",
+    "DOTA_Tooltip_Ability_item_oakheart_Description": "<h1>Active: Rejuvenate</h1>指定した味方ヒーローを体力を%duration%秒かけて%heal%回復する。<br><br>対象が敵ヒーローかRoshanに攻撃されると効果がなくなる。",
+    "DOTA_Tooltip_Ability_item_stormcrafter_Description": "<h1>Active</h1>自身を%cyclone_duration%秒間、竜巻で打ち上げる。\n\n<h1>Passive</h1>範囲%range%内にいる敵に電撃を放ち、%damage%ダメージと%slow_duration％秒間%slow%%%の移動速度減少を与える。電撃は%interval%秒ごとに発生する。",
+    "DOTA_Tooltip_Ability_item_stormcrafter_bonus_mana_regen": "+$マナ自然回復"
 }
