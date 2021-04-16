@@ -8777,7 +8777,7 @@
     "DOTA_Tooltip_ability_item_kaya_spell_amp": "%+スペル増幅",
     "DOTA_Tooltip_ability_item_kaya_mana_regen_multiplier": "%+マナ自然回復増幅",
     "DOTA_Tooltip_ability_item_kaya_spell_lifesteal_amp": "%+ライフスティール増幅",
-    "DOTA_Tooltip_ability_item_ring_of_basilius_mana_regen": "+$マナ自然回復",
+    "DOTA_Tooltip_ability_item_ring_of_basilius_mana_regen": "+$mana_regen",
     "DOTA_Tooltip_modifier_sange_buff": "Maim",
     "DOTA_Tooltip_modifier_heavens_halberd_buff": "Maim",
     "DOTA_Tooltip_modifier_heavens_halberd_debuff": "Disarm",
@@ -9172,5 +9172,6 @@
     "DOTA_Tooltip_ability_item_flying_courier_Description": "<h1>Use: Upgrade Courier</h1>アニマルクーリエをフライングクーリエにアップグレードして、より素早くアイテムを運搬できるようにする。 <br><br>アニマルクーリエを配置している必要がある。",
     "DOTA_Tooltip_ability_item_diffusal_blade_2_Description": "<h1>Active: Purge</h1>指定した敵のバフを取り除き、%purge_slow_duration%秒の間スローをかける。<br><br>範囲:%abilitycastrange%\n<h1>Passive: Manabreak</h1>攻撃すると対象のマナを%feedback_mana_burn%燃やし、燃やしたマナごとに%damage_per_burn%の物理ダメージを与える。<br><br>近接のイリュージョンは1回につき%feedback_mana_burn_illusion_melee%マナ、遠距離のイリュージョンは1回につき%feedback_mana_burn_illusion_ranged%マナ燃やす。<br><br>ディスペルタイプ: <span class=\"GameplayValues GameplayVariable\">基本ディスペル</span>",
     "DOTA_Tooltip_ability_item_abyssal_blade_Note0": "スタンの射程は近接に等しい。",
-    "DOTA_Tooltip_ability_item_diffusal_blade_2_Note0": "他のマナブレイクと重複しない。"
+    "DOTA_Tooltip_ability_item_diffusal_blade_2_Note0": "他のマナブレイクと重複しない。",
+    "DOTA_Tooltip_Ability_item_recipe_ring_of_basilius": "Ring of Basilius Recipe"
 }
