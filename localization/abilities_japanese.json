@@ -9279,5 +9279,12 @@
     "DOTA_Tooltip_ability_special_bonus_unique_venomancer_8": "-{s:value}秒 Plague Ward クールダウン",
     "DOTA_Tooltip_ability_special_bonus_unique_morphling_9": "-{s:value} Adaptive Strike アーマー減少",
     "DOTA_Tooltip_ability_special_bonus_unique_morphling_10": "スタン中に Attribute Shift 使用可能",
-    "DOTA_Tooltip_ability_special_bonus_unique_jakiro_8": "+{s:value} Liquid Fire ダメージ"
+    "DOTA_Tooltip_ability_special_bonus_unique_jakiro_8": "+{s:value} Liquid Fire ダメージ",
+    "DOTA_Tooltip_ability_special_bonus_unique_templar_assassin_8": "+{s:value} Psi Blades 範囲",
+    "DOTA_Tooltip_ability_special_bonus_unique_crystal_maiden_6": "+{s:value} Crystal Nova 範囲",
+    "DOTA_Tooltip_ability_special_bonus_unique_doom_8": "Scorched Earth を常時発動する",
+    "DOTA_Tooltip_ability_special_bonus_unique_doom_9": "-{s:value}秒 Scorched Earth クールダウン",
+    "DOTA_Tooltip_ability_special_bonus_unique_brewmaster_5": "+{s:value_tooltip}% Cinder Brew ダメージ/効果時間",
+    "DOTA_Tooltip_ability_special_bonus_unique_brewmaster_6": "Brewlingたちは Drunken Brawler のパッシブを得る",
+    "DOTA_Tooltip_ability_special_bonus_unique_brewmaster_7": "+{s:value} Thunder Clap 範囲"
 }
