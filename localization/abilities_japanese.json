@@ -9173,5 +9173,19 @@
     "DOTA_Tooltip_ability_item_diffusal_blade_2_Description": "<h1>Active: Purge</h1>指定した敵のバフを取り除き、%purge_slow_duration%秒の間スローをかける。<br><br>範囲:%abilitycastrange%\n<h1>Passive: Manabreak</h1>攻撃すると対象のマナを%feedback_mana_burn%燃やし、燃やしたマナごとに%damage_per_burn%の物理ダメージを与える。<br><br>近接のイリュージョンは1回につき%feedback_mana_burn_illusion_melee%マナ、遠距離のイリュージョンは1回につき%feedback_mana_burn_illusion_ranged%マナ燃やす。<br><br>ディスペルタイプ: <span class=\"GameplayValues GameplayVariable\">基本ディスペル</span>",
     "DOTA_Tooltip_ability_item_abyssal_blade_Note0": "スタンの射程は近接に等しい。",
     "DOTA_Tooltip_ability_item_diffusal_blade_2_Note0": "他のマナブレイクと重複しない。",
-    "DOTA_Tooltip_Ability_item_recipe_ring_of_basilius": "Ring of Basilius Recipe"
+    "DOTA_Tooltip_Ability_item_recipe_ring_of_basilius": "Ring of Basilius Recipe",
+    "DOTA_Tooltip_ability_winter_wyvern_arctic_burn_scepter_description": "Arctic Burnをトグル可能にして、アクティブ時に毎秒マナを消費するようになる。また、ターゲットごとの攻撃回数制限がなくなる。Winter Wyvernの移動速度が増加する。",
+    "DOTA_Tooltip_modifier_terrorblade_metamorphosis_transform_aura": "Metamorphosis",
+    "DOTA_Tooltip_modifier_terrorblade_metamorphosis_transform_aura_Description": "遠距離攻撃可能な強力なデーモンフォーム。",
+    "DOTA_Tooltip_ability_oracle_fates_edict_scepter_Description": "Fate's Edictによって味方がディスアームを受けず、敵が魔法ダメージに対する耐性を持たなくなる。",
+    "DOTA_Tooltip_ability_oracle_false_promise_shard_description": "対象は0.15秒後に透明化する。",
+    "DOTA_Tooltip_ability_techies_suicide_shard_description": "キャスト範囲が300増加し、1.75秒のスタンを与えるようになる。",
+    "DOTA_Tooltip_ability_techies_remote_mines_scepter_description": "ダメージとキャスト範囲が増加する。",
+    "DOTA_Tooltip_ability_winter_wyvern_arctic_burn_movement_scepter": "%セプータ移動速度:",
+    "DOTA_Tooltip_modifier_terrorblade_demon_zeal": "Demon Zeal",
+    "DOTA_Tooltip_ability_techies_land_mines_scepter_description": "キャスト範囲が増加する。",
+    "DOTA_Tooltip_ability_techies_stasis_trap_scepter_description": "キャスト範囲が増加する。",
+    "DOTA_Tooltip_ability_techies_minefield_sign_scepter_description": "Minefield Signは周囲にあるProximity Mines、Stasis Traps、Remote Minesをトゥルーサイトから隠すことができる。",
+    "DOTA_Tooltip_modifier_terrorblade_demon_zeal_Description": "移動速度と攻撃速度のボーナスを得る。",
+    "DOTA_Tooltip_ability_terrorblade_demon_zeal_Description": "自身の現在の体力の%health_cost_pct%%%を消費して、%duration% 秒間+%berserk_bonus_movement_speed%移動速度と+%berserk_bonus_attack_speed%攻撃速度を得る。メレー状態では効果が%melee_bonus%%%増加する。クールダウン: 14。 "
 }
