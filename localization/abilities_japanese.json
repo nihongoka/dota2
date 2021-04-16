@@ -9157,5 +9157,20 @@
     "DOTA_Tooltip_modifier_fountain_aura_buff": "Fountain Rejuvenation",
     "DOTA_Tooltip_ability_item_aegis_Note0": "ayy jisと発音します。",
     "DOTA_Tooltip_ability_seasonal_ti9_monkey": "お猿さんを召喚",
-    "DOTA_Tooltip_modifier_frostivus2018_festive_firework_blind_Description": "花火によって盲目になってる。"
+    "DOTA_Tooltip_modifier_frostivus2018_festive_firework_blind_Description": "花火によって盲目になってる。",
+    "DOTA_Tooltip_modifier_bashed_Description": "バッシュによるスタン。",
+    "DOTA_Tooltip_modifier_bashed": "バッシュ",
+    "DOTA_Tooltip_ability_item_falcon_blade_bonus_mana_regen": "+$mana_regen",
+    "DOTA_Tooltip_ability_item_falcon_blade_bonus_damage": "+$damage",
+    "DOTA_Tooltip_ability_item_arcane_ring_Lore": "かつては小公家の貴重な家宝であった。",
+    "DOTA_Tooltip_ability_item_orb_of_revelations_Description": "<h1>Passive: Aethereal Focus</h1>スペルとアイテムのキャスト範囲を%cast_range_bonus%増加させる。 \n\n<h1>Active: Scry</h1>前方の道の視界を取り、透明ユニットを看破する。",
+    "DOTA_Tooltip_ability_item_orb_of_revelations_bonus_mana": "+$mana",
+    "DOTA_Tooltip_ability_item_orb_of_revelations_bonus_health": "+$health",
+    "DOTA_Tooltip_ability_item_orb_of_revelations_bonus_magical_armor": "%+$spell_resist",
+    "DOTA_Tooltip_ability_item_orb_of_revelations_bonus_mana_regen": "+$mana_regen",
+    "DOTA_Tooltip_ability_item_courier_Description": "<h1>Use: Deploy Courier</h1> ベースからアイテムを運んでくれるクーリエを配置する。",
+    "DOTA_Tooltip_ability_item_flying_courier_Description": "<h1>Use: Upgrade Courier</h1>アニマルクーリエをフライングクーリエにアップグレードして、より素早くアイテムを運搬できるようにする。 <br><br>アニマルクーリエを配置している必要がある。",
+    "DOTA_Tooltip_ability_item_diffusal_blade_2_Description": "<h1>Active: Purge</h1>指定した敵のバフを取り除き、%purge_slow_duration%秒の間スローをかける。<br><br>範囲:%abilitycastrange%\n<h1>Passive: Manabreak</h1>攻撃すると対象のマナを%feedback_mana_burn%燃やし、燃やしたマナごとに%damage_per_burn%の物理ダメージを与える。<br><br>近接のイリュージョンは1回につき%feedback_mana_burn_illusion_melee%マナ、遠距離のイリュージョンは1回につき%feedback_mana_burn_illusion_ranged%マナ燃やす。<br><br>ディスペルタイプ: <span class=\"GameplayValues GameplayVariable\">基本ディスペル</span>",
+    "DOTA_Tooltip_ability_item_abyssal_blade_Note0": "スタンの射程は近接に等しい。",
+    "DOTA_Tooltip_ability_item_diffusal_blade_2_Note0": "他のマナブレイクと重複しない。"
 }
