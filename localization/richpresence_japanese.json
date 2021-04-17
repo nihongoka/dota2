@@ -57,5 +57,10 @@
     "#npc_dota_hero_crystal_maiden": "Crystal Maiden",
     "#npc_dota_hero_sven": "Sven",
     "#npc_dota_hero_skeleton_king": "Wraith King",
-    "#npc_dota_hero_storm_spirit": "Storm Spirit"
+    "#npc_dota_hero_storm_spirit": "Storm Spirit",
+    "#npc_dota_hero_axe": "Axe",
+    "#npc_dota_hero_sand_king": "Sand King",
+    "#npc_dota_hero_nevermore": "Shadow Fiend",
+    "#npc_dota_hero_drow_ranger": "Drow Ranger",
+    "#npc_dota_hero_bloodseeker": "Bloodseeker"
 }
