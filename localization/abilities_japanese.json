@@ -900,7 +900,7 @@
     "DOTA_Tooltip_ability_life_stealer_infest": "Infest",
     "DOTA_Tooltip_modifier_voodoo_restoration_heal_Description": "Witch Doctorがあなたを回復している!",
     "DOTA_Tooltip_modifier_maledict": "Maledict",
-    "DOTA_Tooltip_modifier_maledict_Description": "呪われる。徐々にダメージを受け、開始時点のHPに基づいて4秒ごとに追加ダメージを受ける。",
+    "DOTA_Tooltip_modifier_maledict_Description": "呪われている。徐々にダメージを受け、開始時点のHPに基づいて4秒ごとに追加ダメージを受ける。",
     "DOTA_Tooltip_ability_leshrac_split_earth": "Split Earth",
     "DOTA_Tooltip_ability_leshrac_split_earth_Description": "敵の足元の地面を割く。ダメージと短時間のスタンを与える。",
     "DOTA_Tooltip_ability_leshrac_split_earth_Note0": "Split Earthは効果範囲内の木を破壊する。",
