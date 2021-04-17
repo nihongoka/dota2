@@ -54,5 +54,8 @@
     "#npc_dota_hero_earthshaker": "Earthshaker",
     "#npc_dota_hero_pudge": "Pudge",
     "#npc_dota_hero_bane": "Bane",
-    "#npc_dota_hero_crystal_maiden": "Crystal Maiden"
+    "#npc_dota_hero_crystal_maiden": "Crystal Maiden",
+    "#npc_dota_hero_sven": "Sven",
+    "#npc_dota_hero_skeleton_king": "Wraith King",
+    "#npc_dota_hero_storm_spirit": "Storm Spirit"
 }
