@@ -313,7 +313,7 @@
     "DOTA_HeroGrid_GuildContracts": "ギルドコントラクト",
     "DOTA_HeroGrid_GuildContracts_Link": "コントラクト",
     "DOTA_HeroGrid_Sort_By": "並び替え:",
-    "DOTA_HeroGrid_FailedToLoad": "ヒーロー一覧をロードできません。後でもう一度試してみてください。",
+    "DOTA_HeroGrid_FailedToLoad": "ヒーロー一覧をロードできません。後でもう一度試してみてください。<br><a href=\"event:DOTAHeroGridSelectDefaultConfig()\">ここをクリックしてデフォルトグリッドに切り替える</a>",
     "DOTA_HeroGrid_CustomLayoutDefaultName": "カスタムレイアウト",
     "DOTA_HeroGrid_DeleteCustomLayout_Message": "カスタムレイアウト「{s:config_name}」を削除してよろしいですか?",
     "DOTA_HeroGrid_CustomConfigs": "カスタム",
