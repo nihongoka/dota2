@@ -38,5 +38,12 @@
     "#DOTA_RP_SNOOZE": "スヌーズ",
     "#DOTA_RP_LOOKING_TO_TRADE": "トレードを希望中",
     "#DOTA_RP_LOOKING_TO_PLAY": "プレイを希望中",
-    "#DOTA_RP_PLAYING_OTHER": "別のゲームをプレイ中"
+    "#DOTA_RP_PLAYING_OTHER": "別のゲームをプレイ中",
+    "#npc_dota_hero_queenofpain": "Queen of Pain",
+    "#npc_dota_hero_antimage": "Anti-Mage",
+    "#npc_dota_hero_kunkka": "Kunkka",
+    "#npc_dota_hero_lina": "Lina",
+    "#npc_dota_hero_mirana": "Mirana",
+    "#npc_dota_hero_slardar": "Slardar",
+    "#npc_dota_hero_lion": "Lion"
 }
