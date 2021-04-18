@@ -785,5 +785,9 @@
     "dota_chatwheel_message_Enemy_Had_Rune": "敵がルーンを持っている",
     "dota_chatwheel_message_Split_Push": "分かれてプッシュしよう",
     "dota_chatwheel_message_Buy_Courier": "クーリエを買って",
-    "dota_chatwheel_message_Upgrade_Courier": "誰かクーリエをアップグレードしてくれませんか？"
+    "dota_chatwheel_message_Upgrade_Courier": "誰かクーリエをアップグレードしてくれませんか？",
+    "dota_settings_autoattack_after_spellcast": "標準",
+    "dota_settings_autoattack_always": "常に行う",
+    "dota_settings_autoattack": "オートアタック:",
+    "dota_settings_autoattack_never": "全く行わない"
 }
