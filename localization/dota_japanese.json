@@ -837,5 +837,11 @@
     "dota_settings_abilities_hero": "ヒーロー",
     "dota_settings_abilities_neutrals": "中立クリープ",
     "dota_settings_mirror": "ヒーローパネルからホットキーをコピーする",
-    "dota_settings_abilitylearn": "アビリティ習得"
+    "dota_settings_abilitylearn": "アビリティを習得",
+    "dota_settings_upgradestats": "ステータスを強化",
+    "dota_settings_upgradetalents": "タレントをアップグレード",
+    "dota_settings_unitactions": "ユニットの行動",
+    "dota_settings_shopactions": "ショップ関連",
+    "dota_settings_hotkeysoptions": "ホットキーのオプション",
+    "dota_settings_account_phone": "ランク戦電話協会"
 }
