@@ -8099,7 +8099,7 @@
     "DOTA_Tooltip_ability_magnataur_horn_toss_air_duration": "浮遊時間:",
     "DOTA_Tooltip_ability_magnataur_horn_toss_damage": "ダメージ:",
     "DOTA_Tooltip_ability_magnataur_horn_toss_stun_duration": "スタン時間:",
-    "DOTA_Tooltip_ability_shredder_flamethrower_Description": "%duration%秒間正面方向に幅%width%長さ%length%の炎を撒き散らし、当たった敵に毎秒%damage_per_second%ダメージと30%%のスローを与えるデバフを3秒間付与する。建造物には40%%のダメージが入る。",
+    "DOTA_Tooltip_ability_shredder_flamethrower_Description": "%duration%秒間正面方向に幅%width%長さ%length%の炎を撒き散らし、当たった敵に毎秒%damage_per_second%ダメージと30%%のスローを与えるデバフを2秒間付与する。建造物には40%%のダメージが入る。",
     "DOTA_Tooltip_ability_shredder_flamethrower_damage_per_second": "毎秒ダメージ:",
     "DOTA_Tooltip_ability_bristleback_viscous_nasal_goo_abilitydraft_note": "シャード: Hairballは習得できない。",
     "DOTA_Tooltip_ability_bristleback_viscous_nasal_goo_scepter_description": "Viscous Nasal GooがAoEアビリティとなり、周囲の可視状態の敵ユニットすべてに発射するようになる。また最大スタック数が%stack_limit_scepter%に増加する。",
