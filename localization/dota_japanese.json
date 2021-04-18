@@ -845,5 +845,11 @@
     "dota_settings_hotkeysoptions": "ホットキーのオプション",
     "dota_settings_account_phone": "ランク戦電話協会",
     "dota_settings_advancedoptions": "高度なオプションへ",
-    "dota_settings_basicoptions": "基本のオプションへ"
+    "dota_settings_basicoptions": "基本のオプションへ",
+    "dota_settings_miscoptions": "その他",
+    "dota_settings_attack": "攻撃ムーブ/強制攻撃",
+    "dota_settings_move_direction": "方向移動",
+    "dota_settings_move": "移動",
+    "dota_settings_patrol": "パトロール",
+    "dota_settings_stop": "現在の行動をキャンセル"
 }
