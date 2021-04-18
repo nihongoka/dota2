@@ -548,5 +548,17 @@
     "DOTA_StatTooltip_PrimaryBonus": "- 1ポイントにつき1攻撃力増加\n",
     "DOTA_StatTooltip_Buyback": "現在のバイバックコスト: %s1\n",
     "DOTA_StatTooltip_Buyback_Ready": "バイバック可能",
-    "DOTA_StatTooltip_Buyback_Cooldown": "バイバック可能まで%s1"
+    "DOTA_StatTooltip_Buyback_Cooldown": "バイバック可能まで%s1",
+    "DOTA_DmgArmorTooltip_AttackRange": "攻撃範囲: ",
+    "DOTA_StatTooltip_Buyback_GoldLimit": "%s1のための不確実なゴールドがない",
+    "DOTA_Buyback": "バイバック",
+    "DOTA_NoBuyback": "バイバックできない",
+    "DOTA_LevelUp": "レベルアップ",
+    "DOTA_Stash": "スタッシュ",
+    "DOTA_Inventory_Grab_All": "すべて選択",
+    "DOTA_Stash_QueueForPickup": "クーリエ運送のためのキュー",
+    "DOTA_DmgArmorTooltip_AttackSpeed": "攻撃速度: ",
+    "DOTA_DmgArmorTooltip_AttackSpeedSeconds": "秒で攻撃",
+    "DOTA_DmgArmorTooltip_MoveSpeed": "移動速度: ",
+    "DOTA_DmgArmorTooltip_AttackDamage": "攻撃力: "
 }
