@@ -783,5 +783,7 @@
     "dota_chatwheel_message_Enemy_Incoming": "敵が来てる！",
     "dota_chatwheel_message_Invis_Enemy": "近くに透明な敵がいる！",
     "dota_chatwheel_message_Enemy_Had_Rune": "敵がルーンを持っている",
-    "dota_chatwheel_message_Split_Push": "分かれてプッシュしよう"
+    "dota_chatwheel_message_Split_Push": "分かれてプッシュしよう",
+    "dota_chatwheel_message_Buy_Courier": "クーリエを買って",
+    "dota_chatwheel_message_Upgrade_Courier": "誰かクーリエをアップグレードしてくれませんか？"
 }
