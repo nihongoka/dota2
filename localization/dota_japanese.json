@@ -835,5 +835,7 @@
     "dota_settings_quickcast": "クイックキャスト",
     "dota_settings_abilities": "アビリティ",
     "dota_settings_abilities_hero": "ヒーロー",
-    "dota_settings_abilities_neutrals": "中立クリープ"
+    "dota_settings_abilities_neutrals": "中立クリープ",
+    "dota_settings_mirror": "ヒーローパネルからホットキーをコピーする",
+    "dota_settings_abilitylearn": "アビリティ習得"
 }
