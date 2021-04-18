@@ -843,5 +843,7 @@
     "dota_settings_unitactions": "ユニットの行動",
     "dota_settings_shopactions": "ショップ関連",
     "dota_settings_hotkeysoptions": "ホットキーのオプション",
-    "dota_settings_account_phone": "ランク戦電話協会"
+    "dota_settings_account_phone": "ランク戦電話協会",
+    "dota_settings_advancedoptions": "高度なオプションへ",
+    "dota_settings_basicoptions": "基本のオプションへ"
 }
