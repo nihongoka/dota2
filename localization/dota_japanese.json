@@ -1128,5 +1128,6 @@
     "dota_settings_normal_maps": "法線マップ",
     "dota_settings_parallax_mapping": "地上の視差",
     "dota_settings_dashboard_renderquality": "高品質なダッシュボード",
-    "dota_settings_vsync": "垂直同期"
+    "dota_settings_vsync": "垂直同期",
+    "dota_settings_exp_lag_limiter": "実験的にラグリミッターを入力"
 }
