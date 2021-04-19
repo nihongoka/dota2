@@ -929,7 +929,7 @@
     "DOTA_Teams_WindowTitle": "チーム",
     "DOTA_Profile_WindowTitle": "自分のプロフィール",
     "DOTA_BattlePass_WindowTitle": "バトルパス",
-    "DOTA_Plus_Profile_WindowTitle": "DOTAプラス",
+    "DOTA_Plus_Profile_WindowTitle": "DOTA PLUS",
     "DOTA_Plus_Profile_Header_Status": "アクティブ",
     "DOTA_FriendsCategory_Online": "オンライン<font color='#6a9dcc'>({d:friend_count})</font>",
     "DOTA_FriendsCategory_PlayingDota": "Dotaを起動中<font color='#ACEBA9'>({d:friend_count})</font>",
