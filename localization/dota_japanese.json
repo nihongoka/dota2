@@ -978,5 +978,21 @@
     "dota_settings_ignorenonfriendparties": "フレンド以外からのパーティー招待をブロックする",
     "dota_settings_ignorenonfriendguilds": "フレンド以外からのギルド招待をブロックする",
     "dota_settings_exposematchdata": "パブリックマッチデータを公開する",
-    "dota_settings_spectatorandreplay_pt2": "観戦/リプレイのコントロール 続き"
+    "dota_settings_spectatorandreplay_pt2": "観戦/リプレイのコントロール 続き",
+    "dota_settings_spectatorincreasereplayspeed": "リプレイスピードを上げる",
+    "dota_settings_spectatorcameraup": "観戦者カメラ操作: 上",
+    "dota_settings_spectatorcameradown": "観戦者カメラ操作: 下",
+    "dota_settings_spectatorcameraleft": "観戦者カメラ操作: 左",
+    "dota_settings_spectatorcameraright": "観戦者カメラ操作: 右",
+    "dota_settings_leftclick_cameragrip": "左クリックでカメラグリップを有効にする",
+    "dota_settings_spectatorcameragrip": "観戦者カメラ: グリップ",
+    "dota_settings_spectatorpause": "観戦者用ポーズ",
+    "dota_settings_spectatorchat": "観戦者用チャット",
+    "dota_settings_spectatorscoreboard": "観戦者用スコアボード",
+    "dota_settings_spectatorbroadcastermenu": "配信者メニューを開く",
+    "dota_settings_spectatordecreasereplayspeed": "リプレイスピードを下げる",
+    "dota_settings_spectatorstatsitem": "アイテムの統計を開く",
+    "dota_settings_spectatorstatsgold": "ゴールドグラフを開く",
+    "dota_settings_spectatorstatsharvest": "資産の統計を開く",
+    "dota_settings_spectatorstatsxp": "経験値グラフを開く"
 }
