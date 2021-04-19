@@ -1028,8 +1028,8 @@
     "dota_settings_summoned_unit_autoattack": "召喚ユニットのオートアタック:",
     "dota_settings_smart_doubletap": "スマートダブルタップ",
     "dota_settings_unifiedorders": "Ctrlキーで一斉に操作する",
-    "dota_settings_teleportrequireshalt": "テレポートでホールド/ストップを使用",
-    "dota_settings_channelrequireshalt": "チャネリングアビリティはホールド/ストップが必要",
+    "dota_settings_teleportrequireshalt": "位置の保持/行動キャンセル でテレポートを中断",
+    "dota_settings_channelrequireshalt": "位置の保持/行動キャンセル でチャネリングを中断",
     "dota_tip_introduction_1": "自チームのタワーの攻撃範囲内でクリープや敵のヒーローと戦うようにしましょう。",
     "dota_tip_introduction_2": "川を通って対岸に渡る時は注意が必要です。",
     "dota_tip_introduction_3": "ゲーム開始時には、体力とマナを回復するアイテムを忘れずに購入しましょう。",
@@ -1040,5 +1040,6 @@
     "dota_tip_introduction_9": "各プレイヤーには、アイテムを運んでくれるクーリエがいます。",
     "dota_tip_introduction_12": "設定のソーシャルタブではチャットに関する設定が多数あります。",
     "dota_tip_introduction_11": "設定には「カラーブラインド」オプションが用意されています。",
-    "dota_tip_introduction_10": "ショップにいない時に購入した商品はスタッシュに置かれ、ベースで直接取り出すか、クーリエによって届けられます。"
+    "dota_tip_introduction_10": "ショップにいない時に購入した商品はスタッシュに置かれ、ベースで直接取り出すか、クーリエによって届けられます。",
+    "dota_settings_showqueuedorders": "HUDにオーダーを表示"
 }
