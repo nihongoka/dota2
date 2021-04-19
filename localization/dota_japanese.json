@@ -977,5 +977,6 @@
     "dota_settings_hideprofile": "DotaとSteamのプロフィールを隠す",
     "dota_settings_ignorenonfriendparties": "フレンド以外からのパーティー招待をブロックする",
     "dota_settings_ignorenonfriendguilds": "フレンド以外からのギルド招待をブロックする",
-    "dota_settings_exposematchdata": "パブリックマッチデータを公開する"
+    "dota_settings_exposematchdata": "パブリックマッチデータを公開する",
+    "dota_settings_spectatorandreplay_pt2": "観戦/リプレイのコントロール 続き"
 }
