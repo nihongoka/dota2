@@ -1081,5 +1081,7 @@
     "dota_settings_cameradeadcolorshift": "死んでいるとき画面の色を変える",
     "dota_settings_profile": "プロフィール",
     "dota_settings_minimapshowheroicon": "Altキーでヒーローアイコンを表示する",
-    "dota_settings_camerascreenshake": "画面の振動をオン"
+    "dota_settings_camerascreenshake": "画面の振動をオン",
+    "dota_settings_hide_party_unless_open": "公開パーティーでないとき、パーティーの状態を隠す",
+    "dota_settings_hide_party_status": "パーティーの状態を隠す"
 }
