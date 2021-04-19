@@ -1083,5 +1083,10 @@
     "dota_settings_minimapshowheroicon": "Altキーでヒーローアイコンを表示する",
     "dota_settings_camerascreenshake": "画面の振動をオン",
     "dota_settings_hide_party_unless_open": "公開パーティーでないとき、パーティーの状態を隠す",
-    "dota_settings_hide_party_status": "パーティーの状態を隠す"
+    "dota_settings_hide_party_status": "パーティーの状態を隠す",
+    "dota_settings_open_party_manual_accept_invites": "公開パーティーで招待を自動で許可しない",
+    "dota_settings_allowtradeinvitesheader": "トレードの許可:",
+    "dota_settings_trade_guildandfriends": "ギルドメンバーと友達",
+    "dota_settings_trade_friends": "友達のみ",
+    "dota_settings_trade_anyone": "だれでも"
 }
