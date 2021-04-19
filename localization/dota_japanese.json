@@ -1029,5 +1029,8 @@
     "dota_settings_smart_doubletap": "スマートダブルタップ",
     "dota_settings_unifiedorders": "Ctrlキーで一斉に操作する",
     "dota_settings_teleportrequireshalt": "テレポートでホールド/ストップを使用",
-    "dota_settings_channelrequireshalt": "チャネリングアビリティはホールド/ストップが必要"
+    "dota_settings_channelrequireshalt": "チャネリングアビリティはホールド/ストップが必要",
+    "dota_tip_introduction_1": "自チームのタワーの攻撃範囲内でクリープや敵のヒーローと戦うようにしましょう。",
+    "dota_tip_introduction_2": "川を通って対岸に渡る時は注意が必要です。",
+    "dota_tip_introduction_3": "ゲーム開始時には、体力とマナを回復するアイテムを忘れずに購入しましょう。"
 }
