@@ -1110,7 +1110,7 @@
     "dota_settings_fastestvideo": "高速",
     "dota_settings_coop_fullscreen": "ウィンドウフルスクリーン",
     "dota_settings_appearancevideo": "高画質",
-    "dota_settings_advancedvideosettings": "高度な設定を使用",
+    "dota_settings_advancedvideosettings": "高度な設定を使用する",
     "dota_settings_antialiasing": "アンチエイリアス",
     "dota_settings_networkquality": "ネットワークの品質: ",
     "dota_settings_networkquality_low": "私は低速回線を利用しています",
@@ -1139,6 +1139,6 @@
     "dota_settings_particlequality_high": "高",
     "dota_settings_grassquality": "草",
     "dota_settings_fps_max": "最大FPS",
-    "dota_settings_fps_max_tip": "より大きな値は起動オプション +fps_max を使うことで設定できます。\nスライダーの範囲外の値を設定するとスライダーが無効になります。",
+    "dota_settings_fps_max_tip": "より大きな値は起動オプション +fps_max を使うことで設定できます。スライダーの範囲外の値を設定するとスライダーが無効になります。",
     "dota_settings_mastervolume": "マスターボリューム"
 }
