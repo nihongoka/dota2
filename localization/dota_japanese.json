@@ -1032,5 +1032,13 @@
     "dota_settings_channelrequireshalt": "チャネリングアビリティはホールド/ストップが必要",
     "dota_tip_introduction_1": "自チームのタワーの攻撃範囲内でクリープや敵のヒーローと戦うようにしましょう。",
     "dota_tip_introduction_2": "川を通って対岸に渡る時は注意が必要です。",
-    "dota_tip_introduction_3": "ゲーム開始時には、体力とマナを回復するアイテムを忘れずに購入しましょう。"
+    "dota_tip_introduction_3": "ゲーム開始時には、体力とマナを回復するアイテムを忘れずに購入しましょう。",
+    "dota_tip_introduction_4": "Town Portal Scrollを使用することで、マップ内を素早く移動することができます。",
+    "dota_tip_introduction_6": "シークレットショップでしか買えないアイテムもあります。",
+    "dota_tip_introduction_7": "ほとんどのヒーローはアルティメットアビリティをレベル6で習得でき、レベル12と18で強化されます。",
+    "dota_tip_introduction_8": "クリープやヒーローにとどめを刺すと、追加のゴールドを獲得することができます。",
+    "dota_tip_introduction_9": "各プレイヤーには、アイテムを運んでくれるクーリエがいます。",
+    "dota_tip_introduction_12": "設定のソーシャルタブではチャットに関する設定が多数あります。",
+    "dota_tip_introduction_11": "設定には「カラーブラインド」オプションが用意されています。",
+    "dota_tip_introduction_10": "ショップにいない時に購入した商品はスタッシュに置かれ、ベースで直接取り出すか、クーリエによって届けられます。"
 }
