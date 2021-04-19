@@ -972,5 +972,10 @@
     "dota_settings_screenshot": "スクリーンショット",
     "dota_settings_console": "コンソール",
     "dota_settings_death_summary": "デスサマリーを開く",
-    "dota_settings_dota_alt": "Altの代わりに別のキーを使用"
+    "dota_settings_dota_alt": "Altの代わりに別のキーを使用",
+    "dota_settings_spectatorandreplay": "観戦/リプレイの設定",
+    "dota_settings_hideprofile": "DotaとSteamのプロフィールを隠す",
+    "dota_settings_ignorenonfriendparties": "フレンド以外からのパーティー招待をブロックする",
+    "dota_settings_ignorenonfriendguilds": "フレンド以外からのギルド招待をブロックする",
+    "dota_settings_exposematchdata": "パブリックマッチデータを公開する"
 }
