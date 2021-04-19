@@ -1129,5 +1129,16 @@
     "dota_settings_parallax_mapping": "地上の視差",
     "dota_settings_dashboard_renderquality": "高品質なダッシュボード",
     "dota_settings_vsync": "垂直同期",
-    "dota_settings_exp_lag_limiter": "実験的にラグリミッターを入力"
+    "dota_settings_exp_lag_limiter": "実験的にラグリミッターを入力",
+    "dota_settings_computeshader": "コンピュートシェーダー",
+    "dota_settings_computeshader_tooltip": "VulkanとDirectX 11にのみ対応。\nコンピュートシェーダーはほとんどの環境でパフォーマンスを向上させます。",
+    "dota_settings_tree_wind": "風になびく木",
+    "dota_settings_renderquality": "ゲーム画面のレンダリング品質",
+    "dota_settings_particlequality_low": "低",
+    "dota_settings_particlequality_med": "中",
+    "dota_settings_particlequality_high": "高",
+    "dota_settings_grassquality": "草",
+    "dota_settings_fps_max": "最大FPS",
+    "dota_settings_fps_max_tip": "より大きな値は起動オプション +fps_max を使うことで設定できます。\nスライダーの範囲外の値を設定するとスライダーが無効になります。",
+    "dota_settings_mastervolume": "マスターボリューム"
 }
