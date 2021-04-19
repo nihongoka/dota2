@@ -1114,5 +1114,19 @@
     "dota_settings_antialiasing": "アンチエイリアス",
     "dota_settings_networkquality": "ネットワークの品質: ",
     "dota_settings_networkquality_low": "私は低速回線を利用しています",
-    "dota_settings_networkhud": "ネットワーク情報を表示する"
+    "dota_settings_networkhud": "ネットワーク情報を表示する",
+    "dota_settings_specular": "光の反射",
+    "dota_settings_bloom": "光の反射とライトブルーム",
+    "dota_settings_waterquality": "高画質な水",
+    "dota_settings_fog": "上質な霧/コースティクス",
+    "dota_settings_animateportrait": "動くポートレート",
+    "dota_settings_additivelight": "繊細な光を描画",
+    "dota_settings_worldlight": "様々な光源",
+    "dota_settings_ambientocclusion": "光と影の遮蔽",
+    "dota_settings_ambientcreatures": "環境生物",
+    "dota_settings_ambient_cloth": "繊細な布の動き",
+    "dota_settings_normal_maps": "法線マップ",
+    "dota_settings_parallax_mapping": "地上の視差",
+    "dota_settings_dashboard_renderquality": "高品質なダッシュボード",
+    "dota_settings_vsync": "垂直同期"
 }
