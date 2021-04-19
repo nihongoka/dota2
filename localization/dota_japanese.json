@@ -1041,5 +1041,6 @@
     "dota_tip_introduction_12": "設定のソーシャルタブではチャットに関する設定が多数あります。",
     "dota_tip_introduction_11": "設定には「カラーブラインド」オプションが用意されています。",
     "dota_tip_introduction_10": "ショップにいない時に購入した商品はスタッシュに置かれ、ベースで直接取り出すか、クーリエによって届けられます。",
-    "dota_settings_showqueuedorders": "HUDにオーダーを表示"
+    "dota_settings_showqueuedorders": "シフト予約を画面上に表示する",
+    "dota_settings_force_right_click_attack": "右クリックで強制攻撃する"
 }
