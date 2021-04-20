@@ -1381,5 +1381,13 @@
     "dota_settings_match_solo_role_queue": "厳格なソロロールキューマッチメイキング",
     "dota_settings_no_mode_resolutions": "対応している解像度がありません",
     "dota_settings_fullscreen_focus_behavior": "ウィンドウフルスクリーンは選択されていない間は最小化されます",
-    "dota_settings_next_render_system": "次回起動時に使用するレンダリングAPI:"
+    "dota_settings_next_render_system": "次回起動時に使用するレンダリングAPI:",
+    "dota_settings_cur_render_system_tooltip": "選択されたレンダラーがサポートされていない、初期化に失敗する、起動オプションによってオーバーライドされた、オプションのDLCが要求される場合、使用中のレンダリングAPIは要求されたものと異なる可能性があります。",
+    "dota_settings_render_system_tooltip": "この設定への変更は、次回の起動まで有効になりません。\n-dx9、-dx11、-gl、-vulkanなどの起動オプションを使用している場合、この設定はロックされます。\nツールモードでも同様にこの設定はロックされます。",
+    "dota_settings_render_system_recommended": "推奨",
+    "dota_settings_render_system_needs_dlc": "DLCのインストールが必要",
+    "dota_settings_application": "アプリケーション",
+    "dota_settings_enable_console": "コンソールを有効にする",
+    "dota_settings_enable_console_tooltip": "この設定への変更は次回の起動まで有効になりません。\n-dev、-consoleなどの起動オプションでコンソールを有効にしている場合、この設定が上書きされます。",
+    "dota_settings_activate_window_on_match_found": "マッチングした時、Dota2を画面の一番前に持ってくる"
 }
