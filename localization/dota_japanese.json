@@ -1306,5 +1306,11 @@
     "DOTA_FindMatchStatus": "{s:searching_matchtype}  /  {s:searching_gamemodes}  /  {s:searching_region}",
     "DOTA_PlayMenu_NewPlayerText": "<b>特徴:</b><br>• やさしいゲームプレイ<br> \n• 新参プレイヤー同士の対戦<br> \n• 限定ヒーロープール<br> \n• 速いマッチメイキング<br> \n• 切断時のペナルティなし",
     "DOTA_GameMode_AllPick": "オールピック",
-    "DOTA_FindRegionsMany": "地域: "
+    "DOTA_FindRegionsMany": "地域: ",
+    "DOTA_GameMode_LeastPlayed": "リーストプレイド",
+    "DOTA_GameMode_AllRandom": "オールランダム",
+    "DOTA_GameMode_LimitedHeroes": "リミテッドヒーロー",
+    "DOTA_GameMode_CaptainsDraft": "キャプテンズドラフト",
+    "DOTA_GameMode_AllRandomDeathMatch": "オールランダムデスマッチ",
+    "DOTA_GameMode_AllDraft": "オールピック"
 }
