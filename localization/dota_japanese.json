@@ -1455,5 +1455,14 @@
     "DOTA_MMR_Recalibration_ButtonLabel": "リキャリブレーションを有効にする",
     "DOTA_MMR_Recalibration_Consumed": "MMRリキャリブレーションは既にアクティベートされています",
     "DOTA_ManageProInfo_Header": "プロ情報とチーム",
-    "DOTA_ManageProInfo_Button": "プロ情報とチームを管理する"
+    "DOTA_ManageProInfo_Button": "プロ情報とチームを管理する",
+    "dota_tip_universal_3": "左上にあるボタンを押すと表示されるスコアボードから失礼なプレイヤーをミュートすることができます。",
+    "dota_tip_universal_5": "誰かと一緒にプレイして楽しかったですか？ゲーム終了後の画面で、名前の上にある称賛ボタンをクリックして、相手を称賛してください。",
+    "dota_tip_universal_6": "Altキーを押しながらアビリティを左クリックすると、そのアビリティの現在のクールダウン状態をチームメイトに知らせることができます。",
+    "dota_tip_universal_7": "敵のヒーローがいなくなったことをチームメイトに知らせるには、Altを押しながら画面上部のヒーローのポートレートをクリックします。",
+    "dota_tip_universal_8": "常に礼儀正しく、特にチームメイトには礼儀正しく接しましょう。人は失礼な人の話を聞かないものです。",
+    "dota_tip_universal_11": "新しいプレーヤーには親切にしましょう。千里の道も一歩から。",
+    "dota_tip_universal_4": "ヒーローを選択した後、ミニマップをクリックすると、ゲーム開始時に使用するレーンをチームメイトに知らせることができます。",
+    "dota_tip_universal_9": "試合を放棄したプレイヤーにはペナルティが課せられます。",
+    "dota_tip_universal_10": "ward、dust、smokeは誰でも買うことができます。あなたのチームが必要としているなら、恐れずに購入してください！"
 }
