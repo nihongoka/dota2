@@ -1312,5 +1312,16 @@
     "DOTA_GameMode_LimitedHeroes": "リミテッドヒーロー",
     "DOTA_GameMode_CaptainsDraft": "キャプテンズドラフト",
     "DOTA_GameMode_AllRandomDeathMatch": "オールランダムデスマッチ",
-    "DOTA_GameMode_AllDraft": "オールピック"
+    "DOTA_GameMode_AllDraft": "オールピック",
+    "dota_tip_lore_1": "Atos, the Lord of Blightは、自分のエッセンスの一部をRod of Atosに保存しています。",
+    "dota_tip_lore_2": "Eye of Skadiはアズールの竜によって守られていました。",
+    "dota_tip_lore_3": "Shadow Bladeはとある今は亡き王の持ち物でした。",
+    "dota_tip_lore_5": "魔法のハンマー「mjollnir」はドワーフのBrokとEitriによってThorの為に作られました。",
+    "dota_tip_lore_6": "Meteor Hammerは、星嵐によって壊滅した村で見つかった金属から鍛造されました。",
+    "dota_tip_lore_7": "Guardian GreavesはOmniscienceを称えるために鍛造されました。",
+    "dota_tip_lore_8": "Aeon Diskは、Ivory Incubariumから密かに持ち出されたと噂されています。",
+    "dota_tip_lore_9": "Crimson Guardは、元々は恐ろしいYear Beastから身を守るために作られた胸当てです。",
+    "dota_tip_universal_1": "アナウンサーとHUDスキンは、試合に参加している全プレイヤーで共有されます。スコアボードの「共有コンテンツ」を押すと、それらの中から選ぶことができます。",
+    "dota_tip_universal_2": "冷静になること。忘れてはいけない、これはただのゲームだということを。",
+    "dota_tip_lore_4": "Crystal MaidenとLinaは姉妹です。"
 }
