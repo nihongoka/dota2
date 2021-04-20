@@ -1292,5 +1292,19 @@
     "find_match": "マッチを検索する",
     "DOTA_TeamMatchmake_AlreadyFinding": "あなたのチームは既にマッチを検索しています。",
     "DOTA_FindMatch": "マッチを検索",
-    "DOTA_FindingMatch": "マッチを検索中 ( {s:find_match_time} )"
+    "DOTA_FindingMatch": "マッチを検索中 ( {s:find_match_time} )",
+    "DOTA_FindCustomGameMatch": "{s:active_event_custom_game}をプレイ",
+    "DOTA_FindNewPlayerModeMatch": "ニュープレイヤーモードをプレイする",
+    "DOTA_FindMatchTime": "{s:find_match_time}",
+    "WeekendTourney_TournamentID": "トーナメント ID: {d:r:tournament_id}",
+    "DOTA_FindGameModesMany": "ゲームモード: ",
+    "DOTA_PlayMenu_NewPlayerTextIntro": "初めて遊ぶ人にピッタリのシンプルなゲームモード。",
+    "DOTA_GameMode_SingleDraft": "シングルドラフト",
+    "DOTA_GameMode_CaptainsMode": "キャプテンズモード",
+    "DOTA_GameMode_RandomDraft": "ランダムドラフト",
+    "DOTA_GameMode_AbilityDraft": "アビリティドラフト",
+    "DOTA_FindMatchStatus": "{s:searching_matchtype}  /  {s:searching_gamemodes}  /  {s:searching_region}",
+    "DOTA_PlayMenu_NewPlayerText": "<b>特徴:</b><br>• やさしいゲームプレイ<br> \n• 新参プレイヤー同士の対戦<br> \n• 限定ヒーロープール<br> \n• 速いマッチメイキング<br> \n• 切断時のペナルティなし",
+    "DOTA_GameMode_AllPick": "オールピック",
+    "DOTA_FindRegionsMany": "地域: "
 }
