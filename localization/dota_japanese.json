@@ -1411,5 +1411,10 @@
     "dota_settings_camera_zoom_out": "カメラ操作: ズームアウト",
     "dota_settings_camera_disable_zoom": "カメラズームを無効化する",
     "dota_settings_minimap_size": "ミニマップの大きさ",
-    "DOTA_Settings_chooseunit": "ユニットを選ぶ"
+    "DOTA_Settings_chooseunit": "ユニットを選ぶ",
+    "dota_settings_player_auto_repeat_right_mouse": "右クリックの自動リピート",
+    "dota_settings_auto_cursor_scale": "カーソルサイズを自動的に選択",
+    "dota_settings_cursor_scale": "カーソルサイズ",
+    "dota_settings_cursor_scale_overridden": "起動オプション -cursor_scale_percent を使用していた場合、カーソルサイズの設定は上書きされます。",
+    "dota_settings_hud_query_panel": "他のユニットを選択した時にHUDを切り替える"
 }
