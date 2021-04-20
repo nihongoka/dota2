@@ -1365,5 +1365,21 @@
     "DOTA_EventRewardAlreadyPassed_Message": "あなたのバトルパスレベルは既にこのレベルに達しています。",
     "DOTA_ImmediatePurchase_Cancelled_Title": "キャンセル",
     "DOTA_ViewEventReward": "リワードを見る",
-    "DOTA_ViewInArmory": "保管庫を見る"
+    "DOTA_ViewInArmory": "保管庫を見る",
+    "dota_settings_dashboard_enable_mouse_history": "Mouse4/Mouse5を使ってダッシュボードを出し入れする",
+    "dota_settings_match_solo_fast_queue": "厳格なソロファストキューマッチメイキング",
+    "dota_settings_match_solo_role_queue_tooltip": "ロールキューの試合でパーティーとマッチングしなくなる。",
+    "dota_settings_render_system_reset": "設定を変更した後、ゲームが正常に起動しないときは、起動オプション -safe_mode を使用してデフォルトのAPIで起動することができます。",
+    "dota_settings_render_system": "使用しているレンダリングAPI:",
+    "dota_settings_chat_join_regional": "起動時に自分の地域のチャットに接続する",
+    "dota_settings_chat_allow_global": "チャンネルのメッセージを他のチャンネルタブでも表示する",
+    "dota_settings_chat_mute_everyone": "すべてのチャットをミュートする",
+    "dota_settings_chat_mute_enemies": "敵からのチャットをミュートする",
+    "dota_settings_match_solo_queue": "厳格なソロランクマッチメイキング",
+    "dota_settings_match_solo_queue_tooltip": "ソロランク戦でパーティーとマッチングしなくなる。",
+    "dota_settings_match_solo_fast_queue_tooltip": "ファストキューの試合でパーティーとマッチングしなくなる。",
+    "dota_settings_match_solo_role_queue": "厳格なソロロールキューマッチメイキング",
+    "dota_settings_no_mode_resolutions": "対応している解像度がありません",
+    "dota_settings_fullscreen_focus_behavior": "ウィンドウフルスクリーンは選択されていない間は最小化されます",
+    "dota_settings_next_render_system": "次回起動時に使用するレンダリングAPI:"
 }
