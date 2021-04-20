@@ -848,7 +848,7 @@
     "dota_settings_basicoptions": "基本のオプションへ",
     "dota_settings_miscoptions": "その他",
     "dota_settings_attack": "攻撃ムーブ/強制攻撃",
-    "dota_settings_move_direction": "方向移動",
+    "dota_settings_move_direction": "直線移動",
     "dota_settings_move": "移動",
     "dota_settings_patrol": "パトロール",
     "dota_settings_stop": "現在の行動をキャンセル",
@@ -1467,5 +1467,11 @@
     "dota_tip_universal_10": "ward、dust、smokeは誰でも買うことができます。あなたのチームが必要としているなら、恐れずに購入してください！",
     "dota_tip_universal_13": "ヒーローの選択は重要です。どんなヒーローでも他のヒーローにとっては天敵になり得ます。また、多くのヒーローの組み合わせは、どのヒーローも単独の場合よりもはるかに強力で有用です。",
     "dota_tip_universal_15": "あなたの声を聞かせてください！ Dota2 Workshopにアクセスして、Dota 2で登場してほしいアイテムに投票しよう。",
-    "dota_tip_universal_14": "Shiftを押しながら行動をすると、行動を予約することができます。"
+    "dota_tip_universal_14": "Shiftを押しながら行動をすると、行動を予約することができます。",
+    "DOTA_Hotkeys_Tooltip_LearnAbility": "消費できるスキルポイントがある場合、アビリティ習得モードに入る。",
+    "DOTA_Hotkeys_Tooltip_LearnStats": "タレントツリーを開く。",
+    "DOTA_Hotkeys_Tooltip_HeroAttack": "移動中に攻撃/ディナイ可能なユニットを見つけたら攻撃する。",
+    "DOTA_Hotkeys_Tooltip_HeroMove": "移動、追従するときに攻撃しない。",
+    "DOTA_Hotkeys_Tooltip_HeroMoveDirection": "経路探索を使わず、直線状に移動する。",
+    "DOTA_Hotkeys_Tooltip_HeroPatrol": "通過点を追加する。"
 }
