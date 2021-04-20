@@ -1399,5 +1399,17 @@
     "dota_settings_allow_gui_key_to_bind": "Windows / Commandキーのバインドを許可する",
     "dota_settings_button_code_is_scan_code": "キーボードのポジションに応じたキーバインド",
     "dota_settings_button_code_is_scan_code_tooltip": "この変更をするためには、バインドの更新が必要な場合があります",
-    "dota_settings_hide_tips_on_loading_screens": "ローディング画面でのヒントを隠す"
+    "dota_settings_hide_tips_on_loading_screens": "ローディング画面でのヒントを隠す",
+    "dota_settings_ability_self_cast_timeout": "セルフキャストするためのダブルタップの間隔",
+    "dota_settings_minimap_misclick_time": "ミニマップの誤クリック防止時間",
+    "dota_settings_minimap_size_smallest": "小さい",
+    "dota_settings_minimap_size_largest": "大きい",
+    "dota_settings_minimap_hero_size": "ミニマップ上のヒーローの大きさ",
+    "dota_settings_minimap_hero_scalar": "ミニマップ上のヒーローアイコンを動的に拡大縮小する",
+    "dota_settings_minimap_hero_spread": "ヒーローアイコンを広げる",
+    "dota_settings_camera_zoom_in": "カメラ操作: ズームイン",
+    "dota_settings_camera_zoom_out": "カメラ操作: ズームアウト",
+    "dota_settings_camera_disable_zoom": "カメラズームを無効化する",
+    "dota_settings_minimap_size": "ミニマップの大きさ",
+    "DOTA_Settings_chooseunit": "ユニットを選ぶ"
 }
