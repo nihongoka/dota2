@@ -1351,5 +1351,19 @@
     "DOTA_GameMode_24": "ミューテーション",
     "DOTA_GameMode_19_Generic": "イベントゲーム",
     "DOTA_ImmediatePurchase_SendFailed": "購入リクエストの送信に失敗しました。Dotaサーバーがオフラインになっている可能性があります。しばらく待って再度試してください。",
-    "DOTA_ImmediatePurchase_Success_Title": "完了"
+    "DOTA_ImmediatePurchase_Success_Title": "完了",
+    "DOTA_ImmediatePurchase_FailedCantDetermineSuccess": "購入手続きの途中でDotaサーバーへの接続が切断されましたが、購入が完了した可能性があります。サーバーへ再度接続するまでお待ちください。その後、購入が完了したかどうか保管庫を見て確認してください。購入できていなかった場合、課金されません。",
+    "DOTA_ImmediatePurchase_UnbundleFailure": "バンドルが開封できませんでした。時間をおいて再度試してください。",
+    "DOTA_ImmediatePurchase_LateCancel": "購入が中断されました。料金はかかりません。",
+    "DOTA_ConfirmPurchaseTitle": "購入の確認",
+    "DOTA_ConfirmPurchaseText": "このアイテムを購入しますか？",
+    "DOTA_PurchaseAsGift_Tooltip": "友達へのギフトとして購入する。",
+    "DOTA_PurchaseEventRewardLevel": "レベル {d:event_reward_level}",
+    "DOTA_EventRewardAlreadyPassed_Title": "達成レベル",
+    "DOTA_ImmediatePurchase_Success_Text": "購入できました！アイテムはまもなく保管庫に保存されます。",
+    "DOTA_ImmediatePurchase_UnbundleTimeout": "バンドル開封リクエストの応答待ちでタイムアウトしました。時間をおいて再度試してください。",
+    "DOTA_EventRewardAlreadyPassed_Message": "あなたのバトルパスレベルは既にこのレベルに達しています。",
+    "DOTA_ImmediatePurchase_Cancelled_Title": "キャンセル",
+    "DOTA_ViewEventReward": "リワードを見る",
+    "DOTA_ViewInArmory": "保管庫を見る"
 }
