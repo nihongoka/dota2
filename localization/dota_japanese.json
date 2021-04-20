@@ -1288,5 +1288,9 @@
     "dota_play_find_match": "ゲームを検索する",
     "party_chat_find_match_start_game_modes": "ゲームモード:",
     "party_chat_find_match_start_regions": "地域:",
-    "party_chat_find_match_start_languages": "言語:"
+    "party_chat_find_match_start_languages": "言語:",
+    "find_match": "マッチを検索する",
+    "DOTA_TeamMatchmake_AlreadyFinding": "あなたのチームは既にマッチを検索しています。",
+    "DOTA_FindMatch": "マッチを検索",
+    "DOTA_FindingMatch": "マッチを検索中 ( {s:find_match_time} )"
 }
