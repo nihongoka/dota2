@@ -1369,7 +1369,7 @@
     "dota_settings_dashboard_enable_mouse_history": "Mouse4/Mouse5でダッシュボードを出し入れする",
     "dota_settings_match_solo_fast_queue": "厳格なソロファストキューマッチメイキング",
     "dota_settings_match_solo_role_queue_tooltip": "ロールキューの試合でパーティーとマッチングしなくなる。",
-    "dota_settings_render_system_reset": "この設定を変更した後、ゲームが正常に起動しないときは、起動オプション -safe_mode を使用してデフォルトのAPIで起動することができます。",
+    "dota_settings_render_system_reset": "この設定を変更した後、ゲームが正常に起動しないときは、起動オプション\n-safe_mode を使用してデフォルトのAPIで起動することができます。",
     "dota_settings_render_system": "使用しているレンダリングAPI:",
     "dota_settings_chat_join_regional": "起動時に自分の地域のチャットに接続する",
     "dota_settings_chat_allow_global": "チャンネルのメッセージを他のチャンネルタブでも表示する",
