@@ -1480,5 +1480,21 @@
     "DOTA_Hotkeys_Tooltip_HeroSelect": "自分のヒーローを選択する。",
     "DOTA_Hotkeys_Tooltip_SelectAll": "自分のコントロール下にあるすべてのユニットを選択する。",
     "DOTA_Hotkeys_Tooltip_CourierSelect": "クーリエを選択する。",
-    "DOTA_Hotkeys_Tooltip_CourierDeliver": "クーリエにスタッシュからアイテムを輸送してもらう。"
+    "DOTA_Hotkeys_Tooltip_CourierDeliver": "クーリエにスタッシュからアイテムを輸送してもらう。",
+    "DOTA_Hotkeys_Tooltip_ChatVoiceParty": "マイクを使ってパーティーメンバーとコミュニケーションをとる。オープンマイクを設定している場合は、ダッシュボードでも使用できる。",
+    "DOTA_Hotkeys_Tooltip_CourierBurst": "クーリエバーストを使用する。",
+    "DOTA_Hotkeys_Tooltip_CourierShield": "クーリエシールドを使用する。",
+    "DOTA_Hotkeys_Tooltip_UseActionItem": "アクションアイテムを使用する。",
+    "DOTA_Hotkeys_Tooltip_ToggleConsumableAbilities": "消費アイテムバーの表示を切り替える。",
+    "DOTA_Hotkeys_Tooltip_HeroTaunt": "装備しているヒーローの挑発を使用する。",
+    "DOTA_Hotkeys_Tooltip_ShopToggle": "ショップパネルを開く。",
+    "DOTA_Hotkeys_Tooltip_PurchaseSticky": "スティッキースロットにあるアイテムを購入する。",
+    "DOTA_Hotkeys_Tooltip_PurchaseQuickbuy": "クイックバイエリアにある先頭のアイテムを購入する。",
+    "DOTA_Hotkeys_Tooltip_GrabStashItems": "スタッシュにあるすべてのアイテムを自分のヒーローに移す。",
+    "DOTA_Hotkeys_Tooltip_RecentEvent": "最近イベントがあった地点にカメラを移動する。",
+    "DOTA_Hotkeys_Tooltip_InspectHeroInWorld": "ユニットを間近に見ることができます。",
+    "DOTA_Hotkeys_Tooltip_ChatTeam": "チーム全員にメッセージを送る。",
+    "DOTA_Hotkeys_Tooltip_ChatGlobal": "ゲームに参加しているプレイヤー全員にメッセージを送る。（チームチャットのホットキー＋Shiftキー）",
+    "DOTA_Hotkeys_Tooltip_ChatWheel": "チャットホイールを使って、よく使うフレーズを伝える。",
+    "DOTA_Hotkeys_Tooltip_HeroChatWheel": "ヒーローチャットホイールを使って、自分のヒーローに特定のフレーズを喋らせる。"
 }
