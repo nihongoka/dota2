@@ -73,5 +73,14 @@
     "GameUI_SoundQuality": "サウンドクオリティー",
     "GameUI_Ultra": "超",
     "GameUI_High": "高",
-    "GameUI_UseDefaults": "デフォルトを使用"
+    "GameUI_UseDefaults": "デフォルトを使用",
+    "GameUI_Console_FileCorrupt": "選択したストレージデバイスに、破損しているか開けないファイルがあります。 別のストレージデバイスを選択するか、破損したファイルを削除してください。",
+    "GameUI_CustomTab_Explanation3": "次のリンクをクリックすると、カスタムサーバーの詳細が表示されます（リンク先はデフォルトのWebブラウザが開きます）",
+    "GameUI_Console_StorageRemovedBody": "ストレージデバイスがないと、進捗状況を保存することができません。別のストレージデバイスを選択しますか？",
+    "GameUI_Console_QuitWarning": "本当に辞めてもよいですか？\n保存されていない進捗状況はすべて失われます。",
+    "GameUI_Console_StorageNeededBody": "ストレージデバイスがないと、プレイを続けることができません。別のストレージデバイスを選択しますか？",
+    "GameUI_Console_StorageChange": "ストレージデバイスの変更",
+    "GameUI_Console_StorageTooFullTitle": "ストレージデバイスが満杯",
+    "GameUI_EnableOpenMic": "オープンマイク有効化",
+    "GameUI_VoiceThreshold": "オープンマイクの音量閾値"
 }
