@@ -82,5 +82,11 @@
     "GameUI_Console_StorageChange": "ストレージデバイスの変更",
     "GameUI_Console_StorageTooFullTitle": "ストレージデバイスが満杯",
     "GameUI_EnableOpenMic": "オープンマイク有効化",
-    "GameUI_VoiceThreshold": "オープンマイクの音量閾値"
+    "GameUI_VoiceThreshold": "オープンマイクの音量閾値",
+    "GameUI_Console_StorageTooFullBody": "選択したストレージデバイスには、新たに作成したゲームを保存するための十分な容量がありません。別のストレージデバイスを選択しますか？",
+    "GameUI_Console_NoStorageDeviceSelectedBody": "ストレージデバイスの選択をしますか？\n\n'いいえ'を選択すると、ゲームをプレイすることはできますが、進捗状況を保存することはできません。",
+    "GameUI_OptionsRestartRequired_Info": "変更した場合は、ゲームの再起動が必要です。\n再起動する必要があります。 再起動しますか？",
+    "GameUI_OptionsRestart_OKButton": "今すぐ再起動する",
+    "GameUI_OptionsRestart_CancelButton": "後で再起動する",
+    "GameUI_Console_NoStorageDeviceSelectedTitle": "ストレージデバイスが選択されていません"
 }
