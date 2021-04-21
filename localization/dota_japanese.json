@@ -1473,5 +1473,12 @@
     "DOTA_Hotkeys_Tooltip_HeroAttack": "移動中に攻撃/ディナイ可能なユニットを見つけたら攻撃する。",
     "DOTA_Hotkeys_Tooltip_HeroMove": "移動、追従するときに攻撃しない。",
     "DOTA_Hotkeys_Tooltip_HeroMoveDirection": "経路探索を使わず、直線状に移動する。",
-    "DOTA_Hotkeys_Tooltip_HeroPatrol": "通過点を追加する。"
+    "DOTA_Hotkeys_Tooltip_HeroPatrol": "通過点を追加する。",
+    "DOTA_Hotkeys_Tooltip_HeroHold": "現在の行動を中断して、その場に留まる。",
+    "DOTA_Hotkeys_Tooltip_SelectAllOthers": "自分のコントロール下にある他のユニットすべてを選択する。(自分のヒーローは選択されない。)",
+    "DOTA_Hotkeys_Tooltip_HeroStop": "現在の行動を中断する。",
+    "DOTA_Hotkeys_Tooltip_HeroSelect": "自分のヒーローを選択する。",
+    "DOTA_Hotkeys_Tooltip_SelectAll": "自分のコントロール下にあるすべてのユニットを選択する。",
+    "DOTA_Hotkeys_Tooltip_CourierSelect": "クーリエを選択する。",
+    "DOTA_Hotkeys_Tooltip_CourierDeliver": "クーリエにスタッシュからアイテムを輸送してもらう。"
 }
