@@ -1175,7 +1175,7 @@
     "dota_settings_voice_always_sample_mic": "スマートラインプッシュトゥトーク",
     "DOTA_Plus_ProfileCard_Challenge_Title": "1週間で3回勝利しよう！",
     "DOTA_Plus_ProfileCard_PlusMemberTeaser": "Dota Plusに今すぐアップグレード",
-    "DOTA_Plus_ProfileCard_Reward_Claimed": "報酬を受け取る",
+    "DOTA_Plus_ProfileCard_Reward_Claimed": "報酬は受け取りました",
     "DOTA_Plus_ProfileCard_TimeRemainingDays": "後{i:days_left}日で更新",
     "DOTA_Plus_ProfileCard_TimeRemainingHours": "後{i:hours_left}時間で更新",
     "DOTA_Plus_ProfileCard_TimeRemainingMinutes": "後{i:minutes_left}分で更新",
@@ -1499,5 +1499,6 @@
     "DOTA_Hotkeys_Tooltip_HeroChatWheel": "ヒーローチャットホイールを使って、自分のヒーローに特定のフレーズを喋らせる。",
     "DOTA_Hotkeys_Tooltip_CameraGrip": "キーを押しながらドラッグすることで、カメラを操作する。",
     "DOTA_Hotkeys_Tooltip_ActivateGlyph": "Glyph of Fortificationを使用して5秒間建造物を無敵にする。",
-    "DOTA_Hotkeys_Tooltip_ActivateRadar": "スキャンを使う。"
+    "DOTA_Hotkeys_Tooltip_ActivateRadar": "スキャンを使う。",
+    "dota_play_role_queue": "ロールキュー"
 }
