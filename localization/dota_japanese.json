@@ -1496,5 +1496,8 @@
     "DOTA_Hotkeys_Tooltip_ChatTeam": "チーム全員にメッセージを送る。",
     "DOTA_Hotkeys_Tooltip_ChatGlobal": "ゲームに参加しているプレイヤー全員にメッセージを送る。（チームチャットのホットキー＋Shiftキー）",
     "DOTA_Hotkeys_Tooltip_ChatWheel": "チャットホイールを使って、よく使うフレーズを伝える。",
-    "DOTA_Hotkeys_Tooltip_HeroChatWheel": "ヒーローチャットホイールを使って、自分のヒーローに特定のフレーズを喋らせる。"
+    "DOTA_Hotkeys_Tooltip_HeroChatWheel": "ヒーローチャットホイールを使って、自分のヒーローに特定のフレーズを喋らせる。",
+    "DOTA_Hotkeys_Tooltip_CameraGrip": "キーを押しながらドラッグすることで、カメラを操作する。",
+    "DOTA_Hotkeys_Tooltip_ActivateGlyph": "Glyph of Fortificationを使用して5秒間建造物を無敵にする。",
+    "DOTA_Hotkeys_Tooltip_ActivateRadar": "スキャンを使う。"
 }
