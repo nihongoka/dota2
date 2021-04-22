@@ -1,8 +1,6 @@
 name: Release localization data
 
-on:
-  schedule:
-  - cron: '0 */3 * * *'
+on: push
 
 jobs:
   release:
