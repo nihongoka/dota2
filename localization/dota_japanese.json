@@ -1668,5 +1668,6 @@
     "dota_division_china": "中国",
     "dota_matchgroup_japan": "日本",
     "dota_matchgroup_taiwan": "台湾",
-    "DOTA_Lobby_MM_pref": "対戦相手の希望を入力"
+    "DOTA_Lobby_MM_pref": "対戦相手の希望を入力",
+    "dota_chatwheel_evolving_reward_desc": "バトルパスのレベルが高くなるほど、コール時間が長くなります。"
 }
