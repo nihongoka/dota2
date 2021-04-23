@@ -1528,7 +1528,7 @@
     "GameUI_ServerChallengeIncorrect": "サーバーが正しく応答しませんでした。\nサーバーが古い可能性があります。\n",
     "client_version_out_of_date": "ゲームクライアントが最新ではありません。一度ゲームを終了して、最新バージョンにアップデートしてください。",
     "client_report_warning_body": "あなたのアカウントで、非常に多くのレポートまたは過度のネガティブな行動が検出されました。 さらなる報告やネガティブな行為があった場合、6ヶ月間のBAN対象となる可能性があります。",
-    "dota_matchmaking_region_select": "マッチメイキングの地域まで3つまで選択できます。近くの地域をすることで快適にプレイすることができます。",
+    "dota_matchmaking_region_select": "マッチメイキングの地域を3つまで選択できます。近くの地域をすることで快適にプレイすることができます。",
     "DOTA_Replays_Search": "マッチIDで検索",
     "DOTA_ReplayDownload_Error": "リプレイダウンロードのエラー: {s:download_error}",
     "DOTA_Watch_GameStatus": "ゲームを観戦",
