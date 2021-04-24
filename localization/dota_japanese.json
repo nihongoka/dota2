@@ -1698,5 +1698,19 @@
     "LoadoutSlot_Death_Effect": "デスエフェクト",
     "death_effect": "デスエフェクト",
     "DOTA_GlobalItems_KillEffects": "キルエフェクト",
-    "dota_tip_universal_16": "グローバルアイテムをシャッフルリストに追加すると、試合ごとにシャッフルリストからランダムなアイテムが選択されるようになります。"
+    "dota_tip_universal_16": "グローバルアイテムをシャッフルリストに追加すると、試合ごとにシャッフルリストからランダムなアイテムが選択されるようになります。",
+    "Dota_Settings_Tooltip_Toggle_Autoattack_Automatically_During_Orders": "ホールドキーを押している間は「全く行わない」、ストップキーを押している間は「常に行う」にオートアタックを自動的に切り替えます。攻撃命令を出すとこの設定がクリアされて、元々のオートアタック設定に戻ります。",
+    "DOTA_Settings_Tooltip_QuickcastOnKeyDown": "キーを離したときでなく、押した瞬間にクイックキャストするようにします。",
+    "DOTA_Settings_Tooltip_AutoPurchase": "推奨されている次のアイテムを購入します。",
+    "DOTA_Settings_Tooltip_AutoSelectSummons": "新しいユニットを召喚した時、自動的に選択されているグループに加えます。",
+    "DOTA_Settings_Tooltip_DoubleTap": "アビリティやアイテムをダブルクリック、またはそれらのホットキーをダブルタップした場合、自分自身にキャストします。",
+    "DOTA_Settings_Tooltip_Smart_Doubletap": "Altキーを押しながらアビリティやアイテムのホットキーを押すと、ダブルタップになります。",
+    "DOTA_Settings_Tooltip_ChannelStop": "TPスクロールやBoots of Trabelを除くアイテムやアビリティをチャネリングしている最中に、移動や別のアビリティの指示を出しても、チャネリングは中断されません。",
+    "DOTA_Settings_Tooltip_Force_Right_Click_Attack": "右クリックで味方ユニットを攻撃しようとします。",
+    "DOTA_Settings_Tooltip_BroadcasterStats": "観戦時に、配信者が使用している統計のドロップダウンを表示します。",
+    "DOTA_Settings_Tooltip_Deceleration": "移動中のカメラが静止するまでの速さ。数値が大きいほど早く止まります。",
+    "DOTA_Settings_Tooltip_Screenshake": "いくつかのスペルやスタンによってカメラが揺れることがあります。",
+    "DOTA_Settings_Tooltip_CameraRespawn": "自分のヒーローがリスポーンした時に、カメラを合わせます。",
+    "DOTA_Settings_Tooltip_UnifiedOrders": "Ctrlキーを押しながら指示を出した場合、コントロールしている全てのユニットに指示が出されます。",
+    "DOTA_Settings_Tooltip_TeleportStop": "TPスクロールやBoots of Trabelによってテレポートをチャネリングしている最中に、移動やスペルの指示を出しても、チャネリングは中断されません。"
 }
