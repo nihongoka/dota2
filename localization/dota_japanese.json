@@ -1697,5 +1697,6 @@
     "DOTA_Armory_Category_DeathEffects": "デスエフェクト",
     "LoadoutSlot_Death_Effect": "デスエフェクト",
     "death_effect": "デスエフェクト",
-    "DOTA_GlobalItems_KillEffects": "キルエフェクト"
+    "DOTA_GlobalItems_KillEffects": "キルエフェクト",
+    "dota_tip_universal_16": "グローバルアイテムをシャッフルリストに追加すると、試合ごとにシャッフルリストからランダムなアイテムが選択されるようになります。"
 }
