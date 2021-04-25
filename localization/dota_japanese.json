@@ -1716,5 +1716,11 @@
     "DOTA_Settings_Tooltip_Camera_Hold_Select_To_Follow": "ヒーロー選択をホールドしているとき、カメラはヒーローを追跡します。",
     "DOTA_Settings_Tooltip_HideProfile": "Dota2のプロフィールを見られないようにします。また、SteamのプロフィールをDota2から見られないようにします。",
     "DOTA_Settings_Tooltip_ShareMatchData": "パブリックゲームのデータを第三者に公開します。",
-    "DOTA_Settings_Tooltip_NetworkQuality": "低速回線を使用している場合、設定を「低速回線を利用している」に合わせると、ネットワークのパフォーマンスが向上する場合があります。"
+    "DOTA_Settings_Tooltip_NetworkQuality": "低速回線を使用している場合、設定を「低速回線を利用している」に合わせると、ネットワークのパフォーマンスが向上する場合があります。",
+    "DOTA_Settings_Tooltip_MinimapSimple": "アイコンの色をプレイヤー別ではなく、チーム別にします。",
+    "DOTA_Settings_Tooltip_InvertToggle": "Altキーを押したときのアイコンとデフォルトのアイコンを入れ替えます。",
+    "DOTA_Settings_Tooltip_ShopHotkeys": "ショップを開いているとき、ショップ用のホットキーを使用するようになります。",
+    "DOTA_Settings_Tooltip_QuickTargetAttack": "攻撃キーを押したとき、カーソルがある地点に攻撃します。",
+    "DOTA_Settings_Tooltip_MinimapDrawHeroes": "Altキーを押したとき、ヒーローの名前ではなくアイコンを表示します。",
+    "DOTA_Settings_Tooltip_MinimapNamesIcon": "常にミニマップにヒーローのアイコンか名前を表示して、AltキーでXとOを一時的に切り替えます。"
 }
