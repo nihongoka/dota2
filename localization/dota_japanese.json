@@ -2082,5 +2082,14 @@
     "DOTA_Trophies_Info": "トロフィーを集めることで、Dotaレベルを上げることができます。<br><br>各トロフィーはDotaレベルを上げるためのトロフィーポイントを与えます。トロフィーポイントはトロフィーを獲得した時、またはトロフィーがアップグレードしたときに獲得できます。<br><br>100トロフィーポイント = 1 Dotaレベル。",
     "DOTA_Trophies_ViewAll": "全て",
     "DOTA_Trophies_ViewActive": "アクティブ",
-    "DOTA_Profile_TrophyPage": "トロフィー"
+    "DOTA_Profile_TrophyPage": "トロフィー",
+    "DOTA_Trophy_NumberEarnedNone": "トロフィーがありません",
+    "DOTA_ProfileCard_SlotTab_Items": "保管庫",
+    "DOTA_Profile_HeroPage": "ヒーロー",
+    "DOTA_ProfileCard_SlotTab_Trophies": "トロフィー",
+    "DOTA_Profile_ProfilePage": "プロフィール",
+    "DOTA_Profile_RecentGamesPage": "最近の試合",
+    "DOTA_Profile_LeaguePassesPage": "チケット",
+    "DOTA_Plus_Subscriber": "Dota Plus会員",
+    "DOTA_Profile_Edit": "プロフィールを編集する"
 }
