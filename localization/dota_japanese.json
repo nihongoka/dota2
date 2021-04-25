@@ -1754,5 +1754,11 @@
     "DOTA_Settings_Tooltip_Expose": "外部のサービスにマッチデータへのアクセスを許可します。",
     "DOTA_Settings_Tooltip_HideParty": "公開パーティーにいない限り、友達からは一人でプレイしているように表示します。",
     "DOTA_Settings_Tooltip_AutoAccept": "オープンパーティーに参加する友達は招待をリクエストする必要があります。",
-    "DOTA_Settings_Tooltip_HidePartyStatus": "友達からは一人でプレイしているように表示します。"
+    "DOTA_Settings_Tooltip_HidePartyStatus": "友達からは一人でプレイしているように表示します。",
+    "DOTA_Settings_Tooltip_MinimapMisclick": "マウスがミニマップ上に入った時に、入力が有効になるまでの時間（秒）。",
+    "DOTA_Settings_Tooltip_SelfCastTimeout": "アビリティを1回タップ（またはクリック）してから、2回目のタップでダブルタップになる有効時間を秒単位で設定できます。初期設定は0.60秒です。",
+    "DOTA_Settings_Tooltip_MinimapDynamicScale": "ミニマップ上のアイコン同士が近づくと、アイコンが縮小します。ヒーローアイコンは縮小されず、方向アイコンのみが縮小されます。",
+    "DOTA_Settings_LegacyKeysActive": "現在、レガシーキー（Dota1）が有効になっています。個別にホットキーを設定するためには、まず高度なホットキ―設定でレガシーキーを無効にしてください。",
+    "DOTA_Settings_Tooltip_NetworkInformation": "FPS、Ping、パケットロスを表示します。",
+    "DOTA_Settings_Tooltip_AutoAddArmory": "新しいアイテムを受け取ったり購入したりすると、保管庫のコレクションに自動で追加されます。"
 }
