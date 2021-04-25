@@ -1834,5 +1834,8 @@
     "DOTA_ToolTip_Level": "レベル",
     "DOTA_Hero_Tooltip_Level": "レベル %s1",
     "AbilityDuration": "効果時間:",
-    "DOTA_PauseScriptedDemo_Resume": "はい"
+    "DOTA_PauseScriptedDemo_Resume": "はい",
+    "DOTA_Crafting_Continue": "続ける",
+    "DOTA_Yes": "はい",
+    "DOTA_No": "いいえ"
 }
