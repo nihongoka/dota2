@@ -2175,5 +2175,12 @@
     "DOTA_Profile_NoLeaguePasses": "トーナメントパスがありません",
     "DOTA_ProfileCard_SlotTab_Heroes": "ヒーロー",
     "DOTA_ProfileCard_SlotTab_Emoticons": "絵文字",
-    "DOTA_ProfileCard_SlotTab_PlayerCards": "プレイヤーカード"
+    "DOTA_ProfileCard_SlotTab_PlayerCards": "プレイヤーカード",
+    "DOTA_ProfileCard_SlotTab_FavoriteTeam": "好きなチーム",
+    "DOTA_Profile_Previous_Matches_Performance": "最近の試合のパフォーマンス",
+    "DOTA_Profile_ConductSummary": "行いの評価",
+    "DOTA_Profile_ConductSummary_Date": "{s:conduct_summary_date}更新",
+    "DOTA_Profile_ConductSummary_ShowLatestButton": "評価を見る",
+    "DOTA_Compendium_ChooseBackground": "壁紙を選ぶ",
+    "DOTA_Profile_Choose_Background": "壁紙を選択する"
 }
