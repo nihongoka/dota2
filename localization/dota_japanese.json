@@ -1749,5 +1749,10 @@
     "DOTA_Settings_Tooltip_BroadcastChannelChat": "デフォルトでは、あるチャンネルで受信したメッセージは他のすべてのチャンネルで表示します。",
     "DOTA_Settings_Tooltip_ALTHero": "Altキーを押している間、自分のヒーローの上に緑色の矢印が表示されます。",
     "dota_tip_universal_24": "Altキーを押しながらアビリティやアイテムをクリックすると、準備ができているか、クールダウン中か、使用するのに十分なマナがあるかを味方に知らせることができます。",
-    "dota_tip_universal_25": "サイレンス状態でもアイテムは使用できます。"
+    "dota_tip_universal_25": "サイレンス状態でもアイテムは使用できます。",
+    "DOTA_Settings_Tooltip_Differentiate": "味方のHPバーは黄色に、自分のHPバーは緑色で表示されます。",
+    "DOTA_Settings_Tooltip_Expose": "外部のサービスにマッチデータへのアクセスを許可します。",
+    "DOTA_Settings_Tooltip_HideParty": "公開パーティーにいない限り、友達からは一人でプレイしているように表示します。",
+    "DOTA_Settings_Tooltip_AutoAccept": "オープンパーティーに参加する友達は招待をリクエストする必要があります。",
+    "DOTA_Settings_Tooltip_HidePartyStatus": "友達からは一人でプレイしているように表示します。"
 }
