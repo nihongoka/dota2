@@ -38,4 +38,3 @@ jobs:
           asset_path: ./dota2jp.zip
           asset_name: dota2jp-${{ steps.date.outputs.date }}.zip
           asset_content_type: application/zip
-          prerelease: true
