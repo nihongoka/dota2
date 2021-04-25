@@ -1712,5 +1712,9 @@
     "DOTA_Settings_Tooltip_Screenshake": "いくつかのスペルやスタンによってカメラが揺れることがあります。",
     "DOTA_Settings_Tooltip_CameraRespawn": "自分のヒーローがリスポーンした時に、カメラを合わせます。",
     "DOTA_Settings_Tooltip_UnifiedOrders": "Ctrlキーを押しながら指示を出した場合、コントロールしている全てのユニットに指示が出されます。",
-    "DOTA_Settings_Tooltip_TeleportStop": "TPスクロールやBoots of Trabelによってテレポートをチャネリングしている最中に、移動やスペルの指示を出しても、チャネリングは中断されません。"
+    "DOTA_Settings_Tooltip_TeleportStop": "TPスクロールやBoots of Trabelによってテレポートをチャネリングしている最中に、移動やスペルの指示を出しても、チャネリングは中断されません。",
+    "DOTA_Settings_Tooltip_Camera_Hold_Select_To_Follow": "ヒーロー選択をホールドしているとき、カメラはヒーローを追跡します。",
+    "DOTA_Settings_Tooltip_HideProfile": "Dota2のプロフィールを見られないようにします。また、SteamのプロフィールをDota2から見られないようにします。",
+    "DOTA_Settings_Tooltip_ShareMatchData": "パブリックゲームのデータを第三者に公開します。",
+    "DOTA_Settings_Tooltip_NetworkQuality": "低速回線を使用している場合、設定を「低速回線を利用している」に合わせると、ネットワークのパフォーマンスが向上する場合があります。"
 }
