@@ -1747,5 +1747,7 @@
     "DOTA_Settings_Tooltip_Bringtofront": "マッチが見つかった時、Dota2のクライアントをデスクトップの最前面に表示する。",
     "DOTA_Settings_Tooltip_Bringtofront_ReadyCheck": "レディーチェックが始まった時に、Dota2のクライアントをデスクトップの最前面に表示する。",
     "DOTA_Settings_Tooltip_BroadcastChannelChat": "デフォルトでは、あるチャンネルで受信したメッセージは他のすべてのチャンネルで表示します。",
-    "DOTA_Settings_Tooltip_ALTHero": "Altキーを押している間、自分のヒーローの上に緑色の矢印が表示されます。"
+    "DOTA_Settings_Tooltip_ALTHero": "Altキーを押している間、自分のヒーローの上に緑色の矢印が表示されます。",
+    "dota_tip_universal_24": "Altキーを押しながらアビリティやアイテムをクリックすると、準備ができているか、クールダウン中か、使用するのに十分なマナがあるかを味方に知らせることができます。",
+    "dota_tip_universal_25": "サイレンス状態でもアイテムは使用できます。"
 }
