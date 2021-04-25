@@ -1,6 +1,8 @@
 name: Release localization data
 
-on: push
+on:
+  schedule:
+    - cron: '0 0 * * *'
 
 jobs:
   release:
@@ -8,7 +10,7 @@ jobs:
     steps:
       - name: Get current date
         id: date
-        run: echo "::set-output name=date::$(TZ=UTC date +'%Y-%m-%d-%H-%M-%S-UTC')"
+        run: echo "::set-output name=date::$(TZ=UTC date +'%Y-%m-%d')"
 
       - uses: actions/checkout@v2
 
