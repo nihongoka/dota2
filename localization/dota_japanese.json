@@ -1999,5 +1999,6 @@
     "UI_FailedToLoadImageFile": "画像ファイルの読み込みに失敗",
     "UI_day_short_5": "木",
     "UI_day_short_6": "金",
-    "UI_Yes": "はい"
+    "UI_Yes": "はい",
+    "DOTA_AbilityTooltip_SpellImmunityType": "スペル耐性貫通: {s:spellimmunity}"
 }
