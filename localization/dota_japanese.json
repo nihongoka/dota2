@@ -2182,5 +2182,21 @@
     "DOTA_Profile_ConductSummary_Date": "{s:conduct_summary_date}更新",
     "DOTA_Profile_ConductSummary_ShowLatestButton": "評価を見る",
     "DOTA_Compendium_ChooseBackground": "壁紙を選ぶ",
-    "DOTA_Profile_Choose_Background": "壁紙を選択する"
+    "DOTA_Profile_Choose_Background": "壁紙を選択する",
+    "dota_profile_teammate_stats_header_teammate": "チームメイト",
+    "dota_profile_teammate_stats_header_games": "ゲーム回数",
+    "dota_profile_teammate_stats_header_wins_losses": "勝 - 負",
+    "dota_profile_teammate_stats_header_win_rate": "勝率",
+    "DOTA_RecentGames_Title": "最近の試合",
+    "dota_profile_teammate_stats_header_rating": "評価",
+    "dota_profile_teammate_stats_header_most_recent_match": "前回の試合",
+    "dota_profile_content_tab_teammate_stats": "チームメイト",
+    "DOTA_Profile_SuccessfulWinStreak": "連続勝利数: {d:win_streak}",
+    "DOTA_Profile_SuccessfulWinRate": "勝率: {d:win_rate}%",
+    "DOTA_Profile_Featured_Heroes": "注目のヒーロー",
+    "DOTA_Profile_Choose_Heroes_to_Feature": "注目のヒーローを選ぶ",
+    "DOTA_Profile_Choose_Hero_to_Feature": "注目のヒーローを選ぶ",
+    "DOTA_Profile_Other_Alltime_Stats": "他の全時間統計",
+    "DOTA_Profile_Last_Match": "前回の試合",
+    "DOTA_Profile_All_Recent_Matches": "最近の全試合"
 }
