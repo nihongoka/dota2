@@ -1914,9 +1914,9 @@
     "Movie_Playing": "動画を再生",
     "DOTA_Playtest": "テスト",
     "DOTA_SortBy": "並び替え方法",
-    "DOTA_SortOption_Newest": "最新",
-    "DOTA_SortOption_Oldest": "最古",
-    "DOTA_SortOption_Owned": "所持品",
+    "DOTA_SortOption_Newest": "新しい順",
+    "DOTA_SortOption_Oldest": "古い順",
+    "DOTA_SortOption_Owned": "所有済み",
     "DOTA_Leave": "退出する",
     "DOTA_NowAvailable": "利用可能",
     "DOTA_SortOption_Relevance": "関連性",
@@ -1929,5 +1929,12 @@
     "DOTA_View_Details_Arrow": "詳細を見る >>",
     "DOTA_Combine": "合わせる",
     "DOTA_Claim": "要求する",
-    "DOTA_Vote": "投票する"
+    "DOTA_Vote": "投票する",
+    "DOTA_SortOption_Price": "価格",
+    "DOTA_SortOption_PriceLowToHigh": "価格(安い順)",
+    "DOTA_SortOption_PriceHighToLow": "価格(高い順)",
+    "DOTA_SortOption_Alphabetical": "アルファベット順",
+    "DOTA_SortOption_HeroLevel": "ヒーローレベル",
+    "DOTA_FailedToGetData": "データの取得に失敗",
+    "DOTA_ErrorLoadingStats": "統計情報の読み込みエラー"
 }
