@@ -2172,5 +2172,8 @@
     "DOTA_Profile_Aegises": "Aegisの奪取",
     "DOTA_Profile_CheeseEaten": "チーズを食べた",
     "DOTA_Profile_LeaguePassCount": "{d:league_pass_count} トーナメントパス",
-    "DOTA_Profile_NoLeaguePasses": "トーナメントパスがありません"
+    "DOTA_Profile_NoLeaguePasses": "トーナメントパスがありません",
+    "DOTA_ProfileCard_SlotTab_Heroes": "ヒーロー",
+    "DOTA_ProfileCard_SlotTab_Emoticons": "絵文字",
+    "DOTA_ProfileCard_SlotTab_PlayerCards": "プレイヤーカード"
 }
