@@ -2198,5 +2198,12 @@
     "DOTA_Profile_Choose_Hero_to_Feature": "注目のヒーローを選ぶ",
     "DOTA_Profile_Other_Alltime_Stats": "他の全時間統計",
     "DOTA_Profile_Last_Match": "前回の試合",
-    "DOTA_Profile_All_Recent_Matches": "最近の全試合"
+    "DOTA_Profile_All_Recent_Matches": "最近の全試合",
+    "DOTA_RecentGames_HeroSelection": "プレイしたヒーロー",
+    "DOTA_RecentGames_GameResult": "結果",
+    "DOTA_RecentGames_GameLength": "試合時間",
+    "DOTA_RecentGames_Team": "チーム",
+    "DOTA_RecentGames_GameType": "モード",
+    "DOTA_RecentGame_Timestamp_Entry": "{t:s:timestamp} {t:t:timestamp}",
+    "DOTA_RecentGames_Items": "アイテム"
 }
