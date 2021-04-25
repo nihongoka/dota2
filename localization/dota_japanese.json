@@ -812,7 +812,7 @@
     "dota_settings_toggle_autoattack_automatically_during_orders": "オートアタックを自動的に切り替える",
     "dota_settings_autoattack_match_standard_unit_settings": "ヒーローと同じ",
     "dota_settings_enable_item_quickcast": "高度なクイックキャスト/ホットキーを有効にする",
-    "dota_settings_enable_item_quickcast_tooltip": "アビリティ、アイテムごとにクイックキャストとオートキャストのキーバインドを設定できるようにする。",
+    "dota_settings_enable_item_quickcast_tooltip": "アビリティ、アイテムごとにクイックキャストとオートキャストのキーバインドを設定できるようにします。",
     "dota_settings_abilities_courier": "クーリエ",
     "dota_settings_abilities_primary1": "1",
     "dota_settings_abilities_primary2": "2",
@@ -1398,7 +1398,7 @@
     "dota_settings_default_spoiler_block_on": "トーナメントスポイラーブロックを有効にする",
     "dota_settings_allow_gui_key_to_bind": "Windows / Commandキーのバインドを許可する",
     "dota_settings_button_code_is_scan_code": "キーボードのポジションに応じたキーバインド",
-    "dota_settings_button_code_is_scan_code_tooltip": "この変更をするためには、バインドの更新が必要な場合があります",
+    "dota_settings_button_code_is_scan_code_tooltip": "この変更をするためには、バインドの更新が必要な場合があります。",
     "dota_settings_hide_tips_on_loading_screens": "ローディング画面でのヒントを隠す",
     "dota_settings_ability_self_cast_timeout": "セルフキャストするためのダブルタップの間隔",
     "dota_settings_minimap_misclick_time": "ミニマップの誤クリック防止時間",
@@ -1545,7 +1545,7 @@
     "DOTA_Hotkeys_Tooltip_Console": "コンソールを開く。（上級者向け）",
     "DOTA_Hotkeys_Tooltip_DotaAlt": "Altキー修飾子を再バインドする。",
     "DOTA_Hotkeys_Tooltip_Group": "設定したユニットグループを選択する。グループの設定するには、対象ユニットを選択して、Ctrlキー＋グループのホットキーを押してください。",
-    "DOTA_Hotkeys_Tooltip_Legacy": "Dota1のホットキーを使用する。アビリティーのホットキー設定はヒーローによって異なります。",
+    "DOTA_Hotkeys_Tooltip_Legacy": "Dota1のホットキーを使用します。アビリティーのホットキー設定はヒーローによって異なります。",
     "DOTA_Hotkeys_Tooltip_PerUnitHotkeys": "ユニットによって異なるホットキーを使用する。",
     "DOTA_Watch_MissingLeagueSubscription": "この試合はリーグ戦のため、観戦には登録が必要です。",
     "vs": "VS",
@@ -1760,5 +1760,8 @@
     "DOTA_Settings_Tooltip_MinimapDynamicScale": "ミニマップ上のアイコン同士が近づくと、アイコンが縮小します。ヒーローアイコンは縮小されず、方向アイコンのみが縮小されます。",
     "DOTA_Settings_LegacyKeysActive": "現在、レガシーキー（Dota1）が有効になっています。個別にホットキーを設定するためには、まず高度なホットキ―設定でレガシーキーを無効にしてください。",
     "DOTA_Settings_Tooltip_NetworkInformation": "FPS、Ping、パケットロスを表示します。",
-    "DOTA_Settings_Tooltip_AutoAddArmory": "新しいアイテムを受け取ったり購入したりすると、保管庫のコレクションに自動で追加されます。"
+    "DOTA_Settings_Tooltip_AutoAddArmory": "新しいアイテムを受け取ったり購入したりすると、保管庫のコレクションに自動で追加されます。",
+    "DOTA_Hotkeys_Tooltip_ControlGroupCycle": "選択したグループの各ユニットの選択を循環させる。Ctrlキーを押したままこのキーを押すと、逆方向に循環させます。",
+    "DOTA_Settings_Tooltip_NetworkLatency": "パケットロスのあるネットワーク接続の場合、「低速回線を利用している」を選択すると、レイテンシは増加しますが、全体的にスムーズになります。",
+    "DOTA_Hotkeys_Tooltip_ControlGroupCyclePrev": "選択したグループの各ユニットの選択を逆方向に循環させる。"
 }
