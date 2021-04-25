@@ -2091,5 +2091,10 @@
     "DOTA_Profile_RecentGamesPage": "最近の試合",
     "DOTA_Profile_LeaguePassesPage": "チケット",
     "DOTA_Plus_Subscriber": "Dota Plus会員",
-    "DOTA_Profile_Edit": "プロフィールを編集する"
+    "DOTA_Profile_Edit": "プロフィールを編集する",
+    "DOTA_Profile_PlayStyle": "プレイスタイル",
+    "DOTA_Profile_MostRecent": "直近{s:num_style_games}試合",
+    "DOTA_Profile_MostSuccessful": "最も成功しているヒーロー",
+    "DOTA_Profile_SaveChanges": "変更を保存する",
+    "DOTA_TheInternational": "The International"
 }
