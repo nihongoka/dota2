@@ -2096,5 +2096,7 @@
     "DOTA_Profile_MostRecent": "直近{s:num_style_games}試合",
     "DOTA_Profile_MostSuccessful": "最も成功しているヒーロー",
     "DOTA_Profile_SaveChanges": "変更を保存する",
-    "DOTA_TheInternational": "The International"
+    "DOTA_TheInternational": "The International",
+    "DOTA_Profile_LifetimeStats": "全時間統計",
+    "DOTA_Profile_RecentActivity": "最近の活動"
 }
