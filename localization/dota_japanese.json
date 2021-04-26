@@ -2278,5 +2278,19 @@
     "DOTA_HeroStatColumn_GamesPlayed": "合計",
     "DOTA_HeroStatColumn_Wins": "勝利数",
     "DOTA_Profile_HeroStatsPage": "統計",
-    "dota_post_game_chat_header": "チャット"
+    "dota_post_game_chat_header": "チャット",
+    "DOTA_HeroStatColumn_WinRate": "勝率",
+    "DOTA_HeroStatColumn_Rating": "評価",
+    "DOTA_HeroStatColumn_HeroMMR": "ヒーローMMR",
+    "DOTA_HeroStatColumn_BestWinStreak": "最高",
+    "DOTA_HeroStatColumn_CurrentWinStreak": "現在",
+    "DOTA_HeroStatColumn_AvgKills": "K",
+    "DOTA_HeroStatColumn_AvgDeaths": "D",
+    "DOTA_HeroStatColumn_AvgAssists": "A",
+    "DOTA_HeroStatColumn_AvgGPM": "GPM",
+    "DOTA_HeroStatColumn_AvgXPM": "XPM",
+    "DOTA_HeroStatColumn_BestKills": "K",
+    "DOTA_HeroStatColumn_BestAssists": "A",
+    "DOTA_HeroStatColumn_BestGPM": "GPM",
+    "DOTA_HeroStatColumn_BestXPM": "XPM"
 }
