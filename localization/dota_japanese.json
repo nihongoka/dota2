@@ -2272,10 +2272,10 @@
     "DOTA_NewPlayerQuestion_Title": "ようこそDOTAの世界へ",
     "DOTA_PlayerOriginQuestion_Question": "より快適にプレイしていただくため、Dota2や類似のゲームについての知識についてお答えください。",
     "DOTA_PlayerOriginQuestion_MOBAExplanation": "あなたが最も馴染みのあるゲームを教えてください。",
-    "DOTA_HeroStatColumn_Hero": "ﾋｰﾛｰ",
+    "DOTA_HeroStatColumn_Hero": "Hero",
     "DOTA_HeroStatColumn_Header_BestRecords": "ベストレコード",
     "DOTA_HeroStatColumn_Losses": "敗北数",
-    "DOTA_HeroStatColumn_GamesPlayed": "トータル",
+    "DOTA_HeroStatColumn_GamesPlayed": "合計",
     "DOTA_HeroStatColumn_Wins": "勝利数",
     "DOTA_Profile_HeroStatsPage": "統計",
     "dota_post_game_chat_header": "チャット"
