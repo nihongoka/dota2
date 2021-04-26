@@ -2191,7 +2191,7 @@
     "dota_profile_teammate_stats_header_rating": "評価",
     "dota_profile_teammate_stats_header_most_recent_match": "前回の試合",
     "dota_profile_content_tab_teammate_stats": "チームメイト",
-    "DOTA_Profile_SuccessfulWinStreak": "連続勝利数: {d:win_streak}",
+    "DOTA_Profile_SuccessfulWinStreak": "連勝数: {d:win_streak}",
     "DOTA_Profile_SuccessfulWinRate": "勝率: {d:win_rate}%",
     "DOTA_Profile_Featured_Heroes": "注目のヒーロー",
     "DOTA_Profile_Choose_Heroes_to_Feature": "注目のヒーローを選ぶ",
@@ -2273,7 +2273,7 @@
     "DOTA_PlayerOriginQuestion_Question": "より快適にプレイしていただくため、Dota2や類似のゲームについての知識についてお答えください。",
     "DOTA_PlayerOriginQuestion_MOBAExplanation": "あなたが最も馴染みのあるゲームを教えてください。",
     "DOTA_HeroStatColumn_Hero": "Hero",
-    "DOTA_HeroStatColumn_Header_BestRecords": "ベストレコード",
+    "DOTA_HeroStatColumn_Header_BestRecords": "最高記録",
     "DOTA_HeroStatColumn_Losses": "敗北数",
     "DOTA_HeroStatColumn_GamesPlayed": "合計",
     "DOTA_HeroStatColumn_Wins": "勝利数",
@@ -2292,5 +2292,11 @@
     "DOTA_HeroStatColumn_BestKills": "K",
     "DOTA_HeroStatColumn_BestAssists": "A",
     "DOTA_HeroStatColumn_BestGPM": "GPM",
-    "DOTA_HeroStatColumn_BestXPM": "XPM"
+    "DOTA_HeroStatColumn_BestXPM": "XPM",
+    "DOTA_HeroStatColumn_Header_Hero": " ",
+    "DOTA_HeroStatColumn_Header_Games": "ゲーム",
+    "DOTA_HeroStatColumn_Header_Ratings": " ",
+    "DOTA_HeroStatColumn_Header_WinStreaks": "連勝数",
+    "DOTA_HeroStatColumn_Header_Averages": "平均",
+    "DOTA_HeroStat_MostRecentForHero": "最近の20試合（{s:hero_name}）"
 }
