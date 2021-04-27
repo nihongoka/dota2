@@ -2347,5 +2347,9 @@
     "Notification_Action_Taken_Short_OverwatchMajor": "最近報告したプレイヤーにオーバーウォッチの有罪判決が下されました。",
     "Notification_Overwatch_Major": "最近プレイした試合を審査した結果、オーバーウォッチのペナルティが課されました。",
     "Notification_Action_Taken_Short_OverwatchMinor": "最近報告したプレイヤーにオーバーウォッチの有罪判決が下されました。",
-    "Notification_Action_Taken_Short": "以前あなたが報告していただいた不正行為をしたプレイヤーに対して、措置がとられました。"
+    "Notification_Action_Taken_Short": "以前あなたが報告していただいた不正行為をしたプレイヤーに対して、措置がとられました。",
+    "Notification_Overwatch_Minor": "最近プレイした試合を審査した結果、オーバーウォッチのペナルティが課されました。",
+    "DOTA_Overwatch_Requesting_From_Server": "サーバーからのリクエスト",
+    "DOTA_Overwatch_New": "オーバーウォッチケース",
+    "DOTA_Overwatch_Review": "事例を見る"
 }
