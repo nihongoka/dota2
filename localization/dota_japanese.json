@@ -2351,5 +2351,17 @@
     "Notification_Overwatch_Minor": "最近プレイした試合を審査した結果、オーバーウォッチのペナルティが課されました。",
     "DOTA_Overwatch_Requesting_From_Server": "サーバーからのリクエスト",
     "DOTA_Overwatch_New": "オーバーウォッチケース",
-    "DOTA_Overwatch_Review": "事例を見る"
+    "DOTA_Overwatch_Review": "事例を見る",
+    "DOTA_Overwatch_Dismiss": "無視する。セッションの残り期間は新しいオーバーウォッチの事例を受け取りません。",
+    "DOTA_Overwatch_Review_Case": "オーバーウォッチの事例を見る",
+    "DOTA_Overwatch_Review_Description": "オーバーウォッチはコミュニティ内の経験豊富で資格のあるプレイヤーが、苦情の申し立てや不正行為の報告の是非を判断して評決を提出する方式で、Dota2コミュニティの正常化を目的としています。",
+    "DOTA_Overwatch_Review_FinePrint": "あなたに判定していただく事例が割り当てられました。リプレイをダウンロードして開始してください。",
+    "DOTA_Overwatch_Download_Replay_Button": "リプレイをダウンロード",
+    "DOTA_Overwatch_Download_Replay_Button_Downloading": "ダウンロード中... {d:DownloadProgress}%",
+    "DOTA_Overwatch_Download_Replay_Button_Decompressing": "解凍中...",
+    "DOTA_Overwatch_Download_Replay_Button_Downloaded": "ダウンロード完了",
+    "DOTA_Overwatch_Review_Case_Button": "事例を判定する",
+    "DOTA_Spectator_Review_Overwatch_Case": "事例を判定",
+    "DOTA_Review_Overwatch_Case_Help": "ゲーム映像をご確認ください。レポートを提出する準備ができたら、下のボタンをクリックしてください。",
+    "DOTA_Review_Overwatch_Case_Submit_Resolution": "判定を提出"
 }
