@@ -2363,5 +2363,14 @@
     "DOTA_Overwatch_Review_Case_Button": "事例を判定する",
     "DOTA_Spectator_Review_Overwatch_Case": "事例を判定",
     "DOTA_Review_Overwatch_Case_Help": "ゲーム映像をご確認ください。レポートを提出する準備ができたら、下のボタンをクリックしてください。",
-    "DOTA_Review_Overwatch_Case_Submit_Resolution": "判定を提出"
+    "DOTA_Review_Overwatch_Case_Submit_Resolution": "判定を提出",
+    "DOTA_OverwatchReportReason_0": "不明",
+    "DOTA_OverwatchReportReason_1": "チート/ハッキング",
+    "DOTA_OverwatchReportReason_2": "わざと敵を育てている",
+    "DOTA_OverwatchReportReason_3": "嫌がらせ",
+    "DOTA_OverwatchReportReason_4": "怪しい動き/キャスト",
+    "DOTA_OverwatchReportReason_5": "アビリティの悪用",
+    "DOTA_OverwatchUI_FocusTitle": "報告されたプレイヤー",
+    "DOTA_OverwatchUI_FocusHero": "ヒーローをフォーカスする",
+    "DOTA_Review_Overwatch_Case_Focus_Defendant": "ヒーローに焦点を合わせる"
 }
