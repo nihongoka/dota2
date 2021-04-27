@@ -2414,5 +2414,12 @@
     "DOTA_Overwatch_Case_Help_1": "タイムライン上のマーカーを見てください。これらのセクションは事件が発生した時刻を報告者が推定した者です。デフォルトでは、リプレイが自動的に次のセッションにスキップします。自動スキップを無効にするには、チェックを外すか、スクロールバーを移動させてください。",
     "DOTA_Overwatch_Case_Help_1_Title": "タイムライン上のマーカーは、いつ報告されたのかを示しています。",
     "DOTA_Overwatch_Case_Help_3": "短いフォームが表示され、そのプレイヤーがチートや嫌がらせ、またはその両方の行為をしているか尋ねられます。確信が持てない場合は、再度映像を確認するか、そのようにマークしてください。",
-    "DOTA_Overwatch_Convict_Error_Header": "判定を提出に失敗"
+    "DOTA_Overwatch_Convict_Error_Header": "判定を提出に失敗",
+    "DOTA_Overwatch_Convict_Success_Header": "判定が提出されました",
+    "DOTA_Overwatch_Convict_Success_Body": "フィードバックの送信に成功しました。<br>コミュニティへの貢献に感謝します。",
+    "DOTA_Overwatch_No_More_Reports": "報告がありません。",
+    "DOTA_Overwatch_Reports_Left": "後{d:num_reports_remaining}個の報告が残っています。",
+    "DOTA_Overwatch_Report_Left": "後1個のレポートが残っています。",
+    "DOTA_Overwatch_Download_Error_Header": "事例のダウンロードエラー",
+    "DOTA_Overwatch_Download_Error_Body": "オーバーウォッチの事例をダウンロードできませんでした。再度試してください。"
 }
