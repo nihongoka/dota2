@@ -2341,5 +2341,11 @@
     "DOTA_PlusUpsell_LearnMore": "詳しく見る",
     "DOTA_PlusUpsell_HeroLeveling_Description": "お気に入りのヒーローをプレイしてレベルを上げよう。ヒーローバッジを自慢したり、新しいチャットホイール、シャードを受け取って報酬を獲得しよう。",
     "DOTA_PlusUpsell_Title": "Dota Plus会員特典",
-    "DOTA_PlusUpsell_HeroChallenges_Title": "ヒーローチャレンジ"
+    "DOTA_PlusUpsell_HeroChallenges_Title": "ヒーローチャレンジ",
+    "Notification_Action_Taken_OverwatchMajor": "以前していただいた不正行為の報告に対して、最近オーバーウォッチの有罪判決が下されました。追加のレポートを送信しました。Dota2コミュニティをより良い場所にするためのご協力ありがとうございました。",
+    "Notification_Action_Taken_OverwatchMinor": "以前していただいた不正行為の報告に対して、最近オーバーウォッチの有罪判決が下されました。追加のレポートを送信しました。Dota2コミュニティをより良い場所にするためのご協力ありがとうございました。",
+    "Notification_Action_Taken_Short_OverwatchMajor": "最近報告したプレイヤーにオーバーウォッチの有罪判決が下されました。",
+    "Notification_Overwatch_Major": "最近プレイした試合を審査した結果、オーバーウォッチのペナルティが課されました。",
+    "Notification_Action_Taken_Short_OverwatchMinor": "最近報告したプレイヤーにオーバーウォッチの有罪判決が下されました。",
+    "Notification_Action_Taken_Short": "以前あなたが報告していただいた不正行為をしたプレイヤーに対して、措置がとられました。"
 }
