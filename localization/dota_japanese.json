@@ -2372,5 +2372,9 @@
     "DOTA_OverwatchReportReason_5": "アビリティの悪用",
     "DOTA_OverwatchUI_FocusTitle": "報告されたプレイヤー",
     "DOTA_OverwatchUI_FocusHero": "ヒーローをフォーカスする",
-    "DOTA_Review_Overwatch_Case_Focus_Defendant": "ヒーローに焦点を合わせる"
+    "DOTA_Review_Overwatch_Case_Focus_Defendant": "ヒーローをフォーカスする",
+    "DOTA_Overwatch_OverwatchControls": "オーバーウォッチコントロール",
+    "DOTA_Overwatch_PreviousMarker": "前のマーカー",
+    "DOTA_Overwatch_NextMarker": "次のマーカー",
+    "DOTA_Overwatch_Notice": "この試合の他の選手もオーバーウォッチによって判定されている場合があります。上に表示されているヒーローに注目してください。"
 }
