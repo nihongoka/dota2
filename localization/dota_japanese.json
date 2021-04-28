@@ -2622,5 +2622,7 @@
     "LoadoutSlot_Summon": "召喚ユニット",
     "LoadoutSlot_ward": "ワード",
     "LoadoutSlot_hud_skin": "HUDスキン",
-    "LoadoutSlot_Body_Head": "身体 - 頭"
+    "LoadoutSlot_Body_Head": "身体 - 頭",
+    "LoadoutSlot_Head_Accessory": "頭",
+    "LoadoutSlot_Shield": "盾"
 }
