@@ -8793,7 +8793,7 @@
     "DOTA_Tooltip_ability_item_mjollnir_Description": "<h1>Active: Static Charge</h1>対象に%static_duration%秒間、%static_chance%%%の確率で攻撃してきた者とその周り%static_strikes%体の敵に%static_damage%魔法ダメージを放つ電気の盾を付与する。<br><br>範囲: %abilitycastrange%\n<h1>Passive: Chain Lightning</h1>攻撃時に、%chain_chance%%%の確率で範囲%chain_radius%内にいる%chain_strikes%体の敵の間を駆け巡り、%chain_damage%魔法ダメージを与える電撃を放出する。電撃は回避率を無視する。",
     "DOTA_Tooltip_modifier_item_mjollnir_static": "Mjollnir Static Charge",
     "DOTA_Tooltip_ability_item_whip_Description": "対象に鞭を入れ、2秒間35%早く動き、その後3.5秒間35%遅く動くようになる。50物理ダメージを与える。味方や敵に指定できる。",
-    "DOTA_Tooltip_ability_item_witch_blade_projectile_speed": "+$弾速",
+    "DOTA_Tooltip_ability_item_witch_blade_projectile_speed": "+$projectile_speed",
     "DOTA_Tooltip_modifier_item_witch_blade_slow": "Witch Blade",
     "DOTA_Tooltip_modifier_orchid_malevolence_debuff": "Soul Burn",
     "DOTA_Tooltip_modifier_item_shivas_guard_aura": "Freezing Aura",
