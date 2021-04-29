@@ -1784,7 +1784,7 @@
     "DOTA_Diretide_Rarity_Crate_Tier3": "3",
     "DOTA_Diretide_Rarity_Crate_Tier4": "4",
     "DOTA_Diretide_Rarity_Crate_Tier5": "5",
-    "DOTA_Diretide_RarityName_Crate_Tier1": "ティア1: セット ",
+    "DOTA_Diretide_RarityName_Crate_Tier1": "ティア 1: セット ",
     "DOTA_Party_Add_Friends": "友達を追加してパーティーを作る",
     "DOTA_ToolTip_Ability": "アビリティ:",
     "DOTA_ToolTip_Ability_NoTarget": "対象指定なし",
@@ -2656,5 +2656,9 @@
     "LoadoutSlot_Invoker_ForgeSpirit_Invoker_Kid": "スピリット (子供)",
     "LoadoutSlot_Taunt_Invoker_Kid": "挑発 (子供)",
     "LoadoutSlot_Back_Invoker_Kid": "背中 (子供)",
-    "LoadoutSlot_Clinkz_Army": "Burning Army"
+    "LoadoutSlot_Clinkz_Army": "Burning Army",
+    "DOTA_Diretide_RarityName_Crate_Tier4": "ティア 4:イモータルセット",
+    "DOTA_Diretide_RarityName_Crate_Tier3": "ティア 3:イモータル",
+    "DOTA_Diretide_RarityName_Crate_Tier5": "ティア 5:エンブレム",
+    "DOTA_Diretide_RarityName_Crate_Tier2": "Tier 2:アンビエントセット"
 }
