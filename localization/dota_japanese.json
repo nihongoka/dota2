@@ -2681,5 +2681,21 @@
     "DOTA_CrateRecycle_MarketPrice": "マーケット",
     "DOTA_CrateRecycle_SelectTier": "ティアを選択",
     "DOTA_CrateRecycle_Owned": "所有済み",
-    "DOTA_CrateRecycle_Your_Listings": "あなたのリスト"
+    "DOTA_CrateRecycle_Your_Listings": "あなたのリスト",
+    "DOTA_CrateRecycle_NumOwned": "{d:item_amount} 個利用可能",
+    "DOTA_CrateRecycle_AddToList": "リストに追加",
+    "DOTA_CrateRecycle_AllAdded": "リストに追加済み",
+    "DOTA_CrateRecycle_TradeUp": "リサイクルリスト",
+    "DOTA_CrateTradeUpButton": "リサイクル - {d:recycling_ready}/{d:recycling_total}",
+    "DOTA_CrateRecycleNeeded": "空きスロット <span class='RecycleLabelQty'>{d:recycling_needed}</span>個を埋める",
+    "DOTA_CrateRecycleResult_Title": "アイテムをリサイクル",
+    "DOTA_CrateRecycleResult_Fail": "リサイクルできませんでした。数分後、もう一度お試しください。",
+    "DOTA_CrateSellOnMarketButton": "売る",
+    "DOTA_ConfirmCrateRecycle": "アイテムをリサイクル",
+    "DOTA_ConfirmCrateRecycleCrate": "10個のアイテムをリサイクルしてTier {d:new_tier}のアイテムを獲得しますか？",
+    "DOTA_CrateRecycleLastItemHeader": "残り1個のアイテムをリサイクル",
+    "DOTA_CrateRecycleLastItemPopup": "これは残り1個のアイテムです。本当にリサイクルリストに追加しますか？",
+    "DOTA_CrateSellLastItemHeader": "残り1個のアイテムを売る",
+    "DOTA_CrateSellLastItemPopup": "これは残り1個のアイテムです。本当に売りたいですか？",
+    "DOTA_SellMarket": "マーケットで売る"
 }
