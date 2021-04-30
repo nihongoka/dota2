@@ -2836,7 +2836,7 @@
     "dota_behavior_score_variance_medium": "ばらばら",
     "dota_behavior_score_variance_high": "とてもばらばら",
     "dota_behavior_score_variance_unknown": "不明",
-    "dota_page_match_details_header_total": "合計",
+    "dota_page_match_details_header_total": "トータル",
     "dota_page_match_details_leave": "試合から退出",
     "dota_page_match_details_team_view": "チームビューへ戻る",
     "dota_page_match_details_return_to_details": "試合の詳細に戻る",
@@ -2859,5 +2859,13 @@
     "dota_page_match_details_radiant_kills": "Radiantヒーローをキルした数",
     "dota_page_match_details_victim0_count": "<font color='#777777'>x</font>{d:victim_0_count}",
     "dota_page_match_details_item_count": "<font color='#777777'>x</font>{d:item_count}",
-    "dota_page_match_details_replay_existence_cdn_found": "リプレイをダウンロード"
+    "dota_page_match_details_replay_existence_cdn_found": "リプレイをダウンロード",
+    "dota_page_match_details_replay_existence_wrong_engine": "ソース1のリプレイはソース2では利用できません",
+    "dota_page_post_game_replay_you_will_be_notified": "リプレイが利用可能になったらウォッチタブの「後で保存」のセクションでお知らせします。",
+    "dota_page_post_game_replay_not_expected": "この試合のリプレイは利用できません。",
+    "dota_page_post_game_replay_available_toast": "希望したリプレイを公開しました。",
+    "dota_page_post_game_play_style": "この試合でのプレイスタイル",
+    "dota_page_post_game_vs_previous_local": "vs このヒーローのあなたの平均",
+    "dota_page_post_game_vs_previous": "vs このヒーローの彼らの平均",
+    "dota_page_post_game_performance_label": "平均"
 }
