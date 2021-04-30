@@ -2934,5 +2934,7 @@
     "DOTA_Date_Format_Hour_Minute_12": "%s3%s1:%s2",
     "DOTA_Date_Format_DayOfWeek": "%s1",
     "DOTA_Date_Format_DayOfWeek_Day_Month_Hour_Minute_12": "%s3月%s2日(%s1), %s6%s4:%s5",
-    "DOTA_Date_Format_Day_Month_Year_Hour_Minute_24": "%s3年%s2月%s1日, %s4:%s5"
+    "DOTA_Date_Format_Day_Month_Year_Hour_Minute_24": "%s3年%s2月%s1日, %s4:%s5",
+    "Econ_DateFormat_GMT": "%year%年%month% 月%day%日 %hour%:%min%:%sec% GMT",
+    "Econ_DateFormat": "%year%年%month% 月%day%日 (%hour%:%min%:%sec%)"
 }
