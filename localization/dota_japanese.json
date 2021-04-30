@@ -2867,5 +2867,6 @@
     "dota_page_post_game_play_style": "この試合でのプレイスタイル",
     "dota_page_post_game_vs_previous_local": "vs このヒーローのあなたの平均",
     "dota_page_post_game_vs_previous": "vs このヒーローの彼らの平均",
-    "dota_page_post_game_performance_label": "平均"
+    "dota_page_post_game_performance_label": "平均",
+    "dota_profile_content_tab_all_hero_challenge": "オールヒーローチャレンジ"
 }
