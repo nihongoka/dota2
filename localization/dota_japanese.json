@@ -2993,5 +2993,8 @@
     "DOTA_Background_LastMatch_Title": "前回の試合",
     "DOTA_Background_LastMatch_KDA": "KDA",
     "DOTA_Background_LastMatch_WelcomeToDota": "Dotaへようこそ",
-    "DOTA_Background_LastMatch_ViewMatch": "試合の詳細を見る"
+    "DOTA_Background_LastMatch_ViewMatch": "試合の詳細を見る",
+    "DOTA_Feed_Timestamp_Date": "{s:month}月{s:day}日",
+    "DOTA_AntiAddiction_Initial_DateFormat": "%s1年%s2月%s3日  %s4:%s5:%s6",
+    "DOTA_Workshop_Reimport": "アップデート"
 }
