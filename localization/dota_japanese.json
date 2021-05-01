@@ -2976,5 +2976,7 @@
     "SocialFeed2_RankTierEvent": "{g:dota_persona:account_id}が{s:rank_tier_name}{s:rank_pips_name}に昇格しました！",
     "DOTA_Purchase_Popup_Shards_Button": "シャード",
     "DOTA_HeroLevelReward_Currency": "{d:currency_amount} シャード",
-    "DOTA_EconItemSearchPrefix_ShardPurchaseable": "シャード"
+    "DOTA_EconItemSearchPrefix_ShardPurchaseable": "シャード",
+    "DOTA_Plus_Currency": "シャード",
+    "DOTA_Plus_ShardsBalance": "シャード残高"
 }
