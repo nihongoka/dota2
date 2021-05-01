@@ -2999,5 +2999,10 @@
     "DOTA_Workshop_Reimport": "アップデート",
     "DOTA_Plus_RewardLog_TitleBar_Date": "日付",
     "DOTA_AccoladeDesc_Date": "{t:s:timestamp}",
-    "DOTA_DPCTeams_JoinDate": "加入日"
+    "DOTA_DPCTeams_JoinDate": "加入日",
+    "DOTA_tooltip_econ_item_modifier_ambient_effects": "アンビエントエフェクト",
+    "DOTA_tooltip_econ_item_modifier_strange_control_point": "アンビエントエフェクト",
+    "LoadoutSlot_Tiny_Body_0": "タイニー",
+    "LoadoutSlot_ambient_effects": "アンビエントエフェクト",
+    "LoadoutSlot_Tiny_Body_1": "スモール"
 }
