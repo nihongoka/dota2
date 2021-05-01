@@ -2973,5 +2973,8 @@
     "SocialFeed_RankTierEvent": "[name:%s1]%s2[/name]が%s3%s4に昇格しました！",
     "SocialFeed_PlusHeroLevelTierEvent": "[name:%s1]%s2[/name]は %s4で%s3バッジを獲得しました！",
     "SocialFeed_PlusActivated": "[name:%s1]%s2[/name]がDota Plusに入会しました！",
-    "SocialFeed2_RankTierEvent": "{g:dota_persona:account_id}が{s:rank_tier_name}{s:rank_pips_name}に昇格しました！"
+    "SocialFeed2_RankTierEvent": "{g:dota_persona:account_id}が{s:rank_tier_name}{s:rank_pips_name}に昇格しました！",
+    "DOTA_Purchase_Popup_Shards_Button": "シャード",
+    "DOTA_HeroLevelReward_Currency": "{d:currency_amount} シャード",
+    "DOTA_EconItemSearchPrefix_ShardPurchaseable": "シャード"
 }
