@@ -2987,5 +2987,10 @@
     "DOTA_Frontpage_LastMatch_Mode": "モード",
     "DOTA_Frontpage_LastMatch_KDA": "K / D / A",
     "DOTA_Frontpage_LastMatch_Duration": "試合時間",
-    "DOTA_Frontpage_LastMatch_Result": "結果"
+    "DOTA_Frontpage_LastMatch_Result": "結果",
+    "DOTA_Frontpage_LastMatch_Items": "アイテム",
+    "DOTA_Frontpage_LastMatch_Recent_Games": "最近の全試合",
+    "DOTA_Background_LastMatch_Title": "前回の試合",
+    "DOTA_Background_LastMatch_KDA": "KDA",
+    "DOTA_Background_LastMatch_WelcomeToDota": "Dotaへようこそ"
 }
