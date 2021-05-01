@@ -2978,5 +2978,6 @@
     "DOTA_HeroLevelReward_Currency": "{d:currency_amount} シャード",
     "DOTA_EconItemSearchPrefix_ShardPurchaseable": "シャード",
     "DOTA_Plus_Currency": "シャード",
-    "DOTA_Plus_ShardsBalance": "シャード残高"
+    "DOTA_Plus_ShardsBalance": "シャード残高",
+    "DOTA_Plus_RewardLog_TitleBar_Shards": "シャード"
 }
