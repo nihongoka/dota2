@@ -2996,5 +2996,8 @@
     "DOTA_Background_LastMatch_ViewMatch": "試合の詳細を見る",
     "DOTA_Feed_Timestamp_Date": "{s:month}月{s:day}日",
     "DOTA_AntiAddiction_Initial_DateFormat": "%s1年%s2月%s3日  %s4:%s5:%s6",
-    "DOTA_Workshop_Reimport": "アップデート"
+    "DOTA_Workshop_Reimport": "アップデート",
+    "DOTA_Plus_RewardLog_TitleBar_Date": "日付",
+    "DOTA_AccoladeDesc_Date": "{t:s:timestamp}",
+    "DOTA_DPCTeams_JoinDate": "加入日"
 }
