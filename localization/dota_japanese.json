@@ -2979,5 +2979,13 @@
     "DOTA_EconItemSearchPrefix_ShardPurchaseable": "シャード",
     "DOTA_Plus_Currency": "シャード",
     "DOTA_Plus_ShardsBalance": "シャード残高",
-    "DOTA_Plus_RewardLog_TitleBar_Shards": "シャード"
+    "DOTA_Plus_RewardLog_TitleBar_Shards": "シャード",
+    "dota_lobby_lan_title": "ローカルサーバー",
+    "dota_lobby_coaches_none": "コーチ: なし",
+    "dota_lobby_coaches": "コーチ:",
+    "DOTA_Frontpage_LastMatch_Title": "前回の試合",
+    "DOTA_Frontpage_LastMatch_Mode": "モード",
+    "DOTA_Frontpage_LastMatch_KDA": "K / D / A",
+    "DOTA_Frontpage_LastMatch_Duration": "試合時間",
+    "DOTA_Frontpage_LastMatch_Result": "結果"
 }
