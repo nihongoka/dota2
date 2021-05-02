@@ -3030,5 +3030,18 @@
     "LoadoutSlot_Brewmaster_Barrel": "樽",
     "LoadoutSlot_Brewmaster_Shoulder": "防具",
     "LoadoutSlot_Broodmother_Spiderling": "子蜘蛛",
-    "LoadoutSlot_Earthshaker_Totem": "トーテム"
+    "LoadoutSlot_Earthshaker_Totem": "トーテム",
+    "DOTA_tooltip_econ_item_rarity_label": "レアリティ: ",
+    "DOTA_tooltip_econ_item_rarity": "{s:item_rarity}",
+    "DOTA_tooltip_econ_item_set": "<font color='#dddddd'>{s:item_set}</font>の一部",
+    "DOTA_tooltip_econ_item_name": "{s:item_name}",
+    "DOTA_tooltip_econ_item_description": "{s:item_description}",
+    "DOTA_tooltip_econ_item_slot": "スロット: {s:item_slot}",
+    "DOTA_tooltip_econ_item_gifter": "{g:dota_persona:gifter_name}",
+    "DOTA_tooltip_econ_item_gift_received_date": "受け取りました: {t:T:gift_received_date_time}",
+    "DOTA_tooltip_econ_item_gift_dedication": "{g:dota_filtered_string:gift_dedication}",
+    "DOTA_tooltip_econ_item_delete_restriction": "削除不可能",
+    "DOTA_tooltip_econ_item_expiry_restriction": "消滅予定: {t:T:expires_after_date_time} {t:s:expires_after_date_time}",
+    "DOTA_Tooltip_EconItem_Slot": "スロット:",
+    "DOTA_Workshop_SlotTitle": "装備スロット:"
 }
