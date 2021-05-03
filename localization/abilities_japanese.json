@@ -9606,5 +9606,7 @@
     "DOTA_Tooltip_ability_item_eternal_shroud_bonus_spell_resist": "%+$spell_resist",
     "DOTA_Tooltip_ability_item_eternal_shroud_bonus_health_regen": "+$hp_regen",
     "DOTA_Tooltip_ability_item_eternal_shroud_hero_lifesteal": "%+$spell_lifesteal_hero",
-    "DOTA_Tooltip_ability_item_eternal_shroud_creep_lifesteal": "%+$spell_lifesteal_creep"
+    "DOTA_Tooltip_ability_item_eternal_shroud_creep_lifesteal": "%+$spell_lifesteal_creep",
+    "DOTA_Tooltip_ability_keeper_of_the_light_spirit_form_cast_range": "キャスト範囲ボーナス:",
+    "DOTA_Tooltip_Ability_item_recipe_meteor_hammer": "Meteor Hammerレシピ"
 }
