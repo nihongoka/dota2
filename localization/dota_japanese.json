@@ -3100,5 +3100,6 @@
     "Rarity_Arcana": "アルカナ",
     "Rarity_Seasonal": "シーズナル",
     "DOTA_FilterRarity": "すべてのレアリティ",
-    "DOTA_FilterType": "すべてのタイプ"
+    "DOTA_FilterType": "すべてのタイプ",
+    "DOTA_Hero_Selection_LoadoutTab": "装備"
 }
