@@ -3375,5 +3375,11 @@
     "DOTA_UI_CREATE": "生成",
     "DOTA_UI_Submit": "提出",
     "DOTA_UI_Update": "アップデート",
-    "DOTA_UI_Exit": "退出"
+    "DOTA_UI_Exit": "退出",
+    "DOTA_HeroLoadout_FullSets": "フルセット",
+    "DOTA_HeroLoadout_UnknownSet": "カスタムセット",
+    "DOTA_HeroLoadout_BaseSet": "デフォルト",
+    "DOTA_StoreItem_InTreasure": "トレジャー内",
+    "DOTA_DPC_RegionFull_Unset": "N/A",
+    "DOTA_StoreItem_InBundle": "バンドル内"
 }
