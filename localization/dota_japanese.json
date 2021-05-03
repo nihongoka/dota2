@@ -3101,5 +3101,11 @@
     "Rarity_Seasonal": "シーズナル",
     "DOTA_FilterRarity": "すべてのレアリティ",
     "DOTA_FilterType": "すべてのタイプ",
-    "DOTA_Hero_Selection_LoadoutTab": "装備"
+    "DOTA_Hero_Selection_LoadoutTab": "装備",
+    "Dota_Economy_Effigy_Animation_dragon_knight_LOADOUT": "装備画面",
+    "Dota_Economy_Effigy_Animation_ember_spirit_LOADOUT": "装備画面",
+    "Dota_Economy_Effigy_Animation_juggernaut_LOADOUT": "装備画面",
+    "DOTA_HeroLoadout_Loadout": "装備画面",
+    "Econ_Loadout": "装備",
+    "Store_Loadout": "装備"
 }
