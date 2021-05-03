@@ -3284,5 +3284,18 @@
     "DOTA_Item_Build_UntitledCategory": "タイトルなし",
     "DOTA_Item_Build_Auto_Items": "人気のアイテム",
     "DOTA_Item_Build_Auto_Items_Copy": "人気のアイテム",
-    "DOTA_Item_Build_Core_Items_Secondary": "重要なアイテム (Bear)"
+    "DOTA_Item_Build_Core_Items_Secondary": "重要なアイテム (Bear)",
+    "dota_item_build_default": "デフォルトのアイテムビルド",
+    "dota_item_build_save_failed": "保存に失敗",
+    "dota_item_build_save_failed_filename": "無効なファイル名",
+    "dota_item_build_save_success": "ビルドを保存しました",
+    "dota_item_build_common_items": "ピン留めしたアイテム",
+    "dota_item_build_player_suggestions": "プレイヤーの提案",
+    "DOTA_Item_Build_Luxury": "状況に応じて",
+    "dota_item_build_title_default": "デフォルトガイド",
+    "dota_item_build_title_imported": "アイテムビルドをインポート",
+    "dota_item_build_common_starting_items": "一般アイテム",
+    "dota_item_build_common_shared_items": "共有されたアイテム",
+    "DOTA_GOLD": "ゴールド",
+    "DOTA_SHARD": "シャード"
 }
