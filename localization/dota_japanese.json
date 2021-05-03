@@ -3124,7 +3124,9 @@
     "DOTA_HeroLoadout_Guides": "ガイド",
     "DOTA_HeroLoadout_Roles": "ロール",
     "DOTA_HeroLoadout_Biography": "伝記",
-    "DOTA_HeroLoadout_Stats": "ステータス",
+    "DOTA_HeroLoadout_Stats": "統計",
     "DOTA_HeroLoadout_Trends": "トレンド",
-    "DOTA_HeroLoadout_OwnedItems": "所有済み"
+    "DOTA_HeroLoadout_OwnedItems": "所有済み",
+    "DOTA_HeroLoadout_ViewOnStore": "(ストア内)",
+    "DOTA_HeroLoadout_StrengthAttribute": "{s:base_str} + 1レベルにつき{s:str_per_level}"
 }
