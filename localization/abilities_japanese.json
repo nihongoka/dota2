@@ -5752,7 +5752,7 @@
     "DOTA_Tooltip_modifier_lycan_howl_aura": "Howl Aura",
     "DOTA_Tooltip_modifier_lycan_howl": "Howl",
     "DOTA_Tooltip_modifier_lycan_feral_impulse": "Feral Impulse",
-    "DOTA_Tooltip_modifier_lycan_feral_impulse_Description": "HP自然回復が%dMODIFIER_PROPERTY_HEALTH_REGEN_CONSTANT%%、ダメージが%dMODIFIER_PROPERTY_BASEDAMAGEOUTGOING_PERCENTAGE%%%増加するボーナスを得ている。",
+    "DOTA_Tooltip_modifier_lycan_feral_impulse_Description": "HP自然回復が%dMODIFIER_PROPERTY_HEALTH_REGEN_CONSTANT%、ダメージが%dMODIFIER_PROPERTY_BASEDAMAGEOUTGOING_PERCENTAGE%%%増加するボーナスを得ている。",
     "DOTA_Tooltip_modifier_lycan_summon_wolves_invisibility": "Invisible",
     "DOTA_Tooltip_modifier_lycan_summon_wolves_crit_maim": "Cripple",
     "DOTA_Tooltip_modifier_lycan_shapeshift": "Shapeshift",
