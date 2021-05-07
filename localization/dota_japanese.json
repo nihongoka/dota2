@@ -3563,5 +3563,15 @@
     "DOTA_CombatLog_Abilities": "アビリティ",
     "DOTA_CombatLog_Items": "アイテム",
     "Crate_Very_Rare": "ベリーレア",
-    "Crate_Very_Rare_Legacy": "ベリーレア(レガシー)"
+    "Crate_Very_Rare_Legacy": "ベリーレア(レガシー)",
+    "Crate_Common": "コモン",
+    "Crate_Rare": "レア",
+    "Crate_Extremely_Rare": "エクストリームレア",
+    "Crate_Ultra_Rare": "ウルトラレア",
+    "Crate_Cosmically_Rare": "コズミカリーレア",
+    "Crate_Tier1": "ティア1",
+    "Crate_Tier2": "ティア2",
+    "Crate_Tier3": "ティア3",
+    "Crate_Tier4": "ティア4",
+    "Crate_Tier5": "ティア5"
 }
