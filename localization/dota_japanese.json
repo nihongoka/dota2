@@ -3485,5 +3485,21 @@
     "DOTA_Hero_Selection_GuidesTab": "ガイド",
     "DOTA_Hero_Selection_TerrainChangesDelayed": "* 地形の変更は次の試合まで反映されません",
     "DOTA_Hero_Selection_ChooseTeam": "チームを選択",
-    "DOTA_Hero_Selection_SwitchToStrategy": "作戦"
+    "DOTA_Hero_Selection_SwitchToStrategy": "作戦",
+    "DOTA_Hero_Selection_LaneSuggestions": "チーム内にDota Plus会員がいるため、レーンの提案が有効です。",
+    "DOTA_Hero_Selection_AverageMMRShort": "平均MMR",
+    "DOTA_Hero_Selection_PenaltyTime": "ペナルティタイム",
+    "DOTA_Hero_Selection_StrategyTime": "作戦タイム",
+    "DOTA_Hero_Selection_PlayersConnecting": "プレイヤー接続中...",
+    "DOTA_Hero_Selection_Connecting": "接続を確立しています...",
+    "DOTA_Hero_Selection_FinishingLoading": "ロードを終了しています...",
+    "DOTA_Hero_Selection_ConnectionFailure": "接続に失敗しました。マッチメイキングに戻ります...",
+    "DOTA_Hero_Selection_ViewQuests": "クエストを見る",
+    "DOTA_Hero_Selection_NoBattlePass": "クエストを遂行するために必要なバトルパスを所持していません。",
+    "DOTA_Hero_Selection_BattlePassNotActive": "この試合ではバトルパスのクエストは遂行できません。",
+    "DOTA_Hero_Selection_RandomConfirm_Title": "ランダムで選択",
+    "DOTA_Hero_Selection_RandomConfirm_AutoConfirm": "後{d:confirm_seconds_remaining}秒で自動でヒーローが選択されます。",
+    "DOTA_Hero_Selection_AssignedHero_CaptainsMode": "は",
+    "DOTA_Hero_Selection_AssignedHero_Randomed": "ランダム",
+    "DOTA_Hero_Selection_AssignedHero_Picked": "ピックした"
 }
