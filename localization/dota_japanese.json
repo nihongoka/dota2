@@ -3636,5 +3636,7 @@
     "download_complete": "ダウンロード完了",
     "download_progress_size": "%s1 MB / %s2 MB",
     "no_downloads": "ダウンロ－ドなし",
-    "custom_game_sort_friend_lobbies": "友達のロビー"
+    "custom_game_sort_friend_lobbies": "友達のロビー",
+    "DOTA_Scenario_DemoHero": "デモヒーロー",
+    "demo_hero_mode_name": "デモヒーロー"
 }
