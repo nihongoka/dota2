@@ -3638,5 +3638,7 @@
     "no_downloads": "ダウンロ－ドなし",
     "custom_game_sort_friend_lobbies": "友達のロビー",
     "DOTA_Scenario_DemoHero": "デモヒーロー",
-    "demo_hero_mode_name": "デモヒーロー"
+    "demo_hero_mode_name": "デモヒーロー",
+    "DOTA_Glossary_Items_NeutralItems": "ニュートラルアイテム",
+    "DOTA_HeroGuide_NeutralItemLabel": "ニュートラルアイテム"
 }
