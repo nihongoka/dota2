@@ -3641,5 +3641,13 @@
     "demo_hero_mode_name": "デモヒーロー",
     "DOTA_Glossary_Items_NeutralItems": "ニュートラルアイテム",
     "DOTA_HeroGuide_NeutralItemLabel": "ニュートラルアイテム",
-    "DOTA_GameItems_ItemDetails": "アイテムの詳細"
+    "DOTA_GameItems_ItemDetails": "アイテムの詳細",
+    "DOTA_GameItems_AllShops": "すべてのショップ",
+    "DOTA_GameItems_AvailableAtMainShop": "ホームショップのみ購入可能",
+    "DOTA_GameItems_AvailableAtSideShop": "サイドショップのみ購入可能",
+    "DOTA_GameItems_AvailableAtSecretShop": "シークレットショップのみ購入可能",
+    "DOTA_GameItems_RequiresSecretShop": "シークレットショップのみ購入可能",
+    "DOTA_HUD_TimeTooltip": "{s:day_night} {d:hour} {s:am_pm}",
+    "DOTA_HUD_SharedContentSharedBy": "{s:shared_names}からのシェア",
+    "DOTA_GameItems_Shops": "ショップ"
 }
