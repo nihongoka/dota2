@@ -3561,5 +3561,7 @@
     "DOTA_CombatLog_Attacker": "攻撃者:",
     "DOTA_CombatLog_Target": "対象:",
     "DOTA_CombatLog_Abilities": "アビリティ",
-    "DOTA_CombatLog_Items": "アイテム"
+    "DOTA_CombatLog_Items": "アイテム",
+    "Crate_Very_Rare": "ベリーレア",
+    "Crate_Very_Rare_Legacy": "ベリーレア(レガシー)"
 }
