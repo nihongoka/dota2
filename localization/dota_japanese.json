@@ -3501,5 +3501,10 @@
     "DOTA_Hero_Selection_RandomConfirm_AutoConfirm": "後{d:confirm_seconds_remaining}秒で自動でヒーローが選択されます。",
     "DOTA_Hero_Selection_AssignedHero_CaptainsMode": "は",
     "DOTA_Hero_Selection_AssignedHero_Randomed": "ランダム",
-    "DOTA_Hero_Selection_AssignedHero_Picked": "ピックした"
+    "DOTA_Hero_Selection_AssignedHero_Picked": "ピックした",
+    "DOTA_Hero_Selection_NewPlayerPool_SupportCategory": "サポート - チームに2人",
+    "DOTA_CombatLog_Refresh": "更新",
+    "DOTA_Test_Client_Header": "Dota 2 テストへようこそ",
+    "DOTA_Test_Client_Body": "Dota 2 Testはアップデートテスト用です。 Dota 2をプレイしたい方は、Steamライブラリから\"Dota 2\"を起動してください。",
+    "DOTA_CombatLogHeading": "戦闘ログ"
 }
