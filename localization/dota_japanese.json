@@ -3573,5 +3573,10 @@
     "Crate_Tier2": "ティア2",
     "Crate_Tier3": "ティア3",
     "Crate_Tier4": "ティア4",
-    "Crate_Tier5": "ティア5"
+    "Crate_Tier5": "ティア5",
+    "Crate_Common_Legacy": "コモン(レガシー)",
+    "Crate_Rare_Legacy": "レア(レガシー)",
+    "Crate_Extremely_Rare_Legacy": "エクストリームレア(レガシー)",
+    "Crate_Ultra_Rare_Legacy": "ウルトラレア(レガシー)",
+    "Crate_Cosmically_Rare_Legacy": "コズミカリーレア"
 }
