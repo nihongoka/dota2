@@ -3640,5 +3640,6 @@
     "DOTA_Scenario_DemoHero": "デモヒーロー",
     "demo_hero_mode_name": "デモヒーロー",
     "DOTA_Glossary_Items_NeutralItems": "ニュートラルアイテム",
-    "DOTA_HeroGuide_NeutralItemLabel": "ニュートラルアイテム"
+    "DOTA_HeroGuide_NeutralItemLabel": "ニュートラルアイテム",
+    "DOTA_GameItems_ItemDetails": "アイテムの詳細"
 }
