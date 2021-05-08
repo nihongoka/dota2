@@ -3711,5 +3711,6 @@
     "game_mode_AllStarDraft": "オールスタードラフト",
     "game_mode_lobby_name_23": "ターボ",
     "game_mode_lobby_name_22": "ランクオールピック",
-    "game_mode_0_desc": "-"
+    "game_mode_0_desc": "-",
+    "lobby_settings_label": "ロビー設定"
 }
