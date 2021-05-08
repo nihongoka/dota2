@@ -3453,7 +3453,7 @@
     "DOTA_Hero_Selection_Intro_Body": "マウスや矢印キーを使うとヒーローをスクロールできます。\n\nヒーロー名を入力すると直接選択することができます。\n\nAltキー+エンターキーを押すと選択した内容をすぐに確認できます。\n\nフィルターを使うことで。チームにおいて最も重要なロールを絞り込むことができます。",
     "DOTA_Hero_Selection_RADIANT_Phase_Ban": "<font color='#009900'>RADIANT</font> バン #%s1",
     "DOTA_Onstage_Side_TeamName_Phase_Pick": "%s1 ピック #%s2",
-    "DOTA_Hero_Selection_HeroBanned": "ヒーローがバンされた",
+    "DOTA_Hero_Selection_HeroBanned": "バンされたヒーロー",
     "DOTA_Hero_Selection_BanTitle": "Ban",
     "DOTA_Hero_Selection_NominatedBan": "バンにノミネートしました",
     "DOTA_Hero_Selection_PickTitle": "ピック",
