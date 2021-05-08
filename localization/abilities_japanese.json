@@ -8145,7 +8145,7 @@
     "DOTA_Tooltip_ability_bounty_hunter_wind_walk_shard_description": "透明化中、35%のダメージ軽減を得るようになる。また、透明化中から攻撃すると対象に1秒間のスタンを与えるようになる。クールダウンが5秒減少する。",
     "DOTA_Tooltip_ability_batrider_flamebreak_shard_description": "Flamebreakが2チャージになり、衝撃時にSticky Napalmのチャージを与えるようになる。",
     "DOTA_Tooltip_ability_invoker_chaos_meteor_shard_description": "Chaos Meteorsを2つ追加し、1つ目にわずかな角度をつけて着地させる。クールダウンを15秒減少させる。",
-    "DOTA_Tooltip_ability_ursa_earthshock_shard_description": "Earthshock発動時に1.5秒間Enrageバフを得る。クールダウンを1減少させる。。",
+    "DOTA_Tooltip_ability_ursa_earthshock_shard_description": "クールダウンを1秒減少させ、Earthshock発動時に1.5秒間Enrageバフを得るようになる。",
     "DOTA_Tooltip_ability_lycan_shapeshift_health_bonus": "体力ボーナス:",
     "DOTA_Tooltip_modifier_ogre_magi_smash_buff": "Fire Shield",
     "DOTA_Tooltip_modifier_ogre_magi_smash_buff_Description": "85%%のダメージを吸収し、攻撃してきてたユニットに火の玉を放つ。",
