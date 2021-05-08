@@ -8000,7 +8000,7 @@
     "DOTA_Tooltip_ability_brewmaster_drunken_brawler_active_multiplier": "アクティブ中の確率倍率:",
     "DOTA_Tooltip_ability_brewmaster_primal_split_shard_description": "Primal SplitでVoidパンダが出現するようになる。Astral Pulseを習得しており、周囲500の敵ユニットに20/30/40%のスローと2秒のDisarmを与えられる。 ",
     "DOTA_Tooltip_ability_brewmaster_primal_split_scepter_description": "Primal Splitが最大2チャージのチャージ式アビリティになり、再発動すると発動したSpiritのいる場所に元の状態で戻れるようになる。チャージの補充速度は通常のクールダウンと同じ時間。",
-    "DOTA_Tooltip_ability_shadow_demon_demonic_purge_scepter_description": "最大％max_charges％のチャージ式アビリティになる。チャージは％charge_restore_time_tooltip_scepter％秒ごとに補充される。 また、Demonic Purgeで対象をBreak状態にできるようになる。",
+    "DOTA_Tooltip_ability_shadow_demon_demonic_purge_scepter_description": "クールダウンが減少し、最大%max_charges%のチャージ式アビリティになる。チャージは%charge_restore_time_tooltip_scepter%秒ごとに補充される。 また、Demonic Purgeで対象をBreak状態にできるようになる。",
     "DOTA_Tooltip_ability_dark_seer_normal_punch": "Normal Punch",
     "DOTA_Tooltip_modifier_alchemist_berserk_potion": "Berserk Potion",
     "DOTA_Tooltip_modifier_alchemist_berserk_potion_Description": "攻撃速度ボーナスとHP自然回復ボーナスを得ている。",
