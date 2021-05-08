@@ -3649,5 +3649,6 @@
     "DOTA_GameItems_RequiresSecretShop": "シークレットショップのみ購入可能",
     "DOTA_HUD_TimeTooltip": "{s:day_night} {d:hour} {s:am_pm}",
     "DOTA_HUD_SharedContentSharedBy": "{s:shared_names}からのシェア",
-    "DOTA_GameItems_Shops": "ショップ"
+    "DOTA_GameItems_Shops": "ショップ",
+    "DOTA_Swap_Confirm_Header": "ヒーローを交換しますか？"
 }
