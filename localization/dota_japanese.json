@@ -3650,5 +3650,14 @@
     "DOTA_HUD_TimeTooltip": "{s:day_night} {d:hour} {s:am_pm}",
     "DOTA_HUD_SharedContentSharedBy": "{s:shared_names}からのシェア",
     "DOTA_GameItems_Shops": "ショップ",
-    "DOTA_Swap_Confirm_Header": "ヒーローを交換しますか？"
+    "DOTA_Swap_Confirm_Header": "ヒーローを交換しますか？",
+    "game_mode_22": "オールピック",
+    "DOTA_Swap_Confirm_Message": "あなたのヒーローと%s1を交換しますか？",
+    "DOTA_PartyKicked_Header": "パーティーからキックされました",
+    "DOTA_PartyKicked_Message": "パーティーリーダーによってあなたはキックされました。",
+    "DOTA_timer_creeps": "クリープのスポーンまで",
+    "DOTA_timer_game": "試合進行中",
+    "game_mode_0": "-",
+    "game_mode_1": "オールピック",
+    "game_mode_lobby_name_1": "オールピック"
 }
