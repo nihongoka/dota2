@@ -3710,5 +3710,6 @@
     "game_mode_ranked_notSelected": "モードが選択されていません",
     "game_mode_AllStarDraft": "オールスタードラフト",
     "game_mode_lobby_name_23": "ターボ",
-    "game_mode_lobby_name_22": "ランクオールピック"
+    "game_mode_lobby_name_22": "ランクオールピック",
+    "game_mode_0_desc": "-"
 }
