@@ -3659,5 +3659,7 @@
     "DOTA_timer_game": "試合進行中",
     "game_mode_0": "-",
     "game_mode_1": "オールピック",
-    "game_mode_lobby_name_1": "オールピック"
+    "game_mode_lobby_name_1": "オールピック",
+    "game_mode_2": "キャプテンズモード",
+    "game_mode_3": "ランダムドラフト"
 }
