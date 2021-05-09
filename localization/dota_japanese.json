@@ -3843,5 +3843,14 @@
     "DOTA_Feed_Timestamp_HourAgo": "{i:value}時間前",
     "DOTA_Feed_Timestamp_HoursAgo": "{i:value}時間前",
     "DOTA_Feed_Timestamp_Yesterday": "昨日",
-    "DOTA_Feed_Timestamp_Recently": "たった今"
+    "DOTA_Feed_Timestamp_Recently": "たった今",
+    "DOTA_LobbyStartGame": "ゲームを始める",
+    "DOTA_Searching": "検索中",
+    "DOTA_StartSoloBotMatch": "ボットマッチを開始",
+    "DOTA_ReturnToLobby": "ロビーに戻る",
+    "DOTA_Create_Lobby": "ロビーを作成",
+    "DOTA_Join_Lobby": "ロビーに参加",
+    "DOTA_Lobby_Destroy_Header": "ロビーを解体",
+    "DOTA_Lobby_Destroy_Text": "ロビーを解体しますか？参加しているプレイヤーは全員キックされます。",
+    "Dota_Lobby_Start_Game": "ゲームを始める"
 }
