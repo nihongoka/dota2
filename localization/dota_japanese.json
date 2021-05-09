@@ -3810,5 +3810,9 @@
     "DOTA_TeamInvite_OpenQualifier8": "オープン予選 #8",
     "DOTA_TeamInvite_ChapionsCup": "バトルカップチャンピオン",
     "DOTA_TeamInvite_DirectInvite": "直接招待する",
-    "DOTA_LaneSelectionSafelane": "セーフレーン"
+    "DOTA_LaneSelectionSafelane": "セーフレーン",
+    "DOTA_LaneSelectionOther": "サポート",
+    "DOTA_LaneSelectionOfflane": "オフレーン",
+    "DOTA_LaneSelectionSoftSupport": "ソフトサポート",
+    "DOTA_LaneSelectionHardSupport": "ハードサポート"
 }
