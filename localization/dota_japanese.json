@@ -3896,5 +3896,14 @@
     "lobby_slot_cameramanalready": "配信チャンネルに1人カメラマン配置することができます。",
     "lobby_slot_error_header": "スロットを切り替えられません。",
     "generic_gc_timeout": "メッセージがタイムアウトしました。",
-    "LobbySetting_Bots": "ボット"
+    "LobbySetting_Bots": "ボット",
+    "LobbySetting_Visibility": "公開設定",
+    "LobbySetting_Visibility_Value": "{s:lobbysetting_visibility}",
+    "LobbySetting_League": "リーグ",
+    "LobbySetting_League_Value": "{s:lobbysetting_league}",
+    "DOTA_Frontpage_WatchLive_Title": "現在最も観戦されている試合",
+    "DOTA_Frontpage_FriendCustom_Title": "カスタムゲーム",
+    "DOTA_Frontpage_FriendCustom_IsPlaying": "プレイ中",
+    "DOTA_Frontpage_ProPlaying_Title": "プロ試合のライブ",
+    "DOTA_SeasonPass_SecondaryTabHeader_BattleCup": "バトルカップ"
 }
