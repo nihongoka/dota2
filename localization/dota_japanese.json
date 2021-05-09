@@ -3917,5 +3917,13 @@
     "DOTA_Lobby_Settings_Competitive": "試合",
     "DOTA_Lobby_Settings_Confirm": "{s:lobby_confirm_label}",
     "DOTA_Frontpage_GameplayPatch_Title": "新しいゲームプレイパッチ",
-    "DOTA_Frontpage_GameplayPatch_Button": "パッチの詳細を見る"
+    "DOTA_Frontpage_GameplayPatch_Button": "パッチの詳細を見る",
+    "DOTA_Lobby_Settings_SelectionPriority": "選択優先権",
+    "DOTA_Lobby_Settings_Starting_Team": "開始チーム",
+    "DOTA_Lobby_Settings_Starting_Team_Random": "ランダム",
+    "DOTA_Lobby_Settings_Starting_Team_Radiant": "RADIANT",
+    "DOTA_Lobby_Settings_Starting_Team_Dire": "DIRE",
+    "DOTA_Lobby_Settings_Penalty_Radiant": "RADIANTのペナルティ",
+    "DOTA_Lobby_Settings_Penalty_Dire": "DIREのペナルティ",
+    "DOTA_Lobby_Settings_Penalty_Level_0": "ペナルティなし"
 }
