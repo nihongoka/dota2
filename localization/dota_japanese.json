@@ -3817,5 +3817,15 @@
     "DOTA_LaneSelectionHardSupport": "ハードサポート",
     "DOTA_practice_bots_headline": "ボットとプラクティス",
     "dota_practice_bots_title": "ボットとプラクティス",
-    "dota_play_practice_with_bots": "ボットとプラクティス"
+    "dota_play_practice_with_bots": "ボットとプラクティス",
+    "dota_play_lobby_games": "ロビーを見る",
+    "dota_play_lobbies_section": "カスタムロビー",
+    "dota_play_create_lobby": "作成する",
+    "dota_play_browse_lobbies": "検索する",
+    "dota_play_practice_1v1_playtab": "プラクティス 1v1",
+    "dota_play_mutation": "ミューテーション",
+    "dota_play_event_custom_game": "プラクティス 1v1",
+    "dota_play_searching": "マッチを検索中",
+    "dota_play": "Dotaをプレイ",
+    "dota_play_searching_server": "マッチを確立中"
 }
