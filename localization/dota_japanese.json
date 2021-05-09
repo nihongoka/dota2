@@ -3844,7 +3844,7 @@
     "DOTA_Feed_Timestamp_HoursAgo": "{i:value}時間前",
     "DOTA_Feed_Timestamp_Yesterday": "昨日",
     "DOTA_Feed_Timestamp_Recently": "たった今",
-    "DOTA_LobbyStartGame": "ゲームを始める",
+    "DOTA_LobbyStartGame": "ゲームを開始",
     "DOTA_Searching": "検索中",
     "DOTA_StartSoloBotMatch": "ボットマッチを開始",
     "DOTA_ReturnToLobby": "ロビーに戻る",
@@ -3852,5 +3852,17 @@
     "DOTA_Join_Lobby": "ロビーに参加",
     "DOTA_Lobby_Destroy_Header": "ロビーを解体",
     "DOTA_Lobby_Destroy_Text": "ロビーを解体しますか？参加しているプレイヤーは全員キックされます。",
-    "Dota_Lobby_Start_Game": "ゲームを始める"
+    "Dota_Lobby_Start_Game": "ゲームを始める",
+    "dota_lobby_balanced_shuffle": "シャッフル",
+    "dota_lobby_broadcast_channels": "配信チャンネルの切り替え",
+    "dota_lobby_no_team": "チームなし",
+    "dota_lobby_swap_teams": "チームを交換",
+    "dota_lobby_unassigned_players": "割り当てられてないプレイヤー",
+    "dota_lobby_broadcast_channel_title": "配信チャンネル",
+    "dota_lobby_settings": "ロビー設定",
+    "dota_lobby_settings_edit": "編集",
+    "dota_lobby_leave": "ロビーを退出",
+    "dota_lobby_broadcast_default_channel_name": "チャンネル名",
+    "dota_lobby_broadcast_join": "参加",
+    "UI_BalancedShuffle": "シャッフル"
 }
