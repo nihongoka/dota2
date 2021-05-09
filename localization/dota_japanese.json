@@ -3905,5 +3905,17 @@
     "DOTA_Frontpage_FriendCustom_Title": "カスタムゲーム",
     "DOTA_Frontpage_FriendCustom_IsPlaying": "プレイ中",
     "DOTA_Frontpage_ProPlaying_Title": "プロ試合のライブ",
-    "DOTA_SeasonPass_SecondaryTabHeader_BattleCup": "バトルカップ"
+    "DOTA_SeasonPass_SecondaryTabHeader_BattleCup": "バトルカップ",
+    "DOTA_Lobby_Settings_NonLobbyDelay": "リーグ戦以外では、遅延は2分に制限されます。",
+    "DOTA_Lobby_Settings_Required": "必須",
+    "DOTA_Lobby_Settings_Game_Mode": "ゲームモード",
+    "DOTA_Lobby_Settings_Region": "サーバーの位置",
+    "DOTA_Lobby_Settings_Password": "ロビーのパスワード",
+    "DOTA_Lobby_Settings_Game_Name": "ゲーム名",
+    "DOTA_Lobby_Settings_General": "基本設定",
+    "DOTA_Lobby_Settings_Advanced": "上級設定",
+    "DOTA_Lobby_Settings_Competitive": "試合",
+    "DOTA_Lobby_Settings_Confirm": "{s:lobby_confirm_label}",
+    "DOTA_Frontpage_GameplayPatch_Title": "新しいゲームプレイパッチ",
+    "DOTA_Frontpage_GameplayPatch_Button": "パッチの詳細を見る"
 }
