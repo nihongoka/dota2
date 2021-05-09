@@ -3755,5 +3755,6 @@
     "DOTA_Plus_NewChallengesIn": "新しいチャレンジまで:",
     "DOTA_Plus_ChallengeComplete": "達成！",
     "DOTA_HeroSelectorCategory_AttackRange_Ranged": "レンジ",
-    "DOTA_Refresh_Challenges": "チャレンジを更新する"
+    "DOTA_Refresh_Challenges": "チャレンジを更新する",
+    "DOTA_AttackCapability_Ranged": "レンジ"
 }
