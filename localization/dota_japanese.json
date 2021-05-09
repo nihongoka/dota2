@@ -3814,5 +3814,7 @@
     "DOTA_LaneSelectionOther": "サポート",
     "DOTA_LaneSelectionOfflane": "オフレーン",
     "DOTA_LaneSelectionSoftSupport": "ソフトサポート",
-    "DOTA_LaneSelectionHardSupport": "ハードサポート"
+    "DOTA_LaneSelectionHardSupport": "ハードサポート",
+    "DOTA_practice_bots_headline": "ボットとプラクティス",
+    "dota_practice_bots_title": "ボットとプラクティス"
 }
