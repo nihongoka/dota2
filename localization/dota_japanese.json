@@ -3788,9 +3788,9 @@
     "DOTA_HUD_PrimaryAttributeStrength": "= {d:primary_attribute_damage}攻撃力(第一属性ボーナス)",
     "DOTA_HUD_PrimaryAttributeAgility": "= {d:primary_attribute_damage}攻撃力(第一属性ボーナス)",
     "DOTA_HUD_PrimaryAttributeIntelligence": "= {d:primary_attribute_damage}攻撃力(第一属性ボーナス)",
-    "DOTA_HUD_StrengthDetails": "= {d:strength_hp}HP、{s:strength_hp_regen}HP自然回復",
-    "DOTA_HUD_AgilityDetails": "= {s:agility_armor}アーマー、{d:agility_attack_speed}攻撃速度",
-    "DOTA_HUD_IntelligenceDetails": "= {d:intelligence_mana}マナ、{s:intelligence_mana_regen}マナ自然回復",
+    "DOTA_HUD_StrengthDetails": "= {d:strength_hp}HP, {s:strength_hp_regen}HP自然回復",
+    "DOTA_HUD_AgilityDetails": "= {s:agility_armor}アーマー, {d:agility_attack_speed}攻撃速度",
+    "DOTA_HUD_IntelligenceDetails": "= {d:intelligence_mana}マナ, {s:intelligence_mana_regen}マナ自然回復",
     "DOTA_NewMusicPack": "新しいミュージックパック",
     "DOTA_TeamInvite_OpenQualifier": "オープン予選",
     "DOTA_TeamInvite_OpenQualifier1": "オープン予選 #1",
@@ -3806,5 +3806,8 @@
     "DOTA_HUD_AttackSpeed": "攻撃速度:",
     "DOTA_MinimapLane_Mid": "ミッドレーン",
     "DOTA_MinimapLane_Dire": "(Dire)",
-    "DOTA_CIGO_Lane3": "ミッドレーン"
+    "DOTA_CIGO_Lane3": "ミッドレーン",
+    "DOTA_TeamInvite_OpenQualifier8": "オープン予選 #8",
+    "DOTA_TeamInvite_ChapionsCup": "バトルカップチャンピオン",
+    "DOTA_TeamInvite_DirectInvite": "直接招待する"
 }
