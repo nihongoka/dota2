@@ -3753,5 +3753,7 @@
     "DOTA_Plus_Death_Screen_PureDamage": "ピュアダメージ",
     "DOTA_Plus_PurchaseDialog_Title": "Dota Plus会員になる",
     "DOTA_Plus_NewChallengesIn": "新しいチャレンジまで:",
-    "DOTA_Plus_ChallengeComplete": "達成！"
+    "DOTA_Plus_ChallengeComplete": "達成！",
+    "DOTA_HeroSelectorCategory_AttackRange_Ranged": "レンジ",
+    "DOTA_Refresh_Challenges": "チャレンジを更新する"
 }
