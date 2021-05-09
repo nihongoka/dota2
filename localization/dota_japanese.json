@@ -3925,5 +3925,10 @@
     "DOTA_Lobby_Settings_Starting_Team_Dire": "DIRE",
     "DOTA_Lobby_Settings_Penalty_Radiant": "RADIANTのペナルティ",
     "DOTA_Lobby_Settings_Penalty_Dire": "DIREのペナルティ",
-    "DOTA_Lobby_Settings_Penalty_Level_0": "ペナルティなし"
+    "DOTA_Lobby_Settings_Penalty_Level_0": "ペナルティなし",
+    "DOTA_Lobby_Settings_Penalty_Tooltip": "キャプテンズモードのとき、このチームのピック時の持ち時間を減らします。",
+    "DOTA_Lobby_Settings_Penalty_Level_1": "持ち時間 -30秒",
+    "DOTA_Lobby_Settings_Penalty_Level_2": "持ち時間 -70秒",
+    "DOTA_Lobby_Settings_Penalty_Level_3": "持ち時間 -110秒",
+    "DOTA_Lobby_Settings_PreviousMatch": "前回のマッチID"
 }
