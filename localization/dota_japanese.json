@@ -3531,7 +3531,7 @@
     "DOTA_PlusStore_RelicOwned": "所有済",
     "DOTA_PlusStore_HeroRelicsOwned": "レリック所有済み",
     "DOTA_PlusStore_CurrentRelics": "現在のヒーローレリック",
-    "DOTA_PlusStore_ChatWheelOwned": "アンロック済み",
+    "DOTA_PlusStore_ChatWheelOwned": "アンロック済",
     "DOTA_PlusStore_ConfirmChatWheelPurchase_Title": "ホイールチャットをアンロックしますか？",
     "DOTA_PlusStore_ConfirmChatWheelPurchase_Unlock": "アンロックする",
     "DOTA_PlusStore_ConfirmChatWheelPurchase_Message": "チャットホイール「{s:chat_wheel_label}」を{g:dota_shards_value:shard_price}シャードでアンロックしますか？",
@@ -4202,5 +4202,8 @@
     "DOTA_HPMana_Alert_Glyph_Wait": "Glyph of Fortification %s1まだ使わないで",
     "DOTA_Alert_Radar_Ready": "スキャン %s1準備完了",
     "DOTA_Alert_Radar_Cooldown": "スキャン %s1クールダウン中 ( 後 %s2秒 )",
-    "DOTA_Alert_Radar_Wait": "スキャン %s1まだ使わないで"
+    "DOTA_Alert_Radar_Wait": "スキャン %s1まだ使わないで",
+    "DOTA_Chat_SafeToLeave": "<font color='#00FF00'><b>このゲームは安全に退出できます。</b></font>",
+    "dota_safe_to_abandon": "このゲームは安全に退出できます。",
+    "dota_safe_to_abandon_match_not_scored": "このゲームはスコア化されません。安全に退出できます。"
 }
