@@ -4173,5 +4173,6 @@
     "DOTA_HP_Alert_Enemy_NPC": "敵 %s1 は現在 <font color='#00FF00'>%s2 HP</font>",
     "DOTA_HPMana_Alert_NPC": "%s1 は現在 <font color='#00FF00'>%s2 HP</font> 、 <font color='#257FF6'>%s3 マナ</font>",
     "DOTA_HPMana_Alert_Enemy_NPC": "敵 %s1 は現在 <font color='#00FF00'>%s2 HP</font>、<font color='#257FF6'>%s3 マナ</font>",
-    "DOTA_AlliedCoach": "コーチ"
+    "DOTA_AlliedCoach": "コーチ",
+    "dota_tip_universal_12": "Good luck. Have fun."
 }
