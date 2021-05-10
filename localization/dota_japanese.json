@@ -3955,5 +3955,22 @@
     "DOTA_Lobby_Settings_Bot_Difficulty_NPX": "ニュープレイヤー",
     "DOTA_Lobby_Prefs_Cheats": "チート",
     "DOTA_Lobby_Prefs_Cheats_caps": "チート",
-    "DOTA_Lobby_Prefs_Spectators": "観戦者"
+    "DOTA_Lobby_Prefs_Spectators": "観戦者",
+    "DOTA_DmgArmorTooltip_Armor": "物理アーマー: ",
+    "dota_chatwheel_label_Something_Dire": "何か恐ろしいもの...",
+    "dota_chatwheel_message_Something_Dire": "何か恐ろしいものが近づいてきている...",
+    "dota_chatwheel_message_Woods_Begin": "森が騒ぎ始めた！",
+    "dota_chatwheel_label_Woods_Begin": "森が",
+    "dota_chatwheel_label_Reap_Your_Harvest": "収穫しよう",
+    "dota_chatwheel_message_Reap_Your_Harvest": "収穫して魂を守ろう！",
+    "dota_chatwheel_header_positioning": "ポジショニング",
+    "dota_chatwheel_header_status": "ステータス",
+    "dota_chatwheel_header_enemy": "敵",
+    "dota_chatwheel_header_lane": "レーン",
+    "dota_chatwheel_header_items": "アイテム",
+    "dota_chatwheel_header_misc": "その他",
+    "dota_chatwheel_header_flavor": "フレーバー",
+    "dota_chatwheel_header_plus_sounds": "Dota Plus",
+    "dota_chatwheel_header_plus_sounds_desc": "Dota Plus会員のみが使用可能です。",
+    "dota_chatwheel_header_plus_sounds_link": "Dota Plusのリワードを見る"
 }
