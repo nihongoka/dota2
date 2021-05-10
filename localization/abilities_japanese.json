@@ -7311,7 +7311,6 @@
     "DOTA_Tooltip_ability_void_spirit_aether_remnant": "Aether Remnant",
     "npc_dota_hero_void_spirit": "Void Spirit",
     "DOTA_Tooltip_ability_hoodwink_acorn_shot": "Acorn Shot",
-    "DOTA_Tooltip_ability_hoodwink_scepter_description": "寛大なAghanimはまだこのヒーローにScepterアップグレードを与えていません。",
     "DOTA_Tooltip_ability_hoodwink_shard_description": "AghanimはこのヒーローのためのShardをまだ作っていません。",
     "DOTA_Tooltip_ability_hoodwink_acorn_shot_Description": "対象の敵ユニットにどんぐりを発射する。どんぐりは近くの敵ユニットの間で跳ね返り、当たるたびに移動速度減少とHoodwinkの攻撃力に応じたダメージを与える。\n地面を指定して発動した場合、指定地点に木を生やしてそこからどんぐりを発射する。動作を強制するためにオートキャストを設定できる。",
     "DOTA_Tooltip_ability_hoodwink_bushwhack_Description": "指定地点にポーラを投げつける。<br>範囲内の敵ユニットは同じく範囲内の木へ引っ張られて絡まり、ダメージとスタンを受けスタン中は視界が0になる。",
