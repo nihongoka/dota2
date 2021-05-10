@@ -4193,5 +4193,6 @@
     "DOTA_HPMana_Percentage": "%s1%",
     "DOTA_HP_Alert_Courier_Respawn": "%s2後%s1でクーリエがリスポーン",
     "DOTA_XP_Alert_Self": "<font color='#DAAF01'>レベル %s2</font>になるには後<font color='#DAAF01'>%s1 XP</font>必要です",
-    "DOTA_XP_Alert_Ally_Capped": "<font color='%s1'>%s2</font>のレベルは最大です！"
+    "DOTA_XP_Alert_Ally_Capped": "<font color='%s1'>%s2</font>のレベルは最大です！",
+    "DOTA_XP_Alert_Ally": "<font color='%s1'>%s2</font>は<font color='#DAAF01'>レベル %s4</font>になるために<font color='#DAAF01'>%s3 XP</font>必要です"
 }
