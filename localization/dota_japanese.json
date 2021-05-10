@@ -4205,5 +4205,12 @@
     "DOTA_Alert_Radar_Wait": "スキャン %s1まだ使わないで",
     "DOTA_Chat_SafeToLeave": "<font color='#00FF00'><b>このゲームは安全に退出できます。</b></font>",
     "dota_safe_to_abandon": "このゲームは安全に退出できます。",
-    "dota_safe_to_abandon_match_not_scored": "このゲームはスコア化されません。安全に退出できます。"
+    "dota_safe_to_abandon_match_not_scored": "このゲームはスコア化されません。安全に退出できます。",
+    "DOTA_HeroDemo_Button_ToLoadout": "装備画面へ",
+    "DOTA_HeroDemo_Button": "{s:econ_item_category_name}を試す",
+    "DOTA_HeroDemo_Button_ToWebPage": "詳細を見る",
+    "DOTA_HeroDemo_Button_Arcana": "アルカナを試す",
+    "DOTA_HeroDemo_Button_Hero": "デモヒーロー",
+    "DOTA_HeroDemo_Button_DBQuit": "デモをやめる",
+    "DOTA_HeroDemo_Button_Return": "デモに戻る"
 }
