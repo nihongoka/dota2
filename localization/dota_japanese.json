@@ -4107,7 +4107,7 @@
     "DOTA_Talent_Ping_Ally_Ready": "味方 <font color='%s4'>%s5</font><font color='#DAAF01'>レベル %s1 タレント:</font> %s2 %s3準備完了",
     "DOTA_Talent_Ping_Ally_Unlearned": "味方 <font color='%s4'>%s5</font><font color='#DAAF01'>レベル %s1 タレント:</font> %s2 %s3未習得",
     "DOTA_Ability_Ping_Ally_Description": "味方 <font color='%s1'>%s2</font> %s3 ",
-    "DOTA_Ability_Ping_Learn_Ready": "%s1%s2 %s3習得できる ( レベル %s4 )",
+    "DOTA_Ability_Ping_Learn_Ready": "%s1%s2 %s3習得可能 ( レベル %s4 )",
     "DOTA_AghsStatus_Upgrade_1": "アップグレード済 %s1",
     "DOTA_AghsStatus_Upgrade_2": "アップグレード済 %s1, %s2",
     "DOTA_AghsStatus_AbilityAndUpgrades": "%s1 と %s2",
@@ -4161,5 +4161,17 @@
     "DOTA_Modifier_Alert_Ally_Hero": "味方 <font color='%s4'>%s5</font> は影響を受けている: <font color='%s1'>%s2%s3</font>%s6",
     "DOTA_Modifier_Alert_Enemy_Unit": "敵 <font color='%s4'>%s5</font> は影響を受けている: <font color='%s1'>%s2%s3</font>%s6",
     "DOTA_Modifier_Alert_Self_BH_Track": "影響を受けてる: <font color='%s1'>%s2%s3</font>, 現在 <font color='#FFCC33'>%s6</font> ゴールド持っている%s7",
-    "DOTA_EnemyItem_Alert": "敵 <font color='%s1'>%s2</font> %s3 は %s4 を持っている"
+    "DOTA_EnemyItem_Alert": "敵 <font color='%s1'>%s2</font> %s3 は %s4 を持っている",
+    "DOTA_HPMana_Alert_Self": "現在 <font color='#00FF00'>%s3 HP</font>、<font color='#257FF6'>%s4 マナ</font>",
+    "DOTA_HPMana_Alert_Enemy": "敵 <font color='%s1'>%s2</font> 現在 <font color='#FA3009'>%s3 HP</font> 、<font color='#257FF6'>%s4 マナ</font>",
+    "DOTA_HPMana_Alert_Ally": "味方 <font color='%s1'>%s2</font> 現在 <font color='#00FF00'>%s3 HP</font>、<font color='#257FF6'>%s4 マナ</font>",
+    "DOTA_EnemyCoach": "敵のコーチ",
+    "DOTA_HPMana_Alert_Self_Dead": "あと%s3秒でリスポーンします！",
+    "DOTA_HPMana_Alert_Ally_Dead": "味方 <font color='%s1'>%s2</font> は後%s3秒でリスポーン！",
+    "DOTA_HPMana_Alert_Enemy_Dead": "敵 <font color='%s1'>%s2</font> は後%s3秒でリスポーン！",
+    "DOTA_HP_Alert_NPC": "%s1 は現在<font color='#00FF00'>%s2 HP</font>",
+    "DOTA_HP_Alert_Enemy_NPC": "敵 %s1 は現在 <font color='#00FF00'>%s2 HP</font>",
+    "DOTA_HPMana_Alert_NPC": "%s1 は現在 <font color='#00FF00'>%s2 HP</font> 、 <font color='#257FF6'>%s3 マナ</font>",
+    "DOTA_HPMana_Alert_Enemy_NPC": "敵 %s1 は現在 <font color='#00FF00'>%s2 HP</font>、<font color='#257FF6'>%s3 マナ</font>",
+    "DOTA_AlliedCoach": "コーチ"
 }
