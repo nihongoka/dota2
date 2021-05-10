@@ -4151,7 +4151,7 @@
     "DOTA_Item_Charge_Full": " (フル - %s1 チャージ)",
     "DOTA_Item_Charge_Empty": " (空)",
     "DOTA_QuickBuyAlert_Cooldown": " (クールダウン中, 後%s1秒)",
-    "DOTA_QuickBuyAlert": "%s1 購入可能まで後%s2ゴールド <font color='%s3'>%s4</font>%s5",
+    "DOTA_QuickBuyAlert": "%s1 購入可能まで後%s2ゴールド %s1 <font color='%s3'>%s4</font>%s5",
     "DOTA_QuickBuyAlert_Buyback": "%s1 後%s2ゴールド必要 <font color='%s3'>%s4</font>%s5 と <font color='#00FF00'>バイバック</font>",
     "DOTA_QuickBuyAlert_Enough_Buyback": "%s1 十分なゴールドを持っています <font color='%s2'>%s3</font>%s4 と <font color='#00FF00'>Buyback</font>",
     "DOTA_QuickBuyAlert_Enough": "%s1 購入に十分なゴールドが持っています <font color='%s2'>%s3</font>%s4",
