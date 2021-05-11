@@ -4349,5 +4349,8 @@
     "DOTA_Invite_Accept": "承認",
     "DOTA_Invite_Decline": "拒否",
     "DOTA_Invite_Cancel": "キャンセル",
-    "DOTA_Dismiss": "無視する"
+    "DOTA_Dismiss": "無視する",
+    "DOTA_DerivedStatsHelp_Tooltip_AttackSpeed_Desc": "攻撃速度が高いほど、より素早く攻撃を繰り出せます。",
+    "DOTA_DerivedStatsHelp_Tooltip_AttackRange": "攻撃範囲",
+    "DOTA_DerivedStatsHelp_Tooltip_AttackSpeed": "攻撃速度"
 }
