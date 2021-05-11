@@ -4332,5 +4332,6 @@
     "DOTA_econ_item_details_style_unlock": "アンロック",
     "DOTA_econ_item_details_description_header": "説明文",
     "DOTA_econ_item_details_description_reset": "リセット",
-    "DOTA_econ_item_details_description_edit": "編集"
+    "DOTA_econ_item_details_description_edit": "編集",
+    "DOTA_econ_item_details_go_to_loadout": "{s:item_owner_type} 装備画面"
 }
