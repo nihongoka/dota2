@@ -4333,5 +4333,21 @@
     "DOTA_econ_item_details_description_header": "説明文",
     "DOTA_econ_item_details_description_reset": "リセット",
     "DOTA_econ_item_details_description_edit": "編集",
-    "DOTA_econ_item_details_go_to_loadout": "{s:item_owner_type} 装備画面へ"
+    "DOTA_econ_item_details_go_to_loadout": "{s:item_owner_type} 装備画面へ",
+    "DOTA_PartyInvite_BlockPartyLeader": "{g:dota_persona:b:inviter}からのコミュニケーションをすべてブロックする",
+    "DOTA_PartyInvite_BlockNonFriendInvitesDescription": "ソーシャル設定から切り替えができます。",
+    "DOTA_PartyInvite_BlockNonFriendInvites": "フレンドリスト外からの招待をブロックする",
+    "DOTA_LobbyInvite_BlockInviter": "このプレイヤーからのコミュニケーションをすべてブロックする",
+    "DOTA_PartySearch_Join_Failed_Generic": "招待が取り消されたか、無効になりました。",
+    "DOTA_PartySearch_Join_Failed_Not_Leader": "あなたはパーティーリーダーではありません。",
+    "TEAM_HAS_INVITED_YOU_TO_JOIN": "{s:inviter_name}がチーム{s:team_name}へ招待しています。",
+    "DOTA_PartySearch_Join_Failed_Title": "パーティー参加に失敗しました",
+    "PartySearch_Button_Active": "パーティーに招待中...",
+    "party_block_all": "フレンドリスト外からの招待をブロックする",
+    "DOTA_InvitedToParty": "%s1があなたをパーティーに招待しています。",
+    "DOTA_InvitedToPartyHeader": "パーティーへの招待",
+    "DOTA_Invite_Accept": "承認",
+    "DOTA_Invite_Decline": "拒否",
+    "DOTA_Invite_Cancel": "キャンセル",
+    "DOTA_Dismiss": "無視する"
 }
