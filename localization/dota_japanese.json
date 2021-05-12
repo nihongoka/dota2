@@ -4457,7 +4457,7 @@
     "DOTA_Location_Pattern_ThreeItems": "%s1 %s2 %s3",
     "DOTA_Chat_Ping_Confirmation_Msg_0": "<img class=\"ChatWheelIcon\" src=\"file://{images}/hud/reborn/ping_icon_attack.psd\"/>%s1 チームメイトが攻撃中 %s3 (%s2 disagree)",
     "DOTA_Chat_Ping_Confirmation_Msg_1": "<img class=\"ChatWheelIcon\" src=\"file://{images}/hud/reborn/ping_icon_defend.psd\"/>%s1 チームメイトが防衛中 %s3 (%s2 disagree)",
-    "dota_lobby_type_competitive": "ランク戦",
+    "dota_lobby_type_competitive": "ランク",
     "dota_lobby_type_practice": "プラクティス",
     "dota_lobby_type_weekend_tourney_quarterfinals": "準々決勝",
     "dota_lobby_type_weekend_tourney_semifinals": "準決勝",
@@ -4478,5 +4478,8 @@
     "DOTA_HeroGuide_DeleteFailed_DoNotOwn_Body": "自分が作成したガイドのみ削除できます。",
     "DOTA_HeroGuideViewer_SubTitleOriginalCreator": "by {g:dota_persona:nl:guide_original_creator}, {t:s:M:updated_date}更新",
     "DOTA_HeroGuide_NameLabel": "ガイド名",
-    "DOTA_Hero_Guide_Name": "{s:guide_name}"
+    "DOTA_Hero_Guide_Name": "{s:guide_name}",
+    "league_location_1": "北アメリカ",
+    "league_location_2": "南アメリカ",
+    "league_location_3": "西ヨーロッパ"
 }
