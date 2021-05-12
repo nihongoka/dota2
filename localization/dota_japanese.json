@@ -3395,7 +3395,7 @@
     "DOTA_TeamNeutralItemState_OnCourier": "クーリエ",
     "DOTA_TeamNeutralItemState_Consumed": "消費済み",
     "DOTA_TeamNeutralItems_ViewTeam": "チームのニュートラルアイテムを見る",
-    "DOTA_EmoticonReward": "絵文字",
+    "DOTA_EmoticonReward": "絵文字 {s:emoticon_text}",
     "DOTA_BattlePass_Reward": "新しいバトルパスの報酬をアンロックしました！",
     "DOTA_Inventory_KDA": "K / D / A",
     "DOTA_SUBSHOP_DEFENSE": "防具",
