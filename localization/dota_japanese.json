@@ -4466,5 +4466,15 @@
     "dota_lobby_type_gauntlet": "ガントレット",
     "dota_lobby_type_casual_1v1": "1v1 マッチ",
     "dota_lobby_unknown": "不明",
-    "dota_lobby_type_competitive_seasonal": "シーズン"
+    "dota_lobby_type_competitive_seasonal": "シーズン",
+    "DOTA_HeroGuide_BadTalentLevels_Body": "タレントのレベルが選択されていません。この場合、タレントの選択が保存されません。それでも保存しますか？",
+    "DOTA_HeroGuidePage_PublishHelp": "ヒーローガイドを公開すると、Steamワークショップにコピーされ、他のユーザーにも公開されます。このガイドにローカルな変更があり、それがSteamワークショップに反映されていない場合、ボタンは黄色に変わります。",
+    "DOTA_GuideOverview_Title": "概要",
+    "DOTA_HeroGuide_ConfirmDelete_Title": "ガイド削除の確認",
+    "DOTA_HeroGuide_ConfirmDelete_Body": "本当にガイド\"{s:guide_name}\"を削除しますか？Steamワークショップに公開していた場合はそこからも削除されます。削除後は元に戻せません。",
+    "DOTA_HeroGuidePage_PublishAllHelp": "以前に公開されたヒーローガイドの変更をすべてSteamワークショップに反映します。ローカルでの変更がSteamワークショップに反映されていない場合、このボタンは黄色に変わります。",
+    "DOTA_HeroGuide_DeleteFailed_Title": "ガイド削除のエラー",
+    "DOTA_HeroGuide_DeleteFailed_Body": "ガイドの削除中にエラーが発生しました。再度お試しください。",
+    "DOTA_HeroGuide_DeleteFailed_DoNotOwn_Body": "自分が作成したガイドのみ削除できます。",
+    "DOTA_HeroGuideViewer_SubTitleOriginalCreator": "by {g:dota_persona:nl:guide_original_creator}, {t:s:M:updated_date}更新"
 }
