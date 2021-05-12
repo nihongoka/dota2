@@ -4694,5 +4694,6 @@
     "npe_wizard_learn_tier_one_intro": "5人のヒーロー、マップ、そして夢。",
     "npe_wizard_learn_feature_glossary": "もし質問があって、まだ私が答えていない場合は、こちらをご覧ください。",
     "npe_wizard_learn_feature_demo_hero": "いろいろなヒーローを試してお気に入りを見つけましょう。気に入らないものは無視して構いません。",
-    "DOTA_KillcamDamage_Alert": "<font color='%s3'>%s4</font>から%s1ダメージ受けました"
+    "DOTA_KillcamDamage_Alert": "<font color='%s3'>%s4</font>から%s1ダメージ受けた",
+    "DOTA_KillcamDamage_Alert_Attacks": "<font color='%s3'>%s4</font>から%s1攻撃ダメージを受けた"
 }
