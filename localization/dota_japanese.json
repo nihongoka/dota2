@@ -4408,7 +4408,7 @@
     "DOTA_TeamFanContent_TierNotAvailable": "まだ購入できません",
     "DOTA_TeamFanContent_TeamChatWheel": "{g:dota_team_name:team_id} ファンコンテンツ",
     "DOTA_DPCFanContent_FeaturedTeam": "注目のチーム",
-    "DOTA_DPC_TeamSupportLevelPopupText": "{g:dota_team_name:teamid} {s:team_tier}サポーター",
+    "DOTA_DPC_TeamSupportLevelPopupText": "{g:dota_team_name:team_id} {s:team_tier}サポーター",
     "DOTA_TeamFanContent_ChatWheelRewardSubtitle": "チームのチャットホイールは自動的に有効になり、DPCシーズン中使用できます。",
     "dota_lobby_type_general": "ノーマル",
     "dota_lobby_type_practice_game_mode_custom": "カスタムゲーム",
@@ -4481,5 +4481,8 @@
     "DOTA_Hero_Guide_Name": "{s:guide_name}",
     "league_location_1": "北アメリカ",
     "league_location_2": "南アメリカ",
-    "league_location_3": "西ヨーロッパ"
+    "league_location_3": "西ヨーロッパ",
+    "league_location_5": "中国",
+    "league_location_6": "東南アジア",
+    "league_location_4": "東ヨーロッパ"
 }
