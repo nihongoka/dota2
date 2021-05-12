@@ -4304,7 +4304,7 @@
     "LoadoutSlot_Undying_Flesh_Golem": "Flesh Golem",
     "LoadoutSlot_Venomancer_StingerLimbs": "針腕",
     "LoadoutSlot_Venomancer_PlagueWard": "Plague Wards",
-    "LoadoutSlot_Warlock_Golem": "Golem",
+    "LoadoutSlot_Warlock_Golem": "ゴーレム",
     "LoadoutSlot_Warlock_Lantern": "ランタン",
     "LoadoutSlot_WitchDoctor_DeathWard": "Death Ward",
     "LoadoutSlot_Techies_Sign": "標",
@@ -4687,5 +4687,11 @@
     "DOTA_DPC_FightingStat": "このチームがどれくらい戦闘をしているかを示します。",
     "DOTA_DPC_FarmingStat": "このチームがどれくらいクリープでファームをしているかを示します。",
     "DOTA_DPC_TopHeroes": "過去4ヶ月で最も成功しているヒーロー",
-    "DOTA_DPCLeagueName": "{s:league_name}"
+    "DOTA_DPCLeagueName": "{s:league_name}",
+    "npe_wizard_learn_tier_one_desc": "まずは基本的なことから始めましょう。これがティア1です。ゲームのコア・メカニクスと一般的なコンセプトのクラッシュ・コースに飛び込んでください。",
+    "npe_wizard_learn_feature_video": "読むのにはうんざりですか？これは絵を読むようなものです。私はこれを「視聴」と呼んでいます。",
+    "npe_wizard_learn_feature_watch_game": "見て学びましょう。他のプレイヤーを見ることで、たくさんの新しい戦略を得ることができます。",
+    "npe_wizard_learn_tier_one_intro": "5人のヒーロー、マップ、そして夢。",
+    "npe_wizard_learn_feature_glossary": "もし質問があって、まだ私が答えていない場合は、こちらをご覧ください。",
+    "npe_wizard_learn_feature_demo_hero": "いろいろなヒーローを試してお気に入りを見つけましょう。気に入らないものは無視して構いません。"
 }
