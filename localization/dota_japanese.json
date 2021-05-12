@@ -4476,5 +4476,7 @@
     "DOTA_HeroGuide_DeleteFailed_Title": "ガイド削除のエラー",
     "DOTA_HeroGuide_DeleteFailed_Body": "ガイドの削除中にエラーが発生しました。再度お試しください。",
     "DOTA_HeroGuide_DeleteFailed_DoNotOwn_Body": "自分が作成したガイドのみ削除できます。",
-    "DOTA_HeroGuideViewer_SubTitleOriginalCreator": "by {g:dota_persona:nl:guide_original_creator}, {t:s:M:updated_date}更新"
+    "DOTA_HeroGuideViewer_SubTitleOriginalCreator": "by {g:dota_persona:nl:guide_original_creator}, {t:s:M:updated_date}更新",
+    "DOTA_HeroGuide_NameLabel": "ガイド名",
+    "DOTA_Hero_Guide_Name": "{s:guide_name}"
 }
