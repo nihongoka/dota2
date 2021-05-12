@@ -1184,7 +1184,7 @@
     "DOTA_ChatTarget_Format_Whisper": "{s:persona}",
     "DOTA_ChatTarget_Prompt_Whisper": "To [{s:persona}]:",
     "DOTA_ChatTarget_Whisper": "ウィスパー",
-    "DOTA_ChatCommand_Whisper_Description": "フレンドと内緒話をします。",
+    "DOTA_ChatCommand_Whisper_Description": "フレンドとささやきをします。",
     "DOTA_ChatCommand_Reply_Description": "友達のささやきに返答します。",
     "DOTA_RP_INIT": "メインメニュー",
     "DOTA_RP_COACHING": "%s1: コーチ中",
@@ -4592,5 +4592,13 @@
     "DOTA_SeasonRank_Tooltip_Text1": "あなたのスキルはランクメダルによって反映されます。",
     "DOTA_SeasonRank_Tooltip_Text4": "各地域の強いプレイヤーは、ランクメダルの下にリーダーボードの順位が表示されます。",
     "DOTA_Click_Learn_More": "ここをクリックして詳しく見る",
-    "dota_view_teamprofile": "チームのプロフィールを見る"
+    "dota_view_teamprofile": "チームのプロフィールを見る",
+    "DOTA_ChatCommand_InviteToParty_Name": "Invite to Party",
+    "DOTA_ChatCommand_Help_Name": "Help",
+    "DOTA_ChatCommand_Help_Description": "コマンドのヘルプを表示します。",
+    "DOTA_ChatCommand_InviteToParty": "partyinvite",
+    "DOTA_ChatCommand_Help": "?",
+    "DOTA_ChatCommand_InviteToParty_Description": "フレンドをパーティーに招待します。",
+    "DOTA_ChatCommand_LeaveParty": "leaveparty",
+    "DOTA_ChatCommand_LeaveParty_Name": "Leave Party"
 }
