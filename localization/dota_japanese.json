@@ -4695,5 +4695,14 @@
     "npe_wizard_learn_feature_glossary": "もし質問があって、まだ私が答えていない場合は、こちらをご覧ください。",
     "npe_wizard_learn_feature_demo_hero": "いろいろなヒーローを試してお気に入りを見つけましょう。気に入らないものは無視して構いません。",
     "DOTA_KillcamDamage_Alert": "<font color='%s3'>%s4</font>から%s1ダメージ受けた",
-    "DOTA_KillcamDamage_Alert_Attacks": "<font color='%s3'>%s4</font>から%s1攻撃ダメージを受けた"
+    "DOTA_KillcamDamage_Alert_Attacks": "<font color='%s3'>%s4</font>から%s1攻撃ダメージを受けた",
+    "dota_tip_universal_65": "タワー、エンシェント、ファウンテン、自陣営のアウトポストは、透明のユニットを可視化する「トゥルーサイト」を持っています。バラックはトゥルーサイトを持っていません。",
+    "dota_tip_universal_70": "サイレンスを受けている間はアビリティを使うことができません。",
+    "dota_tip_universal_63": "ジャングルクリープはレーンクリープよりも、得られるゴールドや経験値が大幅に少ないです。",
+    "dota_tip_universal_64": "バックドアプロテクションが発動中の建物の周りには青いバリアが現れ、ヘルスバーの横に盾のアイコンが表示されます。",
+    "dota_tip_universal_66": "シージクリープはタワーに大きなダメージを与え、できるだけ建造物を攻撃します。",
+    "dota_tip_universal_67": "特定のヒーローに苦戦している場合は、そのヒーローを使ってみましょう。弱点がすぐにわかります。",
+    "dota_tip_universal_68": "Tier1のタワーは3アーマー、それ以外のタワーは5アーマーを近くの味方に与えます。",
+    "dota_tip_universal_69": "ミュートを受けている間はアイテムを使うことができません。",
+    "dota_tip_universal_71": "ブレイクを受けている間はパッシブアビリティが発動しません。"
 }
