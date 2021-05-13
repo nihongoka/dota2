@@ -4833,5 +4833,6 @@
     "DOTA_Guild_Result_GuildInvite_AlreadyInGuild": "既にギルドに所属しているため、他のギルドに加入できません。",
     "DOTA_Guild_Result_NotAMember": "あなたはこのギルドのメンバーではありません。",
     "DOTA_Guild_Result_TargetNotAMember": "選択したアカウントはギルドのメンバーではありません。",
-    "DOTA_Guild_Role_Order_Error_Header": "役職の順序が変更できませんでした"
+    "DOTA_Guild_Role_Order_Error_Header": "役職の順序が変更できませんでした",
+    "DOTA_Guild_Result_AlreadyAMember": "ユーザーは既にこのギルドのメンバーです。"
 }
