@@ -4837,5 +4837,7 @@
     "DOTA_Guild_Result_AlreadyAMember": "ユーザーは既にこのギルドのメンバーです。",
     "DOTA_Guild_Result_InvalidInviter": "この招待は既に無効になりました。",
     "DOTA_Guild_Result_Role_OrderInvalid": "リクエストした役職の順序は無効です。",
-    "DOTA_Guild_Result_NoPermissions": "あなたはギルドでこの操作をする権限が与えられていません。"
+    "DOTA_Guild_Result_NoPermissions": "あなたはギルドでこの操作をする権限が与えられていません。",
+    "DOTA_Guild_Result_CantRemoveDefaultRole": "ギルドには少なくとも2つの役職が必要です。",
+    "DOTA_Guild_Result_InvalidName": "その名前は無効です。"
 }
