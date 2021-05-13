@@ -4761,5 +4761,9 @@
     "DOTA_GuildDetails_FailedToLoad": "ギルド情報が読み込めませんでした",
     "DOTA_TeamNeutralItemState_InTeamStash": "利用可能",
     "DOTA_GuildChatMessageError_Fail": "チャットルームを退出したため、ギルドチャットにメッセージを送れません。<a href=\"event:DOTAJoinGuildSteamChatGroup( %s1 )\">ここをクリック</a>してチャットに再び参加する。",
-    "DOTA_GuildCreate_SuccessNoLogo_Title": "ギルドを作成しました"
+    "DOTA_GuildCreate_SuccessNoLogo_Title": "ギルドを作成しました",
+    "DOTA_Guild_LogoUploadFailed": "ギルドロゴのアップロードに失敗しました。",
+    "DOTA_GuildDetails_JoinSteamChatGroup": "Steamのチャットグループに参加",
+    "DOTA_Guild_SelectLogo": "ロゴを選択",
+    "DOTA_GuildSearch_InProgress": "ギルドを検索中..."
 }
