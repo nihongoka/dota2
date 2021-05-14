@@ -4909,7 +4909,7 @@
     "DOTA_Guilds_Tier_LeaderboardTime": "報酬は{t:s:start_timestamp}から{t:s:end_timestamp}までのギルドパーセンタイルに基づいています。",
     "DOTA_RecentGames_TimeStamp": "日時",
     "DOTA_Guilds_Home_GuildLeaderboard": "ギルドリーダーボード",
-    "DOTA_Guilds_Home_GuildChallenge_RequirementLabel": "ギルドメンバー3人以上のパーティーでプレイする必要があります",
+    "DOTA_Guilds_Home_GuildChallenge_RequirementLabel": "ギルドメンバー3人以上のパーティーでプレイする必要があります。",
     "DOTA_GuildTier_Formatted": "%s1ティア",
     "DOTA_GuildTierRewards_Formatted": "%s1ティアリワード",
     "DOTA_GuildTierRewards_PercentileRange": "{D:o:from_percentile} - {D:o:to_percentile} パーセンタイル",
@@ -4928,5 +4928,12 @@
     "DOTA_Guilds_Home_GuildChallenge_RewardLabelGP": "ギルドポイント",
     "DOTA_GuildPoints": "ギルドポイント",
     "DOTA_GuildPointsIncrease": "+{d:guild_points}GP",
-    "DOTA_Guilds_Home_GuildChallenge_RewardLabelSSG": "サイドショップゴールド"
+    "DOTA_Guilds_Home_GuildChallenge_RewardLabelSSG": "サイドショップゴールド",
+    "DOTA_GuildContracts_MyActiveContracts": "自分のコントラクト",
+    "DOTA_GuildContracts_ContractBoard": "コントラクトボード",
+    "DOTA_GuildContracts_ContractSlotHeader": "スロット {d:contract_slot_id}",
+    "DOTA_GuildContracts_GuildPoints": "GP",
+    "DOTA_GuildContracts_BattlePoints": "BP",
+    "DOTA_GuildContracts_HelpText": "コントラクトボードからコントラクトを有効なスロットにドラッグ&ドロップしましょう。",
+    "DOTA_Guilds_Countdown_Refreshing": "更新中"
 }
