@@ -4902,5 +4902,9 @@
     "DOTA_Guilds_Tier_Name": "{s:tier_name}ティア",
     "DOTA_Guilds_Tier_Rewards": "%s1ティアの報酬",
     "DOTA_Guilds_Tier_Percentile": "%s1 パーセンタイル",
-    "DOTA_Guilds_Tier_DateRange": "{t:s:start_timestamp} - {t:s:end_timestamp}"
+    "DOTA_Guilds_Tier_DateRange": "{t:s:start_timestamp} - {t:s:end_timestamp}",
+    "DOTA_Guilds_Tier_CurrentStanding": "現在の順位",
+    "DOTA_Guilds_Tier_ViewAllRewards": "すべての報酬をみる",
+    "DOTA_Guilds_Tier_LeaderboardNext": "報酬は {t:s:end_timestamp} の週間リーダーボードで更新されます。",
+    "DOTA_Guilds_Tier_LeaderboardTime": "報酬は{t:s:start_timestamp}から{t:s:end_timestamp}までのギルドパーセンタイルに基づいています。"
 }
