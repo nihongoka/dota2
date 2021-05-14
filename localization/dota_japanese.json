@@ -4889,5 +4889,6 @@
     "DOTA_Guild_DemoteSelfAdmin_Body": "あなたは唯一のギルドリーダーです。他のプレイヤーをギルドリーダーに昇格させるまでは、自分を降格させることはできません。",
     "DOTA_Guild_Feed_Joined_Invite": "{g:dota_persona:ng:target_account_id}が{g:dota_persona:ng:requester_account_id}の招待より加入しました。",
     "DOTA_Guild_Feed_ChallengeComplete": "ギルドがチャレンジを達成しました。",
-    "DOTA_Guild_Result_TagInvalid": "そのタグは無効です。"
+    "DOTA_Guild_Result_TagInvalid": "そのタグは無効です。",
+    "DOTA_Guild_Feed_WeeklyLeaderboard": "今週のパーセンタイルは{d:percentile}で、1555位でした。"
 }
