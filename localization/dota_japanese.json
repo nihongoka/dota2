@@ -5051,5 +5051,6 @@
     "DOTA_Guilds_LoadingData": "ギルド情報をロード中...",
     "DOTA_Guilds_FailedToLoadData": "ギルド情報が読み込めません。再度お試しください。",
     "DOTA_Guilds_NoLongerMember": "あなたはもうこのギルドのメンバーではありません。",
-    "DOTA_Guilds_GuildDetails_Guild_Chat": "ギルドチャット"
+    "DOTA_Guilds_GuildDetails_Guild_Chat": "ギルドチャット",
+    "DOTA_ChallengeDesc_LastHits": "<span class='ChallengeValue'>%s1</span>以上ラストヒットを取る。"
 }
