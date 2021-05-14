@@ -4839,5 +4839,6 @@
     "DOTA_Guild_Result_Role_OrderInvalid": "リクエストした役職の順序は無効です。",
     "DOTA_Guild_Result_NoPermissions": "あなたはギルドでこの操作をする権限が与えられていません。",
     "DOTA_Guild_Result_CantRemoveDefaultRole": "ギルドには少なくとも2つの役職が必要です。",
-    "DOTA_Guild_Result_InvalidName": "その名前は無効です。"
+    "DOTA_Guild_Result_InvalidName": "その名前は無効です。",
+    "dota_community_guilds": "自分のギルド"
 }
