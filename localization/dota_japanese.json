@@ -4954,7 +4954,7 @@
     "DOTA_Guilds_Status_GuildInvites": "ギルド招待",
     "DOTA_GuildChallengeDesc_Deward": "Observer Wardを<span class='ChallengeValue'>%s1</span>本デワードする。",
     "DOTA_GuildRoles_Info_Description": "ギルドメンバーには、ギルド情報を変更するための様々な権限を持つことができる役職が割り当てられています。 適切な権限を持っている場合、役職の順序変更、追加、削除、編集ができます。",
-    "DOTA_Guild_RequiredRank_Info_Header": "必要なランク",
+    "DOTA_Guild_RequiredRank_Info_Header": "要求ランク",
     "DOTA_Guild_RequiredRank_Info_Description1": "ギルドが招待を許可するような設定の場合、ギルド加入を希望するプレイヤーは、指定されたランク以上であることが要求されます。<br><br>ギルドメンバーから明示的に招待されたプレイヤーは、要求されたランクを満たす必要はありません。",
     "DOTA_Guilds_Members_MemberListHeader": "メンバー {d:member_count}/50",
     "DOTA_Guilds_Members_Player": "プレイヤー",
@@ -4982,5 +4982,8 @@
     "DOTA_Guilds_Status_JoinAGuild": "ギルドに加入",
     "DOTA_Guilds_Browse_FindAGuild": "ギルドを探す",
     "DOTA_Guilds_Browse_GuildTag": "ギルドタグ",
-    "DOTA_Guilds_Browse_Search": "検索"
+    "DOTA_Guilds_Browse_Search": "検索",
+    "DOTA_GuildChallengeDesc_Creep_Kills_By_Controlled_Units": "<span class='ChallengeValue'>コントロール下のユニット</span>でクリープを<span class='ChallengeValue'>%s1</span>体キルする。",
+    "DOTA_GuildChallengeDesc_KillFromInvis": "透明状態から敵ヒーローを<span class='ChallengeValue'>%s1</span>体キルする。",
+    "DOTA_GuildChallengeDesc_RevealInvisible": "透明なヒーローを看破して<span class='ChallengeValue'>%s1</span>体キルする。"
 }
