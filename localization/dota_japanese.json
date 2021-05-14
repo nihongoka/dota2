@@ -4994,7 +4994,7 @@
     "DOTA_GuildChallengeDesc_KillCourier": "敵の<span class='ChallengeValue'>クーリエ</span>を<span class='ChallengeValue'>%s1</span>体キルする。",
     "DOTA_GuildChallengeDesc_PickupRunes": "ボトルに<span class='ChallengeValue'>%s1</span>回ルーンを入れる。",
     "DOTA_GuildChallengeDesc_Assists": "<span class='ChallengeValue'>%s1</span>アシスト取る。",
-    "DOTA_GuildChallengeDesc_KillRoshan": "<font color='#ffffff'>%s1</font>回Roshanを倒す。",
+    "DOTA_GuildChallengeDesc_KillRoshan": "<font color='#ffffff'>%s1</font>回Roshanを倒す",
     "DOTA_Guilds_Perks_GuildLevel": "ギルドレベル",
     "DOTA_Guilds_Perks_TopContributors": "一番の貢献者",
     "DOTA_Guilds_Perks_Rewards": "報酬",
