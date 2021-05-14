@@ -4888,7 +4888,19 @@
     "DOTA_Guild_DemoteSelfAdmin_Header": "自分自身を降格できません",
     "DOTA_Guild_DemoteSelfAdmin_Body": "あなたは唯一のギルドリーダーです。他のプレイヤーをギルドリーダーに昇格させるまでは、自分を降格させることはできません。",
     "DOTA_Guild_Feed_Joined_Invite": "{g:dota_persona:ng:target_account_id}が{g:dota_persona:ng:requester_account_id}の招待より加入しました。",
-    "DOTA_Guild_Feed_ChallengeComplete": "ギルドがチャレンジを達成しました。",
+    "DOTA_Guild_Feed_ChallengeComplete": "ギルドのチャレンジを達成されました。",
     "DOTA_Guild_Result_TagInvalid": "そのタグは無効です。",
-    "DOTA_Guild_Feed_WeeklyLeaderboard": "今週のパーセンタイルは{d:percentile}で、1555位でした。"
+    "DOTA_Guild_Feed_WeeklyLeaderboard": "今週のパーセンタイルは{d:percentile}で、1555位でした。",
+    "DOTA_Guild_Context_KickPlayer": "プレイヤーを追放",
+    "DOTA_Guild_Context_LeaveGuild": "ギルドを脱退",
+    "DOTA_Guilds_HomePage": "ホーム",
+    "DOTA_Guilds_MembersPage": "メンバー",
+    "DOTA_Guilds_ContractsPage": "コントラクト",
+    "DOTA_Guilds_LeaderboardsPage": "{s:guild_region_name}のリーダーボード",
+    "DOTA_Guilds_RewardsPage": "報酬",
+    "DOTA_Guilds_DetailsPage": "詳細",
+    "DOTA_Guilds_Tier_Name": "{s:tier_name}ティア",
+    "DOTA_Guilds_Tier_Rewards": "%s1ティアの報酬",
+    "DOTA_Guilds_Tier_Percentile": "%s1 パーセンタイル",
+    "DOTA_Guilds_Tier_DateRange": "{t:s:start_timestamp} - {t:s:end_timestamp}"
 }
