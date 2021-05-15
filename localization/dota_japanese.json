@@ -5058,5 +5058,15 @@
     "DOTA_ChallengeDesc_DoubleHeroStuns": "<span class='ChallengeValue'>%s1</span>回、<span class='ChallengeValue'>2体以上</span>のヒーローを同時にスタンする。",
     "DOTA_ChallengeDesc_DenyCreeps": "味方クリープを<span class='ChallengeValue'>%s1</span>体ディナイする。",
     "DOTA_ChallengeDesc_KillWhileRooted": "<span class='ChallengeValue'>ルート中</span>の敵ヒーローを<span class='ChallengeValue'>%s1</span>体キルする。",
-    "DOTA_ChallengeDesc_WinAsHero": "<span class='ChallengeValue'>%s1</span>で試合に勝利する。"
+    "DOTA_ChallengeDesc_WinAsHero": "<span class='ChallengeValue'>%s1</span>で試合に勝利する。",
+    "DOTA_GuildLeaderboardPerk_25_shards": "シルバーギルドシャード報酬",
+    "DOTA_GuildLeaderboardPerk_50_shards": "ゴールドギルドシャード報酬",
+    "DOTA_GuildLeaderboardPerk_75_shards": "プラチナギルドシャード報酬",
+    "DOTA_Plus_RewardLog_WeeklyGuild": "{s:guild_tier_name} パーセンタイルギルド報酬",
+    "DOTA_GuildTier_0": "ブロンズ",
+    "DOTA_GuildTier_1": "シルバー",
+    "DOTA_GuildTier_2": "ゴールド",
+    "DOTA_GuildTier_3": "プラチナ",
+    "DOTA_Guilds_ClaimRewards": "ウィークリーリワードを受け取る",
+    "DOTA_Plus_RoleAssistant": "ロールアシスタント"
 }
