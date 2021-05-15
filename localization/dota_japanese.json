@@ -5068,5 +5068,10 @@
     "DOTA_GuildTier_2": "ゴールド",
     "DOTA_GuildTier_3": "プラチナ",
     "DOTA_Guilds_ClaimRewards": "ウィークリーリワードを受け取る",
-    "DOTA_Plus_RoleAssistant": "ロールアシスタント"
+    "DOTA_Plus_RoleAssistant": "ロールアシスタント",
+    "GuildsLeaderboard_LeaderboardColumn_Position": "順位",
+    "GuildsLeaderboard_LeaderboardColumn_Points": "ポイント",
+    "GuildsLeaderboard_LeaderboardColumn_Percentile": "パーセンタイル",
+    "GuildsLeaderboard_LeaderboardColumn_PercentileDelta": "先週から",
+    "DOTA_UnshownRewardsMore": "+{d:num_unshown_rewards} MORE"
 }
