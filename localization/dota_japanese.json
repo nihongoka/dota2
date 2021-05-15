@@ -5154,5 +5154,13 @@
     "DOTA_CoachMenu_CoachActiveAsCoach_JoinLobby": "試合に参加する",
     "DOTA_CoachMenu_CoachActiveAsStudent_Title": "コーチング有効",
     "DOTA_CoachMenu_CoachActiveAsStudent_Text": "コーチと話すにはコーチングチャットチャンネルを使用してください。",
-    "DOTA_CoachMenu_CoachActiveAsCoach_Text": "生徒と話すにはコーチングチャットチャンネルを使用してください。"
+    "DOTA_CoachMenu_CoachActiveAsCoach_Text": "生徒と話すにはコーチングチャットチャンネルを使用してください。",
+    "DOTA_RequestCoach_Requirements": "条件を満たしたプレイヤーがコーチします:",
+    "DOTA_RequestCoach_BehaviorScoreRequirement": "行動スコア{d:required_coach_behavior_score}以上",
+    "DOTA_RequestCoach_RankRequirement": "ランク{s:required_coach_rank}以上",
+    "DOTA_RequestCoach_PlayerRankRequirement": "少なくともあなたより星が3つ多い（キャリブレーション済みの場合）",
+    "DOTA_RequestCoach_StopText": "あなたとコーチはいつでもコーチングを終了する事ができます。",
+    "DOTA_RequestCoach_StartSearching": "検索を開始する",
+    "DOTA_RequestCoach_Failed": "コーチをリクエストできません",
+    "DOTA_AcceptCoachingSession_Title": "コーチのボランティア"
 }
