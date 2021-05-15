@@ -4140,7 +4140,7 @@
     "DOTA_Item_Ping_OnCourierCooldown": "%s1%s2 %s3クーリエ内, クールダウン中 (%s4 seconds remain)",
     "DOTA_Item_Ping_NameExtended": "%s1 ( <font color='%s2'>%s3</font> )",
     "DOTA_Item_Ping_Neutral_Offer": "欲しい人いますか？ %s1 %s4",
-    "DOTA_Item_Ping_Neutral_Request": "%s3, 私に譲ってくれませんか %s1 %s4",
+    "DOTA_Item_Ping_Neutral_Request": "%s3 私に譲ってくれませんか %s1 %s4",
     "DOTA_Item_Ping_Ready": "%s1%s2 %s3準備完了",
     "DOTA_Item_Black_King_Bar_Duration": "%s1 (%s2秒間)",
     "DOTA_Item_Charge_StackableDescription": " (x%s1)",
