@@ -5138,5 +5138,21 @@
     "DOTA_CoachControls_FriendWantsToCoach": "フレンドがコーチを依頼しています",
     "DOTA_CoachControls_Decline": "拒否",
     "DOTA_CoachControls_SendingResponse": "レスポンスを送信しています。",
-    "DOTA_CoachControls_ChatHint": "Tabキーでコーチング、味方、全体を切り替えられます。"
+    "DOTA_CoachControls_ChatHint": "Tabキーでコーチング、味方、全体を切り替えられます。",
+    "DOTA_RequestCoach_Text": "経験豊富なDotaプレイヤーからアドバイスを受けましょう。",
+    "DOTA_CoachMenu_BecomeCoachHelp": "ヘルプが必要なユーザーを支援することで、次世代のDotaプレイヤーを育てることができます。<br><br>生徒から良い評価を得ることでコーチレートを獲得することができます。",
+    "DOTA_CoachMenu_BecomeCoachButton": "プレイヤーを見る",
+    "DOTA_CoachMenu_BecomeCoachStudentsAvailable": "コーチング可能",
+    "DOTA_CoachMenu_RequestCoachTitle": "プライベートコーチを受ける",
+    "DOTA_CoachMenu_RequestCoachHelp": "熟練のDotaプレイヤーにヘルプを依頼する事ができます。<br><br>コーチは、ヘルプを求めているプレイヤーのリストを見て、コーチするか判断します。",
+    "DOTA_CoachMenu_RequestCoachText": "助けが必要ですか？経験豊富なDotaプレイヤーから個人的なアシスタントを受けることができます。",
+    "DOTA_CoachMenu_RequestCoachButton": "コーチを依頼する",
+    "DOTA_CoachMenu_PlayWithCoachText": "コーチとプレイする",
+    "DOTA_CoachMenu_CoachActive_FinishSession": "セッションを終了する",
+    "DOTA_CoachMenu_LookingForCoach_Title": "コーチを探しています",
+    "DOTA_CoachMenu_CoachActiveAsCoach_Title": "プライベートコーチ中",
+    "DOTA_CoachMenu_CoachActiveAsCoach_JoinLobby": "試合に参加する",
+    "DOTA_CoachMenu_CoachActiveAsStudent_Title": "コーチング有効",
+    "DOTA_CoachMenu_CoachActiveAsStudent_Text": "コーチと話すにはコーチングチャットチャンネルを使用してください。",
+    "DOTA_CoachMenu_CoachActiveAsCoach_Text": "生徒と話すにはコーチングチャットチャンネルを使用してください。"
 }
