@@ -5104,5 +5104,20 @@
     "DOTA_Coach3": "このパーティーをコーチする",
     "DOTA_Lobby_Leave_Coach": "コーチをやめる",
     "DOTA_CoachingRequest_LoadingMatchDetails": "試合の詳細をロード中",
-    "DOTA_CoachingRequest_FailedToLoadMatchDetails": "試合の詳細をロードできませんでした"
+    "DOTA_CoachingRequest_FailedToLoadMatchDetails": "試合の詳細をロードできませんでした",
+    "DOTA_StudentsOther": "他の生徒",
+    "DOTA_Student_Desc2": "聞きたい他の生徒を選択",
+    "DOTA_Coach_Help": "ワールド上やミニマップ上でAltキー+クリックすることでピン、HUDの要素をAltキー+クリックすることでハイライトすることができます。また、ワールド上やミニマップ上をCtrlキー+クリックすることで線を描くことが出来ます。\n\n「生徒の視界を切り替える」で生徒の視界を変更することが出来ます。\n\nボイスチャットやテキストチャットは生徒のみに送信されます。",
+    "DOTA_MuteChat": "チャットを全てミュート",
+    "DOTA_SpectatorCoach_ViewToggle": "生徒の視界を切り替える",
+    "DOTA_Student_Desc": "聞きたいコーチを選択",
+    "DOTA_Students": "生徒",
+    "DOTA_Coach_Desc": "視点を選択",
+    "DOTA_CoachList": "コーチ: %s1",
+    "DOTA_Student_Help": "チーム内の他のプレイヤーと話すには、チャット入力欄下にある「コーチのみに送信」のチェックを外してください。仲間からのチャットやボイスチャットをブロックするには、上のボックスで相手の名前のチェックを外してください。\n\n自分のボイスチャットは、コーチと仲間のプレイヤーにしか聞こえません。チャットホイールメッセージは、チーム全体で見ることができます。",
+    "DOTA_Coach_Chat": "コーチにのみ送信",
+    "DOTA_CoachControls_Draw": "描く",
+    "DOTA_CoachControls_Ping": "ピン",
+    "DOTA_CoachControls_VoiceChat": "ボイス切り替え",
+    "DOTA_CoachControls_TextChat": "テキストチャット"
 }
