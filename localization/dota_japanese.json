@@ -5094,5 +5094,15 @@
     "DOTA_PlayersLookingForCoach_Status": "ステータス",
     "DOTA_PlayersLookingForCoach_Waiting": "待機中",
     "DOTA_PlayersLookingForCoach_StartCoaching": "コーチを開始する",
-    "DOTA_PlayersLookingForCoach_Dashboard": "ダッシュボード"
+    "DOTA_PlayersLookingForCoach_Dashboard": "ダッシュボード",
+    "DOTA_Coach": "コーチ",
+    "DOTA_Coach2": "コーチ",
+    "DOTA_Coaches": "コーチ",
+    "DOTA_CoachesOther": "他のコーチ",
+    "DOTA_CoachNone": "コーチなし",
+    "DOTA_Lobby_Join_Coach": "このチームをコーチする",
+    "DOTA_Coach3": "このパーティーをコーチする",
+    "DOTA_Lobby_Leave_Coach": "コーチをやめる",
+    "DOTA_CoachingRequest_LoadingMatchDetails": "試合の詳細をロード中",
+    "DOTA_CoachingRequest_FailedToLoadMatchDetails": "試合の詳細をロードできませんでした"
 }
