@@ -4345,7 +4345,7 @@
     "PartySearch_Button_Active": "パーティーに招待中...",
     "party_block_all": "フレンドリスト外からの招待をブロックする",
     "DOTA_InvitedToParty": "%s1があなたをパーティーに招待しています。",
-    "DOTA_InvitedToPartyHeader": "パーティーへの招待",
+    "DOTA_InvitedToPartyHeader": "パーティー招待",
     "DOTA_Invite_Accept": "承認",
     "DOTA_Invite_Decline": "拒否",
     "DOTA_Invite_Cancel": "キャンセル",
@@ -5162,5 +5162,9 @@
     "DOTA_RequestCoach_StopText": "あなたとコーチはいつでもコーチングを終了する事ができます。",
     "DOTA_RequestCoach_StartSearching": "検索を開始する",
     "DOTA_RequestCoach_Failed": "コーチをリクエストできません",
-    "DOTA_AcceptCoachingSession_Title": "コーチのボランティア"
+    "DOTA_AcceptCoachingSession_Title": "コーチのボランティア",
+    "DOTA_PartyInvite_Description": "{g:dota_persona:b:inviter}があなたをパーティーに招待しています。",
+    "DOTA_PartyInvite_Title": "パーティー招待",
+    "DOTA_PartyInvite_Expired": "招待が取り消されたか、無効になりました。",
+    "party_pending_tooltip_title": "パーティー招待"
 }
