@@ -5171,7 +5171,9 @@
     "DOTA_ChatHelp_NameFormat": "{s:command_name}:",
     "DOTA_ChatHelp_CommandFormat": "/{s:command}",
     "DOTA_Chat_JoinedParty": "パーティーに加入: {s:party_members}",
-    "DOTA_Chat_LeftParty": "パーティーが解散済みです。",
+    "DOTA_Chat_LeftParty": "パーティーが解散されました。",
     "DOTA_Chat_MemberJoinedParty": "プレイヤーがパーティーに加入: {s:party_members}",
-    "DOTA_Chat_Item_Spotted": "<font color='%s1'>%s2</font> がここに落ちています。"
+    "DOTA_Chat_Item_Spotted": "<font color='%s1'>%s2</font> がここに落ちています。",
+    "DOTA_Chat_RequestedToJoinParty": "加入リクエスト: {s:party_members}",
+    "DOTA_Chat_MemberLeftParty": "プレイヤーがパーティーから脱退: {s:party_members}"
 }
