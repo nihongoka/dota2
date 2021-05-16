@@ -5166,5 +5166,12 @@
     "DOTA_PartyInvite_Description": "{g:dota_persona:b:inviter}があなたをパーティーに招待しています。",
     "DOTA_PartyInvite_Title": "パーティー招待",
     "DOTA_PartyInvite_Expired": "招待が取り消されたか、無効になりました。",
-    "party_pending_tooltip_title": "パーティー招待"
+    "party_pending_tooltip_title": "パーティー招待",
+    "DOTA_Chat_InvitedToJoinParty": "招待: {s:party_members}",
+    "DOTA_ChatHelp_NameFormat": "{s:command_name}:",
+    "DOTA_ChatHelp_CommandFormat": "/{s:command}",
+    "DOTA_Chat_JoinedParty": "パーティーに加入: {s:party_members}",
+    "DOTA_Chat_LeftParty": "パーティーが解散済みです。",
+    "DOTA_Chat_MemberJoinedParty": "プレイヤーがパーティーに加入: {s:party_members}",
+    "DOTA_Chat_Item_Spotted": "<font color='%s1'>%s2</font> がここに落ちています。"
 }
