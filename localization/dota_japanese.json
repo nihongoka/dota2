@@ -5175,5 +5175,22 @@
     "DOTA_Chat_MemberJoinedParty": "プレイヤーがパーティーに加入: {s:party_members}",
     "DOTA_Chat_Item_Spotted": "<font color='%s1'>%s2</font> がここに落ちています。",
     "DOTA_Chat_RequestedToJoinParty": "加入リクエスト: {s:party_members}",
-    "DOTA_Chat_MemberLeftParty": "プレイヤーがパーティーから脱退: {s:party_members}"
+    "DOTA_Chat_MemberLeftParty": "プレイヤーがパーティーから脱退: {s:party_members}",
+    "DOTA_Chat_Rune_Bottle_Invisibility": "%s1がボトルの中に<font color='#8B008B'>インビジビリティ</font>ルーンを入れている。",
+    "DOTA_Chat_Rune_Bottle_DoubleDamage": "%s1がボトルの中に<font color='#82CAFF'>ダブルダメージ</font>ルーンを入れている。",
+    "DOTA_Chat_Rune_Bottle_Illusion": "%s1がボトルの中に<font color='#FFD700'>イリュージョン</font>ルーンを入れている。",
+    "DOTA_Chat_Rune_Bottle_Haste": "%s1がボトルの中に<font color='#F62817'>ヘイスト</font>ルーンを入れている。",
+    "DOTA_Chat_Rune_Bottle_Regeneration": "%s1がボトルの中に<font color='#7FFF00'>リジェネレーション</font>ルーンを入れている。",
+    "DOTA_Chat_Rune_Bottle_Arcane": "%s1がボトルの中に<font color='#FD3AFB'>アルケーン</font>ルーンを入れている。",
+    "DOTA_Chat_Rune_Bottle_Bounty": "%s1がボトルの中に<font color='#FF7800'>バウンティ</font>ルーンを入れている。",
+    "DOTA_Chat_Rune_Bottle_Water": "%s1がボトルの中に<font color='#74A7F7'>ウォーター</font>ルーンを入れている。",
+    "DOTA_Chat_Rune_DoubleDamage_Spotted": "<font color='#82CAFF'>ダブルダメージ</font>ルーンがある(%s1)。",
+    "DOTA_Chat_Rune_Haste_Spotted": "<font color='#F62817'>ヘイスト</font>ルーンがある(%s1)。",
+    "DOTA_Chat_Rune_Illusion_Spotted": "<font color='#FFD700'>イリュージョン</font>ルーンがある(%s1)。",
+    "DOTA_Chat_Rune_Invisibility_Spotted": "<font color='#8B008B'>インビジビリティ</font>ルーンがある(%s1)。",
+    "DOTA_Chat_Rune_Regeneration_Spotted": "<font color='#7FFF00'>リジェネレーション</font>ルーンがある(%s1)。",
+    "DOTA_Chat_Rune_Arcane_Spotted": "<font color='#FD3AFB'>アルケーン</font>ルーンがある(%s1)。",
+    "DOTA_Chat_Rune_Water_Spotted": "<font color='#74A7F7'>ウォーター</font>ルーンがある(%s1)。",
+    "DOTA_Chat_Rune_Bounty_Spotted": "<font color='#FF7800'>バウンティ</font>ルーンがある(%s1 %s2)。",
+    "DOTA_Chat_Rune_Neutral_Bounty_Spotted": "<font color='#FF7800'>バウンティ</font>ルーンがある(%s1)。"
 }
