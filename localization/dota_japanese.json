@@ -5244,5 +5244,10 @@
     "DOTA_DPCSchedule_SpoilerNeverUpdated": "最新の更新: なし",
     "DOTA_DPC_Spoilers": "ライブ:",
     "DOTA_Plus_PurchaseDialog_Buy_OneMonth": "1ヶ月購入",
-    "DOTA_Plus_PurchaseDialog_OneMonth_Detail": "<span class=\"price\">{s:one_month_price}</span>"
+    "DOTA_Plus_PurchaseDialog_OneMonth_Detail": "<span class=\"price\">{s:one_month_price}</span>",
+    "DOTA_Plus_ChatWheelEmoticonsTooltip": "Dota Plus会員のみチャットホイールに顔文字を割り当てることができます。",
+    "DOTA_Armory_Category_Emoticons": "絵文字",
+    "DOTA_PreviewEmoticons_Title": "絵文字",
+    "DOTA_BattlePassRewards_Emoticons": "絵文字",
+    "DOTA_Hotkeys_Tooltip_ToggleAutoattack": "一時的にオートアタック状態に切り替える。"
 }
