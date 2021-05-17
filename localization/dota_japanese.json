@@ -5287,5 +5287,6 @@
     "DOTA_DPCSchedule_WatchReplay": "リプレイを観る",
     "DOTA_DPCSchedule_ReplayPending": "ダウンロード中...",
     "DOTA_DPCSchedule_ReplayDownloading": "ダウンロード中 ({d:progress}%)",
-    "DOTA_DPCSchedule_ReplayDecompressing": "解凍中 ({d:progress}%)"
+    "DOTA_DPCSchedule_ReplayDecompressing": "解凍中 ({d:progress}%)",
+    "DOTA_Chat_AD_Ban": "<font color='#DDDDDD'>%s1</font>はバンされました。"
 }
