@@ -5249,5 +5249,6 @@
     "DOTA_Armory_Category_Emoticons": "絵文字",
     "DOTA_PreviewEmoticons_Title": "絵文字",
     "DOTA_BattlePassRewards_Emoticons": "絵文字",
-    "DOTA_Hotkeys_Tooltip_ToggleAutoattack": "一時的にオートアタック状態に切り替える。"
+    "DOTA_Hotkeys_Tooltip_ToggleAutoattack": "一時的にオートアタック状態に切り替える。",
+    "DOTA_EmoticonUpsell": "顔文字は特定のヒーローアイテムやリーグ戦のチケットを購入することでアンロックされます。"
 }
