@@ -5290,5 +5290,15 @@
     "DOTA_DPCSchedule_ReplayDecompressing": "解凍中 ({d:progress}%)",
     "DOTA_Chat_AD_Ban": "<font color='#DDDDDD'>%s1</font>はバンされました。",
     "dota_report_title_commend": "プレイヤーを称賛する",
-    "dota_report_title_report": "プレイヤーを報告する"
+    "dota_report_title_report": "プレイヤーを報告する",
+    "DOTA_Hero_Selection_AllPick_BanPhase_Label": "バンフェーズ",
+    "DOTA_Hero_Selection_AllPick_Banning_Nominate": "バンにノミネートするヒーローを1人選択してください",
+    "DOTA_Hero_Selection_AllPick_Banning_Nominated": "他のプレイヤーを待機中",
+    "DOTA_Hero_Selection_AllPick_PickPhase_Label": "ピックフェーズ",
+    "DOTA_Hero_Selection_AllPick_PickPhase_PickTwo": "チーム内で2人ヒーローを選択してください",
+    "DOTA_Hero_Selection_AllPick_PickPhase_PickOneMore": "チーム内でもう1人ヒーロー選択してください",
+    "DOTA_Hero_Selection_AllPick_PickPhase_PickOne": "チーム内で1人ヒーローを選択してください",
+    "DOTA_Hero_Selection_AllPick_PickPhase_WaitingRadiant": "Radiantを待機中",
+    "DOTA_Hero_Selection_AllPick_PickPhase_WaitingDire": "Direを待機中",
+    "DOTA_Hero_Selection_AllPick_StrategyPhase_Label": "作戦フェーズ"
 }
