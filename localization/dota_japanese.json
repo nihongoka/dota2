@@ -5320,5 +5320,20 @@
     "DOTA_StoreBrowse_Search_Placeholder": "キーワードで探す",
     "DOTA_StoreBrowse_Search_Results": "{d:search_result_count}件見つかりました",
     "DOTA_UI_default_build": "デフォルトガイド",
-    "Crate_Purchase_And_Open": "トレジャーを購入する"
+    "Crate_Purchase_And_Open": "トレジャーを購入する",
+    "DOTA_create_bot_practice_coop_desc": "マッチメイキングを利用して、他のプレイヤーと一緒にボットを相手します。<font color='#dd6666'>ノート:</font> 試合を棄権するとペナルティが課されます。",
+    "DOTA_Lobby_BotDifficulty": "ボットの強さ",
+    "DOTA_Lobby_BotScript": "ボットスプリクト",
+    "DOTA_Lobby_BotScriptURL": "ワークショップを見る",
+    "DOTA_Lobby_BotDifficulty_no_bot": "ボットなし",
+    "DOTA_Lobby_BotDifficulty_passive": "パッシブ",
+    "DOTA_Lobby_BotDifficulty_easy": "イージー",
+    "DOTA_Lobby_BotDifficulty_medium": "ミディアム",
+    "DOTA_Lobby_BotDifficulty_hard": "ハード",
+    "DOTA_Lobby_BotDifficulty_unfair": "アンフェア",
+    "DOTA_Lobby_BotDifficulty_npx": "ニュープレイヤー",
+    "DOTA_Lobby_BotTeam": "チームを選ぶ",
+    "DOTA_create_bot_practice_solo": "ソロ",
+    "DOTA_create_bot_practice_solo_desc": "ローカルゲームでボット相手に一人で練習します。マッチメイキングは使用せず、いつでも退出できます。",
+    "DOTA_create_bot_practice_coop": "協力"
 }
