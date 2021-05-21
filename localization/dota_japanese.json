@@ -5335,5 +5335,20 @@
     "DOTA_Lobby_BotTeam": "チームを選ぶ",
     "DOTA_create_bot_practice_solo": "ソロ",
     "DOTA_create_bot_practice_solo_desc": "ローカルゲームでボット相手に一人で練習します。マッチメイキングは使用せず、いつでも退出できます。",
-    "DOTA_create_bot_practice_coop": "協力"
+    "DOTA_create_bot_practice_coop": "協力",
+    "DOTA_Plus_RewardLog_RedeemedPrize": "アイテムを交換: {g:dota_item_link:prize_item}",
+    "DOTA_Plus_RewardLog_RelicRecycled": "レリックをリサイクル: {g:dota_gem_name:relic_type_id}",
+    "DOTA_Plus_RewardLog_Title": "シャードリワードログ",
+    "DOTA_Plus_RewardLog_TotalShards": "{d:current_balance}",
+    "DOTA_Plus_RewardLog_TitleBar_Description": "内容",
+    "DOTA_Plus_RewardLog_TitleBar_Total": "合計",
+    "DOTA_Plus_RewardLog_EventReward": "リワード",
+    "DOTA_Plus_RewardLog_HeroLevelUp": "{g:dota_hero_name:heroID} ヒーローレベル {d:level} 報酬",
+    "DOTA_Plus_RewardLog_WeeklyBonus": "ウィークリーボーナス",
+    "DOTA_Plus_RewardLog_SubscriptionActivated": "Dota Plus有効化",
+    "DOTA_Plus_RewardLog_RelicClaimed": "レリックを交換: {g:dota_gem_name:relic_type_id}",
+    "DOTA_Plus_RewardLog_RandomRelicClaimed": "ランダムにレリックを交換: {g:dota_gem_name:relic_type_id}",
+    "DOTA_Plus_RewardLog_CharmReward": "勝利の予言成功報酬",
+    "DOTA_Plus_RewardLog_TipReceived": "{g:dota_persona:dp:account_id}からのチップ",
+    "DOTA_Plus_RewardLog_TipGiven": "{g:dota_persona:dp:account_id}へのチップ"
 }
