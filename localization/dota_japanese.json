@@ -5450,5 +5450,7 @@
     "DOTA_Armory_Category_Today": "今日",
     "DOTA_Armory_Category_ThisWeek": "ここ1週間",
     "DOTA_Armory_Category_ThisMonth": "ここ1ヶ月",
-    "DOTA_Armory_Category_Older": "それより前"
+    "DOTA_Armory_Category_Older": "それ以前",
+    "DOTA_HeroInspect_PickDescription": "ヒーローを選択してください",
+    "DOTA_Hero_Selection_ChooseHero": "ヒーローを選択してください"
 }
