@@ -5350,5 +5350,9 @@
     "DOTA_Plus_RewardLog_RandomRelicClaimed": "ランダムにレリックを交換: {g:dota_gem_name:relic_type_id}",
     "DOTA_Plus_RewardLog_CharmReward": "勝利の予言成功報酬",
     "DOTA_Plus_RewardLog_TipReceived": "{g:dota_persona:dp:account_id}からのチップ",
-    "DOTA_Plus_RewardLog_TipGiven": "{g:dota_persona:dp:account_id}へのチップ"
+    "DOTA_Plus_RewardLog_TipGiven": "{g:dota_persona:dp:account_id}へのチップ",
+    "DOTA_GameState_WaitForPlayersToLoad": "プレイヤーを待っています",
+    "dota_accept_match_readyup_title": "プレイヤーを待っています",
+    "matchmaking_waiting_for_players": "他のプレイヤーを待っています",
+    "waiting_for_players_title": "プレイヤーを待っています"
 }
