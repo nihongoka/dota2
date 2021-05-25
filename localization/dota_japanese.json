@@ -5466,7 +5466,7 @@
     "DOTA_ConductScorecard_CommsReports_1": "チャットに対して1回通報されています。",
     "DOTA_ConductScorecard_Title_New": "行動スコアが更新されました",
     "DOTA_ConductScorecard_Reason_LowPri_Abandons": "あなたは多くの試合を棄権しています。",
-    "DOTA_ConductScorecard_LastIncludedMatch": "{s:ending_date} 更新<br/>試合{s:ending_matchid}後",
+    "DOTA_ConductScorecard_LastIncludedMatch": "{s:ending_date} 更新<br/>試合:{s:ending_matchid} 後",
     "DOTA_ConductScorecard_Reports_GoodPct": "{d:reports_good_pctile}%のプレイヤーはあなたと同じように報告数が少ないです。",
     "DOTA_ConductScorecard_Reports_Bad": "{d:reports_matches}試合で{d:reports_parties}人から報告されています。",
     "DOTA_ConductScorecard_Commends": "称賛数",
