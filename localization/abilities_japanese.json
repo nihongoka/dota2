@@ -7795,7 +7795,7 @@
     "DOTA_Tooltip_ability_bloodseeker_bloodrage_shard_description": "Bloodrage中の攻撃１回ごとに対象の最大HPの2%のピュアダメージを与え同じ量を回復できるようになる。この効果はBloodseeker自身に発動した場合のみ機能する。",
     "DOTA_Tooltip_ability_bloodseeker_rupture_scepter_description": "Ruptureが2チャージ保持できるようになる",
     "DOTA_Tooltip_ability_axe_berserkers_call_abilitydraft_note": "セプター効果を機能させるにはBattle Hungerをドラフトする必要がある。",
-    "DOTA_Tooltip_ability_axe_counter_helix_shard_description": "攻撃でCounter Helix発動判定が行われる。この判定の場合Counter Helixがクールダウン中でも発動する。攻撃速度が+35増加して、攻撃成功率が10%増加する。",
+    "DOTA_Tooltip_ability_axe_counter_helix_shard_description": "攻撃でCounter Helix発動判定が行われる。この判定の場合Counter Helixがクールダウン中でも発動する。攻撃速度が+35増加して、攻撃成功率が5%増加する。",
     "DOTA_Tooltip_ability_storm_spirit_electric_rave_Description": "新アビリティ習得 - Electric Rave. 自身と周囲750内の味方ヒーローに Overload を3チャージ分付与する。12秒経つかチャージを使い切るまで持続する。",
     "DOTA_Tooltip_ability_storm_spirit_electric_vortex_scepter_description": "Electric VoltexがAoEスキルになる。",
     "DOTA_Tooltip_ability_storm_spirit_overload_abilitydraft_note": "シャード: Electric Raveは習得しない。",
@@ -9192,7 +9192,7 @@
     "DOTA_Tooltip_modifier_mars_bulwark_soldier_thinker_Description": "兵士はフルダメージ +75 を与え、攻撃には追加効果が乗る。攻撃した敵の移動速度を1秒間20%減少させる。敵は一度に1人の兵士からしか攻撃を受けない。",
     "dota_hud_error_astral_step_no_charges": "Astral Stepのチャージがない",
     "dota_hud_error_planeshift_no_charges": "Planeshiftのチャージがない",
-    "DOTA_Tooltip_ability_dark_willow_cursed_crown_shard_description": "Cursed Crownはカウント終了後、対象の周囲に4つのBrambleを生成する。ディスペル時にも発動する。クールダウンが3秒、遅延時間が1秒減少する。",
+    "DOTA_Tooltip_ability_dark_willow_cursed_crown_shard_description": "Cursed Crownはカウント終了後、対象の周囲に4つのBrambleを生成する。ディスペル時にも発動する。クールダウンが2秒、遅延時間が1秒減少する。",
     "DOTA_Tooltip_ability_dark_willow_cursed_crown_AbilityCastRange": "キャスト範囲:",
     "DOTA_Tooltip_ability_pangolier_shield_crash_scepter_description": "自身の周囲90度ごとにSwashbuckleを2回発射するようになる。",
     "DOTA_Tooltip_ability_pangolier_rollup": "Roll Up",
@@ -9700,5 +9700,6 @@
     "DOTA_Tooltip_Ability_generic_hidden": " ",
     "DOTA_Tooltip_Ability_consumable_hidden": " ",
     "DOTA_Tooltip_Ability_seasonal_ti10_disco_ball_channel": " ",
-    "DOTA_Tooltip_Ability_seasonal_diretide2020_high_five": " "
+    "DOTA_Tooltip_Ability_seasonal_diretide2020_high_five": " ",
+    "DOTA_Tooltip_ability_special_bonus_unique_broodmother_5": "-{s:value}秒Spin Webリチャージ時間"
 }
