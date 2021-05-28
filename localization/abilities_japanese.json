@@ -3065,7 +3065,7 @@
     "DOTA_Tooltip_ability_rattletrap_hookshot_Description": "指定した場所にグラップリングデバイスをすばやく発射する。ユニットに当たった場合、Clockwerkは対象に向かって発射され、スタンとダメージを与える。途中でClockwerkと衝突した敵はダメージとスタンを受ける。",
     "DOTA_Tooltip_modifier_rattletrap_cog_push_Description": "歯車に押されている。",
     "DOTA_Tooltip_ability_lich_frost_shield_Description": "ターゲットに魔法のFrost Shieldを与え、敵からのダメージを減少する。シールドが有効な間、近くの敵ユニットに%interval%秒ごとにダメージを与え、スローをかける。",
-    "DOTA_Tooltip_ability_lich_chain_frost_Description": "近くの敵ユニット間を最大％jumps％回跳ねるフロストオーブを放出し、ヒットするとスローとダメージを与える。 跳ねる度にダメージが増加する。",
+    "DOTA_Tooltip_ability_lich_chain_frost_Description": "近くの敵ユニット間を最大%jumps%回跳ねるフロストオーブを放出し、ヒットするとスローとダメージを与える。 跳ねる度にダメージが増加する。",
     "DOTA_Tooltip_modifier_lich_frostnova_slow_Description": "移動速度が%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%減少し, 攻撃速度が%dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%減少",
     "DOTA_Tooltip_modifier_lich_chainfrost_slow_Description": "移動速度が%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%減少し、攻撃速度が%dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%減少",
     "DOTA_Tooltip_ability_tidehunter_gush_movement_speed": "%スロー:",
