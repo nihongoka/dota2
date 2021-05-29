@@ -5622,5 +5622,21 @@
     "DOTA_Treasure_FilterAvailable": "利用可能",
     "DOTA_Treasure_FilterOwned": "未開封({d:treasures_owned_count})",
     "DOTA_Treasure_FilterAll": "すべて",
-    "DOTA_Treasure_OpenTreasure": "トレジャーを開ける"
+    "DOTA_Treasure_OpenTreasure": "トレジャーを開ける",
+    "DOTA_Chat_VictoryPredictionSingleUserConfirm": "チームの勝利を予言した！",
+    "DOTA_PartyJoinRequest_Title": "パーティー加入申請",
+    "DOTA_PartyJoinRequest_Description": "{g:dota_persona:b:inviter}がパーティー加入のリクエストをしています。",
+    "DOTA_PartyMergeRequest_Title": "パーティー統合申請",
+    "DOTA_PartyMergeRequest_Description": "{g:dota_persona:b:inviter}のパーティーがあなたのパーティーへの統合申請しています。",
+    "DOTA_WatchReplays_TournamentsHeader": "人気のトーナメントマッチ",
+    "DOTA_WatchReplays_FriendsHeader": "フレンドのマッチ",
+    "DOTA_WatchReplays_Popular": "人気のマッチ",
+    "DOTA_WatchReplays_SavedForLater": "保存したマッチ",
+    "DOTA_Request_Merge_Parties": "パーティーの統合をリクエストする",
+    "DOTA_Request_Merge_Parties_NotLeader": "パーティーリーダーがパーティーの統合をリクエストできます。",
+    "DOTA_Chat_InTheBag": "%s1は勝利を予言した！",
+    "DOTA_Chat_VictoryPredictionStreak": "%s1は%s2回連続で勝利の予言に成功しています。",
+    "DOTA_Chat_LaneTop": "トップ",
+    "DOTA_Chat_LaneMid": "ミッド",
+    "DOTA_Chat_LaneBot": "ボトム"
 }
