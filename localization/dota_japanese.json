@@ -5618,5 +5618,9 @@
     "DOTA_Play_RR_PartyEarningQP_Singular": "各パーティーメンバーは{d:earn_amount}ロールキュー稼げます。",
     "DOTA_RR_EarnGames_Singular": "{d:earn_amount}ロールキュー稼げます",
     "DOTA_Play_RR_PartySpendingQP": "各パーティーメンバーはロールキューを消費します。",
-    "DOTA_RR_QueueNormalPriority": "ランククラシック"
+    "DOTA_RR_QueueNormalPriority": "ランククラシック",
+    "DOTA_Treasure_FilterAvailable": "利用可能",
+    "DOTA_Treasure_FilterOwned": "未開封({d:treasures_owned_count})",
+    "DOTA_Treasure_FilterAll": "すべて",
+    "DOTA_Treasure_OpenTreasure": "トレジャーを開ける"
 }
