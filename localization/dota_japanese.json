@@ -5638,5 +5638,16 @@
     "DOTA_Chat_VictoryPredictionStreak": "%s1は%s2回連続で勝利の予言に成功しています。",
     "DOTA_Chat_LaneTop": "トップ",
     "DOTA_Chat_LaneMid": "ミッド",
-    "DOTA_Chat_LaneBot": "ボトム"
+    "DOTA_Chat_LaneBot": "ボトム",
+    "dota_abandon_dialog_confirm": "本当にゲームを棄権しますか？",
+    "dota_abandon_dialog_yes": "はい、棄権します。",
+    "dota_leave_dialog_title": "ゲームを退出する",
+    "dota_leave_dialog_confirm": "本当にゲームから退出しますか？",
+    "dota_leave_dialog_yes": "はい、退出します。",
+    "dota_accept_match_title": "ゲームが準備できました",
+    "dota_accept_match_accept": "承認",
+    "dota_accept_match_decline": "マッチを拒否する",
+    "DOTA_LaneNameTop": "トップ",
+    "DOTA_LaneNameMiddle": "ミッド",
+    "DOTA_LaneNameBottom": "ボトム"
 }
