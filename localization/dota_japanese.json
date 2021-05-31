@@ -5649,5 +5649,9 @@
     "dota_accept_match_decline": "マッチを拒否する",
     "DOTA_LaneNameTop": "トップ",
     "DOTA_LaneNameMiddle": "ミッド",
-    "DOTA_LaneNameBottom": "ボトム"
+    "DOTA_LaneNameBottom": "ボトム",
+    "dota_tip_beginner_5": "Sentry Wardsは、範囲内の見えないユニットや、敵のWardsを可視化します。",
+    "dota_tip_beginner_7": "RoshanはArmorを減らせば簡単にキルできます。",
+    "dota_tip_beginner_10": "シフトを押しながらショップのアイテムをクリックすると、クイックバイに追加されます。",
+    "dota_tip_beginner_11": "タワーにラストヒットを与えると、追加のゴールドを獲得できます。"
 }
