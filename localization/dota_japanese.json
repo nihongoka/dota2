@@ -5653,5 +5653,13 @@
     "dota_tip_beginner_5": "Sentry Wardsは、範囲内の見えないユニットや、敵のWardsを可視化します。",
     "dota_tip_beginner_7": "RoshanはArmorを減らせば簡単にキルできます。",
     "dota_tip_beginner_10": "シフトを押しながらショップのアイテムをクリックすると、クイックバイに追加されます。",
-    "dota_tip_beginner_11": "タワーにラストヒットを与えると、追加のゴールドを獲得できます。"
+    "dota_tip_beginner_11": "タワーにラストヒットを与えると、追加のゴールドを獲得できます。",
+    "DOTA_MatchDetailsGame_NeverStarted": "スコアなし - マッチが始まらなかった",
+    "DOTA_MatchDetailsGame_Suspicious": "スコアなし - 疑わしい結果",
+    "DOTA_MatchDetailsGame_DownloadProgress": "ダウンロード中...{i:download_pct}%",
+    "DOTA_MatchDetailsGame_DecompressProgress": "解凍中...{i:decompress_pct}%",
+    "DOTA_MatchDetailsGame_PoorNetwork": "スコアなし - 回線状態が悪かった",
+    "DOTA_MatchDetailsGame_Leaver": "スコアなし - 退出者の検出",
+    "DOTA_MatchDetailsGame_ServerCrash": "スコアなし - サーバークラッシュ",
+    "game_mode_1_desc_new": "各プレイヤーはすべてのヒーロープールからヒーローを選択します。"
 }
