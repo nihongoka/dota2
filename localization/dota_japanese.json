@@ -5661,5 +5661,6 @@
     "DOTA_MatchDetailsGame_PoorNetwork": "スコアなし - 回線状態が悪かった",
     "DOTA_MatchDetailsGame_Leaver": "スコアなし - 退出者の検出",
     "DOTA_MatchDetailsGame_ServerCrash": "スコアなし - サーバークラッシュ",
-    "game_mode_1_desc_new": "各プレイヤーはすべてのヒーロープールからヒーローを選択します。"
+    "game_mode_1_desc_new": "各プレイヤーはすべてのヒーロープールからヒーローを選択します。",
+    "game_mode_1_desc": "各プレイヤーはすべてのヒーロープールからヒーローを選択します。"
 }
