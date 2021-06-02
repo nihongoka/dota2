@@ -5669,7 +5669,7 @@
     "DOTA_Plus_Summer2021_Update_Title": "2021 夏シーズンアップデート",
     "DOTA_Plus_Summer2021_Update_Desc": "ハイタッチ、ギルドバナーが帰ってきました！Dota Plusに新しいシーズンクエスト、期間限定のトレジャーなどが追加されました。",
     "DOTA_PlusPurchase_Features_Label": "豊富な特典:",
-    "DOTA_PlusPurchase_HeroProgression": "",
+    "DOTA_PlusPurchase_HeroProgression": "高度なヒーロープログレッション",
     "DOTA_PlusPurchase_HeroProgression_Description": "様々なヒーローで、1人か2人で何百試合プレイしても、ゲームごとにヒーローのレベルアップに必要なXPを獲得できます。Dota Plusでは、ヒーローのレベルを30まで上げることができます！",
     "DOTA_PlusPurchase_Perks_Description": "さらに特典として、毎週開催されるバトルカップへの無料参加、季節限定の地形、シャードが獲得できるシーズンクエストなどが用意されています！",
     "DOTA_PlusPurchase_Guilds_Description": "ギルドには誰でも参加できますが、Dota Plus加入者だけが、同じ志を持ったプレイヤーのコミュニティを作成することができ、勝利への道を歩むために、常に適切なチームを後ろ盾にすることができます。協力してギルドポイントやウィークリーリワードを獲得しましょう。また、ギルドメンバーになると、追加のコントラクトスロットを使用することができます。",
@@ -5713,5 +5713,9 @@
     "DOTA_PlusPostGame_LevelRestricted": "レベリングするためにDota Plusに入会する。",
     "DOTA_PlusPostGame_CurrentLevel": "レベル{d:current_level}",
     "DOTA_PlusPostGame_MatchFinished": "試合終了",
-    "DOTA_PlusPostGame_Win": "勝利"
+    "DOTA_PlusPostGame_Win": "勝利",
+    "DOTA_PlusPurchase_Guilds": "ギルド特典",
+    "DOTA_PlusPurchase_Assistant": "プラスアシスタント",
+    "DOTA_PlusPurchase_Rewards": "プラスリワード",
+    "DOTA_PlusPurchase_Perks": "プラス特典"
 }
