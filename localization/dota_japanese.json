@@ -5717,5 +5717,8 @@
     "DOTA_PlusPurchase_Guilds": "ギルド特典",
     "DOTA_PlusPurchase_Assistant": "プラスアシスタント",
     "DOTA_PlusPurchase_Rewards": "プラスリワード",
-    "DOTA_PlusPurchase_Perks": "プラス特典"
+    "DOTA_PlusPurchase_Perks": "プラス特典",
+    "DOTA_HighFive_Completed": "%s1と%s2はハイタッチした！",
+    "DOTA_HighFive_LeftHanging": "%s1はハイタッチしたかったが、手を上げただけだった。",
+    "DOTA_Chat_SocialSettings_Filtered_Warning": "現在、一部のチャットメッセージが無視しています。 この設定は、設定画面の「ソーシャル」タブで変更できます。"
 }
