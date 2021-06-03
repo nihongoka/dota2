@@ -5752,5 +5752,8 @@
     "DOTATournamentBracketWildcards": "ワイルドカード",
     "DOTA_DPCTeams_WatchMajorStandings": "すべてのメジャー順位を見る",
     "DOTA_TournamentBracket_GrandFinals": "決勝",
-    "DOTA_Bracket_GrandFinals": "決勝"
+    "DOTA_Bracket_GrandFinals": "決勝",
+    "DOTA_WatchLive_InDraft": "ドラフトフェーズ",
+    "DOTA_WatchLive_Spectating": "観戦者数:",
+    "dota_lobby_spectating": "観戦"
 }
