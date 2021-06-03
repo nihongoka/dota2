@@ -5788,5 +5788,12 @@
     "DOTA_DPCWatchGame": "ゲームを観戦する",
     "DOTA_DPCLive": "ライブ",
     "schedule_game_id": "ゲームID: %s1",
-    "sched_comment": "コメント:"
+    "sched_comment": "コメント:",
+    "DOTA_HUD_Broadcaster_Title": "配信者を選択",
+    "DOTA_HUD_Broadcaster_Channel": "配信チャンネル {i:channel_id}",
+    "DOTA_SpectatorAudio_None": "配信者なし",
+    "dota_stat_dropdown": "ゲーム内統計",
+    "dota_stat_dropdown_level": "ヒーローレベル",
+    "dota_stat_dropdown_gold": "現在のゴールド",
+    "dota_stat_dropdown_kda": "キル/デス/アシスト"
 }
