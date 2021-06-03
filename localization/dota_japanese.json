@@ -5755,5 +5755,13 @@
     "DOTA_Bracket_GrandFinals": "決勝",
     "DOTA_WatchLive_InDraft": "ドラフトフェーズ",
     "DOTA_WatchLive_Spectating": "観戦者数:",
-    "dota_lobby_spectating": "観戦"
+    "dota_lobby_spectating": "観戦",
+    "DOTA_WatchLive_Connecting": "ゲームデータを読み込み中...",
+    "DOTA_WatchLive_BotScriptOnly": "ワークショップボット",
+    "DOTA_FriendsMenu_Tooltip_NoneReady": "フレンド",
+    "DOTA_Lobby_Settings_Visibility_Friends": "フレンド",
+    "DOTA_WatchLive_FriendsOnly": "フレンド",
+    "DOTA_FantasyLeaderboardHeaderFriends": "フレンド",
+    "dota_friends": "フレンド",
+    "sched_start": "時間:"
 }
