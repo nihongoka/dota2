@@ -5720,5 +5720,21 @@
     "DOTA_PlusPurchase_Perks": "プラス特典",
     "DOTA_HighFive_Completed": "%s1と%s2はハイタッチした！",
     "DOTA_HighFive_LeftHanging": "%s1はハイタッチしたかったが、手を上げただけだった。",
-    "DOTA_Chat_SocialSettings_Filtered_Warning": "現在、一部のチャットメッセージが無視しています。 この設定は、設定画面の「ソーシャル」タブで変更できます。"
+    "DOTA_Chat_SocialSettings_Filtered_Warning": "現在、一部のチャットメッセージが無視しています。 この設定は、設定画面の「ソーシャル」タブで変更できます。",
+    "DOTA_AllHeroChallengeNotification_HeroCompleted": "%s1のオールヒーローチャレンジを%s2試合で達成しました！",
+    "DOTATournamentUpcomingMatches": "これから行われる試合",
+    "dota_social_feed_comment_placeholder": "コメントを書く...",
+    "DOTA_DPC_ShortDayOfWeek0": "日曜日",
+    "DOTA_DPC_ShortDayOfWeek1": "月曜日",
+    "DOTA_DPC_Major_Wildcard": "ワイルドカード",
+    "DOTA_DPC_Major_Groupstage": "グループステージ",
+    "DOTA_DPC_Major_Playoffs": "プレイオフ",
+    "DOTA_DPC_PrizePool": "賞金総額",
+    "DOTA_DPC_Kyiv2021_Season_2": "シーズン2 メジャー",
+    "DOTA_DPC_ShortDayOfWeek2": "火曜日",
+    "DOTA_DPC_ShortDayOfWeek3": "水曜日",
+    "DOTA_DPC_ShortDayOfWeek4": "木曜日",
+    "DOTA_DPC_ShortDayOfWeek5": "金曜日",
+    "DOTA_DPC_ShortDayOfWeek6": "土曜日",
+    "Notification_AllHeroChallenge": "{g:dota_hero_name:completed_hero_id}のオールヒーローチャレンジを{d:attempts}試合で達成しました！次のヒーローは{g:dota_hero_name:next_hero_id}です。"
 }
