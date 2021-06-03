@@ -5795,5 +5795,7 @@
     "dota_stat_dropdown": "ゲーム内統計",
     "dota_stat_dropdown_level": "ヒーローレベル",
     "dota_stat_dropdown_gold": "現在のゴールド",
-    "dota_stat_dropdown_kda": "キル/デス/アシスト"
+    "dota_stat_dropdown_kda": "キル/デス/アシスト",
+    "dota_tip_beginner_12": "「セーフレーン」は自チーム側の最も長いレーンです。Dire側はトップレーン、Radiant側はボトムレーンに当たります。",
+    "dota_stat_dropdown_lasthits_denies": "ラストヒット/ディナイ"
 }
