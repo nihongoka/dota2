@@ -5736,5 +5736,13 @@
     "DOTA_DPC_ShortDayOfWeek4": "木曜日",
     "DOTA_DPC_ShortDayOfWeek5": "金曜日",
     "DOTA_DPC_ShortDayOfWeek6": "土曜日",
-    "Notification_AllHeroChallenge": "{g:dota_hero_name:completed_hero_id}のオールヒーローチャレンジを{d:attempts}試合で達成しました！次のヒーローは{g:dota_hero_name:next_hero_id}です。"
+    "Notification_AllHeroChallenge": "{g:dota_hero_name:completed_hero_id}のオールヒーローチャレンジを{d:attempts}試合で達成しました！次のヒーローは{g:dota_hero_name:next_hero_id}です。",
+    "DOTA_DPC_Teams": "チーム数",
+    "DOTA_DPCSeriesOutcome_Win": "勝利",
+    "DOTA_DPCSeriesOutcome_Loss": "敗北",
+    "DOTA_DPCSeriesOutcome_Tie": "引き分け",
+    "DOTA_DPCTeams_TypeMajor": "メジャー",
+    "DOTA_DPCTeams_TypeMinor": "マイナー",
+    "DOTA_DPCTeams_TypeLeague": "リーグ",
+    "DOTA_DPC_Kyiv2021Dates": "6月2日 - 13日"
 }
