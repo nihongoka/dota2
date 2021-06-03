@@ -5745,5 +5745,10 @@
     "DOTA_DPCTeams_TypeMinor": "マイナー",
     "DOTA_DPCTeams_TypeLeague": "リーグ",
     "DOTA_DPC_Kyiv2021Dates": "6月2日 - 13日",
-    "DOTA_DPC_Major": "メジャー"
+    "DOTA_DPC_Major": "メジャー",
+    "DOTA_Bracket_UpperBracketRound1": "UB ラウンド1",
+    "DOTATournamentBracketPlayoffs": "プレイオフ",
+    "DOTATournamentBracketGroupPhase": "グループステージ",
+    "DOTATournamentBracketWildcards": "ワイルドカード",
+    "DOTA_DPCTeams_WatchMajorStandings": "すべてのメジャー順位を見る"
 }
