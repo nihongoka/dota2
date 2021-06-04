@@ -5886,5 +5886,8 @@
     "DOTA_PlusRewards_HeroProgressionRewards": "ヒーロープログレッションリワード",
     "DOTA_PlusRewards_HeroBadge": "ヒーローバッジ",
     "DOTA_Plus_Relic_Random_QuestionMark": "?",
-    "DOTA_Plus_LearnMore": "詳しく見る"
+    "DOTA_Plus_LearnMore": "詳しく見る",
+    "guild_select": "選択する",
+    "DOTA_Workshop_Copy": "コピーする",
+    "DOTA_Workshop_Select": "選択する"
 }
