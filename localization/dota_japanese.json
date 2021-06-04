@@ -5832,7 +5832,7 @@
     "DOTA_FoundNeutralItem_FoundBy": "発見者: {g:dota_player_name:nh:nc:nt:player_id}",
     "MD_ITEMS_L": "アイテム",
     "DOTA_FoundNeutralItem_ItemTier": "<span class=\"TierLabel\">ティア{d:tier_number}</span> ニュートラルアイテム",
-    "DOTA_FoundNeutralItem_ItemTierCount": "<span class=\"TierFound\">[ {d:tier_item_count} / {d:tier_item_max_count} 発見済 ]</span>",
+    "DOTA_FoundNeutralItem_ItemTierCount": "<span class=\"TierFound\">[ {d:tier_item_count} / {d:tier_item_max_count}発見済 ]</span>",
     "DOTA_NeutralItemTierToast_Header": "<span class=\"TierLabel\">ティア{d:tier_number}</span> ニュートラルアイテム",
     "DOTA_NeutralItemTierToast_FoundLine": "{d:tier_item_count} / {d:tier_item_max_count} 発見済",
     "DOTA_HUD_ReliableGold": "確実なゴールド: {d:reliable_gold}",
@@ -5936,5 +5936,6 @@
     "dota_reports_remaining": "レポート可能回数: %s1",
     "report_communication_abuse": "コミュニケーションの悪用",
     "report_smurfing": "スマーフまたは購入されたアカウント",
-    "report_communication_abuse_desc": "コミュニケーションチャンネル(テキストやボイス)で暴言を吐きました。"
+    "report_communication_abuse_desc": "コミュニケーションチャンネル(テキストやボイス)で暴言を吐きました。",
+    "dota_hud_error_unit_dead": "死亡"
 }
