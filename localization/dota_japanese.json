@@ -5922,5 +5922,9 @@
     "terrain": "地形",
     "direcreeps": "Direクリープ",
     "radiantcreeps": "Radiantクリープ",
-    "versus_screen": "バーサススクリーン"
+    "versus_screen": "バーサススクリーン",
+    "DOTA_WatchLive_Search": "ヒーローで試合検索",
+    "DOTA_GlobalItem_OwnedInstructions": "アイテムにカーソルを合わせるとプレビューが表示されます。シャッフル機能が有効な場合は、クリックでシャッフルの有効と無効を切り替えることができます。右クリックするとさらにオプションが表示されます。",
+    "DOTA_HeroChallenges_Title": "チャレンジ",
+    "misc": "その他"
 }
