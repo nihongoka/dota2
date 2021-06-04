@@ -5889,5 +5889,15 @@
     "DOTA_Plus_LearnMore": "詳しく見る",
     "guild_select": "選択する",
     "DOTA_Workshop_Copy": "コピーする",
-    "DOTA_Workshop_Select": "選択する"
+    "DOTA_Workshop_Select": "選択する",
+    "DOTA_GlobalItem_InShuffle": "シャッフル内 ({d:large_model_shuffle_index}/{d:large_model_shuffle_count})",
+    "DOTA_ClickToRemoveFromShuffle": "クリックしてシャッフルから除外",
+    "DOTA_GlobalItem_ShuffleInstructions": "グローバルアイテムシャッフルは、シャッフルに含まれるアイテムのリストから、試合のたびに新しいアイテムを自動的に装備することができます。シャッフルが可能な状態で、アイテムをクリックすると、シャッフルに含めるかどうかを切り替えることができます。",
+    "DOTA_HeroGuide_SelectOption": "選択する",
+    "DOTA_ClickToAddToShuffle": "クリックしてシャッフルに追加",
+    "DOTA_ClickToEquip": "クリックして装備",
+    "DOTA_GlobalItem_ItemPreview": "アイテムのプレビュー",
+    "DOTA_HeroSetShuffle_Disabled": "シャッフル無効",
+    "DOTA_HeroSetShuffle_Enabled": "シャッフル有効",
+    "Dota_EditSC_SlotType_4": "クーリエ"
 }
