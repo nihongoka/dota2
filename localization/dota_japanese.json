@@ -5876,5 +5876,15 @@
     "DOTA_TreasureCache": "トレジャー",
     "DOTA_TreasureCache_Rare": "トレジャー",
     "treasure_chest": "トレジャー",
-    "FilterType_Treasure_Chest": "トレジャー"
+    "FilterType_Treasure_Chest": "トレジャー",
+    "DOTA_Plus_UpsellText": "Dota Plusに入会",
+    "DOTA_Plus_NextRewards": "次のリワード",
+    "DOTA_Plus_MaximumLevel": "最大レベル",
+    "DOTA_PlusRewards_TierName": "{s:tier_name}ティア",
+    "DOTA_PlusRewards_LevelName": "レベル{d:level}",
+    "DOTA_PlusRewards_HeroChatWheel": "ヒーローチャットホイール",
+    "DOTA_PlusRewards_HeroProgressionRewards": "ヒーロープログレッションリワード",
+    "DOTA_PlusRewards_HeroBadge": "ヒーローバッジ",
+    "DOTA_Plus_Relic_Random_QuestionMark": "?",
+    "DOTA_Plus_LearnMore": "詳しく見る"
 }
