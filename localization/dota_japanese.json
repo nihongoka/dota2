@@ -5899,5 +5899,6 @@
     "DOTA_GlobalItem_ItemPreview": "アイテムのプレビュー",
     "DOTA_HeroSetShuffle_Disabled": "シャッフル無効",
     "DOTA_HeroSetShuffle_Enabled": "シャッフル有効",
-    "Dota_EditSC_SlotType_4": "クーリエ"
+    "Dota_EditSC_SlotType_4": "クーリエ",
+    "courier": "クーリエ"
 }
