@@ -2404,7 +2404,7 @@
     "DOTA_Overwatch_AutoPlay_Toggle": "マーカーまで自動でスキップ",
     "DOTA_Overwatch_Reports_Title": "レポート可能回数が残っていません",
     "DOTA_Overwatch_Reports_Body": "レポート可能回数が残っていないので、新たにプレイヤーを報告する事はできませんが、既に報告したプレイヤーは引き続き報告することができます。",
-    "dota_popup_comms_reports_remaining": "レポート可能回数: {d:comms_reports_remaining}",
+    "dota_popup_comms_reports_remaining": "コミュニケーションレポート可能回数: {d:comms_reports_remaining}",
     "DOTA_Overwatch_Jump_Next_Marker": "次のマーカーへジャンプ...",
     "DOTA_Overwatch_Jump_End": "<span class=\"FullScreenTitle\">疑いのある行動はここで終わりです</span><br>判定を提出するか、証拠をさらに確認するために巻き戻してください。",
     "DOTA_Overwatch_Jump_Previous_Marker": "前のマーカーにジャンプ...",
@@ -5927,5 +5927,14 @@
     "DOTA_GlobalItem_OwnedInstructions": "アイテムにカーソルを合わせるとプレビューが表示されます。シャッフル機能が有効な場合は、クリックでシャッフルの有効と無効を切り替えることができます。右クリックするとさらにオプションが表示されます。",
     "DOTA_HeroChallenges_Title": "チャレンジ",
     "misc": "その他",
-    "WeekendTourneyStatus_StartingSoon": "{s:weekend_tourney_selected_division_name}ディビジョンバトルカップ<br/>受付開始まで{s:weekendtourney_duration_until_window_open}"
+    "WeekendTourneyStatus_StartingSoon": "{s:weekend_tourney_selected_division_name}ディビジョンバトルカップ<br/>受付開始まで{s:weekendtourney_duration_until_window_open}",
+    "report_mm_manipulation_desc": "プレイヤーがマッチメイキングを操作、ブースト、またはそれと同等の行為を行っている。このレポートは、行動スコアには表示されません。",
+    "DOTAMVPVote_PlayerWasMVPPostGame": "このプレイヤーはこの試合のMVPです。",
+    "DOTAMVPVote_PlayerWasMVPRunnerUp": "このプレイヤーはMVPの特別賞に選ばれました。",
+    "report_mm_manipulation": "マッチメイキングの妨害",
+    "dota_report_leave_comment": "コメントを残す...",
+    "dota_reports_remaining": "レポート可能回数: %s1",
+    "report_communication_abuse": "コミュニケーションの悪用",
+    "report_smurfing": "スマーフまたは購入されたアカウント",
+    "report_communication_abuse_desc": "コミュニケーションチャンネル(テキストやボイス)で暴言を吐きました。"
 }
