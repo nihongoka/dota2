@@ -6043,5 +6043,8 @@
     "dota_hud_error_item_not_in_unit_inventory": "選択したユニットのインベントリにアイテムがない",
     "dota_hud_error_cant_drag_channeling_item": "使用中",
     "dota_hud_error_cant_drag_channeling_item_tutorial": "説明を見てください",
-    "dota_hud_error_queue_full": "キューがいっぱい"
+    "dota_hud_error_queue_full": "キューがいっぱい",
+    "dota_hud_error_cant_purchase_inventory_full": "インベントリがいっぱいで購入できない",
+    "dota_hud_error_item_muted": "アイテムがミュートされている",
+    "dota_hud_error_courier_cant_use_item": "クーリエでは使えない"
 }
