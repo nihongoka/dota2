@@ -6011,5 +6011,13 @@
     "dota_hud_error_ability_disabled_by_root": "ルート中はキャストできない",
     "dota_hud_error_ability_disabled_by_tether": "リーシュ中はキャストできない",
     "dota_hud_error_ability_is_hidden": "アビリティが有効でない",
-    "dota_hud_error_ability_no_tree_in_range": "近くに木がない"
+    "dota_hud_error_ability_no_tree_in_range": "近くに木がない",
+    "dota_hud_error_cant_place_near_mine": "地雷の近くには地雷は置けない",
+    "dota_hud_error_cant_pick_up_runes": "ルーン使用不可",
+    "dota_hud_error_cant_pick_up_items": "アイテム拾得不可",
+    "dota_hud_error_unit_cant_attack": "攻撃できない",
+    "dota_hud_error_cant_quick_cast_at_location": "ベースに近すぎる",
+    "dota_hud_error_must_target_tree": "木を指定する必要がある",
+    "dota_hud_error_cant_target_unexplored": "視界外指定不可",
+    "dota_hud_error_cant_target_units": "ユニット指定不可"
 }
