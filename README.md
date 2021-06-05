@@ -1,5 +1,8 @@
 # 非公式 Dota 2 日本語化 mod
 
+[![Fetch localization data from dotabuff/d2vpkr](https://github.com/nihongoka/dota2/actions/workflows/fetch.yaml/badge.svg)](https://github.com/nihongoka/dota2/actions/workflows/fetch.yaml)
+[![Release localization data](https://github.com/nihongoka/dota2/actions/workflows/release.yaml/badge.svg)](https://github.com/nihongoka/dota2/actions/workflows/release.yaml)
+
 ## これは何?
 Dota2というゲームの非公式の日本語化modです
 インストール手段が2つあり、それぞれメリットデメリットがあります
