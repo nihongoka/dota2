@@ -6147,5 +6147,20 @@
     "DOTA_Treasure_HelpHeader": "トレジャーには以下アイテムの内{d:items_per_treasure}つ入っています。",
     "DOTA_Treasure_HelpHeaderGrantsAll": "トレジャーにはこれらすべてのアイテムが入っています。",
     "DOTA_Treasure_ZoomOut": "ズームアウト",
-    "DOTA_Item_Has_Gems": "ランダムエフェクトとカラージェムが付属"
+    "DOTA_Item_Has_Gems": "ランダムエフェクトとカラージェムが付属",
+    "DOTA_OpenTreasureTooltip_NoDupeDescription": "それぞれ1つずつ入手するまで重複しません。",
+    "DOTA_Treasure_ViewAll": "すべてのトレジャーを見る",
+    "DOTA_Treausre_HelpNoDupe": "購入して開封するまでは、どのアイテムを入手できるか分かりません。複数の商品を購入した場合、それぞれのアイテムを1つずつ所有するまで、重複して受け取ることはできません。",
+    "DOTA_Treasure_SearchPlaceholder": "トレジャーを検索",
+    "DOTA_Treasure_HelpRares": "また、非常に運が良ければ、通常のアイテムに加えて、レアなボーナスアイテムの1つ入手できます。",
+    "DOTA_OpenTreasureTooltip_DupeDescription": "それぞれ1つずつ入手する前に重複する可能性があります。",
+    "DOTA_OpenTreasureTooltip_RareTitle": "運が良ければボーナスアイテムが獲得できます。",
+    "DOTA_Purchase_Popup_Purchase_Button": "購入",
+    "DOTA_PurchaseItemWithEventPoints_Title": "アイテムを購入",
+    "DOTA_PurchaseItemWithEventPoints_Item": "商品",
+    "DOTA_PurchaseItemWithEventPoints_Balance": "現在の残高: {g:dota_event_points_value:current_balance}",
+    "DOTA_PurchaseItemWithEventPoints_Quantity": "個数",
+    "DOTA_PurchaseItemWithEventPoints_Price": "価格",
+    "DOTA_PurchaseItemWithEventPoints_Total": "合計:",
+    "DOTA_PurchaseItemWithEventPoints_Info": "購入したアイテムはトレードや売買ができません。"
 }
