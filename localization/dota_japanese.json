@@ -6162,5 +6162,9 @@
     "DOTA_PurchaseItemWithEventPoints_Quantity": "個数",
     "DOTA_PurchaseItemWithEventPoints_Price": "価格",
     "DOTA_PurchaseItemWithEventPoints_Total": "合計:",
-    "DOTA_PurchaseItemWithEventPoints_Info": "購入したアイテムはトレードや売買ができません。"
+    "DOTA_PurchaseItemWithEventPoints_Info": "購入したアイテムはトレードや売買ができません。",
+    "DOTA_store_item_details_included": "バンドル内容",
+    "DOTA_econ_item_details_contained_within": "購入オプション",
+    "DOTA_econ_item_details_items_in_set": "セットアイテム",
+    "DOTA_Purchase_Popup_Marketplace_Button": "マーケット"
 }
