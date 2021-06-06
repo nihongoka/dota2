@@ -6131,7 +6131,7 @@
     "DOTA_ScenarioType_Match": "マッチをプレイ",
     "DOTA_ScenarioType_AllPick": "ノーマルマッチ",
     "DOTA_ScenarioType_Coach": "コーチとプレイ",
-    "DOTA_Scenario_IntroVideo": "これがDota",
+    "DOTA_Scenario_IntroVideo": "これが Dota",
     "DOTA_Scenario_Tutorial": "基本の仕組み",
     "DOTA_Scenario_Navigation": "移動手段",
     "DOTA_Scenario_TPScroll": "テレポート",
@@ -6142,5 +6142,10 @@
     "DOTA_ScenarioType_Scenario": "シナリオ",
     "DOTA_Scenario_Courier": "クーリエの使い方",
     "DOTA_Scenario_Regen": "消費アイテムで回復",
-    "DOTA_Scenario_PlayNewPlayerMode": "ゲームをプレイ"
+    "DOTA_Scenario_PlayNewPlayerMode": "ゲームをプレイ",
+    "DOTA_PlusSeason_SeasonSummer2021_TreasureDescription": "2021年9月1日夏シーズン終了までの限定販売。",
+    "DOTA_Treasure_HelpHeader": "トレジャーには以下アイテムの内{d:items_per_treasure}つ入っています。",
+    "DOTA_Treasure_HelpHeaderGrantsAll": "トレジャーにはこれらすべてのアイテムが入っています。",
+    "DOTA_Treasure_ZoomOut": "ズームアウト",
+    "DOTA_Item_Has_Gems": "ランダムエフェクトとカラージェムが付属"
 }
