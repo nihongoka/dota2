@@ -4688,7 +4688,7 @@
     "DOTA_DPC_FarmingStat": "このチームがどれくらいクリープでファームをしているかを示します。",
     "DOTA_DPC_TopHeroes": "過去4ヶ月で最も成功しているヒーロー",
     "DOTA_DPCLeagueName": "{s:league_name}",
-    "npe_wizard_learn_tier_one_desc": "まずは基本的なことから始めましょう。これがティア1です。ゲームのコア・メカニクスと一般的なコンセプトのクラッシュ・コースに飛び込んでください。",
+    "npe_wizard_learn_tier_one_desc": "まずは基本的なことから。ゲームの重要な仕組みとコンセプトを学ぶための特訓を始めましょう。",
     "npe_wizard_learn_feature_video": "読むのにはうんざりですか？これは絵を読むようなものです。私はこれを「視聴」と呼んでいます。",
     "npe_wizard_learn_feature_watch_game": "見て学びましょう。他のプレイヤーを見ることで、たくさんの新しい戦略を得ることができます。",
     "npe_wizard_learn_tier_one_intro": "5人のヒーロー、マップ、そして夢。",
@@ -6114,5 +6114,12 @@
     "report_ability_abuse_desc": "チームが不利益を被るように意図的にアビリティを悪用していました。",
     "report_did_not_play_role": "選択したロールの不遵守",
     "report_did_not_play_role_desc": "割り当てられたロールをプレイしていません。",
-    "DOTA_UserMenu_ReportPlayer": "プレイヤーを通報"
+    "DOTA_UserMenu_ReportPlayer": "プレイヤーを通報",
+    "npe_wizard_learn_tier_two_intro": "あなたがどうプレイしたいかによって、ヒーローも少しずつ変わっていきます。",
+    "npe_wizard_learn_tier_three_intro": "戦いの半分はエンシェントを破壊する事です。いいえ、戦いの全てです。",
+    "npe_wizard_learn_tier_two_desc": "ティア2では、正しく敵に立ち向かうために必要な知識を学んでいきましょう。戦いの真髄は戦いの中にあります。",
+    "DOTA_NPH_TierDesc_3": "ティア3 <span class='ObjectivesSectionTitle'>- エンシェントを壊して</span>",
+    "DOTA_NPH_TierDesc_2": "ティア2 <span class='ObjectivesSectionTitle'>- そもそもヒーローって何だろう？</span>",
+    "npe_wizard_learn_tier_three_desc": "ヒーローはクリープとは違います。レーンで自分の可能性を最大限に発揮するテクニックを学びましょう。",
+    "DOTA_NPH_TierDesc_4": "ティア4 <span class='ObjectivesSectionTitle'>- さらなる高みへ</span>"
 }
