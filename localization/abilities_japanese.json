@@ -2982,7 +2982,7 @@
     "DOTA_Tooltip_ability_omniknight_repel": "Heavenly Grace",
     "DOTA_Tooltip_ability_omniknight_repel_Description": "味方に聖なる盾を付与し、異常耐性、Strenghボーナス、HP自然回復ボーナスを与える。\n\nディスペルタイプ: 強化ディスペル",
     "DOTA_Tooltip_ability_omniknight_repel_duration": "効果時間:",
-    "DOTA_Tooltip_ability_omniknight_repel_status_resistance": "異常耐性:",
+    "DOTA_Tooltip_ability_omniknight_repel_status_resistance": "%異常耐性:",
     "DOTA_Tooltip_ability_omniknight_repel_bonus_str": "ボーナスStrength:",
     "DOTA_Tooltip_ability_omniknight_pacify_radius": "範囲:",
     "DOTA_Tooltip_ability_omniknight_pacify_spell_resistance_reduction": "%スペルダメージ軽減:",
