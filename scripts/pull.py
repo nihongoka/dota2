@@ -51,5 +51,17 @@ for file in files:
         tokens = file[1](data)
         if file[2]:
             file[2](tokens)
-        with open('localization/' + file[0] + '_english' + '.json', 'w') as fw:
-            json.dump(tokens, fw, indent=4)
+        with open('localization/' + file[0] + '_english' + '.json', 'w', encoding="utf-8") as fw:
+            json.dump(tokens, fw, indent=4, ensure_ascii=False)
+
+        japanese = None
+        # 日本語版からなくなったキーを削除
+        with open('localization/' + file[0] + '_japanese' + '.json', 'r', encoding="utf-8") as fj:
+            japanese = json.load(fj)
+        for jk in list(japanese.keys()):
+            if not jk in tokens:
+                del japanese[jk]
+                print("Deleted key: {0},{1}".format(file[0], jk))
+        with open('localization/' + file[0] + '_japanese' + '.json', 'w', encoding="utf-8") as fj:
+            json.dump(japanese, fj, indent=4, ensure_ascii=False)
+
