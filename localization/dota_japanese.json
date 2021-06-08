@@ -6424,5 +6424,6 @@
     "DOTA_Treasure_RecyclingSubtitle_TreasureOnly": "セットをリサイクルすることでボーナストレジャーを受け取れます。",
     "DOTA_Treasure_RecyclingCount": "x{d:inventory_count}",
     "DOTA_Treasure_DisassembleConfirm_Popup_Title": "最後のアイテムのリサイクル",
-    "DOTA_Treasure_DisassembleConfirm_Popup_Message": "このセットは1個しか持っていません。 リサイクルすると、このバンドルに含まれるアイテムはすべてなくなります。本当に続けますか？"
+    "DOTA_Treasure_DisassembleConfirm_Popup_Message": "このセットは1個しか持っていません。 リサイクルすると、このバンドルに含まれるアイテムはすべてなくなります。本当に続けますか？",
+    "DOTA_Treasure_OpenNoDupe": "各トレジャーには、通常表示されているアイテムが1つ入っています。それぞれのアイテムを1つずつ手に入れるまで、重複して受け取ることはできません。運がよければ、レアアイテムが追加で1つ手に入るかもしれません。"
 }
