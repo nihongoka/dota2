@@ -6371,5 +6371,11 @@
     "DOTA_SeasonalItemReceived_ConsumableItemChargesText": "{d:quantity}x {g:dota_item_name:item_def}.",
     "DOTA_SeasonalItemReceived_ConsumableItemChargesTitle": "消耗アイテムを獲得しました！",
     "DOTA_SeasonalItemReceived_SteamPackageTitle": "Steamでゲームをアンロックしました！",
-    "Dota_Economy_Acknowledge": "承認"
+    "Dota_Economy_Acknowledge": "承認",
+    "DOTA_PurchaseFinalizing_Text": "購入リクエストを完了しています。",
+    "DOTA_PurchaseInProgress_Title": "購入手続き中",
+    "DOTA_PurchaseInProgress_Text": "購入リクエストが進行中です。",
+    "DOTA_ViewInLoadout": "装備画面を見る",
+    "DOTA_ViewHeroLoadout": "装備画面を見る",
+    "DOTA_PurchaseError_Title": "購入不可"
 }
