@@ -6425,5 +6425,13 @@
     "DOTA_Treasure_RecyclingCount": "x{d:inventory_count}",
     "DOTA_Treasure_DisassembleConfirm_Popup_Title": "最後のアイテムのリサイクル",
     "DOTA_Treasure_DisassembleConfirm_Popup_Message": "このセットは1個しか持っていません。 リサイクルすると、このバンドルに含まれるアイテムはすべてなくなります。本当に続けますか？",
-    "DOTA_Treasure_OpenNoDupe": "各トレジャーには、通常表示されているアイテムが1つ入っています。それぞれのアイテムを1つずつ手に入れるまで、重複して受け取ることはできません。運がよければ、レアアイテムが追加で1つ手に入るかもしれません。"
+    "DOTA_Treasure_OpenNoDupe": "各トレジャーには、通常表示されているアイテムが{d:items_per_treasure}つ入っています。それぞれのアイテムを1つずつ手に入れるまで、重複して受け取ることはできません。運がよければ、レアアイテムが追加で1つ手に入るかもしれません。",
+    "Disassemble_Punchcard_Prompt_Title": "ボーナストレジャーのためのリサイクル",
+    "Disassemble_Treasure_Punchcard_Prompt": "ボーナストレジャーを獲得するためにこのアイテムをリサイクルしますか？",
+    "Disassemble_Treasure_Punchcard_Context": "ボーナストレジャーのためにリサイクルする",
+    "DOTA_econ_item_details_unbundle": "バンドルを開封する",
+    "DOTA_Treasure_OpenDupe": "各トレジャーには、通常表示されているアイテムが{d:items_per_treasure}つ入っており、重複する可能性があります。運がよければ、レアアイテムが追加で1つ手に入るかもしれません。",
+    "OpenBundle": "バンドルを開封する",
+    "OpenBundleAndEquip": "開封して装備する",
+    "DOTA_ItemPack": "このバンドルを開封しますか？"
 }
