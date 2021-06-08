@@ -6407,5 +6407,22 @@
     "DOTA_PlusWelcome_EquipSeasonalTerrain_Name": "季節限定の地形を装備する",
     "DOTA_PlusWelcome_AllQuestsCompleted": "すべてのクエストを達成しました！",
     "DOTA_PlusWelcome_EquipSeasonalTerrain_Description": "保管庫から季節の地形を装備しましょう。Dota Plus会員はいつでもその時の季節の地形を利用できます。",
-    "DOTA_Treasure_ViewTreasure": "トレジャーを見る"
+    "DOTA_Treasure_ViewTreasure": "トレジャーを見る",
+    "DOTA_Recycling_Action": "リサイクル",
+    "DOTA_Treasure_Equip": "装備する",
+    "DOTA_OpenTreasureTooltip_BonusTreasureOnly": "Dota Plus会員はトレジャーから出た未開封のバンドルをリサイクルして、追加のボーナストレジャーを獲得することができます。",
+    "event_custom_game_claim_reward": "報酬を受け取る",
+    "DOTA_Frontpage_TimedEvent_ClaimButtonLabel": "報酬を受け取る",
+    "DOTA_EquippedItem_Button_SingleItemShuffle": "装備する",
+    "DOTA_EquippedItem_Equip": "装備する",
+    "DOTA_EconItemSet_Tooltip_IsBundle": "これは他のアイテムを含むバンドルです。",
+    "DOTA_Treasure_OpenAnother": "もう1回開ける",
+    "DOTA_Treasure_Recycle": "バンドルをリサイクル",
+    "DOTA_Treasure_Received": "獲得しました",
+    "DOTA_Treasure_OpenSuccess": "獲得しました:",
+    "DOTA_Treasure_RecyclingTitle": "リサイクル報酬",
+    "DOTA_Treasure_RecyclingSubtitle_TreasureOnly": "セットをリサイクルすることでボーナストレジャーを受け取れます。",
+    "DOTA_Treasure_RecyclingCount": "x{d:inventory_count}",
+    "DOTA_Treasure_DisassembleConfirm_Popup_Title": "最後のアイテムのリサイクル",
+    "DOTA_Treasure_DisassembleConfirm_Popup_Message": "このセットは1個しか持っていません。 リサイクルすると、このバンドルに含まれるアイテムはすべてなくなります。本当に続けますか？"
 }
