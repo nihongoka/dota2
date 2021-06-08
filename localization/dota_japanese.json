@@ -6405,5 +6405,6 @@
     "DOTA_PlusWelcome_ViewHeroTrends_Name": "ヒーロー別のグローバルランク推移を見る",
     "DOTA_PlusWelcome_ViewHeroTrends_Description": "ヒーローのページのトレンドタブを見ると、ランクごとのプレイヤーのパフォーマンスを見ることができます。",
     "DOTA_PlusWelcome_EquipSeasonalTerrain_Name": "季節限定の地形を装備する",
-    "DOTA_PlusWelcome_AllQuestsCompleted": "すべてのクエストを達成しました！"
+    "DOTA_PlusWelcome_AllQuestsCompleted": "すべてのクエストを達成しました！",
+    "DOTA_PlusWelcome_EquipSeasonalTerrain_Description": "保管庫から季節の地形を装備しましょう。Dota Plus会員はいつでもその時の季節の地形を利用できます。"
 }
