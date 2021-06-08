@@ -6296,5 +6296,16 @@
     "dota_hud_error_ember_spirit_no_active_remnants": "有効なレムナントがない",
     "dota_hud_error_ember_spirit_no_nearby_remnants": "近くにレムナントがない",
     "dota_hud_error_swap_source_no_gold": "残りゴールドが少ないためヒーローが交換できません。",
-    "dota_hud_error_swap_target_no_gold": "そのプレイヤーは残りプレイヤーが少ないためヒーローを交換できません。"
+    "dota_hud_error_swap_target_no_gold": "そのプレイヤーは残りプレイヤーが少ないためヒーローを交換できません。",
+    "DOTA_Scenario_StatusEffects": "ステータスエフェクト",
+    "DOTA_Scenario_Roshan": "RoshanとAegis",
+    "DOTA_Scenario_Glossary": "用語集を見よう",
+    "DOTA_Scenario_Spectate": "試合を観戦しよう",
+    "DOTA_Scenario_LastHit": "ラストヒット",
+    "DOTA_Scenario_Invisibility": "透明を看破",
+    "DOTA_Scenario_Stacking": "ニュートラルクリープのスタック",
+    "DOTA_Scenario_Economy": "中盤の進め方",
+    "DOTA_Scenario_Warding": "マップの視界",
+    "DOTA_Scenario_Lockdown": "スタンとディセーブル",
+    "DOTA_Scenario_Initiation": "集団戦の幕開け"
 }
