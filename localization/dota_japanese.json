@@ -6360,7 +6360,7 @@
     "DOTA_Popup_Item_Received_Header_CompendiumGift": "{g:dota_persona:gifter_name}から限定ギフトを受け取りました！",
     "DOTA_Popup_Item_Received_Header_FrostivusReward": "限定報酬を受け取りました！",
     "DOTA_Popup_Item_Received_Header_PlusReward": "Dota Plusの報酬を受け取りました！",
-    "DOTA_Popup_Item_Received_Button_AcceptAll": "すべて受け取る ({d:item_n})",
+    "DOTA_Popup_Item_Received_Button_AcceptAll": "全て受け取る ({d:item_n})",
     "DOTA_Popup_Item_Received_Label_IOfN": "{d:item_i} / {d:item_n}",
     "DOTA_SeasonalItemReceived_SteamPackageSubtitle": "Steamのライブラリからダウンロードしてプレイすることができます。",
     "DOTA_SeasonalItemReceived_EmoticonTitle": "絵文字をアンロックしました！",
