@@ -6524,9 +6524,9 @@
     "DOTA_AHC_BestFullChallengeValue": "{d:best_full_challenge} 試合",
     "DOTA_New": "New",
     "DOTA_ChatCommand_Reply": "r",
-    "DOTA_EconItemSet_Tooltip_Exclusive_TI9_Collectors_Cache": "キャッシュアイテムは、初回リリースから30日間のみ利用可能で、その後は利用できません。",
+    "DOTA_EconItemSet_Tooltip_Exclusive_TI9_Collectors_Cache": "キャッシュアイテムは、初回リリースから30日間のみ入手可能で、その後は入手できません。",
     "DOTA_HeroCard_DailyQuest": "デイリークエスト",
-    "DOTA_EconItemSet_Tooltip_Exclusive_TI10_Collectors_Cache": "キャッシュアイテムは、初回リリースから30日間のみ利用可能で、その後は利用できません。",
+    "DOTA_EconItemSet_Tooltip_Exclusive_TI10_Collectors_Cache": "キャッシュアイテムは、初回リリースから30日間のみ入手可能で、その後は入手できません。",
     "DOTA_TeamInvite_OpenQualifier5": "オープン予選 #5",
     "DOTA_TeamInvite_OpenQualifier6": "オープン予選 #6",
     "DOTA_TeamInvite_OpenQualifier7": "オープン予選 #7",
@@ -6534,5 +6534,8 @@
     "dota_settings_camera_saved_position_9": "ポジション9",
     "dota_settings_camera_saved_position_10": "ポジション10",
     "DOTA_Hero_Selection_NewPlayerPool_CarryCategory": "コア - チームに3人",
-    "DOTA_tooltip_econ_item_recycle_description": "{s:recycle_description}可能"
+    "DOTA_tooltip_econ_item_recycle_description": "{s:recycle_description}可能",
+    "DOTA_EventName_PlusSubscription": "Dota Plus",
+    "DOTA_Event_PlusSubscription_RarityName": "Dota Plus特典",
+    "DOTA_Event_PlusSubscription_RestrictionDesc": "Dota Plus会員のみ利用可能"
 }
