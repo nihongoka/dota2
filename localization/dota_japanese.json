@@ -6640,5 +6640,6 @@
     "DOTA_DPCScheduleAllTeams": "すべて",
     "DOTA_DPCScheduleDivision1": "DIV I",
     "DOTA_Starting_Team_Random": "ランダム",
-    "DOTA_Prediction_Taunt_Label": "連続成功回数:"
+    "DOTA_Prediction_Taunt_Label": "連続成功回数:",
+    "DOTA_Guide_PlusDescription": "プラスアシスタントは機械学習を利用して、AIが今のゲームに必要なアイテムやアビリティを提案します。\n\n味方や敵がピックしたヒーロー、購入したアイテムやレベルを上げたアビリティなどを基に、勝利したチームのデータの中で人気のある選択肢を適応的に提案します。"
 }
