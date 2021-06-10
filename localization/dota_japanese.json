@@ -6540,7 +6540,7 @@
     "DOTA_Event_PlusSubscription_RestrictionDesc": "Dota Plus会員のみ利用可能",
     "DOTA_ItemNameChange_Tooltip": "ネームタグを使用して、オリジナルの名前を付けることができます。元の名前に戻す場合、ネームタグは必要ありません。",
     "DOTA_Socketing_Tooltip": "ソケットにジェムを入れてアイテムを拡張できます。コモンソケットを追加するには熟練工の彫刻刀を、コモンジェムを抽出するには熟練工の金槌を使用します。",
-    "Recycle_Plus_Shards_Context": "リサイクル (シャードの返金)",
+    "Recycle_Plus_Shards_Context": "リサイクル (シャードの返金）",
     "Recycle_Plus_Shards_Prompt": "本当にこのアイテムを破壊して、元のシャードと交換しますか？",
     "Recycle_Shards_Prompt_Title": "シャードにリサイクル",
     "DOTA_EquippedItem_Unequip": "装備を外す",
