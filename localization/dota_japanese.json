@@ -6428,7 +6428,7 @@
     "DOTA_Treasure_OpenNoDupe": "各トレジャーには、通常表示されているアイテムが{d:items_per_treasure}つ入っています。それぞれのアイテムを1つずつ手に入れるまで、重複して受け取ることはできません。運がよければ、レアアイテムが追加で1つ手に入るかもしれません。",
     "Disassemble_Punchcard_Prompt_Title": "ボーナストレジャーのためのリサイクル",
     "Disassemble_Treasure_Punchcard_Prompt": "ボーナストレジャーを獲得するためにこのアイテムをリサイクルしますか？",
-    "Disassemble_Treasure_Punchcard_Context": "ボーナストレジャーのためにリサイクルする",
+    "Disassemble_Treasure_Punchcard_Context": "ボーナストレジャーのためにリサイクル",
     "DOTA_econ_item_details_unbundle": "バンドルを開封する",
     "DOTA_Treasure_OpenDupe": "各トレジャーには、通常表示されているアイテムが{d:items_per_treasure}つ入っており、重複する可能性があります。運がよければ、レアアイテムが追加で1つ手に入るかもしれません。",
     "OpenBundle": "バンドルを開封する",
@@ -6533,5 +6533,6 @@
     "dota_settings_camera_saved_position_8": "ポジション8",
     "dota_settings_camera_saved_position_9": "ポジション9",
     "dota_settings_camera_saved_position_10": "ポジション10",
-    "DOTA_Hero_Selection_NewPlayerPool_CarryCategory": "コア - チームに3人"
+    "DOTA_Hero_Selection_NewPlayerPool_CarryCategory": "コア - チームに3人",
+    "DOTA_tooltip_econ_item_recycle_description": "{s:recycle_description}可能"
 }
