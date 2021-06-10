@@ -6492,5 +6492,6 @@
     "dota_combat_log_hits_with": "%s1 は %s2 に %s3 で%s4ダメージ与えた。%s5\n",
     "dota_combat_log_is_hit_with": "%s1 は %s2 で %s3ダメージ受けた。%s4\n",
     "dota_combat_log_is_hit": "%s1 は%s2ダメージ受けた。%s3\n",
-    "dota_combat_log_heals": "%s1 は %s2 のHPを%s3回復した。%s4\n"
+    "dota_combat_log_heals": "%s1 は %s2 のHPを%s3回復した。%s4\n",
+    "dota_combat_log_minion_heals": "%s1 は %s2 で %s3 のHPを%s4回復した。%s5\n"
 }
