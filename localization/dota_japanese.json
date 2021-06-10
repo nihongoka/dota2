@@ -6552,5 +6552,15 @@
     "DOTA_NotEquippedItem_Label": "装備していない",
     "DOTA_EconItemSet_Tooltip_Immortals_TI10_Limited_Tradeability": "The International 11 後取引可能",
     "DOTA_Socketing_AddSocket_Tooltip": "コモンソケットを追加するには熟練工の彫刻刀が必要です。彫刻刀が無い場合、ソケットの追加をクリックすると購入オプションが表示されます。",
-    "Present2_T3": "ディスクリプションタグ"
+    "Present2_T3": "ディスクリプションタグ",
+    "DOTA_Chat_PleaseSuggestItems": "<font color='#ea67db'>[?]</font> %s1 がアイテムの提案を要求しています。ショップでCtrlキー+Altキーを押しながらアイテムをクリックしてください。",
+    "DOTA_Chat_EndSuggestions": "%s1 の提案が締め切られました。",
+    "DOTA_Shop_Tip_Popular": "このヒーローを使う上級プレイヤーがよく購入するアイテムをハイライトする。",
+    "DOTA_NewPlayerShop_Skip": "これらのアイテムをスキップ",
+    "DOTA_NewPlayerShop_SkipWarning": "すべての推奨アイテムを購入することをお勧めしますが、これらのアイテムをスキップして次の推奨アイテムのセットに移ることもできます。",
+    "DOTA_Shop_Toggle_Advanced_Shop": "簡単ショップの有効/無効",
+    "DOTA_NewPlayerShop_Purchased": "購入済み",
+    "DOTA_ScenarioTile_Desc": "{s:type} <span class='ScenarioDuration'>~ {d:duration} 分</span>",
+    "DOTA_ScenarioTile_Duration": "{s:scenario_type}<span class='ScenarioDuration'> ~ {d:scenario_duration} 分</span>",
+    "DOTA_Shop_Tip_RequestSuggestion": "購入の提案を募集する<br>チームメンバーは<font color='#E769DA'>Ctrlキー+Altキー</font>を押しながらアイテムをクリックする事であなたに買うべきアイテムを提案することができるようになります。"
 }
