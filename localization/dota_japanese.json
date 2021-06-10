@@ -6562,5 +6562,17 @@
     "DOTA_NewPlayerShop_Purchased": "購入済み",
     "DOTA_ScenarioTile_Desc": "{s:type} <span class='ScenarioDuration'>~ {d:duration} 分</span>",
     "DOTA_ScenarioTile_Duration": "{s:scenario_type}<span class='ScenarioDuration'> ~ {d:scenario_duration} 分</span>",
-    "DOTA_Shop_Tip_RequestSuggestion": "購入の提案を募集する<br>チームメンバーは<font color='#E769DA'>Ctrlキー+Altキー</font>を押しながらアイテムをクリックする事であなたに買うべきアイテムを提案することができるようになります。"
+    "DOTA_Shop_Tip_RequestSuggestion": "購入の提案を募集する<br>チームメンバーは<font color='#E769DA'>Ctrlキー+Altキー</font>を押しながらアイテムをクリックする事であなたに買うべきアイテムを提案することができるようになります。",
+    "dota_weekend_tourney_hub_status_join_button": "参加",
+    "dota_lobby_row_join": "参加する",
+    "dota_lobby_row_leave": "退出する",
+    "dota_lobby_coaches_title": "コーチ",
+    "DOTA_HUD_QuickStats_Historic": "目標",
+    "DOTA_HUD_QuickStats_Current": "現在",
+    "DOTA_HUD_QuickStats_Stat": "統計",
+    "DOTA_HeroInspect_BanDescription": "ヒーローを1人バンに指名してください",
+    "DOTA_UI_plus_build": "プラスアシスタント",
+    "DOTA_Hero_Selection_LOCKIN": "ロックイン",
+    "DOTA_Hero_Selection_Pick_InGame": "ロックイン",
+    "dota_join_chat_channel_button": "参加"
 }
