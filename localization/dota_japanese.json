@@ -6537,5 +6537,15 @@
     "DOTA_tooltip_econ_item_recycle_description": "{s:recycle_description}可能",
     "DOTA_EventName_PlusSubscription": "Dota Plus",
     "DOTA_Event_PlusSubscription_RarityName": "Dota Plus特典",
-    "DOTA_Event_PlusSubscription_RestrictionDesc": "Dota Plus会員のみ利用可能"
+    "DOTA_Event_PlusSubscription_RestrictionDesc": "Dota Plus会員のみ利用可能",
+    "DOTA_ItemNameChange_Tooltip": "ネームタグを使用して、オリジナルの名前を付けることができます。元の名前に戻す場合、ネームタグは必要ありません。",
+    "DOTA_Socketing_Tooltip": "ソケットにジェムを入れてアイテムを拡張できます。コモンソケットを追加するには熟練工の彫刻刀を、コモンジェムを抽出するには熟練工の金槌を使用します。",
+    "Recycle_Plus_Shards_Context": "リサイクル (シャードの返金)",
+    "Recycle_Plus_Shards_Prompt": "本当にこのアイテムを破壊して、元のシャードと交換しますか？",
+    "Recycle_Shards_Prompt_Title": "シャードにリサイクル",
+    "DOTA_EquippedItem_Unequip": "装備を外す",
+    "DOTA_EconItemSet_Tooltip_Immortals_Exclusive_To_TI7_BattlePass_Owners": "限られた市場性",
+    "DOTA_EconItemSet_Tooltip_Immortals_Exclusive_To_BattlePass_Owners": "限られた市場性",
+    "DOTA_StoreItem_AlreadyOwned": "既にこのアイテムを所持しています。",
+    "DOTA_HS_UnEquip": "装備を外す"
 }
