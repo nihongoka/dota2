@@ -6487,5 +6487,10 @@
     "Store_FilterElement_All": "すべて",
     "UI_ALL": "すべて",
     "dota_combat_log_all": "すべて",
-    "DOTA_SHOP_TAG_ALL": "すべて"
+    "DOTA_SHOP_TAG_ALL": "すべて",
+    "dota_combat_log_hits": "%s1 は %s2 に%s3ダメージ与えた。%s4\n",
+    "dota_combat_log_hits_with": "%s1 は %s2 に %s3 で%s4ダメージ与えた。%s5\n",
+    "dota_combat_log_is_hit_with": "%s1 は %s2 で %s3ダメージ受けた。%s4\n",
+    "dota_combat_log_is_hit": "%s1 は%s2ダメージ受けた。%s3\n",
+    "dota_combat_log_heals": "%s1 は %s2 のHPを%s3回復した。%s4\n"
 }
