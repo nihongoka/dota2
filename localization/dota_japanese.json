@@ -6693,5 +6693,6 @@
     "DOTA_Glossary_AttackMove_Desc": "攻撃キーを使用してマップ上の地点を指定すると、選択しているユニットはその地点に移動し、移動中に遭遇した敵ユニットを攻撃する。",
     "DOTA_Glossary_Stop": "ストップ",
     "DOTA_Glossary_QueuedOrders": "行動予約",
-    "DOTA_Glossary_QueuedOrders_Desc": "Shiftキーを押しながらアビリティやアイテムを使用すると行動を順番に予約することができる。"
+    "DOTA_Glossary_QueuedOrders_Desc": "Shiftキーを押しながらアビリティやアイテムを使用すると行動を順番に予約することができる。",
+    "DOTA_TooltipHeroPatchNotes_Title": "最近の変更"
 }
