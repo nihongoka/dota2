@@ -251,7 +251,7 @@
     "npc_dota_hero_mars:n": "Mars",
     "npc_dota_hero_creep_radiant": "",
     "npc_dota_hero_creep_dire": "",
-    "DOTA_AttackMove": "アタックムーブ / フォースアタック",
+    "DOTA_AttackMove": "攻撃ムーブ / 強制アタック",
     "npc_dota_hero_bristleback_hype": "Bristleback は戦闘になると、戦闘から本当に背を向ける。背中と側面で受けるすべてのダメージを減少し、注意深く戦闘に身を乗り出し、針を噴射しダメージを与え、鼻水でスローをかける。",
     "DOTA_MainMenu_Store": "ストア",
     "DOTA_MainMenu_Learn": "修練",
@@ -6682,5 +6682,14 @@
     "DOTA_Glossary_Advanced_UnitOrders": "ユニット命令",
     "DOTA_Glossary_Move": "移動",
     "DOTA_Glossary_UnitTargeted_Desc": "個別のユニットのみ対象可能。主に対象ユニットのみに効果があるが、対象の周りにいるユニットにも効果を与えるものもある。",
-    "DOTA_Glossary_AreaOfEffect": "範囲効果(AoE)"
+    "DOTA_Glossary_AreaOfEffect": "範囲効果(AoE)",
+    "DOTA_Glossary_Patrol_Desc": "パトロールは、ユニットは現在の位置とパトロールポイントの道中で攻撃ムーブ命令をする。この命令を予約して、ポイントを増やすことで、通過する道を決めることが出来る。",
+    "DOTA_Glossary_Attack_Desc": "敵ユニットに対し右クリックまたは攻撃キー（デフォルトはA）を使用すると、選択しているユニットに対象への攻撃を命令します。 命令されたユニットは攻撃範囲内に移動し、対象が死ぬまで追いかけて攻撃し続けます。 対象を攻撃できなくなったり、見えなくなったりすると、最後に確認した場所に移動し、近くにいる敵ユニットを攻撃します。",
+    "DOTA_Glossary_AttackMove": "攻撃ムーブ",
+    "DOTA_Glossary_Stop_Desc": "行動キャンセルキー（デフォルトはS）を使用すると、現在の命令、移動、詠唱、攻撃、アビリティを遂行せずすぐさま中断する。",
+    "DOTA_Glossary_Hold": "保持",
+    "DOTA_Glossary_Hold_Desc": "保持キーを使用するとユニットはその場に留まり、次に命令されるまで自動的にユニットを攻撃しなくなる。 デフォルトのオートアタック設定では、ストップと保持は同じ意味になる。",
+    "DOTA_Glossary_Patrol": "パトロール",
+    "DOTA_Glossary_AttackMove_Desc": "攻撃キーを使用してマップ上の地点を指定すると、選択しているユニットはその地点に移動し、移動中に遭遇した敵ユニットを攻撃する。",
+    "DOTA_Glossary_Stop": "ストップ"
 }
