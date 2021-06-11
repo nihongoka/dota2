@@ -6647,7 +6647,7 @@
     "DOTA_Glossary_TheBasics": "基本",
     "DOTA_Glossary_Mechanics": "メカニクス",
     "DOTA_Glossary_Advanced": "上級",
-    "DOTA_Glossary_Advanced_CommonBuffs": "コモンバフ",
+    "DOTA_Glossary_Advanced_CommonBuffs": "通常バフ",
     "DOTA_Glossary_Advanced_CommonBuffs_AttackModifiers": "アタックモディファイア",
     "DOTA_Glossary_Advanced_CommonBuffs_AttackModifiers_Desc": "多くのアビリティやアイテムは、通常攻撃に特別な効果を付与します。 様々なアイテムやアビリティに共通する代表的な効果をご紹介します。",
     "DOTA_Glossary_Advanced_CommonBuffs_CriticalStrike": "クリティカル\nストライク",
@@ -6656,5 +6656,18 @@
     "DOTA_Glossary_Advanced_CommonBuffs_TrueStrike": "トゥルーストライク",
     "DOTA_Glossary_Advanced_CommonBuffs_TrueStrike_Desc": "敵の回避率や回避エフェクトを無視し、確実に攻撃が当たる。",
     "DOTA_Glossary_Advanced_CommonBuffs_LifeSteal": "ライフスティール",
-    "DOTA_Glossary_Advanced_CommonBuffs_CriticalStrike_Desc": "攻撃時、一定の確率で通常の何倍かのダメージを与える。"
+    "DOTA_Glossary_Advanced_CommonBuffs_CriticalStrike_Desc": "攻撃時、一定の確率で通常の何倍かのダメージを与える。",
+    "DOTA_Glossary_Advanced_CommonBuffs_Auras_Desc": "オーラは特殊なパッシブアビリティが持ち、範囲内のユニットに影響を与える。味方に良い影響を与えるもの、敵に悪い影響を与えるもの、または一度に両方与えるものがある。",
+    "DOTA_Glossary_Advanced_CommonBuffs_ManaBreak": "マナブレイク",
+    "DOTA_Glossary_Advanced_CommonBuffs_ManaBreak_Desc": "攻撃時、対象ユニットのマナを燃やして、減少したマナの割合分ダメージを与える。",
+    "DOTA_Glossary_Advanced_CommonBuffs_LifeSteal_Desc": "攻撃時、与えたダメージの一定割合分回復する。",
+    "DOTA_Glossary_Advanced_CommonBuffs_Bash": "バッシュ",
+    "DOTA_Glossary_Advanced_CommonBuffs_Bash_Desc": "攻撃時、確率で（または特定の条件下で）対象をスタンさせる。",
+    "DOTA_Glossary_Advanced_CommonBuffs_SpellImmunity": "スペル耐性",
+    "DOTA_Glossary_Advanced_CommonBuffs_Ethereal": "エーテル",
+    "DOTA_Glossary_Advanced_CommonBuffs_Ethereal_Desc": "魔法ダメージ耐性が減少する代わりに物理ダメージを受けなくなる。また、ディスアーム状態になり、通常攻撃の対象に指定されなくなる。",
+    "DOTA_Glossary_Advanced_CommonBuffs_SpellImmunity_Desc": "魔法ダメージを無効化し、敵からアビリティをキャストされるのを防ぐ。いくつかの特殊なスペル（Ultスキルなど）はスペル耐性を貫通することができるが、その効果は減少することがある。これらの詳細な相互作用は、アビリティ説明に記載されている。",
+    "DOTA_Glossary_Advanced_CommonBuffs_Phased": "フェーズ",
+    "DOTA_Glossary_Advanced_CommonBuffs_Phased_Desc": "味方、敵ユニットと衝突せずにすり抜けることが出来る。しばしば透明化を伴う。",
+    "DOTA_Glossary_Advanced_CommonBuffs_Auras": "オーラ"
 }
