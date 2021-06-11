@@ -6670,10 +6670,17 @@
     "DOTA_Glossary_Advanced_CommonBuffs_Phased": "フェーズ",
     "DOTA_Glossary_Advanced_CommonBuffs_Phased_Desc": "味方、敵ユニットと衝突せずにすり抜けることが出来る。しばしば透明化を伴う。",
     "DOTA_Glossary_Advanced_CommonBuffs_Auras": "オーラ",
-    "DOTA_Glossary_UnTargeted_Desc": "キャストするのにターゲットを必要とせず、その効果は通常ヒーローの周囲やヒーローが向いている方向となる。",
+    "DOTA_Glossary_UnTargeted_Desc": "キャストするのにターゲットを必要としない。その効果は通常、ヒーローの周囲やヒーローが向いている方向となる。",
     "DOTA_Glossary_PointTargeted": "地点指定",
     "DOTA_Glossary_Advanced_AbilityTargeting": "アビリティ対象指定",
     "DOTA_Glossary_UnTargeted": "対象指定なし",
     "DOTA_Glossary_PointTargeted_Desc": "通常、効果を適用する地点や発動する方向を指定する。",
-    "DOTA_Glossary_UnitTargeted": "ユニット指定"
+    "DOTA_Glossary_UnitTargeted": "ユニット指定",
+    "DOTA_Glossary_Move_Desc": "メイン画面で、マップまたはミニマップ上の地点を右クリックすることで、選択しているユニットに現在の行動を中断させ、その地点に移動する命令を出す。",
+    "DOTA_Glossary_Attack": "攻撃",
+    "DOTA_Glossary_AreaOfEffect_Desc": "発動する範囲を指定する。効果範囲の中心は通常、地点またはユニットであり、指定しない場合はキャストしているユニット自身が中心となる。",
+    "DOTA_Glossary_Advanced_UnitOrders": "ユニット命令",
+    "DOTA_Glossary_Move": "移動",
+    "DOTA_Glossary_UnitTargeted_Desc": "個別のユニットのみ対象可能。主に対象ユニットのみに効果があるが、対象の周りにいるユニットにも効果を与えるものもある。",
+    "DOTA_Glossary_AreaOfEffect": "範囲効果(AoE)"
 }
