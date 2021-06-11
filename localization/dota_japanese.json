@@ -6669,5 +6669,11 @@
     "DOTA_Glossary_Advanced_CommonBuffs_SpellImmunity_Desc": "魔法ダメージを無効化し、敵からアビリティをキャストされるのを防ぐ。いくつかの特殊なスペル（Ultスキルなど）はスペル耐性を貫通することができるが、その効果は減少することがある。これらの詳細な相互作用は、アビリティ説明に記載されている。",
     "DOTA_Glossary_Advanced_CommonBuffs_Phased": "フェーズ",
     "DOTA_Glossary_Advanced_CommonBuffs_Phased_Desc": "味方、敵ユニットと衝突せずにすり抜けることが出来る。しばしば透明化を伴う。",
-    "DOTA_Glossary_Advanced_CommonBuffs_Auras": "オーラ"
+    "DOTA_Glossary_Advanced_CommonBuffs_Auras": "オーラ",
+    "DOTA_Glossary_UnTargeted_Desc": "キャストするのにターゲットを必要とせず、その効果は通常ヒーローの周囲やヒーローが向いている方向となる。",
+    "DOTA_Glossary_PointTargeted": "地点指定",
+    "DOTA_Glossary_Advanced_AbilityTargeting": "アビリティ対象指定",
+    "DOTA_Glossary_UnTargeted": "対象指定なし",
+    "DOTA_Glossary_PointTargeted_Desc": "通常、効果を適用する地点や発動する方向を指定する。",
+    "DOTA_Glossary_UnitTargeted": "ユニット指定"
 }
