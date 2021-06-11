@@ -2251,7 +2251,7 @@
     "DOTA_LearnTabName_Training": "トレーニング",
     "DOTA_LearnTabName_GameplayUpdates": "ゲームのアップデート",
     "DOTA_LearnTabName_Updates": "アップデート",
-    "DOTA_LearnTabName_Glossary": "用語解説",
+    "DOTA_LearnTabName_Glossary": "用語集",
     "DOTA_RecentGame_Watch": "リプレイを視聴",
     "DOTA_AHC_FullChallengeAverageValue": "{f:2:full_challenge_average} 試合",
     "DOTA_AHC_ChallengeReward": "チャレンジ報酬",
@@ -6641,5 +6641,14 @@
     "DOTA_DPCScheduleDivision1": "DIV I",
     "DOTA_Starting_Team_Random": "ランダム",
     "DOTA_Prediction_Taunt_Label": "連続成功回数:",
-    "DOTA_Guide_PlusDescription": "プラスアシスタントは機械学習を利用して、AIが今のゲームに必要なアイテムやアビリティを提案します。\n\n味方や敵がピックしたヒーロー、購入したアイテムやレベルを上げたアビリティなどを基に、勝利したチームのデータの中で人気のある選択肢を適応的に提案します。"
+    "DOTA_Guide_PlusDescription": "プラスアシスタントは機械学習を利用して、AIが今のゲームに必要なアイテムやアビリティを提案します。\n\n味方や敵がピックしたヒーロー、購入したアイテムやレベルを上げたアビリティなどを基に、勝利したチームのデータの中で人気のある選択肢を適応的に提案します。",
+    "DOTA_Glossary_Overview": "概要",
+    "DOTA_Glossary_Introduction": "はじめに",
+    "DOTA_Glossary_TheBasics": "基本",
+    "DOTA_Glossary_Mechanics": "メカニクス",
+    "DOTA_Glossary_Advanced": "上級",
+    "DOTA_Glossary_Advanced_CommonBuffs": "コモンバフ",
+    "DOTA_Glossary_Advanced_CommonBuffs_AttackModifiers": "アタックモディファイア",
+    "DOTA_Glossary_Advanced_CommonBuffs_AttackModifiers_Desc": "多くのアビリティやアイテムは、通常攻撃に特別な効果を付与します。 様々なアイテムやアビリティに共通する代表的な効果をご紹介します。",
+    "DOTA_Glossary_Advanced_CommonBuffs_CriticalStrike": "クリティカルストライク"
 }
