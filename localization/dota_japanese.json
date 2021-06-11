@@ -6652,5 +6652,9 @@
     "DOTA_Glossary_Advanced_CommonBuffs_AttackModifiers_Desc": "多くのアビリティやアイテムは、通常攻撃に特別な効果を付与します。 様々なアイテムやアビリティに共通する代表的な効果をご紹介します。",
     "DOTA_Glossary_Advanced_CommonBuffs_CriticalStrike": "クリティカル\nストライク",
     "DOTAMVP2_TitleLink": "MVP",
-    "DOTA_Chat_NewPlayerReminder": "初心者の方に対するご理解とご協力をお願いいたします。"
+    "DOTA_Chat_NewPlayerReminder": "初心者の方に対するご理解とご協力をお願いいたします。",
+    "DOTA_Glossary_Advanced_CommonBuffs_TrueStrike": "トゥルーストライク",
+    "DOTA_Glossary_Advanced_CommonBuffs_TrueStrike_Desc": "敵の回避率や回避エフェクトを無視し、確実に攻撃が当たる。",
+    "DOTA_Glossary_Advanced_CommonBuffs_LifeSteal": "ライフスティール",
+    "DOTA_Glossary_Advanced_CommonBuffs_CriticalStrike_Desc": "攻撃時、一定の確率で通常の何倍かのダメージを与える。"
 }
