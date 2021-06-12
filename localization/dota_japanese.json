@@ -6694,5 +6694,15 @@
     "DOTA_Glossary_Stop": "ストップ",
     "DOTA_Glossary_QueuedOrders": "行動予約",
     "DOTA_Glossary_QueuedOrders_Desc": "Shiftキーを押しながらアビリティやアイテムを使用すると行動を順番に予約することができる。",
-    "DOTA_TooltipHeroPatchNotes_Title": "最近の変更"
+    "DOTA_TooltipHeroPatchNotes_Title": "最近の変更",
+    "DOTA_Glossary_Advanced_AcquisitionRange_Desc": "AIがコントロールするクリープはすべて取得範囲というものを持つ。近接クリープなら{d:MELEE_CREEP_ACQUISITION_RANGE}、遠距離クリープなら{d:RANGED_CREEP_ACQUISITION_RANGE}の取得範囲を持つ。ユニットが攻撃対象を持っていない場合、一番最初に取得範囲に入った対象を攻撃し、対象が死亡するか攻撃範囲の外に出た場合に新たな対象を再取得する。",
+    "DOTA_Glossary_Advanced_TowerAggro": "タワーアグロ",
+    "DOTA_Glossary_Advanced_AcquisitionRange": "取得範囲",
+    "DOTA_Glossary_Advanced_AttackPriority": "攻撃優先度",
+    "DOTA_Glossary_Advanced_AttackPriority_Desc": "敵クリープは取得範囲に複数のユニットがいる場合、次の優先順位で攻撃する：ヒーロー、他のクリープ、シージクリープ、建造物、ワード、クーリエ。",
+    "DOTA_Glossary_Advanced_CreepAggro": "クリープアグロ",
+    "DOTA_Glossary_Advanced_Aggro_Desc": "敵のクリープはどのユニットを攻撃するか、攻撃対象を変更するかどうかを決まったパターンによって決めています。敵をあなたのヒーローに攻撃させることをドローイングアグロと呼び、敵を別の対象に攻撃させることをシェディングアグロと呼びます。",
+    "DOTA_Glossary_Advanced_CreepAggro_Desc": "範囲{s:DOTA_UNIT_ANGER_RADIUS}以内に敵クリープいる時に、ヒーローが他のヒーローに攻撃しようとすると、アグロをすることができる。アグロは{s:DOTA_UNIT_ANGER_COOLDOWN}秒のクールダウンがある。アグロはレーンにおいてクリープを自分の有利になるように移動させるのに有効である。<child id=\"CreepAggroTooltip\">",
+    "DOTA_Glossary_Advanced_CreepAggro_Tooltip": "攻撃する敵ヒーローの位置は影響しない。マップ上に見えているヒーローならだれでも攻撃しようとすることでアグロできる。",
+    "DOTA_Glossary_Advanced_Aggro": "ユニットの攻撃性"
 }
