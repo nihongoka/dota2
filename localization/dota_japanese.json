@@ -6702,7 +6702,19 @@
     "DOTA_Glossary_Advanced_AttackPriority_Desc": "敵クリープは取得範囲に複数のユニットがいる場合、次の優先順位で攻撃する：ヒーロー、他のクリープ、シージクリープ、建造物、ワード、クーリエ。",
     "DOTA_Glossary_Advanced_CreepAggro": "クリープアグロ",
     "DOTA_Glossary_Advanced_Aggro_Desc": "敵のクリープはどのユニットを攻撃するか、攻撃対象を変更するかどうかを決まったパターンによって決めています。敵をあなたのヒーローに攻撃させることをドローイングアグロと呼び、敵を別の対象に攻撃させることをシェディングアグロと呼びます。",
-    "DOTA_Glossary_Advanced_CreepAggro_Desc": "範囲{s:DOTA_UNIT_ANGER_RADIUS}以内に敵クリープいる時に、ヒーローが他のヒーローに攻撃しようとすると、アグロをすることができる。アグロは{s:DOTA_UNIT_ANGER_COOLDOWN}秒のクールダウンがある。アグロはレーンにおいてクリープを自分の有利になるように移動させるのに有効である。<child id=\"CreepAggroTooltip\">",
+    "DOTA_Glossary_Advanced_CreepAggro_Desc": "範囲{s:DOTA_UNIT_ANGER_RADIUS}以内に敵クリープいる時に、ヒーローが他のヒーローに攻撃しようとすると、クリープのターゲットを集めることができる。アグロは{s:DOTA_UNIT_ANGER_COOLDOWN}秒のクールダウンがある。アグロはレーンにおいてクリープを自分の有利になるように移動させるのに有効である。<child id=\"CreepAggroTooltip\">",
     "DOTA_Glossary_Advanced_CreepAggro_Tooltip": "攻撃する敵ヒーローの位置は影響しない。マップ上に見えているヒーローならだれでも攻撃しようとすることでアグロできる。",
-    "DOTA_Glossary_Advanced_Aggro": "ユニットの攻撃性"
+    "DOTA_Glossary_Advanced_Aggro": "ユニットの攻撃性",
+    "DOTA_Glossary_Advanced_TowerAggro_Desc": "タワーは攻撃対象を選択するときにクリープと似た振る舞いをする。範囲{s:DOTA_UNIT_ANGER_RADIUS}いないのヒーローがタワーを攻撃した場合、タワーは攻撃対象をヒーローに切り替えるが、この時ヒーローは味方ユニットを攻撃しようとすることでタワーのターゲットをそらすことが出来る。この時、タワーに近い味方ユニットがいる場合、そのユニットにターゲットを変更する。",
+    "DOTA_Glossary_Advanced_NeutralCreepAggro": "ニュートラルアグロ",
+    "DOTA_Plus_NewFeaturesTitle": "新たなアップデート",
+    "DOTA_Plus_HighestLevelHeroes": "レベルの高いヒーロー",
+    "DOTA_Plus_HighestRelics": "レベルの高いレリック",
+    "DOTA_PlusPostGame_RelicLevels": "レリックレベル",
+    "DOTA_PlusPostGame_Total": "合計",
+    "DOTA_PlusPostGame_XPValue": "+{d:xp_value}xp",
+    "DOTA_PlusPostGame_LevelUp": "レベルアップ",
+    "DOTA_PlusPostGame_RelicsProgress": "レリックプログレス",
+    "DOTA_PlusSeason_SeasonSummer2021_Quests": "2021 夏シーズンクエスト",
+    "DOTA_PlusSeason_SeasonSummer2021_Subtitle": "2021年9月1日夏シーズン終了まで。"
 }
