@@ -6716,5 +6716,7 @@
     "DOTA_PlusPostGame_LevelUp": "レベルアップ",
     "DOTA_PlusPostGame_RelicsProgress": "レリックプログレス",
     "DOTA_PlusSeason_SeasonSummer2021_Quests": "2021 夏シーズンクエスト",
-    "DOTA_PlusSeason_SeasonSummer2021_Subtitle": "2021年9月1日夏シーズン終了まで。"
+    "DOTA_PlusSeason_SeasonSummer2021_Subtitle": "2021年9月1日夏シーズン終了まで。",
+    "DOTA_PlusWelcome_QuestsUnclaimed_Singular": "{d:welcome_quests_unclaimed}クエスト報酬を受け取る",
+    "DOTA_PlusWelcome_QuestsUnclaimed_Plural": "{d:welcome_quests_unclaimed}クエスト報酬受け取る"
 }
