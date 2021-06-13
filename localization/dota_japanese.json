@@ -6768,5 +6768,10 @@
     "DOTA_TeamChallenge_Failure": "失敗",
     "DOTA_TeamChallenge_Reward": "+{d:reward_amount}BP",
     "DOTA_Friend_Invite_To_Party": "パーティーに招待",
-    "DOTA_UserMenu_PartyInvite": "パーティーに招待"
+    "DOTA_UserMenu_PartyInvite": "パーティーに招待",
+    "DOTA_UserMenu_Mute_Voice": "ボイスをミュート",
+    "DOTA_UserMenu_Unmute_Voice": "ボイスのミュートを解除",
+    "DOTA_UserMenu_Mute_Text": "テキストをミュート",
+    "DOTA_UserMenu_Unmute_Text": "テキストのミュートを解除",
+    "DOTA_Spectator_LiveSpectating": "無遅延観戦"
 }
