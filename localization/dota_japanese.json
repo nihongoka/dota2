@@ -6806,5 +6806,16 @@
     "DOTA_Glossary_DamageBlock": "ダメージブロック",
     "DOTA_Glossary_DamageBlock_Desc": "近接（遠距離を除く）ヒーローはすべての基本攻撃を{d:DOTA_MELEE_HERO_INNATE_DAMAGE_BLOCK_PERCENT}%の確率で{d:DOTA_MELEE_HERO_INNATE_DAMAGE_BLOCK_AMOUNT}ダメージブロックする。",
     "DOTA_Popup_RankCalibration_Congrats": "おめでとうございます！",
-    "DOTA_Popup_RankCalibration_NowReached": "あなたの現在のランク:"
+    "DOTA_Popup_RankCalibration_NowReached": "あなたの現在のランク:",
+    "DOTA_GiftWrap_Item": "{g:dota_item_name:gift_item_def}をラッピング",
+    "DOTA_WrapGift": "ラッピングする",
+    "dota_gift_Success_Header": "成功",
+    "DOTA_GiftWrap_ConfirmDedication_Title": "メッセージの確認",
+    "DOTA_GiftWrap_ConfirmDedication_Message": "'{s:gift_dedication}'のメッセージを添えてギフトを贈りますか？",
+    "dota_select_friend_title": "ギフトを贈るフレンドを選択する。",
+    "dota_gift_popup_footer": "フレンドが見つかりませんか？詳しくはこちら<a href=\"event:DOTAShowGiftRestrictionsPopup()\">ギフトの制限</a>。",
+    "dota_gift_Success": "ギフトが贈られました。",
+    "DedicateGift_Title": "ギフトをラッピング",
+    "DedicateGift_Text": "ギフトメッセージを追加:",
+    "DedicateGift_Confirm": "'%s1'のメッセージを添えてギフトしますか？"
 }
