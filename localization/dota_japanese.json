@@ -6780,5 +6780,18 @@
     "DOTA_Glossary_Items_NeutralItems_Description": "ヒーローはニュートラルアイテムを使用することができます。このアイテムは、中立クリープのドロップから入手可能で、購入することはできません。通常アイテムとは異なり、ニュートラルアイテムは共有可能で、破壊することができません。各プレイヤーはニュートラルアイテム用の専用スロットを1つ持っていて、チームで集めたアイテムは泉に保管されています。",
     "DOTA_Glossary_Items_Inventory_Desc": "アイテムを購入すると、インベントリ内のスロットに入ります。 インベントリには以下のように様々なスロットがあります。",
     "DOTA_Glossary_Items_Inventory": "インベントリ",
-    "DOTA_Glossary_Items_Inventory_MainSlots": "メインインベントリ"
+    "DOTA_Glossary_Items_Inventory_MainSlots": "メインインベントリ",
+    "DOTA_Glossary_Items_Inventory_Stash_Desc": "各ヒーローは{d:DOTA_ITEM_STASH_SIZE}つのスタッシュアイテムスロットを持っている。メインインベントリとバックパックがいっぱいの場合、またはアイテムを購入した時にヒーローがホームショップの範囲内にいない場合、アイテムは自動的にスタッシュに入る。スタッシュがいっぱいの場合、購入したアイテムは泉にドロップする。",
+    "DOTA_Glossary_Items_Inventory_BackpackSlots_Desc": "各ヒーローは{d:DOTA_ITEM_BACKPACK_SIZE}つのバックパックスロットを持っている。メインインベントリがいっぱいになると、アイテムは自動的にバックパックのスロットに入る。ヒーローはバックパック内のアイテムを持ち運ぶことはできるが、アクティブにはならず、使用することはできない。",
+    "DOTA_Glossary_Items_Inventory_MainSlots_Desc": "各プレイヤーは{d:DOTA_ITEM_MAIN_INVENTORY_SIZE}つのメインインベントリスロットを持っている。 このスロットにあるアイテムはヒーローが持ち運びでき、クールダウンが解除されたときに使用することができる。",
+    "DOTA_Glossary_Items_Inventory_NeutralItemSlot": "ニュートラルアイテム\nスロット",
+    "DOTA_Glossary_Items_Inventory_NeutralItemSlot_Desc": "各ヒーローはニュートラルアイテムを装備するための専用スロットを1つ持っている。ニュートラルアイテムを拾ったときにこのスロットが空ならば自動的に入る。2個目以降のニュートラルアイテムは、バックパックに収納される。",
+    "DOTA_Glossary_Items_Inventory_TownPortalScrollSlot": "タウンポータル スクロールスロット",
+    "DOTA_Glossary_Items_Inventory_TownPortalScrollSlot_Desc": "各ヒーローはタウンポータルスクロール専用のスロットを1つ持っている。タウンポータルスクロールをインベントリに入れると、メインインベントリスロットの代わりにここに格納される。",
+    "DOTA_Glossary_Items_Inventory_Stash": "スタッシュ",
+    "DOTA_Glossary_Items_Courier": "クーリエ",
+    "DOTA_Glossary_Items_Courier_Desc": "クーリエはプレイヤーがコントロール可能で、ヒーローがショップの範囲内にいないときにスタッシュからアイテムを配達してくれる特別なユニットです。クーリエがシークレットショップの範囲内いれば、シークレットショップのアイテムを購入でき、また地面に落ちているアイテムを拾ったり、反対に地面にアイテムを落とすことが出来ます。",
+    "DOTA_Glossary_Items_Assembling": "レシピと合成",
+    "DOTA_Glossary_Items_Assembling_Recipes": "レシピ",
+    "DOTA_Glossary_Items_Inventory_BackpackSlots": "バックパック"
 }
