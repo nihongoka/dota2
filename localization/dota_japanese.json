@@ -6786,7 +6786,7 @@
     "DOTA_Glossary_Items_Inventory_MainSlots_Desc": "各プレイヤーは{d:DOTA_ITEM_MAIN_INVENTORY_SIZE}つのメインインベントリスロットを持っている。 このスロットにあるアイテムはヒーローが持ち運びでき、クールダウンが解除されたときに使用することができる。",
     "DOTA_Glossary_Items_Inventory_NeutralItemSlot": "ニュートラルアイテム\nスロット",
     "DOTA_Glossary_Items_Inventory_NeutralItemSlot_Desc": "各ヒーローはニュートラルアイテムを装備するための専用スロットを1つ持っている。ニュートラルアイテムを拾ったときにこのスロットが空ならば自動的に入る。2個目以降のニュートラルアイテムは、バックパックに収納される。",
-    "DOTA_Glossary_Items_Inventory_TownPortalScrollSlot": "タウンポータル スクロールスロット",
+    "DOTA_Glossary_Items_Inventory_TownPortalScrollSlot": "タウンポータル\nスクロールスロット",
     "DOTA_Glossary_Items_Inventory_TownPortalScrollSlot_Desc": "各ヒーローはタウンポータルスクロール専用のスロットを1つ持っている。タウンポータルスクロールをインベントリに入れると、メインインベントリスロットの代わりにここに格納される。",
     "DOTA_Glossary_Items_Inventory_Stash": "スタッシュ",
     "DOTA_Glossary_Items_Courier": "クーリエ",
