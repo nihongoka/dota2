@@ -6793,5 +6793,14 @@
     "DOTA_Glossary_Items_Courier_Desc": "クーリエはプレイヤーがコントロール可能で、ヒーローがショップの範囲内にいないときにスタッシュからアイテムを配達してくれる特別なユニットです。クーリエがシークレットショップの範囲内いれば、シークレットショップのアイテムを購入でき、また地面に落ちているアイテムを拾ったり、反対に地面にアイテムを落とすことが出来ます。",
     "DOTA_Glossary_Items_Assembling": "レシピと合成",
     "DOTA_Glossary_Items_Assembling_Recipes": "レシピ",
-    "DOTA_Glossary_Items_Inventory_BackpackSlots": "バックパック"
+    "DOTA_Glossary_Items_Inventory_BackpackSlots": "バックパック",
+    "DOTA_Glossary_Items_Assembling_CombineLock_Desc": "時に、自動合成が望ましくない場合がある。これを防ぐために、アイテムを右クリックして、メニューから個別に合成をロックすることができる。ロックされたアイテムは自動合成の素材とみなされなくなる。",
+    "DOTA_Glossary_Items_Assembling_Disassembly_Desc": "合成したアイテムの中には、素材に分解できるものもある。すべての素材アイテムは自動的に合成ロックされた状態で分解される。",
+    "DOTA_Glossary_Items_Assembling_Quickbuy": "クイックバイ",
+    "DOTA_Glossary_Items_Assembling_Quickbuy_Desc": "ショップ内でShiftキーを押しながらアイテムを左クリックことで、右下のクイックバイリストに追加することが出来る。クイックバイに追加するアイテムが合成アイテムの場合、素材とレシピが代わりに追加される。クイックバイのホットキー（デフォルトは F5）を押すことで、リスト内で一番安いアイテムを即座に購入することができる。",
+    "DOTA_Glossary_Items_Assembling_AutoCombine_Desc": "インベントリ内のアイテムがアップグレード条件を満たしている場合、自動的に合成される。 アイテムが全て同じ場所にあるときのみ合成される。インベントリとスタッシュ間で素材が分かれている場合、メインショップの範囲内にいる時に自動合成される。",
+    "DOTA_Glossary_Items_Assembling_Disassembly": "分解",
+    "DOTA_Glossary_Items_Assembling_Recipes_Desc": "強力なアイテムを作るにはアイテムを合成する必要がある。更に、いくつかのアイテムは合成に特別なレシピが必要なものもある。合成は{d:DOTA_ITEM_MAIN_INVENTORY_SIZE}つのメインインベントリスロットの制限の中でよりヒーローを強くすることができる。",
+    "DOTA_Glossary_Items_Assembling_AutoCombine": "自動合成",
+    "DOTA_Glossary_Items_Assembling_CombineLock": "合成ロック"
 }
