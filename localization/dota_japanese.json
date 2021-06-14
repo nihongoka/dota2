@@ -6817,5 +6817,6 @@
     "dota_gift_Success": "ギフトが贈られました。",
     "DedicateGift_Title": "ギフトをラッピング",
     "DedicateGift_Text": "ギフトメッセージを追加:",
-    "DedicateGift_Confirm": "'%s1'のメッセージを添えてギフトしますか？"
+    "DedicateGift_Confirm": "'%s1'のメッセージを添えてギフトしますか？",
+    "DOTA_Glossary_CombatClasses": "戦闘クラス"
 }
