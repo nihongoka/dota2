@@ -6818,5 +6818,9 @@
     "DedicateGift_Title": "ギフトをラッピング",
     "DedicateGift_Text": "ギフトメッセージを追加:",
     "DedicateGift_Confirm": "'%s1'のメッセージを添えてギフトしますか？",
-    "DOTA_Glossary_CombatClasses": "戦闘クラス"
+    "DOTA_Glossary_CombatClasses": "戦闘クラス",
+    "LoadingScreenMatchID": "マッチID: {s:match_id}",
+    "dota_page_match_details_loading": "マッチをロード中...",
+    "DOTA_Chat_Ranked_Reminder": "ランクマッチでは棄権がより厳しく扱われます。 ファーストブラッドが発生した試合ではMMRが更新されます。",
+    "DOTA_ReportReminder": "不正行為をしたプレイヤーを通報したり、一緒にプレイして楽しかったプレイヤーを称賛したりすることを忘れないでください。ゲーム終了後の画面で、プレイヤー名の上にあるアイコンから称賛または通報することができます。"
 }
