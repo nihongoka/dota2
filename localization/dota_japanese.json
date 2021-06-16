@@ -5581,7 +5581,7 @@
     "DOTA_RR_Reason": "すべてのロールを選択した状態でマッチを検索すると、より良い試合を迅速にマッチングすることができます。",
     "DOTA_RRParty_EditPartyRoles": "パーティーロールを編集",
     "DOTA_RR_HighDemandRole_Description": "このロールは需要が高いです。パーティーで需要の高いロールをすべて選択すれば、ロールキューを消費しません。",
-    "DOTA_RR_RoleHandicapTitle": "ランクマッチでのロール別パフォーマンス",
+    "DOTA_RR_RoleHandicapTitle": "ロール別パフォーマンス",
     "DOTA_RR_RoleHandicapExplain": "ランクマッチのロールキューゲームでのあなたの過去の成績に基づいて、マッチを検索する際、各ロールのパフォーマンスを考慮して、あなたのランクを調整します。これにより、プレイスタイルやプレイするロールに関わらず、公平なマッチを見つけることができます。",
     "DOTA_Play_RR_Roles": "{d:party_role_total}/5ロール選択中",
     "DOTA_Play_RR_PartyEligible": "ロールキューゲーム",
