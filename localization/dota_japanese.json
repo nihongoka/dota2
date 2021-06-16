@@ -5234,7 +5234,7 @@
     "DOTA_Plus_PurchaseDialog_Self_Title": "メンバーシップを購入",
     "DOTA_Plus_PurchaseDialog_Gift_Title": "メンバーシップをギフト",
     "DOTA_DPCSchedule_LoadingData": "スケジュールをロード中...",
-    "DOTA_DPCSchedule_ViewScoreboard": "スケジュールを見る",
+    "DOTA_DPCSchedule_ViewScoreboard": "スコアボードを見る",
     "DOTA_DPCSchedule_Schedule": "スケジュール",
     "DOTA_DPCSchedule_ViewFullSchedule": "スケジュールを見る",
     "DOTA_DPCSchedule_Standings": "順位",
@@ -6828,5 +6828,8 @@
     "DOTA_Request_Join_Party": "パーティーへの参加を申請",
     "DOTA_Friends_Ready_To_Play": "公開ゲーム",
     "DOTA_Friend_Finding_Match": "マッチを検索中...",
-    "DOTA_Friend_In_Match": "試合中"
+    "DOTA_Friend_In_Match": "試合中",
+    "DOTA_CoinFlip_Heads": "コインを投げた: <span class=\"CoinFlipResult\">表</span>",
+    "DOTA_CoinFlip_Tails": "コインを投げた: <span class=\"CoinFlipResult\">裏</span>",
+    "DOTA_HUD_Horn": "角笛"
 }
