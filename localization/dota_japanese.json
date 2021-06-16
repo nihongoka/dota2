@@ -6825,5 +6825,8 @@
     "DOTA_ReportReminder": "不正行為をしたプレイヤーを通報したり、一緒にプレイして楽しかったプレイヤーを称賛したりすることを忘れないでください。ゲーム終了後の画面で、プレイヤー名の上にあるアイコンから称賛または通報することができます。",
     "DOTA_HUD_Gold_Each": "各々",
     "DOTA_RP_NOT_FRIEND": "フレンドでない",
-    "DOTA_Request_Join_Party": "パーティーへの参加を申請"
+    "DOTA_Request_Join_Party": "パーティーへの参加を申請",
+    "DOTA_Friends_Ready_To_Play": "公開ゲーム",
+    "DOTA_Friend_Finding_Match": "マッチを検索中...",
+    "DOTA_Friend_In_Match": "試合中"
 }
