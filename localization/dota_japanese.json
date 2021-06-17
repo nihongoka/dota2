@@ -6848,5 +6848,6 @@
     "DOTA_HUD_Rune_Invisibility": "<font color='#8B008B'>インビジビリティ</font>ルーン",
     "DOTA_HUD_BottledRune": "{s:player_name} ボトルに入れた{s:rune_icon}{s:rune_name}",
     "DOTA_HUD_BarracksKilled": "{s:killer}{s:killed_icon}{s:team} {s:lane} {s:rax_type} バラック{s:gold}",
-    "DOTA_HUD_Shrine_Killed": "{s:killer}{s:killed_icon}{s:shrine_name}{s:gold}"
+    "DOTA_HUD_Shrine_Killed": "{s:killer}{s:killed_icon}{s:shrine_name}{s:gold}",
+    "DOTA_Glossary_Advanced_PullingStacking": "プルとスタック"
 }
