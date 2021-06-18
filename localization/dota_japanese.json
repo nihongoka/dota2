@@ -6910,5 +6910,6 @@
     "DOTA_HeroStat_PlusStillLoadingOrUnavailable": "データをロード中、または一時的に利用できない状態です。",
     "DOTA_HeroStat_ChooseRankTier": "表示する統計のランクを選択してください",
     "DOTA_XPBar_Tooltip_Default": "{s:xp_amount}経験値",
-    "DOTA_HeroSetShuffle_Info": "セットのシャッフルを有効にした場合、試合終了後にシャッフル内の別のセットを装備します。"
+    "DOTA_HeroSetShuffle_Info": "セットのシャッフルを有効にした場合、試合終了後にシャッフル内の別のセットを装備します。",
+    "DOTA_ExitFullscreen": "Escキーを押してフルスクリーンをやめる"
 }
