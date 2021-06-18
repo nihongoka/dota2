@@ -6873,5 +6873,7 @@
     "StoreBanner_Text_OgreMagi_Arcana_Bundle": "Ogre Magiの新しいアルカナが登場しました！ファイアーラークの Flockheartは1匹のどうしようもなく愚かなオーガと一緒になっても、幸運の女神が助けてくれると信じるしかありません。",
     "reborn_beta_downloading": "ダウンロード中...",
     "ugc_tools_downloading": "ダウンロード中...",
-    "DOTA_ProGear_Econ_Tooltip": "%s1 プロギア"
+    "DOTA_ProGear_Econ_Tooltip": "%s1 プロギア",
+    "StoreBanner_Header_Rubick_Arcana_Bundle": "The Magus Cypher バンドル",
+    "StoreBanner_Header_OgreMagi_Arcana_Bundle": "Flockheart's Gamble"
 }
