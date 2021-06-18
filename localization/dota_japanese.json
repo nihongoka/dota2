@@ -6850,5 +6850,5 @@
     "DOTA_HUD_BarracksKilled": "{s:killer}{s:killed_icon}{s:team} {s:lane} {s:rax_type} バラック{s:gold}",
     "DOTA_HUD_Shrine_Killed": "{s:killer}{s:killed_icon}{s:shrine_name}{s:gold}",
     "DOTA_Glossary_Advanced_PullingStacking": "プルとスタック",
-    "DOTA_ChallengeDesc_SlowDuration": "<font color='#ffffff'>%s1</font>秒敵に<font color='#ffffff'>移動速度低下</font>のデバフを与える。"
+    "DOTA_ChallengeDesc_SlowDuration": "敵に<font color='#ffffff'>移動速度低下</font>のデバフを合計<font color='#ffffff'>%s1</font>秒与える。"
 }
