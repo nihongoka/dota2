@@ -6911,5 +6911,12 @@
     "DOTA_HeroStat_ChooseRankTier": "表示する統計のランクを選択してください",
     "DOTA_XPBar_Tooltip_Default": "{s:xp_amount}経験値",
     "DOTA_HeroSetShuffle_Info": "セットのシャッフルを有効にした場合、試合終了後にシャッフル内の別のセットを装備します。",
-    "DOTA_ExitFullscreen": "Escキーを押してフルスクリーンをやめる"
+    "DOTA_ExitFullscreen": "Escキーを押してフルスクリーンをやめる",
+    "DOTA_HUD_Double_Down": "ダブルダウンランク",
+    "DOTA_Tooltip_RoshanTimer_VisibleTime": "Roshan復活まで:",
+    "DOTA_Tooltip_RoshanTimer_BaseTime": "Roshan復活までおよそ:",
+    "DOTA_HUD_Double_Down_Dialog_Title": "ダブルダウントークンを使用しますか？",
+    "DOTA_HUD_Double_Down_Dialog_Option0": "はい - 宣言します！",
+    "DOTA_HUD_Double_Down_Dialog_Option1": "はい",
+    "DOTA_HUD_Double_Down_Dialog_Cancel": "いいえ"
 }
