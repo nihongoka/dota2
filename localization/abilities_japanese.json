@@ -3578,7 +3578,7 @@
     "DOTA_Tooltip_modifier_troll_warlord_battle_trance_vision_Description": "Troll Warlordはあなたを斬る！",
     "DOTA_Tooltip_modifier_troll_warlord_berserkers_rage_ensnare": "Berserker's Rage",
     "DOTA_Tooltip_modifier_troll_warlord_berserkers_rage_ensnare_Description": "Troll Warlordはあなたを捕まえた！",
-    "DOTA_Tooltip_ability_troll_warlord_battle_trance_Description": "戦に熱狂し、 発動時最も近かった周囲%range%以内のユニット(ヒーローを優先)に向かって移動と攻撃だけをし続ける。この状態ではAxeのアビリティ等の特殊効果以外では死なず、ライフスティール・攻撃速度・移動速度が増加する。発動時に自身に基本ディスペルをかける。",
+    "DOTA_Tooltip_ability_troll_warlord_battle_trance_Description": "戦に熱狂し、 発動時最も近かった周囲%range%以内のユニット(ヒーローを優先)に向かって移動と攻撃だけをし続ける。これの発動中は死ぬことがなく、ライフスティール・攻撃速度・移動速度が増加する。発動時に自身に基本ディスペルをかける。",
     "DOTA_Tooltip_ability_troll_warlord_battle_trance_scepter_cast_range_tooltip": "SCEPTER 対象指定範囲:",
     "DOTA_Tooltip_modifier_troll_warlord_whirling_axes_slow": "Whirling Axes Slow",
     "DOTA_Tooltip_modifier_troll_warlord_fervor_Description": "攻撃速度が%dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%増加している。",
