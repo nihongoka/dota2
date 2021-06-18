@@ -6918,5 +6918,6 @@
     "DOTA_HUD_Double_Down_Dialog_Title": "ダブルダウントークンを使用しますか？",
     "DOTA_HUD_Double_Down_Dialog_Option0": "はい - 宣言します！",
     "DOTA_HUD_Double_Down_Dialog_Option1": "はい",
-    "DOTA_HUD_Double_Down_Dialog_Cancel": "いいえ"
+    "DOTA_HUD_Double_Down_Dialog_Cancel": "いいえ",
+    "DOTA_Glossary_Root": "ルート"
 }
