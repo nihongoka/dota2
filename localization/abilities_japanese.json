@@ -7498,7 +7498,7 @@
     "DOTA_Tooltip_Ability_item_refresher_shard_Description": "<h1>Use: Reset Cooldowns</h1>自身の全てのアイテムとアビリティのクールダウンをリセットする。",
     "DOTA_Tooltip_modifier_item_butterfly_extra": "Flutter",
     "DOTA_Tooltip_modifier_nyx_assassin_vendetta_armor_reduction": "Vendetta",
-    "DOTA_Tooltip_ability_item_bloodstone_Description": "<h1>Active: Bloodpact</h1>最大マナの%mana_cost_percentage%%%を%restore_duration%秒間HP自然回復に回す。\n<h1>Passive: Mana Battery</h1>チャージごとに、 %regen_per_charge% マナ回復と%amp_per_charge%%%スペルダメージボーナスを得る。自分の近くで敵のキルが発生すると%kill_charges%チャージが得られる。自分が死亡した場合、%death_charges%チャージを失う。購入時のチャージ数は%initial_charges_tooltip%。",
+    "DOTA_Tooltip_ability_item_bloodstone_Description": "<h1>Active: Bloodpact</h1>最大マナの%mana_cost_percentage%%%を%restore_duration%秒間HP自然回復に回す。\n<h1>Passive: Mana Battery</h1>チャージごとに、 %regen_per_charge% マナ回復と%amp_per_charge%%%スペルダメージボーナスを得る。自分の近くで敵がキルされると%kill_charges%チャージが得られる。自分が死亡した場合、%death_charges%チャージを失う。購入時のチャージ数は%initial_charges_tooltip%。",
     "DOTA_Tooltip_ability_item_bloodstone_bonus_health_regen": "+$hp_regen",
     "DOTA_Tooltip_ability_item_bloodstone_spell_amp": "%+スペルダメージ増幅",
     "DOTA_Tooltip_ability_item_bloodstone_hero_lifesteal": "%+スペルライフスティール (ヒーロー)",
