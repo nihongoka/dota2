@@ -4328,7 +4328,7 @@
     "DOTA_econ_item_details_style_name": "{s:style_name}",
     "DOTA_econ_item_details_style_selected": "選択中",
     "DOTA_econ_item_details_style_available": "選択",
-    "DOTA_econ_item_details_style_locked": "ロックされてる",
+    "DOTA_econ_item_details_style_locked": "ロック中",
     "DOTA_econ_item_details_style_unlock": "アンロック",
     "DOTA_econ_item_details_description_header": "説明文",
     "DOTA_econ_item_details_description_reset": "リセット",
@@ -7016,5 +7016,6 @@
     "DOTA_Arcana_Wraith_King_MiniGame_Subtitle": "オルタネイトスタイル 'Malignant Rule' をアンロックしよう",
     "DOTA_Arcana_Wraith_King_MiniGame_Description": "敵を倒して勝利し、その亡き骸を100体集めるとオルタネイトスタイル 'Malignant Rule' が解放されます。",
     "DOTA_Arcana_Wraith_King_MiniGame_Slideout_VictimDescription": "<span class=\"KingText\">ONE TRUE KING</span>に殺されました。<br><span class=\"WinText\">試合に勝利</span>しなければあなたの亡き骸が刈り取られてしまいます！",
-    "KillEaterEvent_SkeletonKing_ArcanaProgress": "種類のヒーローを倒した"
+    "KillEaterEvent_SkeletonKing_ArcanaProgress": "種類のヒーローを倒した",
+    "DOTA_econ_item_details_tooltip_lock_reason_title": "アンロック条件:"
 }
