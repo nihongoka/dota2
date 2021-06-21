@@ -7001,5 +7001,6 @@
     "DOTA_Glossary_DefenseClass_Structure": "建造物",
     "DOTA_Glossary_Heroes_Desc": "プレイヤーは試合が開始したら1人ヒーローを選びます。Dota2には全部で{d:num_heroes}ものヒーローがいます。各ヒーローはユニークなアビリティとプレイスタイルを持っています。",
     "generic_error_header": "エラー",
-    "generic_error_body": "%s1"
+    "generic_error_body": "%s1",
+    "DOTA_Arcana_Wraith_King_MiniGame_Claimable_Description": "刈り取られるのを待っている骨たち"
 }
