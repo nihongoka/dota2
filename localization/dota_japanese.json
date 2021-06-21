@@ -7002,5 +7002,17 @@
     "DOTA_Glossary_Heroes_Desc": "プレイヤーは試合が開始したら1人ヒーローを選びます。Dota2には全部で{d:num_heroes}ものヒーローがいます。各ヒーローはユニークなアビリティとプレイスタイルを持っています。",
     "generic_error_header": "エラー",
     "generic_error_body": "%s1",
-    "DOTA_Arcana_Wraith_King_MiniGame_Claimable_Description": "刈り取られるのを待っている骨たち"
+    "DOTA_Arcana_Wraith_King_MiniGame_Claimable_Description": "刈り取られるのを待っている骨たち",
+    "DOTA_Arcana_Wraith_King_MiniGame_Slideout_Description": "<b>{s:last_kill_hero_name}</b>を倒した。<br><span class=\"WinText\">試合に勝利</span>して亡き骸を刈り取ろう！",
+    "DOTA_tooltip_econ_item_tags": "タグ",
+    "DOTA_Filter_Field_Category": "タグ",
+    "DOTA_Arcana_Wraith_King_PreGame_Description": "これらのヒーローを倒して試合に勝利し、Malignant Ruleスタイル開放のプログレスを進めよう。",
+    "DOTA_Arcana_Wraith_King_GameEnd_Description": "敵を降伏させた！Wraith Kingのアルカナ装備画面のマップで亡き骸を刈り取ろう。",
+    "DOTA_Arcana_Wraith_King_MiniGame_Completion": "刈り取った骸",
+    "DOTA_Arcana_Wraith_King_MiniGame_Progress": "{s:num_claimed_heroes}/{i:total_heroes}",
+    "DOTA_Arcana_Wraith_King_MiniGame_Claimable": "{s:num_claimable_heroes}",
+    "DOTA_WraithKingArcana_Spellbook_Title": "刈り取った骸",
+    "DOTA_Arcana_Wraith_King_MiniGame_Title": "生贄を刈り取れ",
+    "DOTA_Arcana_Wraith_King_MiniGame_Subtitle": "オルタネイトスタイル 'Malignant Rule' をアンロックしよう",
+    "DOTA_Arcana_Wraith_King_MiniGame_Description": "敵を倒して勝利し、その亡き骸を100体集めるとオルタネイトスタイル 'Malignant Rule' が解放されます。"
 }
