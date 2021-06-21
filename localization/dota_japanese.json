@@ -7012,7 +7012,9 @@
     "DOTA_Arcana_Wraith_King_MiniGame_Progress": "{s:num_claimed_heroes}/{i:total_heroes}",
     "DOTA_Arcana_Wraith_King_MiniGame_Claimable": "{s:num_claimable_heroes}",
     "DOTA_WraithKingArcana_Spellbook_Title": "刈り取った骸",
-    "DOTA_Arcana_Wraith_King_MiniGame_Title": "生贄を刈り取れ",
+    "DOTA_Arcana_Wraith_King_MiniGame_Title": "亡き骸を刈り取れ",
     "DOTA_Arcana_Wraith_King_MiniGame_Subtitle": "オルタネイトスタイル 'Malignant Rule' をアンロックしよう",
-    "DOTA_Arcana_Wraith_King_MiniGame_Description": "敵を倒して勝利し、その亡き骸を100体集めるとオルタネイトスタイル 'Malignant Rule' が解放されます。"
+    "DOTA_Arcana_Wraith_King_MiniGame_Description": "敵を倒して勝利し、その亡き骸を100体集めるとオルタネイトスタイル 'Malignant Rule' が解放されます。",
+    "DOTA_Arcana_Wraith_King_MiniGame_Slideout_VictimDescription": "<span class=\"KingText\">ONE TRUE KING</span>に殺されました。<br><span class=\"WinText\">試合に勝利</span>しなければあなたの亡き骸が刈り取られてしまいます！",
+    "KillEaterEvent_SkeletonKing_ArcanaProgress": "種類のヒーローを倒した"
 }
