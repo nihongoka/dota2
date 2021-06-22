@@ -7047,5 +7047,22 @@
     "DOTA_Glossary_IntroItems_SecretShop": "強力なアイテムの多くはマップの奥深くにいる2つのシークレットショップでしか購入できません。",
     "DOTA_Glossary_IntroItems_Combining": "いくつかのアイテムはより強力なアイテムにアップグレードするための素材として使うことが出来ます。アップグレードしたアイテムは商人に元の半額で売ることが出来ます。",
     "DOTA_Glossary_IntroLanes_Lanes": "各陣営のベースには三対のバラックがあり、そこからクリープと呼ばれるユニットのウェーブが発生し、マップ上を敵陣営のベースに向かって進行します。 クリープの通り道をレーンと呼びます。",
-    "DOTA_Glossary_IntroLanes_LastHits": "ヒーローは倒されたクリープから経験値を得ることができ、またクリープにとどめを刺すことでゴールドを得ることができます。"
+    "DOTA_Glossary_IntroLanes_LastHits": "ヒーローは倒されたクリープから経験値を得ることができ、またクリープにとどめを刺すことでゴールドを得ることができます。",
+    "DOTA_Glossary_Experience_GraphX": "ヒーローレベル",
+    "DOTA_Glossary_Experience_GraphY": "必要経験値",
+    "DOTA_Glossary_Experience_GraphY_Label": "{d:xp_required_max_level}",
+    "DOTA_Glossary_Experience_GraphTooltip": "{d:xp_required}",
+    "DOTA_Glossary_Experience_GraphLevel": "{d:level}",
+    "DOTA_Glossary_Respawn_GraphY": "リスポーン時間",
+    "DOTA_Glossary_Respawn_GraphY_Label": "{d:respawn_seconds_max_level}秒",
+    "DOTA_Glossary_Respawn_GraphTooltip": "{d:respawn_seconds}秒",
+    "DOTA_Glossary_Experience_Header": "経験値",
+    "DOTA_Glossary_Level_Intro": "ヒーローはレベル1から始まり、クリープや他のヒーローを倒すことで経験値を獲得して最大レベル30まで上げることができます。レベルは、あるヒーローが他のヒーローよりも強いかどうかを判断する最も簡単な指標です。",
+    "DOTA_Glossary_Level_Points": "レベルが上がるごとにスキルポイントを獲得し、新しいアビリティを習得したり、習得済みのアビリティや属性をレベルアップすることができます。また、特定のレベルに到達すると新しいタレントを習得することができます。",
+    "DOTA_Glossary_Level_AttributeGain": "レベルが上がるごとにStrength、Agility、Intelligenceが増加します。いくつかのヒーローは他のヒーローよりも多く属性を獲得し、ゲームの進行とともに強くなっていきます。",
+    "DOTA_Glossary_Gold_Header": "ゴールドとバウンティー",
+    "DOTA_Glossary_IntroLanes_Towers": "各レーンには間隔を置いて3つの強力なタワーが設置されており、近づいた敵ヒーローやクリープを自動的に攻撃します。",
+    "DOTA_Glossary_IntroLanes_Neutrals": "レーンクリープに加えて、マップ上の様々な場所に中立クリープキャンプがあり、中立クリープを倒すことででゴールドや経験値、特別なニュートラルアイテムを獲得することができます。",
+    "DOTA_Glossary_Level_Header": "ユニットレベル",
+    "DOTA_Glossary_Respawn_GraphX": "ヒーローレベル"
 }
