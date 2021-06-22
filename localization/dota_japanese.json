@@ -7033,5 +7033,11 @@
     "DOTA_EconItemSet_Tooltip_HasEmptySocket": "空のソケットがあります。",
     "DOTA_EconItemSet_Tooltip_HasCommonGem": "1つ以上のジェムが嵌められています。",
     "DOTA_EconItemSet_Tooltip_HasRareGem": "1つ以上のレアジェムが嵌められています。",
-    "DOTA_EconItemSet_Tooltip_TI10_Exclusive_Item": "The International 10 バトルパス限定"
+    "DOTA_EconItemSet_Tooltip_TI10_Exclusive_Item": "The International 10 バトルパス限定",
+    "DOTA_Glossary_IntroHeroes_RangedMelee": "更にヒーローは攻撃範囲から近接と遠距離に分けられます。近接は近くの敵を、遠距離は遠くの敵を攻撃することが出来ます。",
+    "DOTA_Glossary_IntroHeroes": "ヒーロー",
+    "DOTA_Glossary_IntroHeroes_Types": "ヒーローはStrength、 Agility、 Intelligenceの3つのタイプに分けられます。",
+    "DOTA_Glossary_IntroHeroes_Abilities": "ヒーローは3つの標準アビリティとレベル6になると解放される強力なUltアビリティを持っています。",
+    "DOTA_Glossary_IntroHeroes_Map": "プレイヤーは試合が開始したら1人ヒーローを選びます。Dota2には全部で{d:num_heroes}ものヒーローがいます。各ヒーローはユニークなアビリティとプレイスタイルを持っています。",
+    "DOTA_Glossary_IntroLanes": "レーン・クリープ・タワー"
 }
