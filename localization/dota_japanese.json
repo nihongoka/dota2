@@ -7149,5 +7149,21 @@
     "DOTA_Glossary_Map_Vision_Wards": "ワード",
     "DOTA_Glossary_Teamwork": "チームワーク",
     "DOTA_Glossary_Map_Structures_Barracks_Ranged": "レンジ",
-    "DOTA_Glossary_Map_Vision_Invisibility_Desc": "透明ユニットは、敵ユニットがたとえ視界をもっていても見えません。ほとんどの場合、攻撃やアイテム/アビリティの使用で透明が解除されます。"
+    "DOTA_Glossary_Map_Vision_Invisibility_Desc": "透明ユニットは、敵ユニットがたとえ視界をもっていても見えません。ほとんどの場合、攻撃やアイテム/アビリティの使用で透明が解除されます。",
+    "DOTA_Glossary_Teamwork_Terminology": "用語解説",
+    "DOTA_Glossary_Teamwork_Terminology_Farm": "ファーム",
+    "DOTA_Glossary_Teamwork_Terminology_Core": "コア",
+    "DOTA_Glossary_Teamwork_Terminology_Ganking": "ギャンキング",
+    "DOTA_Glossary_Teamwork_Terminology_Rotation": "ローテーション",
+    "DOTA_Glossary_Teamwork_Terminology_LaningPhase": "レーニングフェーズ",
+    "DOTA_Glossary_Teamwork_Terminology_Harass": "ハラス",
+    "DOTA_Glossary_Teamwork_LaneEquilibrium": "レーンの均衡",
+    "DOTA_Glossary_Teamwork_LaneEquilibrium_PushingSubsection": "レーンが押される理由の例:",
+    "DOTA_Glossary_Teamwork_Terminology_Support": "サポート",
+    "DOTA_Glossary_Teamwork_Terminology_Position15": "ポジション1 - 5",
+    "DOTA_Glossary_Teamwork_Terminology_Jungling": "ジャングリング",
+    "DOTA_Glossary_Teamwork_Terminology_Carry": "キャリー",
+    "DOTA_Glossary_Teamwork_Terminology_Teamfight": "チームファイト",
+    "DOTA_Glossary_Teamwork_Terminology_EarlyMidLate": "アーリー、ミッド、\nレイトゲーム",
+    "DOTA_Glossary_Teamwork_Teamfights": "集団戦"
 }
