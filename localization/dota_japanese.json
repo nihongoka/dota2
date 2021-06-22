@@ -7165,5 +7165,12 @@
     "DOTA_Glossary_Teamwork_Terminology_Carry": "キャリー",
     "DOTA_Glossary_Teamwork_Terminology_Teamfight": "チームファイト",
     "DOTA_Glossary_Teamwork_Terminology_EarlyMidLate": "アーリー、ミッド、\nレイトゲーム",
-    "DOTA_Glossary_Teamwork_Teamfights": "集団戦"
+    "DOTA_Glossary_Teamwork_Teamfights": "集団戦",
+    "DOTA_Glossary_Teamwork_Objectives_Ancient": "エンシェント",
+    "DOTA_Glossary_Teamwork_Objectives_Towers": "タワー",
+    "DOTA_Glossary_Teamwork_Objectives_Barracks": "バラック",
+    "DOTA_Glossary_Teamwork_Objectives": "目的",
+    "DOTA_Glossary_Teamwork_Objectives_Buyback": "バイバック",
+    "DOTA_Glossary_Teamwork_HeroItemChoice": "ヒーローとアイテムの選択",
+    "DOTA_Glossary_Teamwork_HeroItemChoice_EarlyVsLate": "アーリーゲーム vs.\nレイトゲーム"
 }
