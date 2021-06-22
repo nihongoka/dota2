@@ -7026,5 +7026,8 @@
     "report_avoid": "プレイヤーを避ける",
     "report_avoid_desc": "プレイヤーをリストに追加することで、同じチームにならないようにします。",
     "report_console_player_avoided_success": "プレイヤーを現在避けています。",
-    "report_console_player_avoided_failed": "プレイヤーを避けるリクエストに失敗しました。"
+    "report_console_player_avoided_failed": "プレイヤーを避けるリクエストに失敗しました。",
+    "Econ_Description_MultipleOwned": "所有数: %s1",
+    "DOTA_Socketing_Replace_Tooltip": "レアジェムを交換すると、ソケット内にあったジェムは破壊されます。",
+    "DOTA_Socketing_ExtractRareGems_Tooltip": "レアジェムを抽出するには、Master Artificer's Hammerが必要です。アイテムは破壊されます。レアジェムを抽出をクリックすると、ハンマーを持っていない場合は、ハンマーを購入するオプションが表示されます。"
 }
