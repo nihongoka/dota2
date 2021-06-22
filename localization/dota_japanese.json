@@ -7039,5 +7039,13 @@
     "DOTA_Glossary_IntroHeroes_Types": "ヒーローはStrength、 Agility、 Intelligenceの3つのタイプに分けられます。",
     "DOTA_Glossary_IntroHeroes_Abilities": "ヒーローは3つの標準アビリティとレベル6になると解放される強力なUltアビリティを持っています。",
     "DOTA_Glossary_IntroHeroes_Map": "プレイヤーは試合が開始したら1人ヒーローを選びます。Dota2には全部で{d:num_heroes}ものヒーローがいます。各ヒーローはユニークなアビリティとプレイスタイルを持っています。",
-    "DOTA_Glossary_IntroLanes": "レーン、クリープ、タワー"
+    "DOTA_Glossary_IntroLanes": "レーン、クリープ、タワー",
+    "DOTA_Glossary_IntroItems_Agument": "ヒーローは属性を増加させ、アビリティを強化するアイテムを装備する事ができます。アイテムはヒーローの可能性を広げてくれます。",
+    "DOTA_Glossary_IntroItems_MainShop": "アイテムは各陣営の泉にいる商人からゴールドで購入することができます。",
+    "DOTA_Glossary_IntroItems_Consumables": "消費することでヒーローのHPやマナを回復できるアイテムもあります。",
+    "DOTA_Glossary_IntroItems_Consumables_Tooltip": "消費アイテムはヒーローがまだ弱く、素早くHPやマナが回復できない序盤においてしばしば有効です。",
+    "DOTA_Glossary_IntroItems_SecretShop": "強力なアイテムの多くはマップの奥深くにいる2つのシークレットショップでしか購入できません。",
+    "DOTA_Glossary_IntroItems_Combining": "いくつかのアイテムはより強力なアイテムにアップグレードするための素材として使うことが出来ます。アップグレードしたアイテムは商人に元の半額で売ることが出来ます。",
+    "DOTA_Glossary_IntroLanes_Lanes": "各陣営のベースには三対のバラックがあり、そこからクリープと呼ばれるユニットのウェーブが発生し、マップ上を敵陣営のベースに向かって進行します。 クリープの通り道をレーンと呼びます。",
+    "DOTA_Glossary_IntroLanes_LastHits": "ヒーローは倒されたクリープから経験値を得ることができ、またクリープにとどめを刺すことでゴールドを得ることができます。"
 }
