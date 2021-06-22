@@ -7172,5 +7172,12 @@
     "DOTA_Glossary_Teamwork_Objectives": "目的",
     "DOTA_Glossary_Teamwork_Objectives_Buyback": "バイバック",
     "DOTA_Glossary_Teamwork_HeroItemChoice": "ヒーローとアイテムの選択",
-    "DOTA_Glossary_Teamwork_HeroItemChoice_EarlyVsLate": "アーリーゲーム vs.\nレイトゲーム"
+    "DOTA_Glossary_Teamwork_HeroItemChoice_EarlyVsLate": "アーリーゲーム vs.\nレイトゲーム",
+    "DOTA_Glossary_Teamwork_HeroItemChoice_Synergy": "シナジー",
+    "DOTA_Glossary_Search_Hero": "ヒーロー: <b>%s1</b>",
+    "DOTA_Glossary_Search_HeroAbility": "アビリティ: <b>%s2</b> (%s1)",
+    "DOTA_Glossary_Search_Item": "アイテム: <b>%s1</b>",
+    "DOTA_Glossary_Search_ItemAbbreviations": "アイテム: <b>%s1</b> (略称 \"%s2\")",
+    "DOTA_Glossary_Teamwork_HeroItemChoice_Counters": "カウンター",
+    "DOTA_Glossary_Teamwork_HeroItemChoice_DamageTypes": "ダメージタイプ"
 }
