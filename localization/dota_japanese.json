@@ -7065,7 +7065,7 @@
     "DOTA_Glossary_IntroLanes_Neutrals": "レーンクリープに加えて、マップ上の様々な場所に中立クリープキャンプがあり、中立クリープを倒すことででゴールドや経験値、特別なニュートラルアイテムを獲得することができます。",
     "DOTA_Glossary_Level_Header": "ユニットレベル",
     "DOTA_Glossary_Respawn_GraphX": "ヒーローレベル",
-    "DOTA_Glossary_NeutralCampsSmall": "中立クリープ（小型）",
+    "DOTA_Glossary_NeutralCampsSmall": "中立クリープ (小型)",
     "DOTA_Glossary_Level": "レベル",
     "DOTA_Glossary_Respawn_GraphLevel": "{d:level}",
     "DOTA_Glossary_LastHits_Header": "ラストヒットとディナイ",
@@ -7075,7 +7075,7 @@
     "DOTA_Glossary_Structures": "建造物",
     "DOTA_Glossary_XPBounty": "経験値獲得量:",
     "DOTA_Glossary_NeutralCreeps": "中立クリープ",
-    "DOTA_Glossary_NeutralCampsMedium": "中立クリープ（中型）",
+    "DOTA_Glossary_NeutralCampsMedium": "中立クリープ (中型)",
     "DOTA_Glossary_Damage_Header": "ダメージ",
     "DOTA_Glossary_Damage_BasicAttacks": "通常攻撃",
     "DOTA_Glossary_PureDamage": "ピュアダメージ",
@@ -7093,8 +7093,8 @@
     "DOTA_Glossary_Tier4Tower": "ティア4タワー",
     "DOTA_Glossary_BaseStats": "基本ステータス",
     "DOTA_Glossary_GoldBounty": "ゴールド獲得量:",
-    "DOTA_Glossary_NeutralCampsLarge": "中立クリープ（大型）",
-    "DOTA_Glossary_NeutralCampsAncient": "中立クリープ（エンシェント）",
+    "DOTA_Glossary_NeutralCampsLarge": "中立クリープ (大型)",
+    "DOTA_Glossary_NeutralCampsAncient": "中立クリープ (エンシェント)",
     "DOTA_Glossary_Abilities": "アビリティ",
     "DOTA_Glossary_Damage_AbilitiesSpells": "アビリティ",
     "DOTA_Glossary_PhysicalDamage": "物理ダメージ",
@@ -7102,5 +7102,6 @@
     "DOTA_Glossary_Damage_Armor": "アーマー",
     "DOTA_Glossary_UnitStats": "ユニットのステータス",
     "DOTA_Glossary_LevelsAndTalents": "レベルとタレント",
-    "DOTA_Glossary_StatusResistance": "異常耐性"
+    "DOTA_Glossary_StatusResistance": "異常耐性",
+    "DOTA_Glossary_Cooldown": "クールダウン"
 }
