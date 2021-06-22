@@ -7017,5 +7017,14 @@
     "DOTA_Arcana_Wraith_King_MiniGame_Description": "敵を倒して勝利し、その亡き骸を100体集めるとオルタネイトスタイル 'Malignant Rule' が解放されます。",
     "DOTA_Arcana_Wraith_King_MiniGame_Slideout_VictimDescription": "<span class=\"KingText\">ONE TRUE KING</span>に殺されました。<br><span class=\"WinText\">試合に勝利</span>しなければあなたの亡き骸が刈り取られてしまいます！",
     "KillEaterEvent_SkeletonKing_ArcanaProgress": "種類のヒーローを倒した",
-    "DOTA_econ_item_details_tooltip_lock_reason_title": "アンロック条件:"
+    "DOTA_econ_item_details_tooltip_lock_reason_title": "アンロック条件:",
+    "report_avoid_completed": "プレイヤーを現在避けています",
+    "DOTA_PostGame_WraithKingArcanaProgress": "Wraith King アルカナプログレス",
+    "DOTA_Arcana_Wraith_King_PostGameProgress_Title": "跪け、農民よ",
+    "DOTA_Arcana_Wraith_King_PostGameProgress_Description": "クリックして彼らを倒しましょう！",
+    "DOTA_Arcana_Wraith_King_PostGameProgress_ProgressTitle": "アルカナプログレス",
+    "report_avoid": "プレイヤーを避ける",
+    "report_avoid_desc": "プレイヤーをリストに追加することで、同じチームにならないようにします。",
+    "report_console_player_avoided_success": "プレイヤーを現在避けています。",
+    "report_console_player_avoided_failed": "プレイヤーを避けるリクエストに失敗しました。"
 }
