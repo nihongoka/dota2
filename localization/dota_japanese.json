@@ -7188,5 +7188,12 @@
     "DOTA_Hud_NoBuybackLabel": "バイバックできない",
     "DOTA_Hud_BuybackOnCooldown": "バイバッククールダウン中",
     "DOTA_Hud_MaxManaLabel": "マナ:",
-    "DOTA_Hud_BuybackLabel": "バイバック"
+    "DOTA_Hud_BuybackLabel": "バイバック",
+    "PopupManageTeammates_Avoid_Title": "避けているプレイヤー",
+    "PopupManageTeammates_Empty": "なし",
+    "PopupManageTeammates_TimeAdded": "追加日 {t:s:creation_time}",
+    "PopupManageTeammates_TimeExpires": "除外日 {t:s:creation_time}",
+    "PopupManageTeammates_Remove": "削除",
+    "PopupManageTeammates_LoadMore": "もっとロードする",
+    "manage_avoid_player": "避けているプレイヤーの管理"
 }
