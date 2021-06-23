@@ -8774,7 +8774,7 @@
     "DOTA_Tooltip_rune_arcane": "アルケーン",
     "DOTA_Tooltip_rune_arcane_description": "クールダウンとマナコストを30%減少させる。",
     "DOTA_Tooltip_rune_haste": "ヘイスト",
-    "DOTA_Tooltip_rune_haste_description": "移動速度が最大になる",
+    "DOTA_Tooltip_rune_haste_description": "移動速度が最大になる。",
     "DOTA_Tooltip_modifier_rune_regen_Description": "1秒に%dMODIFIER_PROPERTY_HEALTH_REGEN_CONSTANT%体力と%dMODIFIER_PROPERTY_MANA_REGEN_CONSTANT%マナを回復している。",
     "DOTA_Tooltip_modifier_rune_arcane_Description": "クールダウンとマナコストが30%減少している",
     "DOTA_Tooltip_modifier_rune_haste": "ヘイストルーン",
