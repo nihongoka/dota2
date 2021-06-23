@@ -7183,5 +7183,10 @@
     "DOTA_VersusScreen_Loading": "バーサススクリーンをロード中",
     "DOTA_Prediction_CharmPredict03": "勝利を予言する！",
     "DOTA_Prediction_CharmPredict_Predicted": "勝利を予言しました",
-    "DOTA_PredictionWindow_Title": "予言のチャーム"
+    "DOTA_PredictionWindow_Title": "予言のチャーム",
+    "DOTA_Hud_MaxHealthLabel": "HP:",
+    "DOTA_Hud_NoBuybackLabel": "バイバックできない",
+    "DOTA_Hud_BuybackOnCooldown": "バイバッククールダウン中",
+    "DOTA_Hud_MaxManaLabel": "マナ:",
+    "DOTA_Hud_BuybackLabel": "バイバック"
 }
