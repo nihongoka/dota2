@@ -5052,7 +5052,7 @@
     "DOTA_ChallengeDesc_LastHits": "<span class='ChallengeValue'>%s1</span>以上ラストヒットを取る。",
     "DOTA_ChallengeDesc_LastHitsAsHero": "<span class='ChallengeValue'>%s1</span>以上ラストヒットを取る。",
     "matchmaking_match_disabled_party": "{s:match_denied_player_name}がレディーアップに失敗したか、前の試合を棄権したため、マッチが検索できません。残り時間: {t:r:e:match_denied_time}",
-    "DOTA_ChallengeDesc_DoubleHeroStuns": "<span class='ChallengeValue'>%s1</span>回、<span class='ChallengeValue'>2体以上</span>のヒーローを同時にスタンする。",
+    "DOTA_ChallengeDesc_DoubleHeroStuns": "<span class='ChallengeValue'>%s1</span>回、<span class='ChallengeValue'>2体以上</span>のヒーローを同時にスタンさせる。",
     "DOTA_ChallengeDesc_DenyCreeps": "味方クリープを<span class='ChallengeValue'>%s1</span>体ディナイする。",
     "DOTA_ChallengeDesc_KillWhileRooted": "<span class='ChallengeValue'>ルート中</span>の敵ヒーローを<span class='ChallengeValue'>%s1</span>体キルする。",
     "DOTA_ChallengeDesc_WinAsHero": "<span class='ChallengeValue'>%s1</span>で試合に勝利する。",
