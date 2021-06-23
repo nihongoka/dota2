@@ -7180,5 +7180,8 @@
     "DOTA_Glossary_Search_ItemAbbreviations": "アイテム: <b>%s1</b> (略称 \"%s2\")",
     "DOTA_Glossary_Teamwork_HeroItemChoice_Counters": "カウンター",
     "DOTA_Glossary_Teamwork_HeroItemChoice_DamageTypes": "ダメージタイプ",
-    "DOTA_VersusScreen_Loading": "バーサススクリーンをロード中"
+    "DOTA_VersusScreen_Loading": "バーサススクリーンをロード中",
+    "DOTA_Prediction_CharmPredict03": "勝利を予言する！",
+    "DOTA_Prediction_CharmPredict_Predicted": "勝利を予言しました",
+    "DOTA_PredictionWindow_Title": "予言のチャーム"
 }
