@@ -7301,5 +7301,7 @@
     "DOTA_TI9_FrontPage_Trove_Btn": "購入する",
     "DOTA_SeasonPass_SecondaryTabHeader_Home": "ホーム",
     "DOTA_SeasonPass_SecondaryTabHeader_Campaign": "クエスト",
-    "DOTA_SeasonPass_SecondaryTabHeader_CampaignDetails": "キャンペーン"
+    "DOTA_SeasonPass_SecondaryTabHeader_CampaignDetails": "キャンペーン",
+    "DOTA_SeasonPass_SecondaryTabHeader_Wagering": "賭け",
+    "DOTA_SeasonPass_SecondaryTabHeader_Rewards": "報酬"
 }
