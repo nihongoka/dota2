@@ -7305,5 +7305,14 @@
     "DOTA_SeasonPass_SecondaryTabHeader_Wagering": "賭け",
     "DOTA_SeasonPass_SecondaryTabHeader_Rewards": "報酬",
     "DOTA_SeasonPass_SecondaryTabHeader_Tournament": "賞金プール",
-    "DOTA_SeasonPass_SecondaryTabHeader_Achievements": "実績"
+    "DOTA_SeasonPass_SecondaryTabHeader_Achievements": "実績",
+    "DOTA_SeasonPass_SecondaryTabHeader_DoubleDown": "ランクダブルダウン",
+    "DOTA_SeasonPass_SecondaryTabHeader_ProCircuitPredictions": "プロサーキットの予想",
+    "DOTA_Compendium_SecondaryTabHeader_Overview": "概要",
+    "DOTA_SeasonPass_Friends_Leaderboard_Name": "フレンド",
+    "DOTA_SeasonPass_Friends_MMR_Leaderboard": "フレンド",
+    "DOTA_SeasonPass_Wagering_Friends": "フレンド",
+    "DOTA_TI6_BattlePass_Friends": "フレンド",
+    "DOTA_SeasonPass_Friends_Leaderboard_BattleLevel": "バトルパスレベル",
+    "DOTACavernCrawl_Tutorial_ButtonLabel": "遊び方..."
 }
