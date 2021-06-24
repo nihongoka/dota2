@@ -7446,5 +7446,8 @@
     "DOTACavernCrawl_RewardName_SmallTreasure_Spring2021_Part2": "125 Dota Plus シャード",
     "DOTACavernCrawl_RewardName_LargeTreasure_Spring2021_Part1": "2000 バトルポイント +",
     "DOTACavernCrawl_RewardName_LargeTreasure_Spring2021_Part2": "1000 Dota Plus シャード",
-    "DOTA_WeeklyQuest": "ウィークリークエスト"
+    "DOTA_WeeklyQuest": "ウィークリークエスト",
+    "DOTA_PurchaseBattlePassLevels_Question": "何レベル購入しますか？",
+    "DOTA_WeeklyQuests_ShortTitle": "クエスト",
+    "DOTA_Spring2021PostGame_WeeklyProgress": "プログレス"
 }
