@@ -7329,5 +7329,9 @@
     "DOTA_SeasonPass_Rewards_Treasure2": "{g:dota_event_name_short:event_id} トレジャー II",
     "DOTA_SeasonPass_Rewards_Treasure3": "{g:dota_event_name_short:event_id} トレジャー III",
     "DOTA_PurchaseBattlePassLevels": "バトルパスレベルを購入する",
-    "DOTA_ActivateBattlePassLevels": "バトルパスレベルを有効化"
+    "DOTA_ActivateBattlePassLevels": "バトルパスレベルを有効化",
+    "DOTA_UseItemNotification_Title_Success": "アイテムの使用に成功",
+    "DOTA_UseItem_Compendium": "バトルパスが有効になりました！",
+    "DOTA_Home_BattlePass_Unclaimed_Singular": "{d:unclaimed_rewards} 受け取ってない報酬",
+    "DOTA_Home_BattlePass_Unclaimed_Plural": "{d:unclaimed_rewards} 受け取ってない報酬"
 }
