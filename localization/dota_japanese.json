@@ -7303,5 +7303,7 @@
     "DOTA_SeasonPass_SecondaryTabHeader_Campaign": "クエスト",
     "DOTA_SeasonPass_SecondaryTabHeader_CampaignDetails": "キャンペーン",
     "DOTA_SeasonPass_SecondaryTabHeader_Wagering": "賭け",
-    "DOTA_SeasonPass_SecondaryTabHeader_Rewards": "報酬"
+    "DOTA_SeasonPass_SecondaryTabHeader_Rewards": "報酬",
+    "DOTA_SeasonPass_SecondaryTabHeader_Tournament": "賞金プール",
+    "DOTA_SeasonPass_SecondaryTabHeader_Achievements": "実績"
 }
