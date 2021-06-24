@@ -7241,5 +7241,8 @@
     "DOTA_GrantIfNotOwned": "このアイテムは、まだ保管庫にない場合のみ受け取ることができます。",
     "DOTA_BattlePass_RandomReward": "ランダム報酬",
     "DOTA_BattlePass_RandomReward_Info": "ランダムな報酬を1つ獲得できます。重複はしません。",
-    "DOTA_DebutMovie_ViewDashboard": "ダッシュボードへ"
+    "DOTA_DebutMovie_ViewDashboard": "ダッシュボードへ",
+    "DOTA_Spring2021UpcomingRewards_InvokerPersonaTitle": "Dark Artistry Throwback for Young Invoker",
+    "DOTA_Spring2021UpcomingRewards_InvokerPersonaDesc": "ペルソナ Acolyte of the Lost Arts の新バージョン Dark Artistry でレーンを駆け抜けます。",
+    "DOTA_Spring2021UpcomingRewards_SpectreArcanaTitle": "Phantom Advent アルカナ"
 }
