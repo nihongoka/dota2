@@ -7314,7 +7314,7 @@
     "DOTA_SeasonPass_Wagering_Friends": "フレンド",
     "DOTA_TI6_BattlePass_Friends": "フレンド",
     "DOTA_SeasonPass_Friends_Leaderboard_BattleLevel": "バトルパスレベル",
-    "DOTACavernCrawl_Tutorial_ButtonLabel": "遊び方...",
+    "DOTACavernCrawl_Tutorial_ButtonLabel": "遊び方",
     "DOTA_PurchaseBattlePassAsGift_Price": "ギフトを購入 {g:dota_item_price:battle_pass_item_def}",
     "DOTA_ActivateBattlePass_Failed": "バトルパスの有効化に失敗しました。Dota Game Coordinatorへの接続が切れている可能性があります。バトルパスは保管庫に保存されています。",
     "DOTA_SeasonPass_Rewards_TreasureCache": "{g:dota_event_name_short:event_id} コレクターズキャッシュ",
@@ -7419,5 +7419,7 @@
     "DOTA_Spring2021_Quest_Destroy_Wards_Description": "敵のワードを{s:tier1_score} / {s:tier2_score} / {s:tier3_score}回破壊する",
     "DOTA_Spring2021_Quest_Wins_In_Full_Party_Name": "お気に入りをスタック",
     "DOTA_Spring2021_Quest_Wins_As_Core_Name": "体幹を鍛えよう",
-    "DOTA_Spring2021_Quest_Wins_As_Core_Description": "ランクマッチで{s:tier1_score} / {s:tier2_score} / {s:tier3_score}回勝利する"
+    "DOTA_Spring2021_Quest_Wins_As_Core_Description": "ランクマッチで{s:tier1_score} / {s:tier2_score} / {s:tier3_score}回勝利する",
+    "DOTACavernCrawl_Reward_Label_TI2019": "ウルトラレア リワード",
+    "DOTA_WeeklyQuests": "ウィークリークエスト"
 }
