@@ -7292,5 +7292,9 @@
     "DOTA_TI9_BPHOME_PERSONA_LEARN": "もっと詳しく",
     "dota_ti8_purchase_learn_more": "もっと詳しく",
     "dota_spring2016_purchase_learn_more": "もっと詳しく",
-    "DOTA_Artifact_Promo_LearnMore": "もっと詳しく"
+    "DOTA_Artifact_Promo_LearnMore": "もっと詳しく",
+    "DOTA_EquippedItem_Purchase_Button": "購入する",
+    "DOTA_Treasure_PurchaseEventLevels": "レベルを購入する",
+    "DOTA_Treasure_ViewEvent": "バトルパスを見る",
+    "DOTA_Treasure_ClaimEventRewards": "トレジャーを受け取る"
 }
