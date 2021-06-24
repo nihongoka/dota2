@@ -7474,7 +7474,7 @@
     "DOTA_Spring2021_WeeklyStarCountLabel": "今週の星: {d:current_star_count} / {d:max_star_count}",
     "DOTA_Spring2021_MarkVisibleSeasonActiveLabel": "第{d:week_number}週を有効化",
     "DOTA_Spring2021_SeasonActiveTooltip": "現在有効になっている週のクエストの進捗が記録されます。",
-    "DOTA_Spring2021_WeeklUnlockMessage": "第{d:week_number} 週のクエスト解放まであと{s:time_until_week_unlock}。",
+    "DOTA_Spring2021_WeeklUnlockMessage": "第{d:week_number} 週のクエスト解放まであと{s:time_until_week_unlock}",
     "DOTA_Spring2021_WeeklyStarClaimRewardLabel": "{d:points_claim_available} 受け取る",
     "DOTACavernCrawl_LegendFlare_Title": "ロケットフレア",
     "DOTACavernCrawl_LegendStyle_Title": "スタイルアンロック",
@@ -7527,5 +7527,13 @@
     "DOTACavernCrawl_CustomChallenge_carry_bearded": "立派な髭を持つキャリーヒーローで勝利する",
     "DOTACavernCrawl_CustomChallenge_carry_female": "女のキャリーヒーローで勝利する",
     "DOTACavernCrawl_CustomChallenge_carry_bad_teeth": "歯の悪いキャリーヒーローで勝利する",
-    "DOTACavernCrawl_LegendLargeTreasure_Desc_TI2020": "中には2000 バトルポイントと1000 Dota Plusシャードが入っています。"
+    "DOTACavernCrawl_LegendLargeTreasure_Desc_TI2020": "中には2000 バトルポイントと1000 Dota Plusシャードが入っています。",
+    "DOTACavernCrawl_Tooltip_Item_shovel": "ウォーデンの羅針盤を使うとネメスティスの隕石で壊れた道を進むことができます。",
+    "DOTACavernCrawl_InventoryInstructions": "クリックでアイテムを選択し、地点や通路を指定すると、そのアイテムを使用することが出来ます。",
+    "DOTACavernCrawl_Tooltip_Item_key": "グラップリングフックを使うと裂け目を横断できます。",
+    "DOTACavernCrawl_Tooltip_Item_flare": "ロケットフレアを使うと探索していない地点の情報を見ることが出来ます。",
+    "DOTACavernCrawl_Tooltip_Item_swap": "ネザースワップの杖を使うとチャレンジを別のものにすり替えることができます。",
+    "DOTACavernCrawl_RewardName_SmallTreasure_TI2020": "小さなチェストには250 バトルポイントと125 Dota Plus シャードが入っています",
+    "DOTACavernCrawl_RewardName_LargeTreasure_TI2020": "大きなチェストには2000 バトルポイントと1000 Dota Plus シャードが入っています",
+    "DOTACavernCrawl_Tooltip_Item_cullingblade": "カリングブレードを使うと傷ついたヒーローを倒すことができます。"
 }
