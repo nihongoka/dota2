@@ -7314,5 +7314,20 @@
     "DOTA_SeasonPass_Wagering_Friends": "フレンド",
     "DOTA_TI6_BattlePass_Friends": "フレンド",
     "DOTA_SeasonPass_Friends_Leaderboard_BattleLevel": "バトルパスレベル",
-    "DOTACavernCrawl_Tutorial_ButtonLabel": "遊び方..."
+    "DOTACavernCrawl_Tutorial_ButtonLabel": "遊び方...",
+    "DOTA_PurchaseBattlePassAsGift_Price": "ギフトを購入 {g:dota_item_price:battle_pass_item_def}",
+    "DOTA_ActivateBattlePass_Failed": "バトルパスの有効化に失敗しました。Dota Game Coordinatorへの接続が切れている可能性があります。バトルパスは保管庫に保存されています。",
+    "DOTA_SeasonPass_Rewards_TreasureCache": "{g:dota_event_name_short:event_id} コレクターズキャッシュ",
+    "DOTA_PurchaseBattlePass_Price": "購入 {g:dota_item_price:battle_pass_item_def}",
+    "DOTA_ActivateBattlePass": "バトルパスを有効化",
+    "DOTA_ActivateBattlePass_Question": "このアカウントでバトルパスを有効にしますか？",
+    "DOTA_ActivateBattlePass_NotActivated": "未有効化",
+    "DOTA_ActivateBattlePass_NotActivated_Message": "このバトルパスは現在、保管庫で保存されています。",
+    "DOTA_ActivateBattlePass_InProgress_Title": "バトルパスを有効化中",
+    "DOTA_ActivateBattlePass_InProgress_Text": "バトルパスをあなたのアカウントに適用しています。",
+    "DOTA_SeasonPass_Rewards_Treasure1": "{g:dota_event_name_short:event_id} トレジャー I",
+    "DOTA_SeasonPass_Rewards_Treasure2": "{g:dota_event_name_short:event_id} トレジャー II",
+    "DOTA_SeasonPass_Rewards_Treasure3": "{g:dota_event_name_short:event_id} トレジャー III",
+    "DOTA_PurchaseBattlePassLevels": "バトルパスレベルを購入する",
+    "DOTA_ActivateBattlePassLevels": "バトルパスレベルを有効化"
 }
