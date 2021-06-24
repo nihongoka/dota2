@@ -7424,7 +7424,7 @@
     "DOTA_WeeklyQuests": "ウィークリークエスト",
     "DOTACavernCrawl_Description_Spring2021": "マッドムーンから隕石の雨が霧の森トモカンに降り注ぎ、トレジャーハンターたちを暗い森の奥へと誘います。行く手を阻むヒーローを倒して試合に勝利する事で、バトルポイントやシャード、限定アイテムセットへの道が開けます。",
     "DOTACavernCrawl_LegendShovel_Desc_Spring2021": "ウォーデンの羅針盤を使うと隕石で破壊された道を通ることが出来ます。",
-    "DOTACavernCrawl_RewardName_SmallTreasure_Spring2021": "250バトルポイントと125Dota Plusシャード",
+    "DOTACavernCrawl_RewardName_SmallTreasure_Spring2021": "250 バトルポイントと125 Dota Plusシャード",
     "DOTACavernCrawl_Title_Spring2021": "カーバンクロール",
     "DOTACavernCrawl_Title_Short_Spring2021": "クロール",
     "DOTACavernCrawl_MapLogoTitle_Spring2021": "カーバンクロール",
@@ -7439,6 +7439,12 @@
     "DOTACavernCrawl_LegendCaveIn_Desc_Spring2021": "月の残骸で塞がれたこの道は、ウォーデンの羅針盤がなければ安全に通れません。",
     "DOTACavernCrawl_LegendShovel_Title_Spring2021": "ウォーデンの羅針盤",
     "DOTACavernCrawl_RewardName_Shovel_Spring2021": "ウォーデンの羅針盤",
-    "DOTACavernCrawl_LegendSmallTreasure_Desc_Spring2021": "250バトルポイントと125 Dota Plusシャードが入っています。",
-    "DOTACavernCrawl_LegendLargeTreasure_Desc_Spring2021": "2000バトルポイントと1000 Dota Plusシャードが入っています。"
+    "DOTACavernCrawl_LegendSmallTreasure_Desc_Spring2021": "中には250 バトルポイントと125 Dota Plusシャードが入っています。",
+    "DOTACavernCrawl_LegendLargeTreasure_Desc_Spring2021": "中には2000 バトルポイントと1000 Dota Plusシャードが入っています。",
+    "DOTACavernCrawl_RewardName_LargeTreasure_Spring2021": "2000 バトルポイントと1000 Dota Plusシャード",
+    "DOTACavernCrawl_RewardName_SmallTreasure_Spring2021_Part1": "250 バトルポイント +",
+    "DOTACavernCrawl_RewardName_SmallTreasure_Spring2021_Part2": "125 Dota Plus シャード",
+    "DOTACavernCrawl_RewardName_LargeTreasure_Spring2021_Part1": "2000 バトルポイント +",
+    "DOTACavernCrawl_RewardName_LargeTreasure_Spring2021_Part2": "1000 Dota Plus シャード",
+    "DOTA_WeeklyQuest": "ウィークリークエスト"
 }
