@@ -7480,7 +7480,7 @@
     "DOTACavernCrawl_LegendStyle_Title": "スタイルアンロック",
     "DOTACavernCrawl_Progress_ChallengeAvailable": "新しいチャレンジ: {s:update_description}",
     "DOTACavernCrawl_RewardName_NetherswapWand": "ネザースワップの杖",
-    "DOTACavernCrawl_Description_Turbo": "<b>注意:</b>ターボゲームでヒーローを倒すには2回勝利する必要があります。1回目の勝利でヒーローに傷がつき、2回目の勝利でヒーローを倒すことができます。アイテムの<b><i>カリングブレード</i></b>を使うことで傷ついたヒーローを倒すことができます。",
+    "DOTACavernCrawl_Description_Turbo": "<b>注意:</b>ターボゲームでヒーローを倒すには2回勝利する必要があります。1回目の勝利でヒーローに傷ついたヒーローはアイテムの<b><i>カリングブレード</i></b>を使うことで倒すことができます。",
     "DOTACavernCrawl_LegendFlare_Desc": "ロケットフレアは探索していない地点を偵察できます。",
     "DOTACavernCrawl_LegendWand_Desc": "ネザースワップの杖は指定したヒーローをランダムな別のヒーローと交換します。",
     "DOTACavernCrawl_Description": "指示されたヒーローで試合に勝利することで、宝物が散らばるランダム生成される洞窟を探索することができます。試合勝利後にエリアを探索して宝物を集め、新しい通路のヒーローを確認しましょう。さらに奥に進むと、最大で3つの限定アイテムセットを獲得することができます。部屋の宝物には、セットのスタイルの欠片、バトルポイント、旅を助けるお助けアイテムなどが含まれています。",
@@ -7517,5 +7517,14 @@
     "DOTACavernCrawl_CustomChallenge_carry_horns": "角の生えたキャリーヒーローで勝利する",
     "DOTACavernCrawl_CustomChallenge_carry_no_feet": "足の無いキャリーヒーローで勝利する",
     "DOTACavernCrawl_LegendCustomChallenge_Title": "ミステリーチャレンジ",
-    "DOTACavernCrawl_CustomChallenge_carry_wings": "翼の生えたキャリーヒーローで勝利する"
+    "DOTACavernCrawl_CustomChallenge_carry_wings": "翼の生えたキャリーヒーローで勝利する",
+    "DOTACavernCrawl_LegendTreasureMap_Title_TI2020": "オラクル",
+    "DOTACavernCrawl_LegendStyle_Title_TI2019": "スタイル解放の欠片",
+    "DOTACavernCrawl_LegendTreasureMap_Desc": "高価なリワードの場所を教えてくれます。",
+    "DOTACavernCrawl_CustomChallenge_carry_steed": "騎乗しているキャリーヒーローで勝利する",
+    "DOTACavernCrawl_CustomChallenge_carry_no_nose": "鼻の無いキャリーヒーローで勝利する",
+    "DOTACavernCrawl_CustomChallenge_carry_fuzzy": "もこもこなキャリーヒーローで勝利する",
+    "DOTACavernCrawl_CustomChallenge_carry_bearded": "立派な髭を持つキャリーヒーローで勝利する",
+    "DOTACavernCrawl_CustomChallenge_carry_female": "女のキャリーヒーローで勝利する",
+    "DOTACavernCrawl_CustomChallenge_carry_bad_teeth": "歯の悪いキャリーヒーローで勝利する"
 }
