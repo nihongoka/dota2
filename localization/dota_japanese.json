@@ -7298,5 +7298,8 @@
     "DOTA_Treasure_ViewEvent": "バトルパスを見る",
     "DOTA_Treasure_ClaimEventRewards": "トレジャーを受け取る",
     "DOTA_TI6_BattlePass_Purchase": "購入する",
-    "DOTA_TI9_FrontPage_Trove_Btn": "購入する"
+    "DOTA_TI9_FrontPage_Trove_Btn": "購入する",
+    "DOTA_SeasonPass_SecondaryTabHeader_Home": "ホーム",
+    "DOTA_SeasonPass_SecondaryTabHeader_Campaign": "クエスト",
+    "DOTA_SeasonPass_SecondaryTabHeader_CampaignDetails": "キャンペーン"
 }
