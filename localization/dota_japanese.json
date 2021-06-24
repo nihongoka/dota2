@@ -7333,5 +7333,18 @@
     "DOTA_UseItemNotification_Title_Success": "アイテムの使用に成功",
     "DOTA_UseItem_Compendium": "バトルパスが有効になりました！",
     "DOTA_Home_BattlePass_Unclaimed_Singular": "{d:unclaimed_rewards} 受け取ってない報酬",
-    "DOTA_Home_BattlePass_Unclaimed_Plural": "{d:unclaimed_rewards} 受け取ってない報酬"
+    "DOTA_Home_BattlePass_Unclaimed_Plural": "{d:unclaimed_rewards} 受け取ってない報酬",
+    "DOTA_WeeklyQuest_GoalPip_Tooltip_Singular": "1週間の内に星を{d:star_count}つ集めると、{d:point_reward}バトルポイント獲得できます。",
+    "DOTA_Home_BattlePass_PurchaseLevels": "レベルを購入する",
+    "DOTA_TI6_BattlePass_PurchaseLevels": "レベルを購入する",
+    "DOTA_TI8_BattlePass_PurchaseLevels": "レベルを購入する",
+    "DOTA_WeeklyQuests_WeekActive": "有効",
+    "DOTA_Spring2021_WeeklyQuest_Progress_Label": "ウィークプログレス:",
+    "DOTA_Spring2021_WeeklyQuest_Progress": "{d:quests_completed}/{d:quests_count} 達成",
+    "DOTA_Spring2021_WeeklyQuest_PointsAvailable": "{d:points_available} 入手可能",
+    "DOTA_WeeklyQuest_GoalPip_Tooltip": "1週間の内に星を{d:star_count}つ集めると、{d:point_reward}バトルポイント獲得できます。",
+    "DOTA_Spring2021_Week1_Name": "第1週",
+    "DOTA_Spring2021_Week2_Name": "第2週",
+    "DOTA_UpcomingRewards_Title": "これからの報酬",
+    "DOTA_UpcomingRewards_UpgradeToLevel": "レベル{d:upgrade_level}までアップグレード"
 }
