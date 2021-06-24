@@ -7346,5 +7346,18 @@
     "DOTA_Spring2021_Week1_Name": "第1週",
     "DOTA_Spring2021_Week2_Name": "第2週",
     "DOTA_UpcomingRewards_Title": "これからの報酬",
-    "DOTA_UpcomingRewards_UpgradeToLevel": "レベル{d:upgrade_level}までアップグレード"
+    "DOTA_UpcomingRewards_UpgradeToLevel": "レベル{d:upgrade_level}までアップグレード",
+    "DOTA_Spring2021_Week3_Name": "第3週",
+    "DOTA_Spring2021_Week4_Name": "第4週",
+    "DOTA_Spring2021_Week5_Name": "第5週",
+    "DOTA_Spring2021_Week6_Name": "第6週",
+    "DOTA_Spring2021_Week7_Name": "第7週",
+    "DOTA_Spring2021_Week8_Name": "第8週",
+    "DOTA_Spring2021_Quest_Nemestice_Plays_Name": "ネメスティスの国",
+    "DOTA_Spring2021_Quest_Nemestice_Wins_Name": "ネメスティスの自然",
+    "DOTA_Spring2021_Quest_Nemestice_Plays_Description": "{s:tier1_score} / {s:tier2_score} / {s:tier3_score} 回ネメスティスをプレイする",
+    "DOTA_Spring2021_Quest_Nemestice_Wins_Description": "{s:tier1_score} / {s:tier2_score} / {s:tier3_score}回ネメスティスで勝利する",
+    "DOTA_Spring2021_Quest_Nemestice_Channels_Name": "炎えていく",
+    "DOTA_Spring2021_Quest_Nemestice_Channels_Description": "{s:tier1_score} / {s:tier2_score} / {s:tier3_score}回ネメスティスの炎をチャネリングする",
+    "DOTA_Spring2021_Quest_Nemestice_Gathers_Name": "チャンネルの切り替え"
 }
