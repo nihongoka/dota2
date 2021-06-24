@@ -7296,5 +7296,7 @@
     "DOTA_EquippedItem_Purchase_Button": "購入する",
     "DOTA_Treasure_PurchaseEventLevels": "レベルを購入する",
     "DOTA_Treasure_ViewEvent": "バトルパスを見る",
-    "DOTA_Treasure_ClaimEventRewards": "トレジャーを受け取る"
+    "DOTA_Treasure_ClaimEventRewards": "トレジャーを受け取る",
+    "DOTA_TI6_BattlePass_Purchase": "購入する",
+    "DOTA_TI9_FrontPage_Trove_Btn": "購入する"
 }
