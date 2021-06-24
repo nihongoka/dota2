@@ -7195,5 +7195,21 @@
     "PopupManageTeammates_TimeExpires": "除外日 {t:s:creation_time}",
     "PopupManageTeammates_Remove": "削除",
     "PopupManageTeammates_LoadMore": "もっとロードする",
-    "manage_avoid_player": "避けているプレイヤーの管理"
+    "manage_avoid_player": "避けているプレイヤーの管理",
+    "DOTA_Nemestice_HowToPlay1_Desc": "3分毎にネメスティスの嵐によってマップ中央に巨大な隕石が落下します。隕石をチャネリングすることで<span>ネメスティスの炎</span>を集めましょう。落ちてくる隕石は当たらないように避けましょう。",
+    "DOTA_Nemestice_HowToPlay2_Desc": "ネメスティスの炎を集めると、攻撃力、スペル増幅率、移動速度を上昇させる<span>エンバーチャージ</span>を得られます。十分なエンバーチャージを得ると、近くの敵にショックを与えることもできます。",
+    "DOTA_Nemestice_HowToPlay3_Desc": "タワーが破壊される度に、味方のタワーに力が分散されて<span>より強くなり</span>、<span>ネメスティスに狂ったクリープ</span>に注目され支援を受けることができます。敵のタワーをすべて破壊したら勝利です。",
+    "DOTA_Treasure_PurchaseEvent": "バトルパスを購入する",
+    "DOTA_UpcomingRewards_BuyBattlePass": "バトルパスを購入する",
+    "DOTA_EventGameName_Nemestice": "Nemestice",
+    "DOTA_EventPlayButtonLabel_Nemestice": "Nemesticeをプレイ",
+    "DOTA_Nemestice_Brief": "強大な隕石の力を使って敵のタワーを消し去ろう",
+    "DOTA_Nemestice_HowtoPlay": "遊び方",
+    "DOTA_Nemestice_HowToPlay_Intro": "謎の隕石が戦場に降り注ぐ",
+    "DOTA_Nemestice_HowToPlay_Subhead": "敵のタワーを一掃して主導権を握れ",
+    "DOTA_Nemestice_HowToPlay1_Title": "隕石の欠片を集める",
+    "DOTA_Nemestice_HowToPlay2_Title": "嵐による力",
+    "DOTA_Nemestice_HowToPlay3_Title": "ネメスティスタワーとクリープ",
+    "DOTA_Nemestice_Promo_Label": "Nemestice - 今すぐプレイ",
+    "DOTA_Home_BattlePass_PurchaseBP": "バトルパスを購入する"
 }
