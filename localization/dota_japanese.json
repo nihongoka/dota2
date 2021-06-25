@@ -7279,7 +7279,7 @@
     "DOTA_PlusPostGame_Spring2021Progress": "ネメスティスプログレス",
     "DOTASpring2021EventSummaryWeekStarCountTitle": "ウィークリークエスト",
     "DOTASpring2021EventSummaryWeekStarProgressLabel": "{d:num_stars_earned} / {d:num_stars_total}",
-    "DOTASpring2021EventSummaryWeekActive": "Week {d:active_week}",
+    "DOTASpring2021EventSummaryWeekActive": "第{d:active_week}週",
     "DOTA_GoToCurrentLevel": "現在のレベルへ",
     "dota_ti8_purchase_preview": "バトルパスをプレビュー",
     "dota_spring2016_purchase_preview": "バトルパスをプレビュー",
