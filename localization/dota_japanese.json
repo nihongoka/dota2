@@ -7652,5 +7652,20 @@
     "DOTA_TI2017_Reward_Fountain_Effect_1": "期間限定エフェクト - 泉 レベル1",
     "DOTA_TI2017_Reward_Fountain_Effect_2": "期間限定エフェクト - 泉 レベル2",
     "DOTA_TI2017_Reward_Fountain_Effect_3": "期間限定エフェクト - 泉 レベル3",
-    "DOTA_TI2017_Reward_Teleport_Effect_1": "期間限定エフェクト - テレポート レベル1"
+    "DOTA_TI2017_Reward_Teleport_Effect_1": "期間限定エフェクト - テレポート レベル1",
+    "DOTA_LevelCount": "{d:level_count} レベル",
+    "DOTA_ActivateLevels": "レベルを有効化",
+    "DOTA_SaveForLater": "後にとっておく",
+    "DOTA_TotalPrice": "合計",
+    "DOTA_TotalLevels": "合計レベル",
+    "DOTA_PartnerPurchase_ItemCount_Title": "個数",
+    "DOTA_PartnerPurchase_ItemPrice_Title": "価格",
+    "DOTA_BattlePassLog_EventGameReward": "{g:dota_event_game_name:event_id}で見つけた: マッチID <a href=\"event:UIPopupButtonClicked( DOTAShowMatchDetails({u:match_id}) )\">{u:match_id}</a>",
+    "DOTA_SaveForLater_Description": "レベルを保管庫にアイテムとして保存します。フレンドにギフトしたり、後でこのアカウントに適用することができます。",
+    "DOTA_CurrentLevel": "現在のレベル",
+    "DOTA_AfterPurchase": "購入後",
+    "DOTA_ActivateLevelsImmediately_Title": "今すぐこのアカウントに適用する。",
+    "DOTA_BattlePassLog_CavernCrawlLargeTreasure_TI2020": "{g:dota_cavern_name:event_id} 報酬",
+    "DOTA_ActivateLevelsImmediately_Description": "レベルを適用後、バトルパスのメイン画面で報酬を受け取れます。",
+    "DOTA_SaveForLater_Title": "後にとっておく。"
 }
