@@ -7682,5 +7682,7 @@
     "DOTA_Hero_Selection_AllDraft_BanSelected_TheyFirst": "バンフェーズ - ヒーローを1人バンに指名しました。",
     "DOTA_Hero_Selection_AllDraft_Planning_TheyFirst": "バンフェーズ - ヒーローを1人バンに指名できます。",
     "DOTA_Hero_Selection_AllDraft_BanSelected_YouFirst": "バンフェーズ - ヒーローを1人バンに指名しました。",
-    "GC_logging_in": "Dota2ゲームコーディネーターに接続しました。ログイン中です..."
+    "GC_logging_in": "Dota2ゲームコーディネーターに接続しました。ログイン中です...",
+    "InAnotherGame": "ゲームの開始に失敗しました。現在他のゲームに参加しています。",
+    "DOTACavernCrawl_PreGame_Map_TI2019": "マップを見る"
 }
