@@ -7672,5 +7672,10 @@
     "DOTA_Plus_Store_Event_CavernCrawl_Subtitle": "{g:dota_cavern_name:cavern_event_id} アイテム",
     "DOTA_Reward_Cavern_Culling_Blade_TI2020": "{d:quantity}x カーバンクロールカリングブレード",
     "DOTA_PlusStore_BattlePass_Title": "バトルパス",
-    "DOTA_Plus_Store_Event_Title_BattlePass": "バトルパス"
+    "DOTA_Plus_Store_Event_Title_BattlePass": "バトルパス",
+    "DOTA_Treasure_Open": "開く",
+    "DOTA_Treasure_RecyclingSubtitle": "セットをリサイクルすることでボーナストレジャーとシャードを受け取れます。",
+    "DOTA_Treasure_Owned": "所有",
+    "DOTA_Treasure_EventLevelsRequired": "次のトレジャーまで<span class=\"LevelAmount\">{d:event_levels_required}レベル</span>必要です",
+    "DOTA_OpenTreasureTooltip_BonusTreasure": "Dota Plus会員はこのトレジャーから出た未開封のバンドルをリサイクルしてプログレスを進めることで、追加のボーナストレジャーとシャードの報酬を獲得することが出来ます。"
 }
