@@ -7681,5 +7681,6 @@
     "DOTA_Hero_Selection_AllDraft_Planning_YouFirst": "バンフェーズ - ヒーローを1人バンに指名できます。",
     "DOTA_Hero_Selection_AllDraft_BanSelected_TheyFirst": "バンフェーズ - ヒーローを1人バンに指名しました。",
     "DOTA_Hero_Selection_AllDraft_Planning_TheyFirst": "バンフェーズ - ヒーローを1人バンに指名できます。",
-    "DOTA_Hero_Selection_AllDraft_BanSelected_YouFirst": "バンフェーズ - ヒーローを1人バンに指名しました。"
+    "DOTA_Hero_Selection_AllDraft_BanSelected_YouFirst": "バンフェーズ - ヒーローを1人バンに指名しました。",
+    "GC_logging_in": "Dota2ゲームコーディネーターに接続しました。ログイン中です..."
 }
