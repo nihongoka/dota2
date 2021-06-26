@@ -7667,5 +7667,10 @@
     "DOTA_ActivateLevelsImmediately_Title": "今すぐこのアカウントに適用する。",
     "DOTA_BattlePassLog_CavernCrawlLargeTreasure_TI2020": "{g:dota_cavern_name:event_id} 報酬",
     "DOTA_ActivateLevelsImmediately_Description": "レベルを適用後、バトルパスのメイン画面で報酬を受け取れます。",
-    "DOTA_SaveForLater_Title": "後にとっておく。"
+    "DOTA_SaveForLater_Title": "後にとっておく。",
+    "DOTA_Reward_Cavern_Flare": "{d:quantity}x カーバンクロールロケットフレア",
+    "DOTA_Plus_Store_Event_CavernCrawl_Subtitle": "{g:dota_cavern_name:cavern_event_id} アイテム",
+    "DOTA_Reward_Cavern_Culling_Blade_TI2020": "{d:quantity}x カーバンクロールカリングブレード",
+    "DOTA_PlusStore_BattlePass_Title": "バトルパス",
+    "DOTA_Plus_Store_Event_Title_BattlePass": "バトルパス"
 }
