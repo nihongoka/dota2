@@ -7677,5 +7677,9 @@
     "DOTA_Treasure_RecyclingSubtitle": "セットをリサイクルすることでボーナストレジャーとシャードを受け取れます。",
     "DOTA_Treasure_Owned": "所有",
     "DOTA_Treasure_EventLevelsRequired": "次のトレジャーまで<span class=\"LevelAmount\">{d:event_levels_required}レベル</span>必要です",
-    "DOTA_OpenTreasureTooltip_BonusTreasure": "Dota Plus会員はこのトレジャーから出た未開封のバンドルをリサイクルしてプログレスを進めることで、追加のボーナストレジャーとシャードの報酬を獲得することが出来ます。"
+    "DOTA_OpenTreasureTooltip_BonusTreasure": "Dota Plus会員はこのトレジャーから出た未開封のバンドルをリサイクルしてプログレスを進めることで、追加のボーナストレジャーとシャードの報酬を獲得することが出来ます。",
+    "DOTA_Hero_Selection_AllDraft_Planning_YouFirst": "バンフェーズ - ヒーローを1人バンに指名できます。",
+    "DOTA_Hero_Selection_AllDraft_BanSelected_TheyFirst": "バンフェーズ - ヒーローを1人バンに指名しました。",
+    "DOTA_Hero_Selection_AllDraft_Planning_TheyFirst": "バンフェーズ - ヒーローを1人バンに指名できます。",
+    "DOTA_Hero_Selection_AllDraft_BanSelected_YouFirst": "バンフェーズ - ヒーローを1人バンに指名しました。"
 }
