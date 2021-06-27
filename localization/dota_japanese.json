@@ -7685,5 +7685,6 @@
     "GC_logging_in": "Dota2ゲームコーディネーターに接続しました。ログイン中です...",
     "InAnotherGame": "ゲームの開始に失敗しました。現在他のゲームに参加しています。",
     "DOTACavernCrawl_PreGame_Map_TI2019": "マップを見る",
-    "PartyMemberInAnotherGame": "ゲームの開始に失敗しました。パーティメンバーが他のゲームに参加しています。"
+    "PartyMemberInAnotherGame": "ゲームの開始に失敗しました。パーティメンバーが他のゲームに参加しています。",
+    "DOTACavernCrawl_Progress_ChallengeHalfComplete": "チャレンジが傷ついた: {s:update_description}"
 }
