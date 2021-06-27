@@ -7715,5 +7715,6 @@
     "DOTA_Custom_Game_Installed": "インストール済み",
     "DOTA_Custom_Game_Rating": "評価",
     "DOTA_Party_CustomGame_Cooldown_Title": "カスタムゲームの制限",
-    "diretide2020_game_info_dont_show_again": "今後は表示しない"
+    "diretide2020_game_info_dont_show_again": "今後は表示しない",
+    "DOTA_Chat_HeroCollision": "%s1が両チームでピックされました！"
 }
