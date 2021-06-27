@@ -7686,5 +7686,7 @@
     "InAnotherGame": "ゲームの開始に失敗しました。現在他のゲームに参加しています。",
     "DOTACavernCrawl_PreGame_Map_TI2019": "マップを見る",
     "PartyMemberInAnotherGame": "ゲームの開始に失敗しました。パーティメンバーが他のゲームに参加しています。",
-    "DOTACavernCrawl_Progress_ChallengeHalfComplete": "チャレンジが傷ついた: {s:update_description}"
+    "DOTACavernCrawl_Progress_ChallengeHalfComplete": "チャレンジが傷ついた: {s:update_description}",
+    "DOTA_LocalReconnect_Body": "Dota2ゲームコーディネーターの反応が遅いです。試合への再接続を試みますか？",
+    "DOTA_LocalReconnect_Title": "再接続の試み"
 }
