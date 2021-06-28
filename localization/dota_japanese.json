@@ -7716,5 +7716,17 @@
     "DOTA_Custom_Game_Rating": "評価",
     "DOTA_Party_CustomGame_Cooldown_Title": "カスタムゲームの制限",
     "diretide2020_game_info_dont_show_again": "今後は表示しない",
-    "DOTA_Chat_HeroCollision": "%s1が両チームでピックされました！"
+    "DOTA_Chat_HeroCollision": "%s1が両チームでピックされました！",
+    "DOTA_CoachFriend_Failed": "コーチできません",
+    "DOTA_CoachingError_eInternalError": "内部エラー。",
+    "npc_dota_hero_abaddon_npedesc1": "味方や自分に攻撃から守るバリアを張る",
+    "npc_dota_hero_alchemist_npedesc1": "キルやバウンティールーンからボーナスゴールド得ることができる",
+    "npc_dota_hero_axe_npedesc1": "敵を挑発して自らを攻撃させる",
+    "npc_dota_hero_beastmaster_npedesc1": "狩りを助けるビーストを召喚する",
+    "npc_dota_hero_brewmaster_npedesc1": "別々のスキルを持った3体のスピリットに分身する",
+    "npc_dota_hero_bristleback_npedesc1": "敵に背を向けているとダメージが軽減される",
+    "npc_dota_hero_centaur_npedesc1": "ダメージを攻撃者に反射する",
+    "npc_dota_hero_chaos_knight_npedesc1": "強力だがランダムなダメージを与える",
+    "npc_dota_hero_rattletrap_npedesc1": "フックショットで敵に突っ込む",
+    "npc_dota_hero_doom_bringer_npedesc1": "単体の敵のアビリティとアイテムの使用を封じる"
 }
