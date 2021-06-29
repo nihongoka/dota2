@@ -7720,7 +7720,7 @@
     "DOTA_CoachFriend_Failed": "コーチできません",
     "DOTA_CoachingError_eInternalError": "内部エラー。",
     "npc_dota_hero_abaddon_npedesc1": "味方や自分に攻撃から守るバリアを張る",
-    "npc_dota_hero_alchemist_npedesc1": "キルやバウンティールーンからボーナスゴールド得ることができる",
+    "npc_dota_hero_alchemist_npedesc1": "キルやバウンティールーンからボーナスゴールド得る",
     "npc_dota_hero_axe_npedesc1": "敵を挑発して自らを攻撃させる",
     "npc_dota_hero_beastmaster_npedesc1": "狩りを助けるビーストを召喚する",
     "npc_dota_hero_brewmaster_npedesc1": "別々のスキルを持った3体のスピリットに分身する",
@@ -7729,5 +7729,16 @@
     "npc_dota_hero_chaos_knight_npedesc1": "強力だがランダムなダメージを与える",
     "npc_dota_hero_rattletrap_npedesc1": "フックショットで敵に突っ込む",
     "npc_dota_hero_doom_bringer_npedesc1": "単体の敵のアビリティとアイテムの使用を封じる",
-    "npc_dota_hero_dragon_knight_npedesc1": "強力な遠距離のドラゴンに変身する"
+    "npc_dota_hero_dragon_knight_npedesc1": "強力な遠距離のドラゴンに変身する",
+    "npc_dota_hero_lycan_npedesc1": "獰猛な獣に変身する",
+    "npc_dota_hero_elder_titan_npedesc1": "アストラルスピリットと共に敵の動きを封じてダメージを与える",
+    "npc_dota_hero_legion_commander_npedesc1": "デュエルに勝利することで力を強める",
+    "npc_dota_hero_life_stealer_npedesc1": "他のユニットに寄生して機動力と力を得る",
+    "npc_dota_hero_magnataur_npedesc1": "敵に突撃して位置を置き換える",
+    "npc_dota_hero_night_stalker_npedesc1": "夕暮れと共に影の力を得る",
+    "npc_dota_hero_earth_spirit_npedesc1": "敵の動きを封じて動かす",
+    "npc_dota_hero_earthshaker_npedesc1": "連続スタンで敵の動きを封じる",
+    "npc_dota_hero_huskar_npedesc1": "体力を犠牲に強力なダメージを与える",
+    "npc_dota_hero_wisp_npedesc1": "味方にリンクしてバフをかける",
+    "npc_dota_hero_kunkka_npedesc1": "敵を移動させて動きを封じる"
 }
