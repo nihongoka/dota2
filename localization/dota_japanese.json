@@ -7767,5 +7767,6 @@
     "npc_dota_hero_arc_warden_npedesc1": "自分の分身を生成し、分かれてプッシュする",
     "npc_dota_hero_bloodseeker_npedesc1": "体力が少ない敵を加速するスピードで追いかける",
     "npc_dota_hero_gyrocopter_npedesc1": "追尾ミサイルと大砲で弾幕を張る",
-    "npc_dota_hero_faceless_void_npedesc1": "一定時間敵の動きをフリーズさせる"
+    "npc_dota_hero_faceless_void_npedesc1": "一定時間敵の動きをフリーズさせる",
+    "DOTA_HeroGrid_JungleExpedition_Description": "バトルパスの{g:dota_cavern_name:cavern_event_id}のプログレスを進めるためのヒーローをハイライトする"
 }
