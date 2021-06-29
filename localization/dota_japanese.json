@@ -7752,5 +7752,20 @@
     "npc_dota_hero_sven_npedesc1": "驚異の力で敵を薙ぎ払う",
     "npc_dota_hero_tiny_npedesc1": "戦いの中で大きくなり、力を得る",
     "npc_dota_hero_treant_npedesc1": "森に呼びかけ敵の動きを封じる",
-    "npc_dota_hero_tusk_npedesc1": "雪玉で敵に突っ込みスタンを与える"
+    "npc_dota_hero_tusk_npedesc1": "雪玉で敵に突っ込みスタンを与える",
+    "npc_dota_hero_abyssal_underlord_npedesc1": "チームごとテレポートして戦いに出入りする",
+    "npc_dota_hero_undying_npedesc1": "敵を攻撃するゾンビの群れを召喚する",
+    "npc_dota_hero_skeleton_king_npedesc1": "死んだ後すぐに蘇ることができる",
+    "npc_dota_hero_mars_npedesc1": "敵を逃れられないアリーナに閉じ込める",
+    "npc_dota_hero_snapfire_npedesc1": "信頼できるトカゲと砲弾で敵を蹴散らす",
+    "npc_dota_hero_bounty_hunter_npedesc1": "敵からゴールドを奪う",
+    "npc_dota_hero_broodmother_npedesc1": "子蜘蛛軍団と共に狩りをする",
+    "npc_dota_hero_clinkz_npedesc1": "孤立している敵に透明状態で近づいて待ち伏せる",
+    "npc_dota_hero_drow_ranger_npedesc1": "氷の矢で敵にスローを与える",
+    "npc_dota_hero_ember_spirit_npedesc1": "素早く敵を攻撃して縛る",
+    "npc_dota_hero_antimage_npedesc1": "マナを消耗させる攻撃で敵を斬る",
+    "npc_dota_hero_arc_warden_npedesc1": "自分の分身を生成し、分かれてプッシュする",
+    "npc_dota_hero_bloodseeker_npedesc1": "体力が少ない敵を加速するスピードで追いかける",
+    "npc_dota_hero_gyrocopter_npedesc1": "追尾ミサイルと大砲で弾幕を張る",
+    "npc_dota_hero_faceless_void_npedesc1": "一定時間敵の動きをフリーズさせる"
 }
