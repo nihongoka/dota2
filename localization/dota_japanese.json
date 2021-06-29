@@ -7749,5 +7749,8 @@
     "npc_dota_hero_sand_king_npedesc1": "地中に潜り敵にスタンとスローを与える",
     "npc_dota_hero_slardar_npedesc1": "敵を追いつめて弱体化し、バッシュを与える",
     "npc_dota_hero_spirit_breaker_npedesc1": "遠く離れた所から敵を目掛けて突進する",
-    "npc_dota_hero_sven_npedesc1": "驚異の力で敵を薙ぎ払う"
+    "npc_dota_hero_sven_npedesc1": "驚異の力で敵を薙ぎ払う",
+    "npc_dota_hero_tiny_npedesc1": "戦いの中で大きくなり、力を得る",
+    "npc_dota_hero_treant_npedesc1": "森に呼びかけ敵の動きを封じる",
+    "npc_dota_hero_tusk_npedesc1": "雪玉で敵に突っ込みスタンを与える"
 }
