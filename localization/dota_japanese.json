@@ -7734,11 +7734,20 @@
     "npc_dota_hero_elder_titan_npedesc1": "アストラルスピリットと共に敵の動きを封じてダメージを与える",
     "npc_dota_hero_legion_commander_npedesc1": "デュエルに勝利することで力を強める",
     "npc_dota_hero_life_stealer_npedesc1": "他のユニットに寄生して機動力と力を得る",
-    "npc_dota_hero_magnataur_npedesc1": "敵に突撃して位置を置き換える",
+    "npc_dota_hero_magnataur_npedesc1": "敵に突進して位置を置き換える",
     "npc_dota_hero_night_stalker_npedesc1": "夕暮れと共に影の力を得る",
     "npc_dota_hero_earth_spirit_npedesc1": "敵の動きを封じて動かす",
     "npc_dota_hero_earthshaker_npedesc1": "連続スタンで敵の動きを封じる",
     "npc_dota_hero_huskar_npedesc1": "体力を犠牲に強力なダメージを与える",
     "npc_dota_hero_wisp_npedesc1": "味方にリンクしてバフをかける",
-    "npc_dota_hero_kunkka_npedesc1": "敵を移動させて動きを封じる"
+    "npc_dota_hero_kunkka_npedesc1": "敵を移動させて動きを封じる",
+    "npc_dota_hero_omniknight_npedesc1": "味方を守り回復する丈夫なフロントライナー",
+    "npc_dota_hero_tidehunter_npedesc1": "敵の攻撃を軽くあしらう忍耐強いヒーロー",
+    "npc_dota_hero_shredder_npedesc1": "森を切り刻み敵へ立ち向かう",
+    "npc_dota_hero_phoenix_npedesc1": "自らの体力を使いダメージと回復を与える",
+    "npc_dota_hero_pudge_npedesc1": "フックで敵を引き寄せる",
+    "npc_dota_hero_sand_king_npedesc1": "地中に潜り敵にスタンとスローを与える",
+    "npc_dota_hero_slardar_npedesc1": "敵を追いつめて弱体化し、バッシュを与える",
+    "npc_dota_hero_spirit_breaker_npedesc1": "遠く離れた所から敵を目掛けて突進する",
+    "npc_dota_hero_sven_npedesc1": "驚異の力で敵を薙ぎ払う"
 }
