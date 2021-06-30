@@ -7770,5 +7770,9 @@
     "npc_dota_hero_faceless_void_npedesc1": "一定時間敵の動きをフリーズさせる",
     "DOTA_HeroGrid_JungleExpedition_Description": "バトルパスの{g:dota_cavern_name:cavern_event_id}のプログレスを進めるためのヒーローをハイライトする",
     "DOTA_Spring2021_Quest_Win_And_Last_Hits_Name": "本当の敵",
-    "DOTA_Spring2021_Quest_Win_And_Last_Hits_Description": "勝利した試合でクリープを{s:tier1_score} / {s:tier2_score} / {s:tier3_score}ラストヒットする"
+    "DOTA_Spring2021_Quest_Win_And_Last_Hits_Description": "勝利した試合でクリープを{s:tier1_score} / {s:tier2_score} / {s:tier3_score}ラストヒットする",
+    "DOTA_Spring2021_Quest_Wins_As_Support_Name": "誰かのために",
+    "DOTA_Spring2021_Quest_Wins_As_Support_Description": "ランクマッチをサポートとして{s:tier1_score} / {s:tier2_score} / {s:tier3_score}回勝利する",
+    "DOTA_Spring2021_Quest_1_Star_Hero_Challenges_Name": "その一つの星のために",
+    "DOTA_Spring2021_Quest_1_Star_Hero_Challenges_Description": "ヒーローチャレンジを{s:tier1_score} / {s:tier2_score} / {s:tier3_score}回達成して星を1つ以上獲得する"
 }
