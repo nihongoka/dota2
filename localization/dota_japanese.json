@@ -7768,5 +7768,7 @@
     "npc_dota_hero_bloodseeker_npedesc1": "体力が少ない敵を加速するスピードで追いかける",
     "npc_dota_hero_gyrocopter_npedesc1": "追尾ミサイルと大砲で弾幕を張る",
     "npc_dota_hero_faceless_void_npedesc1": "一定時間敵の動きをフリーズさせる",
-    "DOTA_HeroGrid_JungleExpedition_Description": "バトルパスの{g:dota_cavern_name:cavern_event_id}のプログレスを進めるためのヒーローをハイライトする"
+    "DOTA_HeroGrid_JungleExpedition_Description": "バトルパスの{g:dota_cavern_name:cavern_event_id}のプログレスを進めるためのヒーローをハイライトする",
+    "DOTA_Spring2021_Quest_Win_And_Last_Hits_Name": "本当の敵",
+    "DOTA_Spring2021_Quest_Win_And_Last_Hits_Description": "勝利した試合でクリープを{s:tier1_score} / {s:tier2_score} / {s:tier3_score}ラストヒットする"
 }
