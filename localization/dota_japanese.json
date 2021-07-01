@@ -7665,7 +7665,7 @@
     "DOTA_CurrentLevel": "現在のレベル",
     "DOTA_AfterPurchase": "購入後",
     "DOTA_ActivateLevelsImmediately_Title": "今すぐこのアカウントに適用する。",
-    "DOTA_BattlePassLog_CavernCrawlLargeTreasure_TI2020": "{g:dota_cavern_name:event_id} 報酬",
+    "DOTA_BattlePassLog_CavernCrawlLargeTreasure_TI2020": "{g:dota_cavern_name:event_id}報酬",
     "DOTA_ActivateLevelsImmediately_Description": "レベルを適用後、バトルパスのメイン画面で報酬を受け取れます。",
     "DOTA_SaveForLater_Title": "後にとっておく。",
     "DOTA_Reward_Cavern_Flare": "{d:quantity}x カーバンクロールロケットフレア",
@@ -7787,5 +7787,8 @@
     "TI5_Level": "レベル",
     "BattlePass_LevelUp_Header": "おめでとうございます！",
     "BattlePass_LevelUp_Body": "あなたのバトルパスのレベル:",
-    "DOTA_UI_Confirmation_Continue": "続ける"
+    "DOTA_UI_Confirmation_Continue": "続ける",
+    "DOTA_BattlePassLog_EventReward": "バトルパス報酬",
+    "DOTA_BattlePassLog_CavernCrawlSmallTreasure_TI2020": "{g:dota_cavern_name:event_id}報酬",
+    "DOTA_BattlePassLog_CavernCrawlTreasure": "{g:dota_cavern_name:event_id}報酬"
 }
