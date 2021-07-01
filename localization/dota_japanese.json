@@ -7354,7 +7354,7 @@
     "DOTA_Spring2021_Week7_Name": "第7週",
     "DOTA_Spring2021_Week8_Name": "第8週",
     "DOTA_Spring2021_Quest_Nemestice_Plays_Name": "ネメスティスの国",
-    "DOTA_Spring2021_Quest_Nemestice_Wins_Name": "ネメスティスの自然",
+    "DOTA_Spring2021_Quest_Nemestice_Wins_Name": "ネメスティス生まれ",
     "DOTA_Spring2021_Quest_Nemestice_Plays_Description": "{s:tier1_score} / {s:tier2_score} / {s:tier3_score} 回ネメスティスをプレイする",
     "DOTA_Spring2021_Quest_Nemestice_Wins_Description": "{s:tier1_score} / {s:tier2_score} / {s:tier3_score}回ネメスティスで勝利する",
     "DOTA_Spring2021_Quest_Nemestice_Channels_Name": "炎えていく",
@@ -7790,5 +7790,13 @@
     "DOTA_UI_Confirmation_Continue": "続ける",
     "DOTA_BattlePassLog_EventReward": "バトルパス報酬",
     "DOTA_BattlePassLog_CavernCrawlSmallTreasure_TI2020": "{g:dota_cavern_name:event_id}報酬",
-    "DOTA_BattlePassLog_CavernCrawlTreasure": "{g:dota_cavern_name:event_id}報酬"
+    "DOTA_BattlePassLog_CavernCrawlTreasure": "{g:dota_cavern_name:event_id}報酬",
+    "DOTA_ChatWheelPhraseLocked_GuildLevel": "{s:required_guild_tier}ティア",
+    "DOTA_HUD_Tooltip_UnitBounty_Level": "レベル:",
+    "DOTA_HUD_Tooltip_UnitBounty_GoldBounty": "ゴールド獲得量:",
+    "DOTA_HUD_Tooltip_UnitBounty_DenyGoldBounty": "ディナイゴールド獲得量:",
+    "DOTA_HUD_Tooltip_UnitBounty_XPBounty": "経験値獲得量:",
+    "dota_chat_player_has_been_reported": "%s1 (%s2)を%s3について通報しました。",
+    "DOTA_HUD_Tooltip_UnitBounty_TeamGoldBounty": "チームゴールド獲得量:",
+    "DOTA_Compendium_StretchGoal8": "絵文字"
 }
