@@ -7780,5 +7780,12 @@
     "DOTA_WeeklyQuests_ActivateWeekInformation": "クエストの進行状況は、現在有効になっている週のみに適用されますが、前の週を有効にすると古いクエストに適用することができます。",
     "DOTA_Treasure_UnclaimedEventRewards_Singular": "<span class=\"LevelAmount\">{d:unclaimed_event_rewards_count} 受け取ってない</span> バトルパストレジャー",
     "DOTA_Friend_PartyInvitePending_Leader": "パーティー招待保留中<br/>クリックしてキャンセル",
-    "DOTA_Treasure_UnclaimedEventRewards_Plural": "<span class=\"LevelAmount\">{d:unclaimed_event_rewards_count} 受け取ってない</span> バトルパストレジャー"
+    "DOTA_Treasure_UnclaimedEventRewards_Plural": "<span class=\"LevelAmount\">{d:unclaimed_event_rewards_count} 受け取ってない</span> バトルパストレジャー",
+    "DOTA_Prediction_CharmPredict_Dismiss": "続ける",
+    "DOTA_Prediction_CharmResult_Continue": "続ける",
+    "TI5_LevelUp_PointsRemaining": "次のレベルに必要なポイント",
+    "TI5_Level": "レベル",
+    "BattlePass_LevelUp_Header": "おめでとうございます！",
+    "BattlePass_LevelUp_Body": "あなたのバトルパスのレベル:",
+    "DOTA_UI_Confirmation_Continue": "続ける"
 }
