@@ -7714,7 +7714,7 @@
     "DOTA_Tooltip_ability_omniknight_hammer_of_purity_Description": "%bonus_damage%+基礎ダメージの%base_damage%%%のピュアダメージを与える攻撃を行い、自身はダメージと同量のHPを回復する。オートキャスト設定できる。 クールダウン: 4",
     "DOTA_Tooltip_ability_huskar_inner_fire_shard_description": "Inner Fireのクールダウンが3秒短縮され、当たった敵のHP回復量が50%%・移動速度が40%%減少するようになる。ディセーブル中もキャストできる。",
     "DOTA_Tooltip_ability_huskar_life_cast_range_bonus": "セプター射程:",
-    "DOTA_Tooltip_ability_night_stalker_hunter_in_the_night_shard_description": "Hunter in the Nightにアクティブ効果が追加される。クリープを即死させ、最大HP35%と最大マナの25%を回復する。昼間はエンシェントクリープを対象とすることはできない。 クールダウン: 20",
+    "DOTA_Tooltip_ability_night_stalker_hunter_in_the_night_shard_description": "Hunter in the Nightにアクティブ効果が追加される。クリープを即死させ、最大HPの35%と最大マナの25%を回復する。昼間はエンシェントクリープを対象とすることはできない。 クールダウン: 20",
     "DOTA_Tooltip_ability_broodmother_spin_web_abilitydraft_note": "シャード:Silen Bolaは習得できない。",
     "DOTA_Tooltip_ability_broodmother_spin_web_scepter_description": "巣の最大設置数と移動速度が増加する。",
     "DOTA_Tooltip_ability_broodmother_silken_bola": "Silken Bola",
