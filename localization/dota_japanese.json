@@ -7798,5 +7798,20 @@
     "DOTA_HUD_Tooltip_UnitBounty_XPBounty": "経験値獲得量:",
     "dota_chat_player_has_been_reported": "%s1 (%s2)を%s3について通報しました。",
     "DOTA_HUD_Tooltip_UnitBounty_TeamGoldBounty": "チームゴールド獲得量:",
-    "DOTA_Compendium_StretchGoal8": "絵文字"
+    "DOTA_Compendium_StretchGoal8": "絵文字",
+    "DOTA_TI8_FrontPage_CavernChallenge_Title": "カーバンクロール",
+    "DOTA_TI10_DivinePath_Title": "カーバンクロール",
+    "DOTA_Chat_RiverPainted1": "%s1は川をクロムの瓶で染めた！",
+    "DOTA_Chat_RiverPainted2": "%s1は川を干ばつの瓶で染めた！",
+    "DOTA_Chat_RiverPainted7": "%s1は川を血の瓶で染めた！",
+    "DOTA_TI10_FrontPage_DivinePath_Title": "カーバンクロール",
+    "DOTACavernCrawl_MapLogoTitle_TI2020": "カーバンクロール",
+    "DOTACavernCrawl_Title": "カーバンクロール",
+    "DOTACavernCrawl_Title_TI2020": "カーバンクロール",
+    "DOTA_BattlePass_CavernCrawlTooltip_Title": "カーバンクロール",
+    "dota_ti8_purchase_feature_cavern": "カーバンクロール",
+    "DOTA_Chat_RiverPainted3": "%s1は川をスライムの瓶で染めた！",
+    "DOTA_Chat_RiverPainted4": "%s1は川をオイルの瓶で染めた！",
+    "DOTA_Chat_RiverPainted5": "%s1は川を電気の瓶で染めた！",
+    "DOTA_Chat_RiverPainted6": "%s1は川をポーションの瓶で染めた！"
 }
