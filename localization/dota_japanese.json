@@ -7339,7 +7339,7 @@
     "DOTA_TI6_BattlePass_PurchaseLevels": "レベルを購入する",
     "DOTA_TI8_BattlePass_PurchaseLevels": "レベルを購入する",
     "DOTA_WeeklyQuests_WeekActive": "有効",
-    "DOTA_Spring2021_WeeklyQuest_Progress_Label": "ウィークプログレス:",
+    "DOTA_Spring2021_WeeklyQuest_Progress_Label": "第{d:week_number}週プログレス:",
     "DOTA_Spring2021_WeeklyQuest_Progress": "{d:quests_completed}/{d:quests_count} 達成",
     "DOTA_Spring2021_WeeklyQuest_PointsAvailable": "{d:points_available} 入手可能",
     "DOTA_WeeklyQuest_GoalPip_Tooltip": "1週間の内に星を{d:star_count}つ集めると、{d:point_reward}バトルポイント獲得できます。",
@@ -7811,5 +7811,14 @@
     "DOTA_Chat_RiverPainted3": "%s1は川をスライムの瓶で染めた！",
     "DOTA_Chat_RiverPainted4": "%s1は川をオイルの瓶で染めた！",
     "DOTA_Chat_RiverPainted5": "%s1は川を電気の瓶で染めた！",
-    "DOTA_Chat_RiverPainted6": "%s1は川をポーションの瓶で染めた！"
+    "DOTA_Chat_RiverPainted6": "%s1は川をポーションの瓶で染めた！",
+    "DOTA_Spring2021_WeeklyStarRewardPipLabel": "{d:point_reward}",
+    "DOTA_Lobby_Selection_Priority_Status_Priority_CoinToss": "優先権決定方法: <b>コイントス</b>",
+    "DOTA_Lobby_Selection_Priority_Status_Priority_PreviousGame": "優先権決定方法: <b>前回の試合</b>",
+    "DOTA_Lobby_Selection_Priority_Status_Priority_First": "最初の優先権: <b>{s:automatic_selection_priority_first_priority_team_name}</b>",
+    "DOTA_Lobby_Selection_Priority_Status_Priority_Second": "次の優先権: <b>{s:automatic_selection_priority_second_priority_team_name}</b>",
+    "DOTA_Hero_Selection_AllDraft_YouPicking": "あなたのチームのピックターン",
+    "DOTA_Hero_Selection_AllDraft_TheyPicking": "敵のチームのピックターン",
+    "dota_cm_bonus_time_short": "持ち時間",
+    "dota_cm_bonus_time": "持ち時間"
 }
