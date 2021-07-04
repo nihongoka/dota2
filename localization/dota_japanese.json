@@ -7206,7 +7206,7 @@
     "DOTA_Nemestice_Brief": "強大な隕石の力を使って敵のタワーを消し去ろう",
     "DOTA_Nemestice_HowtoPlay": "遊び方",
     "DOTA_Nemestice_HowToPlay_Intro": "謎の隕石が戦場に降り注ぐ",
-    "DOTA_Nemestice_HowToPlay_Subhead": "敵のタワーを一掃して主導権を握れ",
+    "DOTA_Nemestice_HowToPlay_Subhead": "敵のタワーを一掃して\n主導権を握れ",
     "DOTA_Nemestice_HowToPlay1_Title": "隕石の欠片を集める",
     "DOTA_Nemestice_HowToPlay2_Title": "嵐による力",
     "DOTA_Nemestice_HowToPlay3_Title": "ネメスティスタワーとクリープ",
@@ -7874,5 +7874,7 @@
     "DOTA_ChangeLog_View": "見る",
     "DOTA_Guide_Subscribers": "現在の登録者数",
     "DOTA_SELECT_Button": "選択する",
-    "DOTA_View": "見る"
+    "DOTA_View": "見る",
+    "DOTA_Nemestice_HowToPlay_Points_Label": "プレイしてバトルポイントを稼ごう",
+    "DOTA_Nemestice_HowToPlay_Points_Desc": "<b>125ポイント: </b>中央の隕石からすべての炎をチームでチャネリングする。<br><br><b>100ポイント: </b>チームで敵のタワーを最初に破壊する。<br><br><b>50ポイント: </b>敵のニュートラルアイテムを盗む。<br><br><b>50ポイント: </b>アビリティやアイテムを使って隕石の下にトラップする。<br><br><font color=\"#999999\">ポイントボーナスは、チームの各プレイヤーに与えられます。各ボーナスは1ゲームにつき1回のみ獲得できます。</font>"
 }
