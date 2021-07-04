@@ -3765,8 +3765,8 @@
     "DOTA_MinimapLane_Top": "トップレーン",
     "DOTA_MinimapLane_Bottom": "ボトムレーン",
     "DOTA_MinimapLane_Jungle": "ジャングル",
-    "DOTA_MinimapLane_DireSafe": "(Dire Safe Lane)",
-    "DOTA_MinimapLane_DireOfflane": "(Dire Offlane)",
+    "DOTA_MinimapLane_DireSafe": "(Dire セーフレーン)",
+    "DOTA_MinimapLane_DireOfflane": "(Dire オフレーン)",
     "DOTA_BattlePassLevel": "バトルパスレベル: {d:battle_pass_level}",
     "DOTA_KillGraph_Title": "体力グラフ",
     "DOTA_KillGraph_Damage": "{i:value}ダメージ",
@@ -3798,7 +3798,7 @@
     "DOTA_TeamInvite_OpenQualifier3": "オープン予選 #3",
     "DOTA_TeamInvite_OpenQualifier4": "オープン予選 #4",
     "DOTA_MinimapLane_Radiant": "(Radiant)",
-    "DOTA_MinimapLane_RadiantSafe": "(Radiant Safe Lane)",
+    "DOTA_MinimapLane_RadiantSafe": "(Radiant セーフレーン)",
     "DOTA_MinimapLane_RadiantOfflane": "(Radiant Offlane)",
     "DOTA_PlayerMMR": "MMR: {s:player_mmr}",
     "DOTA_HUD_Damage": "攻撃力:",
@@ -7820,5 +7820,8 @@
     "DOTA_Hero_Selection_AllDraft_YouPicking": "あなたのチームのピックターン",
     "DOTA_Hero_Selection_AllDraft_TheyPicking": "敵のチームのピックターン",
     "dota_cm_bonus_time_short": "持ち時間",
-    "dota_cm_bonus_time": "持ち時間"
+    "dota_cm_bonus_time": "持ち時間",
+    "DOTA_Lobby_Selection_Priority_Status_Priority_FirstChoice": "{s:automatic_selection_priority_first_priority_team_name}の選択: <b>{s:automatic_selection_priority_first_priority_choice}</b>",
+    "DOTA_Lobby_Selection_Priority_Status_Priority_SecondChoice": "{s:automatic_selection_priority_second_priority_team_name}の選択: <b>{s:automatic_selection_priority_second_priority_choice}</b>",
+    "DOTA_Lobby_Selection_Priority_Choice_FirstPick": "ファーストピック"
 }
