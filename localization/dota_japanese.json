@@ -7863,5 +7863,16 @@
     "DOTA_Spring2021_Quest_Win_And_Net_Worth_Name": "彼らには必要ないもの",
     "DOTA_Spring2021_Quest_Win_And_Net_Worth_Description": "純資産を{s:current_tier_score}ゴールド貯めて勝利する",
     "DOTA_Spring2021_Quest_Win_And_Plant_Observer_Wards_Name": "リカナサンス・ルネサンス",
-    "DOTA_PrizeRewardMeter_Goal": "ゴール"
+    "DOTA_PrizeRewardMeter_Goal": "ゴール",
+    "DOTA_Guide_Valve": "Valve",
+    "DOTA_Guide_WorkshopSubtitleOriginalCreator": "ガイド作者: {g:dota_persona:nl:guide_original_creator}",
+    "DOTA_Guide_ListEntrySpacer": " - ",
+    "DOTA_WatchTournaments_View": "見る",
+    "DOTA_Guide_Select": "選択する",
+    "DOTA_Guide_Favorites": "現在のお気に入り数",
+    "DOTA_Guide_GamesPlayed": "{s:num_games}{s:num_games_suffix} 試合で使用",
+    "DOTA_ChangeLog_View": "見る",
+    "DOTA_Guide_Subscribers": "現在の登録者数",
+    "DOTA_SELECT_Button": "選択する",
+    "DOTA_View": "見る"
 }
