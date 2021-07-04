@@ -7922,5 +7922,10 @@
     "DOTA_Hero_Selection_PipTooltip_Durable": "デュラブル",
     "DOTA_Hero_Selection_PipTooltip_Pusher": "プッシャー",
     "DOTA_Hero_Selection_PipTooltip_Support": "サポート",
-    "DOTA_Hero_Selection_PipTooltip_Nuker": "ヌーカー"
+    "DOTA_Hero_Selection_PipTooltip_Nuker": "ヌーカー",
+    "DOTA_SeasonPass_Seasonal_Reward": "新しいバトルパスの報酬を受け取りました！",
+    "DOTA_SeasonalItemReceived_PingWheel": "新しい期間限定のピンを獲得しました",
+    "DOTA_SeasonalItemReceived_PingWheelSubtitle": "ピンホイールはゲーム内でAltキーを押しながら左クリックすると表示されます",
+    "DOTA_SeasonalItemReceived_GoToUnderDraft": "サイドショップへ行く",
+    "DOTA_SeasonalItemReceived_UnderDraftGold": "サイドショップゴールドを受け取りました"
 }
