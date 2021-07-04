@@ -3799,7 +3799,7 @@
     "DOTA_TeamInvite_OpenQualifier4": "オープン予選 #4",
     "DOTA_MinimapLane_Radiant": "(Radiant)",
     "DOTA_MinimapLane_RadiantSafe": "(Radiant セーフレーン)",
-    "DOTA_MinimapLane_RadiantOfflane": "(Radiant Offlane)",
+    "DOTA_MinimapLane_RadiantOfflane": "(Radiant オフレーン)",
     "DOTA_PlayerMMR": "MMR: {s:player_mmr}",
     "DOTA_HUD_Damage": "攻撃力:",
     "DOTA_LaneSelectionMidlane": "ミッドレーン",
