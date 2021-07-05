@@ -7928,5 +7928,13 @@
     "DOTA_SeasonalItemReceived_PingWheelSubtitle": "ピンホイールはゲーム内でAltキーを押しながら左クリックすると表示されます",
     "DOTA_SeasonalItemReceived_GoToUnderDraft": "サイドショップへ行く",
     "DOTA_SeasonalItemReceived_UnderDraftGold": "サイドショップゴールドを受け取りました",
-    "DOTACavernCrawl_Progress_TreasureMapActivating": "オラクルが宝物の位置を示します..."
+    "DOTACavernCrawl_Progress_TreasureMapActivating": "オラクルが宝物の位置を示します...",
+    "DOTA_SeasonPass_Seasonal_Reward_Subtitle": "バトルパスの特典は期間中自動的に有効になります。",
+    "DOTA_BattlePass_Reward_Subtitle": "バトルパスの特典は期間中自動的に有効になります。",
+    "competitive_team_identity_checkbox": "{s:team_identity_tag}としてプレイ",
+    "matchmaking_match_disabled_local": "現在、過剰な通報や準備不足、放棄、その他ネガティブな行為により、マッチングができません。残り時間: {t:r:e:match_denied_time}",
+    "dota_cancel_confirming_match_title": "マッチを作成中です",
+    "dota_cancel_confirming_match_body": "今マッチメイキングのキューから抜けると、一定期間マッチメイキングができなくなることがあります。 本当に抜けますか？",
+    "DOTA_Friend_PartyInvitePending": "パーティー招待保留中",
+    "matchmaking_match_disabled_local_long": "現在、過剰な通報や準備不足、放棄、その他ネガティブな行為により、マッチングができません。残り時間: {t:r:e:match_denied_time}"
 }
