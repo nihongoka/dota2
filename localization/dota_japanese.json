@@ -7927,5 +7927,6 @@
     "DOTA_SeasonalItemReceived_PingWheel": "新しい期間限定のピンを獲得しました",
     "DOTA_SeasonalItemReceived_PingWheelSubtitle": "ピンホイールはゲーム内でAltキーを押しながら左クリックすると表示されます",
     "DOTA_SeasonalItemReceived_GoToUnderDraft": "サイドショップへ行く",
-    "DOTA_SeasonalItemReceived_UnderDraftGold": "サイドショップゴールドを受け取りました"
+    "DOTA_SeasonalItemReceived_UnderDraftGold": "サイドショップゴールドを受け取りました",
+    "DOTACavernCrawl_Progress_TreasureMapActivating": "オラクルが宝物の位置を示します..."
 }
