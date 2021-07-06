@@ -79,7 +79,7 @@
     "#game_mode_lobby_name_8": "リバースキャプテンズモード",
     "#game_mode_lobby_name_11": "ミッドオンリー",
     "#game_mode_lobby_name_12": "リーストプレイド",
-    "#game_mode_lobby_name_13": "リミテッドヒーロー",
+    "#game_mode_lobby_name_13": "ニュープレイヤーモード",
     "#game_mode_lobby_name_14": "コンペンディウム",
     "#game_mode_lobby_name_15": "カスタム",
     "#game_mode_lobby_name_16": "キャプテンズドラフト",
@@ -228,7 +228,7 @@
     "#game_mode_5": "オールランダム",
     "#game_mode_6": "-",
     "#game_mode_12": "リーストプレイド",
-    "#game_mode_13": "リミテッドヒーロー",
+    "#game_mode_13": "ニュープレイヤーモード",
     "#DOTA_RP_QUEST": "トレーニングミッション",
     "#DOTA_RP_BOTPRACTICE": "ボット戦をプレイ中",
     "#DOTA_RP_COOPBOT": "協力ボットマッチ",
@@ -247,5 +247,6 @@
     "#custom_game_mode_status": "カスタムゲームをプレイ中",
     "#DOTA_EventName_Frostivus2018": "Frosthaven",
     "#DOTA_EventGameName_International2020": "アガニムの迷宮",
-    "#DOTA_RP_TOURNEY_PLAYING_AS": "バトルカップ {%param2%} ( {%param1%} )"
+    "#DOTA_RP_TOURNEY_PLAYING_AS": "バトルカップ {%param2%} ( {%param1%} )",
+    "#dota_eventgamename_nemestice": "ネメスティス"
 }
