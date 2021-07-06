@@ -3306,7 +3306,7 @@
     "DOTA_Tooltip_ability_luna_moon_glaive_Note0": "Moon Glaivesはクリティカル以外のattack modifierを発動させない。",
     "DOTA_Tooltip_ability_luna_eclipse_Description": "近くのランダムな敵に、現在のレベルのLucent Beamを浴びせる。このビームは対象をスタンせず、同一対象を攻撃できる回数には上限がある。 また、%night_duration%秒間夜になる。",
     "DOTA_Tooltip_ability_luna_eclipse_Note0": "EclipseはLucent Beamを取得していない場合機能しない。",
-    "DOTA_Tooltip_modifier_luna_lunar_blessing_aura_Description": "%dMODIFIER_PROPERTY_PREATTACK_BONUS_DAMAGE%%%ダメージ増加",
+    "DOTA_Tooltip_modifier_luna_lunar_blessing_aura_Description": "%dMODIFIER_PROPERTY_PREATTACK_BONUS_DAMAGE%ダメージ増加",
     "DOTA_Tooltip_modifier_luna_eclipse_Description": "Lucent Beamで近くのターゲットを攻撃する。",
     "DOTA_Tooltip_ability_dragon_knight_breathe_fire_duration": "効果時間:",
     "DOTA_Tooltip_ability_dragon_knight_breathe_fire_reduction": "%攻撃力減少:",
@@ -7157,7 +7157,7 @@
     "dota_ability_variable_spell_lifesteal_hero": "スペルライフスティール(ヒーロー)",
     "DOTA_Tooltip_ability_dragon_knight_elder_dragon_form_scepter_description": "スキルレベルを1段階上げる。Level4 ブラックドラゴンを追加する。ブラックドラゴンの攻撃は Corrosive Breath と Splash Attack と Frost Breath の効果にボーナスを与え、自身の魔法耐性を増加させ、地形を無視して移動できるようになる。",
     "DOTA_Tooltip_ability_dragon_knight_elder_dragon_form_shard_description": "Elder Dragon Form発動中に使用できるスキル Fireball を獲得する。",
-    "DOTA_Tooltip_ability_dragon_knight_elder_dragon_form_abilitydraft_note": "Fireball は Elder Dragon Form 発動中のみ使用できる",
+    "DOTA_Tooltip_ability_dragon_knight_elder_dragon_form_abilitydraft_note": "シャード: Grants Fireball",
     "DOTA_Tooltip_ability_dragon_knight_fireball": "Fireball",
     "DOTA_Tooltip_ability_dragon_knight_fireball_Description": "%duration%秒の間、 範囲%radius%を火の海にして、範囲内にいる敵に秒間%damage%ダメージを与える。近接の状態ではキャスト範囲が減少する。",
     "DOTA_Tooltip_ability_sven_storm_bolt_scepter_description": "キャスト範囲を広げ、 Storm Hammer と共に Sven が移動する。",
@@ -9465,5 +9465,9 @@
     "DOTA_Tooltip_modifier_stacking_gold_rate_boost": "ゴールドブースト",
     "DOTA_Tooltip_modifier_stacking_exp_rate_boost_Description": "+%dMODIFIER_PROPERTY_TOOLTIP%%%ボーナス経験値を得ている。",
     "DOTA_Tooltip_modifier_neutral_creep_lost": "ロスト",
-    "DOTA_Tooltip_modifier_neutral_creep_lost_Description": "このクリーチャーは自分のキャンプに戻る方法を見つけるまでホームレスです。"
+    "DOTA_Tooltip_modifier_neutral_creep_lost_Description": "このクリーチャーは自分のキャンプに戻る方法を見つけるまでホームレスです。",
+    "DOTA_Tooltip_ability_necrolyte_sadist_abilitydraft_note": "Ghost Shroudは魔法耐性のスペルをキャストするとすぐに解除されます。 (BladefuryやRageなど)",
+    "DOTA_Tooltip_ability_invoker_chaos_meteor_ad_shard_description": "Chaos Meteorsを2つ追加し、1つ目にわずかな角度をつけて着地させる。クールダウンを15秒減少させる。",
+    "DOTA_Tooltip_ability_skywrath_mage_mystic_flare_ad_shard_description": "アビリティをキャストするたび35秒間、+5Intelligenceと1アーマーを得る。それぞれ独立してスタックする。",
+    "DOTA_Tooltip_ability_hoodwink_decoy_abilitydraft_note": "効果を発揮するためにBushwhackをドラフトする必要はありません。"
 }
