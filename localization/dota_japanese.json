@@ -8017,5 +8017,7 @@
     "KillEaterEvent_PoisonAttackKills": "毒攻撃キル",
     "KillEaterEvent_HurricanePikeDamage": "Hurricane Pike 対象ダメージ",
     "DOTA_HeroRelics_Level": "レベル",
-    "KillEaterEventType_Kills": "キル"
+    "KillEaterEventType_Kills": "キル",
+    "DOTA_HeroRelicRarity_Common": "コモン",
+    "DOTA_HeroRelicRarity_Rare": "レア"
 }
