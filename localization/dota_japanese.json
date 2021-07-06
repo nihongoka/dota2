@@ -7936,5 +7936,6 @@
     "dota_cancel_confirming_match_title": "マッチを作成中です",
     "dota_cancel_confirming_match_body": "今マッチメイキングのキューから抜けると、一定期間マッチメイキングができなくなることがあります。 本当に抜けますか？",
     "DOTA_Friend_PartyInvitePending": "パーティー招待保留中",
-    "matchmaking_match_disabled_local_long": "現在、過剰な通報や準備不足、放棄、その他ネガティブな行為により、マッチングができません。残り時間: {t:r:e:match_denied_time}"
+    "matchmaking_match_disabled_local_long": "現在、過剰な通報や準備不足、放棄、その他ネガティブな行為により、マッチングができません。残り時間: {t:r:e:match_denied_time}",
+    "npc_dota_hero_dawnbreaker_hype": "Dawnbreakerは戦闘の中心で輝き、<b>天空のハンマーで敵を粉砕</b>し、<b>近くの味方を回復する</b>ことを楽しんでいる。彼女は、複数の敵にハンマーを投げつけ、燃え盛る軌道で近づき、常に自分の真の宇宙の力を利用して<b>チームメートの助けに飛ぶ</b>のを待っている。敵がどこにいようと、戦場で追い払うことを熱望している。"
 }
