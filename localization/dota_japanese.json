@@ -8128,5 +8128,6 @@
     "DOTA_PlusSeasonAchievement_WinBattleCup_Singular_Description": "週末のバトルカップで優勝しましょう。",
     "DOTA_PlusSeasonAchievement_Wins_Claim_Name": "実績: 試合に勝つ",
     "DOTA_PlusSeasonAchievement_CalibrateRanked_Name": "ランク戦でキャリブレーションする",
-    "DOTA_PlusSeasonAchievement_HeroRelicMilestones_Claim_Name": "実績: ヒーローレリックレベルアップ"
+    "DOTA_PlusSeasonAchievement_HeroRelicMilestones_Claim_Name": "実績: ヒーローレリックレベルアップ",
+    "DOTA_PlusSeasonAchievement_GiveCommends_Name": "{d:achievement_quantity}回プレイヤーを称賛する"
 }
