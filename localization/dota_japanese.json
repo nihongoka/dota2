@@ -8214,5 +8214,9 @@
     "DOTA_HUD_DeniedAegis": "{s:player_name} {s:aegis_icon} Aegis of the Immortalをディナイした",
     "DOTA_HUD_AegisStolen": "{s:player_name} {s:aegis_icon} Aegis of the Immortalを奪取した",
     "DOTA_HUD_BoughtBack": "{s:player_name} バイバックした",
-    "DOTA_Emblem_Movie_Label": "エンブレムエフェクト"
+    "DOTA_Emblem_Movie_Label": "エンブレムエフェクト",
+    "DOTA_StyleUnlock_NoValidItems": "あなたの保管庫にはこのスタイルをアンロックするためのアイテムがありません。",
+    "UnlockStyle": "スタイルをアンロック",
+    "DOTA_ChallengeDesc_KillAncientCreeps": "エンシェントクリープを<font color='#ffffff'>%s1</font>体キルする。",
+    "DOTA_Profile_BP_Rollup_Achievements_Completed": "クエスト達成"
 }
