@@ -8218,5 +8218,13 @@
     "DOTA_StyleUnlock_NoValidItems": "あなたの保管庫にはこのスタイルをアンロックするためのアイテムがありません。",
     "UnlockStyle": "スタイルをアンロック",
     "DOTA_ChallengeDesc_KillAncientCreeps": "エンシェントクリープを<font color='#ffffff'>%s1</font>体キルする。",
-    "DOTA_Profile_BP_Rollup_Achievements_Completed": "クエスト達成"
+    "DOTA_Profile_BP_Rollup_Achievements_Completed": "クエスト達成",
+    "DOTA_StyleUnlock_ConfirmMessage": "{g:dota_item_name:redeem_item_def}を消費して{g:dota_item_name:selected_item_def}のスタイルをアンロックしますか？",
+    "DOTA_StyleUnlock_Title": "{g:dota_item_name:header_item_def} スタイルアンロック",
+    "DOTA_StyleUnlock_Action": "アンロック",
+    "DOTA_StyleUnlock_ConfirmTitle": "スタイルアンロック",
+    "DOTA_StyleUnlock_EquipInfused": "{g:dota_item_name:redeem_item_def}を{g:dota_item_name:selected_item_def}に吹き込みますか？",
+    "DOTA_StyleUnlock_Error": "このアイテムのスタイルのアンロックに失敗しました。",
+    "DOTA_StyleUnlock_Timeout": "ゲームコーディネーター接続に失敗しました。後で再度試してください。",
+    "DOTA_StyleUnlock_Text": "スタイルをアンロックするアイテムを選択してください"
 }
