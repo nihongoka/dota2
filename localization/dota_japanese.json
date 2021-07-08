@@ -8245,5 +8245,6 @@
     "DOTA_Socketing_ExtractGem_Tooltip": "コモンジェムを抽出するには、熟練工の金槌が必要です。金槌を持っていない場合は、「ジェムを抽出する」ボタンをクリックすると、購入画面が表示されます。",
     "DOTA_ReforgeItem_NoValidItems": "あなたの保管庫に、このリフォージャーを使用できるアイテムがありません。",
     "DOTA_ReforgeItem_Title": "{g:dota_item_name:header_item_def}",
-    "DOTA_ReforgeItem_Action": "リフォージ"
+    "DOTA_ReforgeItem_Action": "リフォージ",
+    "dota_matchmaking_region_no_good_region_party": "パーティーメンバー全員が接続可能な地域が見つかりません。 インターネット接続環境を確認してください。"
 }
