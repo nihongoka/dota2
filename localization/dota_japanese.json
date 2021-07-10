@@ -6554,7 +6554,7 @@
     "DOTA_Socketing_AddSocket_Tooltip": "コモンソケットを追加するには熟練工の彫刻刀が必要です。彫刻刀が無い場合、ソケットの追加をクリックすると購入画面が表示されます。",
     "Present2_T3": "ディスクリプションタグ",
     "DOTA_Chat_PleaseSuggestItems": "<font color='#ea67db'>[?]</font> %s1 がアイテムの提案を要求しています。ショップでCtrlキー+Altキーを押しながらアイテムをクリックしてください。",
-    "DOTA_Chat_EndSuggestions": "%s1 の提案が締め切られました。",
+    "DOTA_Chat_EndSuggestions": "%s1 への提案が締め切られました。",
     "DOTA_Shop_Tip_Popular": "このヒーローを使う上級プレイヤーがよく購入するアイテムをハイライトする。",
     "DOTA_NewPlayerShop_Skip": "これらのアイテムをスキップ",
     "DOTA_NewPlayerShop_SkipWarning": "すべての推奨アイテムを購入することをお勧めしますが、これらのアイテムをスキップして次の推奨アイテムのセットに移ることもできます。",
