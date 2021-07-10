@@ -8258,5 +8258,7 @@
     "DOTA_Chat_SuggestHero": "ピックの提案: <a class=\"SuggestedHero\" href=\"event:DOTASuggestedHeroActivated( {d:hero_id} )\">[{g:dota_hero_name:hero_id}]</a>",
     "DOTA_Chat_SuggestHeroBan": "バンの提案: <a class=\"SuggestedHero\" href=\"event:DOTASuggestedHeroActivated( {d:hero_id} )\">[{g:dota_hero_name:hero_id}]</a>",
     "DOTA_Chat_Ability_Draft_Randomed": "%s1はランダムにピック: <font color='#FAEAC9'><b>[%s2]</b></font>.",
-    "DOTA_HeroGuide_AbilityLabel": "アビリティ"
+    "DOTA_HeroGuide_AbilityLabel": "アビリティ",
+    "DOTA_Scoreboard_TipCooldown": "{s:tip_cooldown} クールダウン",
+    "DOTA_Scoreboard_TipsAvailable": "後{d:tips_available}回可能"
 }
