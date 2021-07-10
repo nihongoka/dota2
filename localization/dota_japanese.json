@@ -8213,7 +8213,7 @@
     "DOTA_HUD_ScanUsed": "{s:team} {s:radar_icon} スキャン",
     "DOTA_HUD_DeniedAegis": "{s:player_name} {s:aegis_icon} Aegis of the Immortalをディナイした",
     "DOTA_HUD_AegisStolen": "{s:player_name} {s:aegis_icon} Aegis of the Immortalを奪取した",
-    "DOTA_HUD_BoughtBack": "{s:player_name} バイバックした",
+    "DOTA_HUD_BoughtBack": "{s:player_name} はバイバックした",
     "DOTA_Emblem_Movie_Label": "エンブレムエフェクト",
     "DOTA_StyleUnlock_NoValidItems": "あなたの保管庫にこのスタイルをアンロックするためのアイテムがありません。",
     "UnlockStyle": "スタイルをアンロック",
@@ -8246,5 +8246,17 @@
     "DOTA_ReforgeItem_NoValidItems": "あなたの保管庫に、このリフォージャーを使用できるアイテムがありません。",
     "DOTA_ReforgeItem_Title": "{g:dota_item_name:header_item_def}",
     "DOTA_ReforgeItem_Action": "リフォージ",
-    "dota_matchmaking_region_no_good_region_party": "パーティーメンバー全員が接続可能な地域が見つかりません。 インターネット接続環境を確認してください。"
+    "dota_matchmaking_region_no_good_region_party": "パーティーメンバー全員が接続可能な地域が見つかりません。 インターネット接続環境を確認してください。",
+    "DOTA_AbilityGuide_Details": "詳細",
+    "DOTA_HUD_QuestStatus_QueryComplete": "達成！",
+    "DOTA_Chat_TeamCaptainChanged": "%s1があなたのチームのキャプテンになりました。",
+    "DOTA_Chat_SprayWheelCooldown": "30秒に1回だけスプレーを使用できます。(後%s1秒)",
+    "DOTA_RiverVial_Title": "川に流す小瓶を選択",
+    "DOTA_AbilityBuild_Talent_Title": "タレント",
+    "DOTA_AbilityGuide_Ability": "アビリティ",
+    "DOTA_AbilityGuide_HeroLevel": "ヒーローレベル",
+    "DOTA_Chat_SuggestHero": "ピックの提案: <a class=\"SuggestedHero\" href=\"event:DOTASuggestedHeroActivated( {d:hero_id} )\">[{g:dota_hero_name:hero_id}]</a>",
+    "DOTA_Chat_SuggestHeroBan": "バンの提案: <a class=\"SuggestedHero\" href=\"event:DOTASuggestedHeroActivated( {d:hero_id} )\">[{g:dota_hero_name:hero_id}]</a>",
+    "DOTA_Chat_Ability_Draft_Randomed": "%s1はランダムにピック: <font color='#FAEAC9'><b>[%s2]</b></font>.",
+    "DOTA_HeroGuide_AbilityLabel": "アビリティ"
 }
