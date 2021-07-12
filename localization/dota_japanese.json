@@ -8274,5 +8274,9 @@
     "npc_dota_hero_nyx_assassin_npedesc1": "敵のダメージを反射してスタンを与える",
     "npc_dota_hero_pangolier_npedesc1": "転げ回り敵の動きを搔き乱す",
     "npc_dota_hero_phantom_lancer_npedesc1": "イリュージョンを生成し、敵を目を欺き攻撃する",
-    "npc_dota_hero_razor_npedesc1": "敵の攻撃力を奪い自分のものにする"
+    "npc_dota_hero_razor_npedesc1": "敵の攻撃力を奪い自分のものにする",
+    "Econ_Socket_Color_Name": "プリズマティック: %s1",
+    "report_avoid_pending": "回避リクエスト送信中",
+    "report_avoid_failed": "現在プレイヤーを避けることができません",
+    "report_avoid_player_plus_needed": "プレイヤーを避けるためにはDota Plusへのサインアップが必要です"
 }
