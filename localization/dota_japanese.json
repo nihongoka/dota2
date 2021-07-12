@@ -8377,5 +8377,18 @@
     "DOTA_RemoveGemFromSocket_Text": "ソケットからジェムを取り除いています...",
     "DOTA_RemoveGemFromSocket_Fail_Title": "ジェムを取り除けません",
     "DOTA_RemoveGemFromSocket_Fail_Unremovable": "このジェムを取り外すことはできません。",
-    "DOTA_RemoveGemFromSocket_RequiresMasterHammer": "このジェムを取り除くには、匠の金槌を使う必要があります。"
+    "DOTA_RemoveGemFromSocket_RequiresMasterHammer": "このジェムを取り除くには、匠の金槌を使う必要があります。",
+    "DOTA_ItemRemoveDescription_Title": "説明文を削除しますか？",
+    "DOTA_ItemRemoveName_Succeeded": "カスタムネームが正常に削除されました。",
+    "DOTA_ItemRemoveName_CannotBeRemoved": "このアイテムのカスタムネームは削除できません。",
+    "DOTA_ItemRemoveName_Failed": "名前の初期化中にエラーが発生しました。",
+    "DOTA_ItemRemoveDescription_Succeeded": "カスタムした説明文が正常に削除されました。",
+    "DOTA_ItemRemoveDescription": "このアイテムからカスタムした説明文を削除して、元の説明文に戻しますか？\n",
+    "DOTA_ItemRemoveDescription_CannotBeRemoved": "このアイテムのカスタムされた説明文は削除できません。",
+    "DOTA_ItemRemoveDescription_Failed": "説明文の初期化中にエラーが発生しました。",
+    "DOTA_ItemRemoveGift_Title": "ギフト情報を削除しますか？",
+    "DOTA_ItemRemoveGift": "このアイテムのギフト情報を削除しますか？\n",
+    "DOTA_ItemRemoveGift_Succeeded": "ギフト情報が正常に削除されました。",
+    "DOTA_ItemRemoveGift_CannotBeRemoved": "このアイテムのギフト情報は削除できません。",
+    "DOTA_ItemRemoveGift_Failed": "ギフト情報の削除中にエラーが発生しました。"
 }
