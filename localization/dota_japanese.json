@@ -8262,5 +8262,17 @@
     "DOTA_Scoreboard_TipCooldown": "{s:tip_cooldown} クールダウン",
     "DOTA_Scoreboard_TipsAvailable": "後{d:tips_available}回可能",
     "npc_dota_hero_juggernaut_npedesc1": "正確な剣撃で敵を切り裂く",
-    "npc_dota_hero_lone_druid_npedesc1": "強力な熊を操り戦う"
+    "npc_dota_hero_lone_druid_npedesc1": "強力な熊を操り戦う",
+    "npc_dota_hero_phantom_assassin_npedesc1": "敵に飛びつき致命的な攻撃を食らわす",
+    "npc_dota_hero_luna_npedesc1": "跳ね返る攻撃で敵を切り裂く",
+    "npc_dota_hero_medusa_npedesc1": "強力な石化能力で敵の動きを封じる",
+    "npc_dota_hero_meepo_npedesc1": "5人は1人よりも強し",
+    "npc_dota_hero_mirana_npedesc1": "遠くから放った矢で敵をスタンさせる",
+    "npc_dota_hero_monkey_king_npedesc1": "木から木へ飛び移る",
+    "npc_dota_hero_morphling_npedesc1": "波に乗り敵の側面を狙う",
+    "npc_dota_hero_naga_siren_npedesc1": "歌で敵を無力化し、動きを封じる",
+    "npc_dota_hero_nyx_assassin_npedesc1": "敵のダメージを反射してスタンを与える",
+    "npc_dota_hero_pangolier_npedesc1": "転げ回り敵の動きを搔き乱す",
+    "npc_dota_hero_phantom_lancer_npedesc1": "イリュージョンを生成し、敵を目を欺き攻撃する",
+    "npc_dota_hero_razor_npedesc1": "敵の攻撃力を奪い自分のものにする"
 }
