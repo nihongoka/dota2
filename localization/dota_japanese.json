@@ -8260,5 +8260,7 @@
     "DOTA_Chat_Ability_Draft_Randomed": "%s1はランダムにピック: <font color='#FAEAC9'><b>[%s2]</b></font>.",
     "DOTA_HeroGuide_AbilityLabel": "アビリティ",
     "DOTA_Scoreboard_TipCooldown": "{s:tip_cooldown} クールダウン",
-    "DOTA_Scoreboard_TipsAvailable": "後{d:tips_available}回可能"
+    "DOTA_Scoreboard_TipsAvailable": "後{d:tips_available}回可能",
+    "npc_dota_hero_juggernaut_npedesc1": "正確な剣撃で敵を切り裂く",
+    "npc_dota_hero_lone_druid_npedesc1": "強力な熊を操り戦う"
 }
