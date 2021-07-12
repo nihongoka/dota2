@@ -8363,5 +8363,19 @@
     "DOTA_ItemChangeDescription_Processing_Text": "このアイテムの説明文を変更しています...",
     "DOTA_ItemChangeDescription_TooLong_Title": "説明文が長すぎます",
     "DOTA_ItemChangeDescription_Succeeded": "説明文が正常に変更されました。",
-    "DOTA_ItemChangeDescription_Error": "説明文変更中にエラーが発生しました。"
+    "DOTA_ItemChangeDescription_Error": "説明文変更中にエラーが発生しました。",
+    "DOTA_SelectGem_Text": "注意: アイテムにはめ込まれたジェムは、熟練工の金槌でなければ取り除くことができません。",
+    "DOTA_RemoveGemFromSocket_NeedMasterHammers": "このジェムを取り除くには匠の金槌が必要です。金槌はジェムがはめ込まれているアイテムを破壊します。購入しますか？",
+    "DOTA_ItemRemoveAttribute_Failed_Title": "アイテムの修正に失敗しました",
+    "DOTA_ItemRemoveName_Title": "名前を元に戻しますか？",
+    "DOTA_ItemRemoveName": "このアイテムからカスタムネームを削除して、元の名前に戻しますか？\n",
+    "DOTA_SelectGem_Title": "ソケットに置き換えるジェムを選択する",
+    "DOTA_SelectGem_Action": "選択する",
+    "DOTA_RemoveGemFromSocket_NeedHammers": "このジェムを取り除くには熟練工の金槌が必要です。購入しますか？",
+    "DOTA_RemoveGemFromSocket_NeedHammers_Title": "金槌を購入しますか？",
+    "DOTA_RemoveGemFromSocket_Title": "ジェムをソケットから取り除く",
+    "DOTA_RemoveGemFromSocket_Text": "ソケットからジェムを取り除いています...",
+    "DOTA_RemoveGemFromSocket_Fail_Title": "ジェムを取り除けません",
+    "DOTA_RemoveGemFromSocket_Fail_Unremovable": "このジェムを取り外すことはできません。",
+    "DOTA_RemoveGemFromSocket_RequiresMasterHammer": "このジェムを取り除くには、匠の金槌を使う必要があります。"
 }
