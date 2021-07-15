@@ -8420,5 +8420,6 @@
     "DOTA_Spring2021_Quest_Win_And_Assists_Name": "[T] アシストの達人",
     "DOTA_Spring2021_Quest_Win_And_Assists_Description": "勝利した試合で{s:current_tier_score}回アシストを取る",
     "npc_dota_hero_riki_npedesc1": "常に透明で動き攻撃する",
-    "DOTA_TeamFanContent_New": "New"
+    "DOTA_TeamFanContent_New": "New",
+    "DOTA_BattlePass_AchievementsTooltip_Completed": "クエスト達成"
 }
