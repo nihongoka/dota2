@@ -8422,5 +8422,6 @@
     "npc_dota_hero_riki_npedesc1": "常に透明で動き攻撃する",
     "DOTA_TeamFanContent_New": "New",
     "DOTA_BattlePass_AchievementsTooltip_Completed": "クエスト達成",
-    "DOTA_ConfirmUnbundleText": "このアイテムを装備するには、バンドルを開封する必要があります。開封しますか？"
+    "DOTA_ConfirmUnbundleText": "このアイテムを装備するには、バンドルを開封する必要があります。開封しますか？",
+    "DOTA_UserMenu_Swap": "ヒーローを交換する"
 }
