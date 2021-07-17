@@ -8426,5 +8426,9 @@
     "DOTA_UserMenu_Swap": "ヒーローを交換する",
     "DOTA_HUD_Scoreboard_SwapHero": "ヒーローを交換する",
     "DOTA_HUD_Swap_Confirm_Header": "ヒーローを交換しますか？",
-    "DOTA_HUD_Swap_Confirm_Message": "あなたのヒーローと{s:swap_hero_name}を交換したいですか？"
+    "DOTA_HUD_Swap_Confirm_Message": "あなたのヒーローと{s:swap_hero_name}を交換したいですか？",
+    "DOTA_AbilityDraft_Round": "ラウンド %s1",
+    "DOTA_AbilityDraftTimeLeft": "次のラウンド開始まで:",
+    "DOTA_AbilityDraft_Start_Timer": "ドラフトラウンド{d:round_number}開始まで:",
+    "DOTA_AbilityDraftYourTurnIn": "あなたのドラフトまで:"
 }
