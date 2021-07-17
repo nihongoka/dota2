@@ -6507,7 +6507,7 @@
     "dota_combat_log_receives_debuff_from": "%s1 は %s3 から デバフ%s2 を受けた。\n",
     "dota_combat_log_receives_buff": "%s1 は バフ%s2 を受けた。\n",
     "dota_combat_log_loses_buff": "%s1 は バフ%s2 を失った。\n",
-    "dota_combat_log_loses_debuff": "%s1 は デバフ%s2 を失った。\n",
+    "dota_combat_log_loses_debuff": "%s1 は デバフ %s2 を失った。\n",
     "dota_combat_log_illusion": " (イリュージョン)",
     "dota_combat_log_ability_toggle_on": "%s1 は アビリティ%s2 のトグルをオンにした。\n",
     "dota_combat_log_ability_cast": "%s1 は アビリティ%s2 をキャストした。\n",
