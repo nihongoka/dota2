@@ -8430,5 +8430,13 @@
     "DOTA_AbilityDraft_Round": "ラウンド %s1",
     "DOTA_AbilityDraftTimeLeft": "次のラウンド開始まで:",
     "DOTA_AbilityDraft_Start_Timer": "ドラフトラウンド{d:round_number}開始まで:",
-    "DOTA_AbilityDraftYourTurnIn": "あなたのドラフトまで:"
+    "DOTA_AbilityDraftYourTurnIn": "あなたのドラフトまで:",
+    "DOTA_HUD_GG_LoseIn": "投了まで",
+    "DOTA_HUD_GG_GameWillEnd": "ゲームが終了します",
+    "DOTA_HUD_QuickStats_K": "K:",
+    "DOTA_HUD_QuickStats_D": "D:",
+    "DOTA_HUD_QuickStats_A": "A:",
+    "DOTA_HUD_Killcam_KilledBy": "キルされた:",
+    "DOTA_GGPopup_Desc": "投了まで",
+    "DOTA_GGPopup_Title": "ゲームが終了します"
 }
