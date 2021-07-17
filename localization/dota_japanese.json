@@ -8423,5 +8423,8 @@
     "DOTA_TeamFanContent_New": "New",
     "DOTA_BattlePass_AchievementsTooltip_Completed": "クエスト達成",
     "DOTA_ConfirmUnbundleText": "このアイテムを装備するには、バンドルを開封する必要があります。開封しますか？",
-    "DOTA_UserMenu_Swap": "ヒーローを交換する"
+    "DOTA_UserMenu_Swap": "ヒーローを交換する",
+    "DOTA_HUD_Scoreboard_SwapHero": "ヒーローを交換する",
+    "DOTA_HUD_Swap_Confirm_Header": "ヒーローを交換しますか？",
+    "DOTA_HUD_Swap_Confirm_Message": "あなたのヒーローと{s:swap_hero_name}を交換したいですか？"
 }
