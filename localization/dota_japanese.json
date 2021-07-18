@@ -8488,5 +8488,15 @@
     "DOTA_AbilityDraft_NextRound": "次のラウンド開始まで:",
     "DOTA_AbilityDraft_GameStarts": "ドラフト終了まで:",
     "DOTA_AbilityDraft_StrategyTime": "作戦タイム:",
-    "DOTA_Chat_NoBattlePoints_CheatsEnabled": "チートが有効な試合では経験値トロフィーのレベルは上がりません。"
+    "DOTA_Chat_NoBattlePoints_CheatsEnabled": "チートが有効な試合では経験値トロフィーのレベルは上がりません。",
+    "npc_dota_hero_obsidian_destroyer_npedesc1": "敵を牢獄に閉じ込めて無敵にする",
+    "npc_dota_hero_puck_npedesc1": "敵にオーブをぶつけてサイレンスを与える",
+    "npc_dota_hero_pugna_npedesc1": "敵から体力を奪い回復する",
+    "npc_dota_hero_queenofpain_npedesc1": "瞬間移動して強力な魔法ダメージを与える",
+    "npc_dota_hero_rubick_npedesc1": "敵からスペルを盗んで相手に使う",
+    "npc_dota_hero_shadow_demon_npedesc1": "敵に指数関数的に増加する毒ダメージを与える",
+    "npc_dota_hero_shadow_shaman_npedesc1": "強力なサーペントワードを召喚してダメージを与える",
+    "npc_dota_hero_silencer_npedesc1": "マップ上の敵ヒーローすべてにサイレンスを与える",
+    "npc_dota_hero_skywrath_mage_npedesc1": "単体ターゲットに対して強力な魔法ダメージを与える",
+    "npc_dota_hero_storm_spirit_npedesc1": "光速で移動しながら戦う"
 }
