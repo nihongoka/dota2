@@ -8438,5 +8438,7 @@
     "DOTA_HUD_QuickStats_A": "A:",
     "DOTA_HUD_Killcam_KilledBy": "キルされた:",
     "DOTA_GGPopup_Desc": "投了まで",
-    "DOTA_GGPopup_Title": "ゲームが終了します"
+    "DOTA_GGPopup_Title": "ゲームが終了します",
+    "DOTA_Chat_NoBattlePoints_WrongLobby": "プライベートロビーでは経験値トロフィーのレベルは上がりません。",
+    "DOTA_Chat_NoBattlePoints_Bots": "ボット戦では経験値トロフィーのレベルは上がりません。"
 }
