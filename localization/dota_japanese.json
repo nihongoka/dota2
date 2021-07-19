@@ -8512,5 +8512,18 @@
     "npc_dota_hero_dawnbreaker_npedesc1": "マップ上にいる味方のもとへ飛んで助ける",
     "DOTA_NPERecipe": "レシピ",
     "DOTA_DPCScheduleVs": "vs.",
-    "DOTA_HUD_KillStreak_3_Ended": "{s:victim_name} キリングスプリー(3連続キル)が終了"
+    "DOTA_HUD_KillStreak_3_Ended": "{s:victim_name} キリングスプリー (3連続キル) が終了",
+    "DOTA_HUD_KillStreak_6_Ended": "{s:victim_name} アンストッパブル (6連続キル) が終了",
+    "DOTA_HUD_KillStreak_8_Ended": "{s:victim_name} モンスターキル (8連続キル) が終了",
+    "DOTA_HUD_KillStreak_10_Ended": "{s:victim_name} ゴッドライク (10連続キル) が終了",
+    "DOTA_HUD_PlayerDenied": "{s:killer_name} {s:denied_icon} {s:victim_name} をディナイした",
+    "DOTA_HUD_KillStreak_4_Ended": "{s:victim_name} ドミネーティング (4連続キル) が終了",
+    "DOTA_HUD_KillStreak_5_Ended": "{s:victim_name} メガキル (5連続キル) が終了",
+    "DOTA_HUD_PlayerDeniedSelf": "{s:victim_name} {s:denied_icon} ディナイした",
+    "DOTA_HUD_OutpostCaptured": "{s:outpost_captured_icon} 味方チームが <span class=\"OutpostName\">{s:outpost_icon}{s:outpost_name}</span> をキャプチャーした",
+    "DOTA_HUD_OutpostLost": "{s:outpost_lost_icon} 敵チームが <span class=\"OutpostName\">{s:outpost_icon}{s:outpost_name}</span> をキャプチャーした",
+    "DOTA_HUD_OutpostCaptured_Spectator": "<span class=\"OutpostName\">{s:outpost_icon}{s:outpost_name}</span> が {s:team_name} によってキャプチャーされた",
+    "DOTA_Chat_FirstBlood": "%s1 %s2 が %s3 をキルしてファーストブラッド",
+    "DOTA_HUD_KillStreak_7_Ended": "{s:victim_name} ウィキッドシック (7連続キル) が終了",
+    "DOTA_HUD_KillStreak_9_Ended": "{s:victim_name} ゴッドライク (9連続キル) が終了"
 }
