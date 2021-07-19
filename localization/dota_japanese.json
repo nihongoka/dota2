@@ -6943,7 +6943,7 @@
     "DOTA_Compendium_TI10_QualifierDates_C": "7月7日 - 10日",
     "DOTA_Compendium_Heroes": "ヒーローを選ぶ",
     "DOTA_Compendium_Teams": "チーム",
-    "DOTA_Compendium_Predictions_Qualifier_NA": "北アメリカの<br />勝者",
+    "DOTA_Compendium_Predictions_Qualifier_NA": "北アメリカの勝者",
     "DOTA_Compendium_Predictions_Qualifier_EU": "EU予選の勝者",
     "DOTA_Compendium_Predictions_Qualifier_SA": "南アメリカの<br />勝者",
     "DOTA_Compendium_Predictions_Qualifier_CIS": "CIS予選の勝者",
@@ -8553,5 +8553,6 @@
     "custom_game_disabled_local": "退出ペナルティが有効になっているカスタムゲームのレディーアップに失敗したか棄権したため、カスタムゲームに参加できません。残り時間: {t:r:e:match_denied_time}",
     "DOTA_AD_HeroCollision_PopupMessage": "あなたが選んだヒーローが相手チームでも選ばれました。別のヒーローをピックしてください。",
     "DOTA_AD_HeroCollision_PopupHeader": "ヒーローの同時ピック",
-    "FileOpenDialog_Save": "保存する"
+    "FileOpenDialog_Save": "保存する",
+    "DOTA_Compendium_ViewPredictions": "予想を表示する"
 }
