@@ -8511,5 +8511,6 @@
     "npc_dota_hero_void_spirit_npedesc1": "死の世界を出入りして敵を攻撃する",
     "npc_dota_hero_dawnbreaker_npedesc1": "マップ上にいる味方のもとへ飛んで助ける",
     "DOTA_NPERecipe": "レシピ",
-    "DOTA_DPCScheduleVs": "vs."
+    "DOTA_DPCScheduleVs": "vs.",
+    "DOTA_HUD_KillStreak_3_Ended": "{s:victim_name} キリングスプリー3連続キルが終了"
 }
