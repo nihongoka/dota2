@@ -6945,11 +6945,11 @@
     "DOTA_Compendium_Teams": "チーム",
     "DOTA_Compendium_Predictions_Qualifier_NA": "北アメリカの勝者",
     "DOTA_Compendium_Predictions_Qualifier_EU": "EU予選の勝者",
-    "DOTA_Compendium_Predictions_Qualifier_SA": "南アメリカの<br />勝者",
+    "DOTA_Compendium_Predictions_Qualifier_SA": "南アメリカの勝者",
     "DOTA_Compendium_Predictions_Qualifier_CIS": "CIS予選の勝者",
     "DOTA_Compendium_Predictions_Qualifier_China": "中国の勝者",
     "DOTA_TI9_FrontPage_Bracket_Btn": "勝者を予想する",
-    "DOTA_Compendium_Predictions_Qualifier_SEA": "東南アジアの<br />勝者",
+    "DOTA_Compendium_Predictions_Qualifier_SEA": "東南アジアの勝者",
     "DOTAArcanaVote_TimeRemainingDay": "{d:arcana_vote_time_remaining_day}",
     "DOTAArcanaVote_TimeRemainingDayAbbrev": "日",
     "DOTAArcanaVote_TimeRemainingHour": "{d:arcana_vote_time_remaining_hour}",
@@ -8554,5 +8554,11 @@
     "DOTA_AD_HeroCollision_PopupMessage": "あなたが選んだヒーローが相手チームでも選ばれました。別のヒーローをピックしてください。",
     "DOTA_AD_HeroCollision_PopupHeader": "ヒーローの同時ピック",
     "FileOpenDialog_Save": "保存する",
-    "DOTA_Compendium_ViewPredictions": "予想を表示する"
+    "DOTA_Compendium_ViewPredictions": "予想を表示する",
+    "DOTA_Compendium_Rank": "順位",
+    "DOTA_Compendium_Prediction": "予想",
+    "DOTA_Compendium_Amount": "総額",
+    "DOTA_Compendium_Votes": "投票率",
+    "DOTA_Compendium_Predictions_Qualifier_EEU": "東ヨーロッパの勝者",
+    "DOTA_Compendium_Predictions_Qualifier_WEU": "西ヨーロッパの勝者"
 }
