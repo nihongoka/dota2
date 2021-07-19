@@ -8560,5 +8560,13 @@
     "DOTA_Compendium_Amount": "総額",
     "DOTA_Compendium_Votes": "投票率",
     "DOTA_Compendium_Predictions_Qualifier_EEU": "東ヨーロッパの勝者",
-    "DOTA_Compendium_Predictions_Qualifier_WEU": "西ヨーロッパの勝者"
+    "DOTA_Compendium_Predictions_Qualifier_WEU": "西ヨーロッパの勝者",
+    "DOTA_DPC_Major_Qualifier": "予選",
+    "DOTA_DPC_Region_NA": "北米",
+    "DOTA_DPC_Region_SA": "南米",
+    "DOTA_DPC_Region_Europe": "西欧",
+    "DOTA_DPC_Region_CIS": "東欧",
+    "DOTA_DPC_Region_China": "中国",
+    "DOTA_DPC_Region_SEA": "東南亜",
+    "DOTA_DPC_Region_Unset": "N/A"
 }
