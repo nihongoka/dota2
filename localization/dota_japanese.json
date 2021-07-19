@@ -8544,5 +8544,7 @@
     "DOTA_Chat_QuintupleKill_10streak": "ランページだ！！！",
     "DOTA_Chat_Rampage": "ランページ！！！",
     "DOTA_Chat_New_KillStreak_4": "%s1 %s2 が <font color='#5E00BD'><b>ドミネーティング</b></font>",
-    "DOTA_Chat_New_KillStreak_5": "%s1 %s2 が <font color='#FF0080'><b>メガキル</b></font>"
+    "DOTA_Chat_New_KillStreak_5": "%s1 %s2 が <font color='#FF0080'><b>メガキル</b></font>",
+    "DOTA_Chat_ActionItemReason_Cooldown": "クールダウン中 (%s1 秒)",
+    "DOTA_Chat_CantUseActionItem": "現在 '%s1' を使用できません - %s2."
 }
