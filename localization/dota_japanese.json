@@ -8498,5 +8498,18 @@
     "npc_dota_hero_shadow_shaman_npedesc1": "強力なサーペントワードを召喚してダメージを与える",
     "npc_dota_hero_silencer_npedesc1": "マップ上の敵ヒーローすべてにサイレンスを与える",
     "npc_dota_hero_skywrath_mage_npedesc1": "単体ターゲットに対して強力な魔法ダメージを与える",
-    "npc_dota_hero_storm_spirit_npedesc1": "光速で移動しながら戦う"
+    "npc_dota_hero_storm_spirit_npedesc1": "光速で移動しながら戦う",
+    "npc_dota_hero_techies_npedesc1": "透明な地雷と罠は敵に脅威となる",
+    "npc_dota_hero_tinker_npedesc1": "機械の群れが敵を分解する",
+    "npc_dota_hero_visage_npedesc1": "ファミリアと共に偵察と攻撃を行う",
+    "npc_dota_hero_warlock_npedesc1": "強力なデーモンを召喚して戦わせる",
+    "npc_dota_hero_windrunner_npedesc1": "単体ターゲットに向けて矢を素早く放つ",
+    "npc_dota_hero_winter_wyvern_npedesc1": "敵に彼らの味方を攻撃させることができる",
+    "npc_dota_hero_witch_doctor_npedesc1": "強力なダメージを与えるデスワードを詠唱する",
+    "npc_dota_hero_zuus_npedesc1": "近くの敵から遠くの敵まで電撃で攻撃する",
+    "npc_dota_hero_grimstroke_npedesc1": "筆を振って敵にディセーブルを与える",
+    "npc_dota_hero_void_spirit_npedesc1": "死の世界を出入りして敵を攻撃する",
+    "npc_dota_hero_dawnbreaker_npedesc1": "マップ上にいる味方のもとへ飛んで助ける",
+    "DOTA_NPERecipe": "レシピ",
+    "DOTA_DPCScheduleVs": "vs."
 }
