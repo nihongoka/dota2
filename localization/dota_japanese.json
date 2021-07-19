@@ -8552,5 +8552,6 @@
     "DOTA_NPEDesc_DOTA_Item_Build_Early_Game": "これらのアイテムはレーニングに役立ち、基本的な機動力とステータスを与えてくれます。",
     "custom_game_disabled_local": "退出ペナルティが有効になっているカスタムゲームのレディーアップに失敗したか棄権したため、カスタムゲームに参加できません。残り時間: {t:r:e:match_denied_time}",
     "DOTA_AD_HeroCollision_PopupMessage": "あなたが選んだヒーローが相手チームでも選ばれました。別のヒーローをピックしてください。",
-    "DOTA_AD_HeroCollision_PopupHeader": "ヒーローの同時ピック"
+    "DOTA_AD_HeroCollision_PopupHeader": "ヒーローの同時ピック",
+    "FileOpenDialog_Save": "保存する"
 }
