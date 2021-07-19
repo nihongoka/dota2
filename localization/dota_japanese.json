@@ -3873,7 +3873,7 @@
     "dota_popup_broadcast_channel_edit_channel_name": "チャンネル名",
     "dota_popup_broadcast_channel_edit_country": "国/地域",
     "dota_popup_broadcast_channel_edit_language": "言語",
-    "dota_popup_broadcast_channel_edit_save": "デフォルト設定として保存して、参加時に空チャンネルに適用します",
+    "dota_popup_broadcast_channel_edit_save": "デフォルト設定として保存して、参加時に空チャンネルに適用する",
     "DOTA_Lobby_Broadcaster_Channel_Other_Language": "その他の言語",
     "lobby_slot_cameramanon": "あなたはカメラマンになりました",
     "lobby_slot_cameramanoff": "カメラマンを辞めました",
@@ -8615,5 +8615,17 @@
     "WeekendTourney_TeamType_Pickup": "チームを選ぶ",
     "WeekendTourney_TeamLogoLabel": "ロゴ",
     "WeekendTourney_TeamSkillLevel": "チームティア",
-    "dota_weekend_tourney_hub_schedule_division": "ディビジョン"
+    "dota_weekend_tourney_hub_schedule_division": "ディビジョン",
+    "FileOpenDialog_ColHead_Filename": "ファイル名",
+    "FileOpenDialog_ColHead_Size": "サイズ",
+    "FileOpenDialog_ColHead_Type": "形式",
+    "FileOpenDialog_ColHead_Date": "日付",
+    "FileOpenDialog_FilenameTextEntry_Label": "ファイル名:",
+    "FileOpenDialog_FilenameFileTypeDropdown_Label": "ファイル形式:",
+    "FileOpenDialog_CurrentDirectoryLabel": "現在のフォルダ:",
+    "FileOpenDialog_Open": "開く",
+    "FileOpenDialog_Title": "ファイルを選択する",
+    "FileOpenDialog_Select": "選択する",
+    "FileOpenDialog_FileType_Folder": "フォルダー",
+    "DOTA_Style_Head_of_the_Sea_Djinn_1": "開く"
 }
