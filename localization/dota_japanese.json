@@ -8512,5 +8512,5 @@
     "npc_dota_hero_dawnbreaker_npedesc1": "マップ上にいる味方のもとへ飛んで助ける",
     "DOTA_NPERecipe": "レシピ",
     "DOTA_DPCScheduleVs": "vs.",
-    "DOTA_HUD_KillStreak_3_Ended": "{s:victim_name} キリングスプリー3連続キルが終了"
+    "DOTA_HUD_KillStreak_3_Ended": "{s:victim_name} キリングスプリー(3連続キル)が終了"
 }
