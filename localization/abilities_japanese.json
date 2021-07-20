@@ -7563,7 +7563,6 @@
     "DOTA_Tooltip_ability_zuus_heavenly_jump_Description": "配管工のような姿勢で前方に距離%hop_distance%ジャンプし、ジャンプ中に電撃を周囲の敵ユニット1体へ発射する。",
     "DOTA_Tooltip_ability_zuus_heavenly_jump_hop_distance": "距離:",
     "DOTA_Tooltip_ability_puck_dream_coil_scepter_description": "コイルの破壊時ダメージと持続時間が増加し、破壊時のスタンがスペル耐性を貫通するようになる。",
-    "DOTA_Tooltip_ability_dazzle_bad_juju_abilitydraft_note": "Magic Stickのチャージ対象にならないアビリティではシャードの効果は発動しない。",
     "DOTA_Tooltip_ability_dazzle_bad_juju_shard_description": "アビリティを発動したときに周囲1200以内で最も近い敵ユニット3体（ヒーローを優先）を自動で攻撃するようになる。",
     "DOTA_Tooltip_ability_rattletrap_jetpack_duration": "効果時間:",
     "DOTA_Tooltip_ability_shadow_shaman_mass_serpent_ward_scepter_description": "Serpent Wardの攻撃射程が伸び、同時に2体の敵ユニットを攻撃するようになる。",
