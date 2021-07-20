@@ -7023,7 +7023,7 @@
     "DOTA_Arcana_Wraith_King_PostGameProgress_Title": "跪け、農民よ",
     "DOTA_Arcana_Wraith_King_PostGameProgress_Description": "クリックして彼らを倒しましょう！",
     "DOTA_Arcana_Wraith_King_PostGameProgress_ProgressTitle": "アルカナプログレス",
-    "report_avoid": "プレイヤーを避ける",
+    "report_avoid": "プレイヤーを回避",
     "report_avoid_desc": "プレイヤーをリストに追加することで、同じチームにならないようにします。",
     "report_console_player_avoided_success": "プレイヤーを現在避けています。",
     "report_console_player_avoided_failed": "プレイヤーを避けるリクエストに失敗しました。",
