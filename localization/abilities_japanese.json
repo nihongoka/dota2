@@ -9468,5 +9468,8 @@
     "DOTA_Tooltip_ability_necrolyte_sadist_abilitydraft_note": "Ghost Shroudは魔法耐性のスペルをキャストするとすぐに解除されます。 (BladefuryやRageなど)",
     "DOTA_Tooltip_ability_invoker_chaos_meteor_ad_shard_description": "Chaos Meteorsを2つ追加し、1つ目にわずかな角度をつけて着地させる。クールダウンを15秒減少させる。",
     "DOTA_Tooltip_ability_skywrath_mage_mystic_flare_ad_shard_description": "アビリティをキャストするたび35秒間、+5Intelligenceと1アーマーを得る。それぞれ独立してスタックする。",
-    "DOTA_Tooltip_ability_hoodwink_decoy_abilitydraft_note": "効果を発揮するためにBushwhackをドラフトする必要はありません。"
+    "DOTA_Tooltip_ability_hoodwink_decoy_abilitydraft_note": "効果を発揮するためにBushwhackをドラフトする必要はありません。",
+    "DOTA_Tooltip_ability_shadow_demon_shadow_poison_abilitydraft_note": "アビリティドラフトではShadow Poison Releaseは、アビリティを右クリックするか、Altキー + ホットキーを押すことででオートキャストを切り替えることができます。 Shadow Poisonが適用されているユニットがいる場合、オートキャスト状態はオンになります。",
+    "DOTA_Tooltip_ability_abaddon_frostmourne_abilitydraft_note": "シャードのアップグレード効果は、Mist CoilやAphotic Shieldがドラフトされている必要があります。",
+    "DOTA_Tooltip_ability_earth_spirit_geomagnetic_grip_abilitydraft_note": "Stone remnantを使用するには Magnetize も必要です。"
 }
