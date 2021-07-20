@@ -8674,5 +8674,6 @@
     "item_mithril_hammer_npedesc": "攻撃力ボーナス",
     "item_platemail_npedesc": "アーマーボーナス",
     "item_quarterstaff_npedesc": "攻撃速度と攻撃力",
-    "item_broadsword_npedesc": "攻撃力ボーナス"
+    "item_broadsword_npedesc": "攻撃力ボーナス",
+    "DOTA_HeroDemo_Button_Return_Tooltip": "デモプレイに戻り、選択したアイテムセットやヒーローを読み込む"
 }
