@@ -8632,5 +8632,20 @@
     "DOTA_TeamLeave_Confirmation_Disband": "チームは解散し、アクセスできなくなります。\n\n<font color='#FF0000'>本当にチームを解散しますか？</font>",
     "DOTA_TeamLeave_Confirmation_Message": "本当に{s:team_name}から脱退しますか？再び参加するにはチーム管理者から招待される必要があります。この行為（またはチーム名簿の変更）をすると、チームMMRは新しい名簿に基づいてリキャリブレーションされます。",
     "report_submitted": "レポートが送信されました: Dota2コミュニティの向上にご協力いただきありがとうございます。",
-    "DOTA_TeamLeave_Confirmation_FailAdmin": "チームの管理者は、チームの自分しか所属していない場合にのみチームをから脱退することができます。チームを解散するには、まず他のすべてのメンバーを除名する必要があります。"
+    "DOTA_TeamLeave_Confirmation_FailAdmin": "チームの管理者は、チームの自分しか所属していない場合にのみチームをから脱退することができます。チームを解散するには、まず他のすべてのメンバーを除名する必要があります。",
+    "UI_no_team_desc": "チームと対戦するには、プレイヤーが5人以上所属するチームのメンバーである必要があります。チームの作成と管理は、ソーシャライズタブから行えます。",
+    "DOTA_TeamLeave_Confirmation_FailDisbandPro": "プロチームのため、解散できない可能性があります。",
+    "DOTA_TeamLeft_Header": "チームを脱退した",
+    "Team_Browse_Logo": "このロゴはHUD、ロビーなどで表示されます。250 × 150pxに変形されます。",
+    "DOTA_TeamLeft_Message": "チームを退出しました。",
+    "DOTA_TeamLeft_Failure_Header": "チーム名簿からの脱退に失敗しました",
+    "DOTA_TeamLeft_Failure_Message": "チーム名簿から脱退する際に予期せぬエラーが発生しました。",
+    "DOTA_TeamLeft_Failure_NotAMember": "チームのメンバーではありません。",
+    "DOTA_TeamLeft_Failure_TeamLocked": "チームの名簿がロックされています。",
+    "UI_no_team_title": "あなたはチームにいません",
+    "DOTA_DisbandTeamButton": "解散",
+    "DOTA_AddSelfTeamButton": "自分を名簿に追加する",
+    "DOTA_LeaveTeamButton": "名簿から脱退する",
+    "DOTA_ShowProfileButton": "プロフィールを表示する",
+    "DOTA_CreateTeamButton": "新しいチームを作る"
 }
