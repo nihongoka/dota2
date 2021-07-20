@@ -8636,7 +8636,7 @@
     "UI_no_team_desc": "チームと対戦するには、プレイヤーが5人以上所属するチームのメンバーである必要があります。チームの作成と管理は、ソーシャライズタブから行えます。",
     "DOTA_TeamLeave_Confirmation_FailDisbandPro": "プロチームのため、解散できない可能性があります。",
     "DOTA_TeamLeft_Header": "チームを脱退した",
-    "Team_Browse_Logo": "このロゴはHUD、ロビーなどで表示されます。250 × 150pxに変形されます。",
+    "Team_Browse_Logo": "このロゴはHUD、ロビーなどで表示されます。250×150pxに変形されます。",
     "DOTA_TeamLeft_Message": "チームを退出しました。",
     "DOTA_TeamLeft_Failure_Header": "チーム名簿からの脱退に失敗しました",
     "DOTA_TeamLeft_Failure_Message": "チーム名簿から脱退する際に予期せぬエラーが発生しました。",
@@ -8647,5 +8647,11 @@
     "DOTA_AddSelfTeamButton": "自分を名簿に追加する",
     "DOTA_LeaveTeamButton": "名簿から脱退する",
     "DOTA_ShowProfileButton": "プロフィールを表示する",
-    "DOTA_CreateTeamButton": "新しいチームを作る"
+    "DOTA_CreateTeamButton": "新しいチームを作る",
+    "DOTA_HeroLoadout_Instructions": "カーソルを合わせてプレビュー、クリックで装備",
+    "Team_Browse_Base_Logo": "このロゴはゲーム内のベースの装飾に使用されます。256×256pxに変形されます。",
+    "Team_Browse_Banner_Logo": "このロゴはゲーム内のバナーに使用されます。250×150pxに変形され、画像の左半分がバナーの前面、右半分が後面となります。",
+    "Team_No_Logo": "ロゴが指定されていません",
+    "Team_Browse_SponsorLogo": "この画像は、チームプロフィールパネルでチームのスポンサーを表示するために使用されます。250×150pxに変形されます。",
+    "Team_NoTeam": "あなたは現在チームのメンバーではありません。"
 }
