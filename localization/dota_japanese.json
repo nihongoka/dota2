@@ -8768,5 +8768,8 @@
     "WeekendTourney_OfficialTeamTooltipBeta": "カミングスーン！チームランクマッチやプロトーナメントで使用されているものと同じチームアイデンティティを使用できるようになります。",
     "WeekendTourney_TeamEliminatedMessage": "{s:eliminated_team_name}は敗退しました",
     "WeekendTourney_TeamChampionMessage": "{s:advancing_team_name}がバトルカップで優勝しました",
-    "WeekendTourney_PickupTeamTooltip": "選んだチームはプロフィールに表示されず、チームランクマッチでも使用できません。"
+    "WeekendTourney_PickupTeamTooltip": "選んだチームはプロフィールに表示されず、チームランクマッチでも使用できません。",
+    "DOTA_PurchaseRandomRelic_Failed": "失敗",
+    "WeekendTourney_SelectDivision": "ディビジョンの選択",
+    "DOTA_LoadingPlayerFailed": "失敗"
 }
