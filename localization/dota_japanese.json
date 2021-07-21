@@ -8759,7 +8759,7 @@
     "WeekendTourney_TeamEntryTooltip": "<b>エントリー料金</b><br/>Dota Plus会員はバトルカップに無料で参加できます。 会員でないプレイヤーは1人1枚チケットを購入する必要があります。 Dota Plusメンバー＋チケットのチーム合計が5枚であれば、エントリーすることができます。",
     "WeekendTourney_TeamSkillLevelTooltip": "<b>バトルカップティア</b><br/>スキルレベルを選択してください。バトルカップのマッチメイキングにMMRは使用されません。チームメンバーの最大ティア以上のティアを選択する必要があります。",
     "WeekendTourney_OfficialTeamTooltip": "公式チームはあなたのプロフィールに表示され、チームランクマッチで使用することができます。 公式チームは管理者アカウントが所有し、管理者が名簿の変更を承認します。",
-    "DOTA_PlayTourneyStatus_StartingLater": "次の{s:weekend_tourney_selected_division_name}ディビジョンバトルカップ\n{t:l:t:m:weekendtourney_time_window_open}",
+    "DOTA_PlayTourneyStatus_StartingLater": "次の{s:weekend_tourney_selected_division_name}ディビジョンバトルカップ<br>{t:l:t:m:weekendtourney_time_window_open}",
     "WeekendTourney_RegionPingsTooltip": "サーバーの地域は、Pingに基づいて自動的に選択されます。 カーソルを置くと、チームメンバー全員のPingが表示されます。 ハイライトされた地域があなたのチームがエントリーする地域となります。 なお、小さい地域サーバーはバトルカップで使用されません。",
     "WeekendTourney_TeamAdvancedMessage": "{s:advancing_team_name}が{s:advancing_team_round}に進出",
     "PartyBuilder_TemporarilyDisabled": "パーティービルダーが一時的に利用できません",
