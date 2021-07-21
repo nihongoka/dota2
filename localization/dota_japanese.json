@@ -8771,5 +8771,9 @@
     "WeekendTourney_PickupTeamTooltip": "選んだチームはプロフィールに表示されず、チームランクマッチでも使用できません。",
     "DOTA_PurchaseRandomRelic_Failed": "失敗",
     "WeekendTourney_SelectDivision": "ディビジョンの選択",
-    "DOTA_LoadingPlayerFailed": "失敗"
+    "DOTA_LoadingPlayerFailed": "失敗",
+    "WeekendTourney_Region_PingFailed": "{s:region_name} (失敗)",
+    "WeekendTourney_Region_Offline": "{s:region_name} (オフライン)",
+    "WeekendTourneyDivisionStatus_StartingTimeLong": "{t:l:t:m:weekendtourney_time_window_open} 開始",
+    "WeekendTourney_Region_PingTime": "{s:region_name} ({d:ping_time}ms)"
 }
