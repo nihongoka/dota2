@@ -8604,7 +8604,7 @@
     "WeekendTourney_SwitchToOfficial": "公式チームに切り替える",
     "WeekendTourney_TeamNameLabel": "名前",
     "WeekendTourney_TeamNamePlaceholder": "チーム名を入力",
-    "WeekendTourney_JoinDivisionChat": "{s:selected_division}ティア{d:weekendtourney_team_skill_level}のチャットに参加する",
+    "WeekendTourney_JoinDivisionChat": "{s:selected_division}ティア{d:weekendtourney_team_skill_level}のチャット",
     "WeekendTourney_TitleSelectedDivision": "{s:selected_division}ディビジョン",
     "WeekendTourney_TierNotInThisDivision": "すみません、このディビジョン/ティアには十分なプレイヤーがいません。",
     "WeekendTourney_EditOfficial": "公式チームを変更する",
@@ -8752,5 +8752,8 @@
     "DOTA_PlayerContextMenu_BattleCup_Bracket": "バトルカップ優勝を見る",
     "dota_profile_card_battle_cup_tier": "ティア {d:BattleCupSkillLevel}",
     "dota_profile_card_battle_cup_division": "{g:dota_battlecup_division:BattleCupDivision}ディビジョン",
-    "dota_profile_card_battle_cup_team_name": "{s:BattleCupTeamName}"
+    "dota_profile_card_battle_cup_team_name": "{s:BattleCupTeamName}",
+    "WeekendTourney_PartyBuilder_NoRaisedSkillLevel": "トーナメントのティアを上げたため、チームメイト自動検索が利用できません。 ティアを下げて再度お試しください。",
+    "WeekendTourney_PartyBuilder_NoTickets": "現在あなたはチケットを所持していません。 チームメイト自動検索を使うにはチケットを所持している必要があります。",
+    "WeekendTourney_PartyBuilder_NoRegions": "Pingに基づいて地域を自動選択することができず、チームメイト自動検索が使用できません。 インターネット接続を確認してください。"
 }
