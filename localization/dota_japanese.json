@@ -1359,7 +1359,7 @@
     "DOTA_ConfirmPurchaseText": "このアイテムを購入しますか？",
     "DOTA_PurchaseAsGift_Tooltip": "フレンドへのギフトとして購入する。",
     "DOTA_PurchaseEventRewardLevel": "レベル {d:event_reward_level}",
-    "DOTA_EventRewardAlreadyPassed_Title": "達成レベル",
+    "DOTA_EventRewardAlreadyPassed_Title": "既にレベルが達しています",
     "DOTA_ImmediatePurchase_Success_Text": "購入できました！アイテムはまもなく保管庫に保存されます。",
     "DOTA_ImmediatePurchase_UnbundleTimeout": "バンドル開封リクエストの応答待ちでタイムアウトしました。時間をおいて再度試してください。",
     "DOTA_EventRewardAlreadyPassed_Message": "あなたのバトルパスレベルは既にこのレベルに達しています。",
@@ -8829,5 +8829,7 @@
     "DOTA_TI9_Collectors_Cache_BadgeLevels": "レベル",
     "FrontPage_Winter_2019_Treasure_Header": "新しいトレジャー",
     "Recycle_2_BattlePass_Levels_Context": "2バトルパスレベルにリサイクル",
-    "Recycle_2_BattlePass_Levels_Prompt": "このアイテムを破壊して2バトルパスレベルを獲得しますか？"
+    "Recycle_2_BattlePass_Levels_Prompt": "このアイテムを破壊して2バトルパスレベルを獲得しますか？",
+    "Recycle_Levels_Prompt_Title": "レベルにリサイクル",
+    "DOTA_TipNotification": "チップ"
 }
