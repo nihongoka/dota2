@@ -8804,5 +8804,12 @@
     "DOTA_SplashAd_Nemestice2021_CollectorsCache_Exclusive_Text": "新登場のコレクターズキャッシュには13個のセットと運が良ければ獲得できる3つのボーナスレアセットが含まれています。",
     "DOTA_SplashAd_Nemestice2021_CollectorsCache_Alt_Header": "最大32バトルパスレベル獲得可能",
     "DOTA_SplashAd_Nemestice2021_CollectorsCache_Alt_Text": "トレジャーを1個、6個、13個開封すると追加の報酬を獲得できます。",
-    "DOTA_SplashAd_TI10_CollectorsCache_SubTitle": "新登場"
+    "DOTA_SplashAd_TI10_CollectorsCache_SubTitle": "新登場",
+    "DOTA_Nemestice2021_Collectors_Cache_Title": "Nemestice 2021 Collector's Cache",
+    "DOTA_Nemestice2021_Collectors_Cache_Desc": "16種類のヒーローセットが期間限定で登場。トレジャーを開けることで最大32バトルレベルを獲得できます。",
+    "DOTA_Nemestice2021_CollectorsCache_HeaderText": "32バトルパスレベル獲得しよう",
+    "DOTA_Nemestice2021_CollectorsCache_SubText": "トレジャーを開けて<span class=\"levels\">32 バトルパスレベル</span>獲得しよう。",
+    "DOTA_Nemestice2021_CollectorsCache_Treasure_1": "1トレジャー",
+    "DOTA_Nemestice2021_CollectorsCache_Treasure_2": "6トレジャー",
+    "DOTA_Nemestice2021_CollectorsCache_Treasure_3": "13トレジャー"
 }
