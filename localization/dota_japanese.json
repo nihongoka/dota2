@@ -8811,5 +8811,13 @@
     "DOTA_Nemestice2021_CollectorsCache_SubText": "トレジャーを開けて<span class=\"levels\">32 バトルパスレベル</span>獲得しよう。",
     "DOTA_Nemestice2021_CollectorsCache_Treasure_1": "1トレジャー",
     "DOTA_Nemestice2021_CollectorsCache_Treasure_2": "6トレジャー",
-    "DOTA_Nemestice2021_CollectorsCache_Treasure_3": "13トレジャー"
+    "DOTA_Nemestice2021_CollectorsCache_Treasure_3": "13トレジャー",
+    "FrontPage_New_Treasure_Header": "新しいトレジャー",
+    "DOTA_TI9_Collectors_Cache_Remaining": "残り購入期間",
+    "DOTA_TI9_Collectors_Cache_BadgeLabel": "獲得最大",
+    "DOTA_TI10_Collectors_Cache_Remaining": "残り購入期間",
+    "DOTA_TI10_Collectors_Cache_BadgeLabel": "獲得最大",
+    "DOTA_TI10_Collectors_Cache_Badge36": "36",
+    "DOTA_TI10_Collectors_Cache_Badge31": "32",
+    "DOTA_TI10_Collectors_Cache_BadgeLevels": "レベル"
 }
