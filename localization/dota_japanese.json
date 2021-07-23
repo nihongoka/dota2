@@ -8827,5 +8827,7 @@
     "DOTA_TI9_Collectors_Cache_Badge36": "36",
     "DOTA_TI9_Collectors_Cache_Badge31": "32",
     "DOTA_TI9_Collectors_Cache_BadgeLevels": "レベル",
-    "FrontPage_Winter_2019_Treasure_Header": "新しいトレジャー"
+    "FrontPage_Winter_2019_Treasure_Header": "新しいトレジャー",
+    "Recycle_2_BattlePass_Levels_Context": "2バトルパスレベルにリサイクル",
+    "Recycle_2_BattlePass_Levels_Prompt": "このアイテムを破壊して2バトルパスレベルを獲得しますか？"
 }
