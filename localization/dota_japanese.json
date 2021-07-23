@@ -8798,5 +8798,11 @@
     "item_hyperstone_npedesc": "攻撃速度ボーナス",
     "item_ring_of_health_npedesc": "HP自然回復",
     "dota_leaver_consequence_tooltip_header": "ペナルティ",
-    "dota_leaver_consequences": "{s:leaver_consequences}"
+    "dota_leaver_consequences": "{s:leaver_consequences}",
+    "DOTA_SplashAd_Nemestice2021_CollectorsCache_Title": "ネメスティス 2021 コレクターズキャッシュ",
+    "DOTA_SplashAd_Nemestice2021_CollectorsCache_Exclusive_Header": "新しいトレジャー",
+    "DOTA_SplashAd_Nemestice2021_CollectorsCache_Exclusive_Text": "新登場のコレクターズキャッシュには13個のセットと運が良ければ獲得できる3つのボーナスレアセットが含まれています。",
+    "DOTA_SplashAd_Nemestice2021_CollectorsCache_Alt_Header": "最大32バトルパスレベル獲得可能",
+    "DOTA_SplashAd_Nemestice2021_CollectorsCache_Alt_Text": "トレジャーを1個、6個、13個開封すると追加の報酬を獲得できます。",
+    "DOTA_SplashAd_TI10_CollectorsCache_SubTitle": "新登場"
 }
