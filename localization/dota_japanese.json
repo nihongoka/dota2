@@ -8831,5 +8831,6 @@
     "Recycle_2_BattlePass_Levels_Context": "2バトルパスレベルにリサイクル",
     "Recycle_2_BattlePass_Levels_Prompt": "このアイテムを破壊して2バトルパスレベルを獲得しますか？",
     "Recycle_Levels_Prompt_Title": "レベルにリサイクル",
-    "DOTA_TipNotification": "チップ"
+    "DOTA_TipNotification": "チップ",
+    "DOTA_BattlePassLog_RewardForTreasureOpened": "{g:dota_item_name:item_def}開封ボーナス"
 }
