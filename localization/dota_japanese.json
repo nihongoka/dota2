@@ -8842,6 +8842,6 @@
     "item_power_treads_npedesc": "ステータス/移動速度/攻撃速度",
     "item_energy_booster_npedesc": "マナボーナス",
     "DOTA_Treasure_Odds_Details_TitleOpened": "開けたトレジャー数",
-    "DOTA_Treasure_Odds_Details_TitleIndividual": "オッズ",
-    "DOTA_Treasure_Odds_Details_Title": "<span class='TreasureItemInfoLabel TitleLabel'>{s:item_rarity_token}</span>アイテムの確率アップテーブル"
+    "DOTA_Treasure_Odds_Details_TitleIndividual": "倍率",
+    "DOTA_Treasure_Odds_Details_Title": "<span class='TreasureItemInfoLabel TitleLabel'>{s:item_rarity_token}</span>アイテムの倍率テーブル"
 }
