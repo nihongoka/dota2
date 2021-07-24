@@ -8833,5 +8833,12 @@
     "Recycle_Levels_Prompt_Title": "レベルにリサイクル",
     "DOTA_TipNotification": "チップ",
     "DOTA_BattlePassLog_RewardForTreasureOpened": "{g:dota_item_name:item_def}開封ボーナス",
-    "DOTA_Custom_Game_Leave_Lobby": "ロビーを退出"
+    "DOTA_Custom_Game_Leave_Lobby": "ロビーを退出",
+    "item_void_stone_npedesc": "マナ自然回復",
+    "item_mystic_staff_npedesc": "Intelligenceボーナス",
+    "item_point_booster_npedesc": "マナ/HPボーナス",
+    "item_vitality_booster_npedesc": "HPボーナス",
+    "item_fluffy_hat_npedesc": "HPボーナス",
+    "item_power_treads_npedesc": "ステータス/移動速度/攻撃速度",
+    "item_energy_booster_npedesc": "マナボーナス"
 }
