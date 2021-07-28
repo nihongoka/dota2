@@ -8872,5 +8872,15 @@
     "npc_dota_badguys_tower3_mid": "タワー",
     "npc_dota_badguys_tower3_bot": "タワー",
     "npc_dota_badguys_tower4": "タワー",
-    "npc_dota_watch_tower": "アウトポスト"
+    "npc_dota_watch_tower": "アウトポスト",
+    "DOTA_Glossary_Creeps_Desc": "クリープは、一定時間ごとに自動的にマップ上に出現するユニットです。 クリープを倒すと、ゴールドと経験値を獲得できます。",
+    "DOTA_Glossary_Gold_Creeps": "ゴールドは、クリープにとどめを刺した時に獲得できます。",
+    "DOTA_Glossary_Gold_HeroBounty": "敵のヒーローをキルしたときや、味方の敵ヒーローのキルをアシストをしたときにボーナスゴールドを獲得できます。",
+    "DOTA_Glossary_Gold_BountyRunes": "バウンティルーンは、各チームのジャングルで3分ごとに出現し、チームの誰かが拾うとチームの各プレイヤーにゴールドが与えられます。",
+    "DOTA_Glossary_Experience_Hero": "経験値はヒーローをキルしたときにも得られます。 ヒーローのレベルが高ければ高いほど、キルしたときに得られる経験値が多くなります。",
+    "DOTA_Glossary_Summons": "召喚ユニット",
+    "DOTA_Glossary_Gold_Passive": "また、時間経過とともに自動的にゴールドを獲得します。",
+    "DOTA_Glossary_Gold_KillStreak": "連続キル中の敵を倒すと、連続キルの長さに比例した追加のボーナスゴールドを獲得できます。",
+    "DOTA_Glossary_Experience_Intro": "経験値(XP)は、敵や中立ユニットの死亡時、その近くにいると、誰がそのユニットにとどめを刺したかに関わらず、獲得することができます。",
+    "DOTA_Glossary_Experience_Outposts": "アウトポストは、占領しているチームに時間経過とともに経験値を与えます。"
 }
