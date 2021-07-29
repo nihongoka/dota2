@@ -4254,7 +4254,7 @@
     "DOTA_Tooltip_ability_obsidian_destroyer_arcane_orb_Description": "Outworld Destroyerの攻撃に、残りのマナプールに応じてピュアダメージを追加する。",
     "DOTA_Tooltip_ability_obsidian_destroyer_astral_imprisonment_Description": "対象のユニットを星の牢獄に閉じ込める。隠されたユニットは無敵となり、ディセーブルを受ける。牢獄が崩壊すると、ダメージを与え、対象の最大マナの数パーセントを盗む。",
     "DOTA_Tooltip_ability_obsidian_destroyer_essence_aura_Description": "近くにいる味方のヒーローやOutworld Destroyer自身がスペルを唱えるたびに、そのヒーローは自分のマナプールの何％かを回復するチャンスを得る。  Outworld Destroyerはまた、パッシブでベースマナプールにボーナスを得る。  クールダウンがなく、トグル可能ないくつかのスキルは、Essence Auraを発動できない。",
-    "DOTA_Tooltip_ability_obsidian_destroyer_sanity_eclipse_Description": "自分のマナと対象のマナの差に応じて敵にダメージを与えるサイキックブラストを放つ。Sanity's EclipseはAstral Imprisonmentで罠にかかったユニットにヒットさせることができる。",
+    "DOTA_Tooltip_ability_obsidian_destroyer_sanity_eclipse_Description": "自分のマナと対象のマナの差に応じて敵にダメージを与えるサイキックブラストを放つ。Sanity's EclipseはAstral Imprisonmentで罠にかかったユニットにも効果がある。",
     "DOTA_Tooltip_modifier_obsidian_destroyer_essence_aura_effect_Description": "スペルを唱えた後、あなたのマナプールの何％かを回復するチャンスがある。",
     "DOTA_Tooltip_modifier_obsidian_destroyer_astral_imprisonment_charge_counter_Description": "チャージが空いている時はいつでもAstral Imprisonmentをキャストできる。",
     "DOTA_Tooltip_ability_keeper_of_the_light_illuminate_Description": "光のエネルギーを詠唱する。Releaseすることで空中視野を与える光の波が送り出され、詠唱時間に比例したダメージを与える。",
