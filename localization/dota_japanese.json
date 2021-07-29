@@ -8882,5 +8882,6 @@
     "DOTA_Glossary_Gold_Passive": "また、時間経過とともに自動的にゴールドを獲得します。",
     "DOTA_Glossary_Gold_KillStreak": "連続キル中の敵を倒すと、連続キルの長さに比例した追加のボーナスゴールドを獲得できます。",
     "DOTA_Glossary_Experience_Intro": "経験値(XP)は、敵や中立ユニットの死亡時、その近くにいると、誰がそのユニットにとどめを刺したかに関わらず、獲得することができます。",
-    "DOTA_Glossary_Experience_Outposts": "アウトポストは、占領しているチームに時間経過とともに経験値を与えます。"
+    "DOTA_Glossary_Experience_Outposts": "アウトポストは、占領しているチームに時間経過とともに経験値を与えます。",
+    "DOTA_Chat_ActionItemReason_Dead": "死亡中"
 }
