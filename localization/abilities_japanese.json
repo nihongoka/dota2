@@ -5303,7 +5303,7 @@
     "DOTA_Tooltip_ability_special_bonus_unique_puck_3_Description": "Dream Coilの効果を受けている敵を{s:value}秒おきに攻撃する。",
     "DOTA_Tooltip_ability_special_bonus_unique_puck_4": "Waning Riftダメージ+{s:value}",
     "DOTA_Tooltip_ability_special_bonus_unique_puck_5": "Phase Shiftで攻撃する",
-    "DOTA_Tooltip_ability_special_bonus_unique_puck_5_Description": "攻撃範囲から+200の範囲内の全ての敵をPhase Shift仕様と同時に攻撃する。",
+    "DOTA_Tooltip_ability_special_bonus_unique_puck_5_Description": "攻撃範囲から+200の範囲内の全ての敵をPhase Shift使用と同時に攻撃する。",
     "DOTA_Tooltip_ability_special_bonus_unique_puck_6": "Waning Riftの効果範囲とキャスト範囲+{s:value}",
     "DOTA_Tooltip_ability_special_bonus_unique_pugna_1": "Life Drain回復量+{s:value}%",
     "DOTA_Tooltip_ability_special_bonus_unique_pugna_2": "Nether Blastダメージ+{s:value}",
