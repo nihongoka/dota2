@@ -6190,7 +6190,7 @@
     "DOTA_Custom_Lobby_Settings_Title": "ロビーを作成",
     "DOTA_Custom_Lobby_Settings_Mode": "ゲームモード",
     "DOTA_Custom_Lobby_Settings_Map": "マップ",
-    "DOTA_Custom_Lobby_LobbyName": "任意の説明",
+    "DOTA_Custom_Lobby_LobbyName": "追加の説明",
     "DOTA_Custom_Lobby_Public": "パブリック",
     "DOTA_Custom_Lobby_FilteredByPassword": "パスワードでフィルタリング",
     "DOTA_Custom_Lobby_List_Game_Header": "ゲーム",
@@ -8918,5 +8918,11 @@
     "DOTA_Custom_Lobby_Find_Private_Button": "プライベートロビーを探す",
     "DOTA_Custom_Game_Sort_Popular_Week": "高評価 (今週)",
     "DOTA_Custom_Game_Sort_Top_Rated": "高評価 (全時間)",
-    "DOTA_Custom_Game_Sort_Date": "リリース日"
+    "DOTA_Custom_Game_Sort_Date": "リリース日",
+    "DOTA_Glossary_Death_GoldLoss": "また、プレイヤーが死亡すると、現在所持しているゴールドの40分の1を失います。（自動収入やバウンティールーンによって得られるゴールド(信頼できるゴールド)はこの限りではありません）",
+    "DOTA_Glossary_LastHits_Deny": "味方ユニットの体力が{d:DOTA_DEFAULT_UNIT_DENIABLE_PERCENT}%以下を下回ると、味方ヒーローはそのユニットを攻撃できるようになり、とどめを刺すとディナイとなります。ユニットがディナイされると、敵が獲得する経験値が減少します。",
+    "DOTA_Glossary_Death_Respawn": "あなたのヒーローが死ぬと、リスポーンするまで一定時間待つ必要があります。 このリスポーン時間は、ヒーローのレベルに基づいています。 これは貴重な時間のロスであり、ファームやチームメイトの支援を行うことができなくなってしまいます。",
+    "DOTA_Glossary_Death_Buyback": "プレイヤーはバイバックボタンを押すことで、ゴールドを消費してすぐにリスポーンすることができます。バイバックコストはヒーローが所有しているアイテムの総額に比例します。バイバックは{d:DOTA_BUYBACK_COOLDOWN_MINUTES}分のクールダウンがあり、バイバック後最初の死亡のリスポーン時間が{d:DOTA_BUYBACK_RESPAWN_TIME_PENALTY}秒追加されます。",
+    "DOTA_Glossary_LastHits_DenyTowers": "味方タワーは体力が{d:DOTA_TOWER_DENIABLE_PERCENT}%以下になるとディナイできるようになります。",
+    "DOTA_Glossary_LastHits_DenyHeroes": "ヒーローが特定の持続(DoT)ダメージ効果を受けている場合、味方ヒーローはディナイすることができ、また、一部ヒーローは自身にダメージを与えるアビリティで自らディナイすることができます。ヒーローがディナイされると、敵はゴールドや経験値を獲得できませんが、ディナイされたヒーローがゴールドを失うことは防げません。"
 }
