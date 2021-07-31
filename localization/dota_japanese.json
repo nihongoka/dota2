@@ -8885,5 +8885,20 @@
     "DOTA_Glossary_Experience_Outposts": "アウトポストは、占領しているチームに時間経過とともに経験値を与えます。",
     "DOTA_Chat_ActionItemReason_Dead": "死亡中",
     "DOTA_Glossary_LastHits_Intro": "通常攻撃やアビリティで敵ユニットにとどめを刺すことをラストヒットといい、攻撃したユニットをコントロールしていたプレイヤーにゴールドが与えられます。",
-    "DOTA_Glossary_LastHits_CS": "ラストヒット数の合計(稼いだゴールドの指標になる)はゲーム内で LH で表示されます(しばしばクリープスコアを略してCSと呼ばれます)。"
+    "DOTA_Glossary_LastHits_CS": "ラストヒット数の合計(稼いだゴールドの指標になる)はゲーム内で LH で表示されます(しばしばクリープスコアを略してCSと呼ばれます)。",
+    "DOTA_Custom_Game_Lobby_Count": "{d:lobby_count} ロビー",
+    "DOTA_Custom_Game_Last_Updated_String": "最終更新日: {s:last_updated_date_string}",
+    "DOTA_QuickstatsDamageBreakdown_Title": "受けたダメージ",
+    "DOTA_QuickstatsDamageBreakdownRaw_Title": "受けたダメージ(生)",
+    "DOTA_QuickstatsOutgoingDamageBreakdown_Title": "与えたダメージ",
+    "DOTA_QuickstatsOutgoingDamageBreakdownRaw_Title": "与えたダメージ(生)",
+    "DOTA_QuickstatsDamageBreakdown_Physical": "{d:physical_damage_percent}%",
+    "DOTA_QuickstatsDamageBreakdown_Magical_Verbose": "{d:magical_damage_percent}% 魔法",
+    "DOTA_QuickstatsDamageBreakdown_Pure": "{d:pure_damage_percent}%",
+    "DOTA_QuickstatsDamageBreakdown_Pure_Verbose": "{d:pure_damage_percent}% ピュア",
+    "DOTA_Treasure_HelpDupe": "購入して開封するまでは、どのアイテムを入手できるか分かりません。複数の商品を購入した場合、重複することがあります。",
+    "DOTA_QuickstatsDamageBreakdown_Physical_Verbose": "{d:physical_damage_percent}% 物理",
+    "DOTA_QuickstatsDamageBreakdown_Magical": "{d:magical_damage_percent}%",
+    "DOTA_Custom_Game_Lobby_Count_Plural": "{d:lobby_count} ロビー",
+    "DOTA_Custom_Game_Last_Updated": "最終更新日: {t:r:t:last_updated}"
 }
