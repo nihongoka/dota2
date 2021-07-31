@@ -8901,5 +8901,22 @@
     "DOTA_QuickstatsDamageBreakdown_Magical": "{d:magical_damage_percent}%",
     "DOTA_Custom_Game_Lobby_Count_Plural": "{d:lobby_count} ロビー",
     "DOTA_Custom_Game_Last_Updated": "最終更新日: {t:r:t:last_updated}",
-    "dota_lobby_browser_refresh": "更新"
+    "dota_lobby_browser_refresh": "更新",
+    "DOTA_Custom_Game_Update": "アップデート",
+    "DOTA_Custom_Game_About": "概要",
+    "dota_lobby_browser_search_placeholder": "ロビーを検索",
+    "DOTA_Custom_Game_Browse_Sort": "並び替え:",
+    "DOTA_Page_Number": "ページ: {d:current_page} / {d:num_pages}",
+    "DOTA_Custom_Lobby_Find_Private_Title": "プライベートロビーを探す",
+    "page_counter": "ページ: %s1",
+    "DOTA_Custom_Game_Dedicated_Servers_I": "このカスタムゲームは、専用サーバーに対応しています。プレイされるゲームは、Valveの専用サーバーでホストされます。",
+    "DOTA_Custom_Game_Updates": "アップデート",
+    "DOTA_Custom_Game_Dedicated_Servers": "専用サーバー",
+    "DOTA_Custom_Game_Spectate": "観戦する",
+    "DOTA_Custom_Game_Sort_Most_Played": "人気順 (今週)",
+    "DOTA_Custom_Game_Sort_Popular_Today": "高評価 (今日)",
+    "DOTA_Custom_Lobby_Find_Private_Button": "プライベートロビーを探す",
+    "DOTA_Custom_Game_Sort_Popular_Week": "高評価 (今週)",
+    "DOTA_Custom_Game_Sort_Top_Rated": "高評価 (全時間)",
+    "DOTA_Custom_Game_Sort_Date": "リリース日"
 }
