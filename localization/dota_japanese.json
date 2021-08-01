@@ -8926,5 +8926,6 @@
     "DOTA_Glossary_LastHits_DenyTowers": "味方タワーは体力が{d:DOTA_TOWER_DENIABLE_PERCENT}%以下になるとディナイできるようになります。",
     "DOTA_Glossary_LastHits_DenyHeroes": "ヒーローが特定の持続(DoT)ダメージ効果を受けている場合、味方ヒーローはディナイすることができ、また、一部ヒーローは自身にダメージを与えるアビリティで自らディナイすることができます。ヒーローがディナイされると、敵はゴールドや経験値を獲得できませんが、ディナイされたヒーローがゴールドを失うことは防げません。",
     "DOTA_BattlePass_FriendsAndFoes": "味方と敵",
-    "DOTA_HeroSelectorCategory_Recommend": "味方と敵"
+    "DOTA_HeroSelectorCategory_Recommend": "味方と敵",
+    "DOTA_VAC_Warning_Header_Solo": "Valve Anti-Chatシステム は、お客様のマシンが安全であることを確認できませんでした。この問題を解決しないと、オンラインプレイができなくなる可能性があります。"
 }
