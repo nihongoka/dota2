@@ -8929,11 +8929,12 @@
     "DOTA_HeroSelectorCategory_Recommend": "味方と敵",
     "DOTA_VAC_Warning_Header_Solo": "Valve Anti-Chatシステム は、お客様のマシンが安全であることを確認できませんでした。この問題を解決しないと、オンラインプレイができなくなる可能性があります。",
     "DOTA_BattlePassPostGame_LevelProgress": "レベルプログレス",
-    "DOTA_Glossary_Damage_AbilitiesSpells_Desc": "ユニットのアビリティを使用する事は、通常攻撃の他にダメージを与える有効な手段です。通常攻撃より多くのダメージを与えることができますが、コストを消費する上、連続で使用できません。",
-    "DOTA_Glossary_MagicalDamage_Desc": "魔法ダメージの多くはヒーロー、ユニット、アイテムのキャストアビリティによるものです。受ける魔法ダメージは魔法耐性によって減少します。",
-    "DOTA_Glossary_PureDamage_Desc": "いくつかのアビリティはユニットのアーマーや魔法耐性によって軽減されないピュアダメージを与えます。",
-    "DOTA_Glossary_Damage_BasicAttacks_Desc": "全てのユニットは敵ユニットを右クリックする事で通常攻撃(自動攻撃とも呼ばれる)し、ダメージを与えることができる。この攻撃は物理ダメージで、一般的にマナなどのコストを消費せずに発動できます。",
-    "DOTA_Glossary_PhysicalDamage_Desc": "物理ダメージの多くは通常攻撃によるものですが、いくつかのキャストアビリティも物理ダメージを与えます。受ける物理ダメージの量はアーマーを上げることにより減少します。",
-    "DOTA_Glossary_Damage_Armor_Desc": "アーマー(物理耐性とも呼ばれる)はユニットから受けた物理ダメージを軽減します。アーマーが高いほど、受ける物理ダメージが軽減されます。すべてのヒーローは基本アーマーを持っており、アイテムやタレント、Agilityによって増加します。 アーマーを減少させるアビリティやエフェクトによってアーマー値がマイナスになった場合、受ける物理ダメージを増加します。<child id=\"ArmorTooltip\">",
-    "DOTA_Glossary_Damage_ArmorTooltip": "ダメージの変化率の方程式: {s:DOTA_ARMOR_CONSTANT}×アーマー値 / ( 1 + {s:DOTA_ARMOR_CONSTANT} × アーマー値 )"
+    "DOTA_Glossary_Damage_AbilitiesSpells_Desc": "ユニットのアビリティを使用する事は、通常攻撃の他にダメージを与える有効な手段である。通常攻撃より多くのダメージを与えることができるが、コストを消費する上、連続で使用できない。",
+    "DOTA_Glossary_MagicalDamage_Desc": "魔法ダメージの多くはヒーロー、ユニット、アイテムのキャストアビリティによるものである。受ける魔法ダメージは魔法耐性によって減少する。",
+    "DOTA_Glossary_PureDamage_Desc": "いくつかのアビリティはユニットのアーマーや魔法耐性によって軽減されないピュアダメージを与える。",
+    "DOTA_Glossary_Damage_BasicAttacks_Desc": "全てのユニットは敵ユニットを右クリックする事で通常攻撃(自動攻撃とも呼ばれる)し、ダメージを与えることができる。この攻撃は物理ダメージで、一般的にマナなどのコストを消費せずに発動できる。",
+    "DOTA_Glossary_PhysicalDamage_Desc": "物理ダメージの多くは通常攻撃によるものだが、いくつかのキャストアビリティも物理ダメージを与える。受ける物理ダメージの量はアーマーを上げることにより減少する。",
+    "DOTA_Glossary_Damage_Armor_Desc": "アーマー(物理耐性とも呼ばれる)はユニットから受けた物理ダメージを軽減する。アーマーが高いほど、受ける物理ダメージが軽減される。すべてのヒーローは基本アーマーを持っており、アイテムやタレント、Agilityによって増加する。 アーマーを減少させるアビリティやエフェクトによってアーマー値がマイナスになった場合、受ける物理ダメージを増加する。<child id=\"ArmorTooltip\">",
+    "DOTA_Glossary_Damage_ArmorTooltip": "ダメージの変化率の方程式: {s:DOTA_ARMOR_CONSTANT} × アーマー値 / ( 1 + {s:DOTA_ARMOR_CONSTANT} × アーマー値 )",
+    "DOTA_Glossary_Damage_MagicResistance_Desc": "魔法耐性は、ユニットから受ける魔法ダメージを軽減する一定の割合であり、ヒーローの初期魔法耐性は{d:hero_default_MagicalResistance}%である。"
 }
