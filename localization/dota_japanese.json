@@ -8936,5 +8936,6 @@
     "DOTA_Glossary_PhysicalDamage_Desc": "物理ダメージの多くは通常攻撃によるものだが、いくつかのキャストアビリティも物理ダメージを与える。受ける物理ダメージの量はアーマーを上げることにより減少する。",
     "DOTA_Glossary_Damage_Armor_Desc": "アーマー(物理耐性とも呼ばれる)はユニットから受けた物理ダメージを軽減する。アーマーが高いほど、受ける物理ダメージが軽減される。すべてのヒーローは基本アーマーを持っており、アイテムやタレント、Agilityによって増加する。 アーマーを減少させるアビリティやエフェクトによってアーマー値がマイナスになった場合、受ける物理ダメージを増加する。<child id=\"ArmorTooltip\">",
     "DOTA_Glossary_Damage_ArmorTooltip": "ダメージの変化率の方程式: {s:DOTA_ARMOR_CONSTANT} × アーマー値 / ( 1 + {s:DOTA_ARMOR_CONSTANT} × アーマー値 )",
-    "DOTA_Glossary_Damage_MagicResistance_Desc": "魔法耐性は、ユニットから受ける魔法ダメージを軽減する一定の割合であり、ヒーローの初期魔法耐性は{d:hero_default_MagicalResistance}%である。"
+    "DOTA_Glossary_Damage_MagicResistance_Desc": "魔法耐性は、ユニットから受ける魔法ダメージを軽減する一定の割合であり、ヒーローの初期魔法耐性は{d:hero_default_MagicalResistance}%である。",
+    "DOTA_Guide_PlusAssistantAvailable": "プラスアシスタントが利用できます。\nガイドを見るから選択しましょう！"
 }
