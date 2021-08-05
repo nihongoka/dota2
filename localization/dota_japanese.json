@@ -8939,5 +8939,6 @@
     "DOTA_Glossary_Damage_MagicResistance_Desc": "魔法耐性は、ユニットから受ける魔法ダメージを軽減する一定の割合であり、ヒーローの初期魔法耐性は{d:hero_default_MagicalResistance}%である。",
     "DOTA_Guide_PlusAssistantAvailable": "プラスアシスタントが利用できます。\nガイドを見るから選択しましょう！",
     "dota_game_end_signout_pending": "サーバーの負荷が大きいため、結果が保留になっています。アイテムや報酬はゲームコーディネーターによって試合結果が確定した後獲得できます。",
-    "dota_game_end_signout_pending_title": "マッチサインアウトが遅延中"
+    "dota_game_end_signout_pending_title": "マッチサインアウトが遅延中",
+    "DOTA_MatchRewards_GuildMembersInParty:p": "{d:party_member_count}人の同じギルドのパーティーメンバー#|#{d:party_member_count}人の同じギルドのパーティーメンバー"
 }
