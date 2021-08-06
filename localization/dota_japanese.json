@@ -8964,5 +8964,10 @@
     "DOTA_DB_SeasonPass_Prestige_Rewards_Phase": "Phase Bootsエフェクト",
     "DOTA_Reward_Phase_Boots_Effect_1": "Phase Bootsエフェクトレベル1",
     "DOTA_Reward_Phase_Boots_Effect_2": "Phase Bootsエフェクトレベル2",
-    "DOTA_ClaimLevelRewardsFailed": "このレベルのリワードが受け取れませんでした。Dotaゲームコーディネーターへの接続が悪い可能性があります。後で再度試してください。\n\nエラーコード: {d:error_code}"
+    "DOTA_ClaimLevelRewardsFailed": "このレベルのリワードが受け取れませんでした。Dotaゲームコーディネーターへの接続が悪い可能性があります。後で再度試してください。\n\nエラーコード: {d:error_code}",
+    "DOTA_OwnedItemDetails_DefaultSet": "デフォルトセット",
+    "DOTA_SeasonPass_Toast_Rewards_Unlocked": "報酬アンロック",
+    "DOTA_SeasonPass_Toast_Reward_Level": "レベル{i:level}",
+    "DOTA_SeasonPass_Toast_Emoticon_Unlocked": "絵文字アンロック",
+    "DOTA_EquippedItem_DefaultSet": "デフォルトセット"
 }
