@@ -8956,5 +8956,6 @@
     "FrontPage_TI6WeekendSale_Title": "バトルレベルバンドル",
     "DOTA_SplashAd_TI10_Weekend_Sale_Purchase_Message1": "あと1個バンドルを購入できます",
     "DOTA_SplashAd_TI10_Weekend_Sale_Purchase_Message2": "これ以上バンドルを購入できません",
-    "DOTA_ConfirmOwnedItemUnbundleText": "このアイテムを開封しますか？開封するとこのアイテムを消費します。"
+    "DOTA_ConfirmOwnedItemUnbundleText": "このアイテムを開封しますか？開封するとこのアイテムを消費します。",
+    "DOTA_CacheTreasure_MissingCompendium_Spring2021": "このアイテムを購入するためにはネメスティス2021バトルパスを所持している必要があります。"
 }
