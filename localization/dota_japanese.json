@@ -8955,5 +8955,6 @@
     "FrontPage_BattlePassBundle_spring2021_Line1": "<span class=\"TreasureAmount\">+60</span> バトルパスレベル",
     "FrontPage_TI6WeekendSale_Title": "バトルレベルバンドル",
     "DOTA_SplashAd_TI10_Weekend_Sale_Purchase_Message1": "あと1個バンドルを購入できます",
-    "DOTA_SplashAd_TI10_Weekend_Sale_Purchase_Message2": "これ以上バンドルを購入できません"
+    "DOTA_SplashAd_TI10_Weekend_Sale_Purchase_Message2": "これ以上バンドルを購入できません",
+    "DOTA_ConfirmOwnedItemUnbundleText": "このアイテムを開封しますか？開封するとこのアイテムを消費します。"
 }
