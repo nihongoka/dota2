@@ -8969,5 +8969,8 @@
     "DOTA_SeasonPass_Toast_Rewards_Unlocked": "報酬アンロック",
     "DOTA_SeasonPass_Toast_Reward_Level": "レベル{i:level}",
     "DOTA_SeasonPass_Toast_Emoticon_Unlocked": "絵文字アンロック",
-    "DOTA_EquippedItem_DefaultSet": "デフォルトセット"
+    "DOTA_EquippedItem_DefaultSet": "デフォルトセット",
+    "DOTA_ArcanaProgress_Title_generic": "アンロックプログレス",
+    "DOTA_PostGame_GenericArcanaProgress": "アルカナプログレス",
+    "DOTA_ArcanaProgress_ProgressBar_generic": "コンプリート: {s:arcana_progress_current_score} / {s:arcana_progress_max_score}"
 }
