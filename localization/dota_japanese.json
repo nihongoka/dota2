@@ -8975,5 +8975,6 @@
     "DOTA_ArcanaProgress_ProgressBar_generic": "コンプリート: {s:arcana_progress_current_score} / {s:arcana_progress_max_score}",
     "DOTA_ArcanaProgress_Header_generic": "アルカナオルタネイトスタイル",
     "KillEaterEvent_Spectre_Arcana_KillstreakRecord": "連続キルレコード",
-    "KillEaterEvent_Spectre_ArcanaProgress": "メガキルゲーム"
+    "KillEaterEvent_Spectre_ArcanaProgress": "メガキルゲーム",
+    "Debut_Spectre_Arcana_ViewProgress": "プログレスを見る"
 }
