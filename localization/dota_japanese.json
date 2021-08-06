@@ -8959,5 +8959,10 @@
     "DOTA_ConfirmOwnedItemUnbundleText": "このアイテムを開封しますか？開封するとこのアイテムを消費します。",
     "DOTA_CacheTreasure_MissingCompendium_Spring2021": "このアイテムを購入するためにはネメスティス2021バトルパスを所持している必要があります。",
     "BattlePassLevels": "レベルを適用する",
-    "DOTA_Event_Points_Confirm": "このポイントをあなたのアカウントに適用しますか？"
+    "DOTA_Event_Points_Confirm": "このポイントをあなたのアカウントに適用しますか？",
+    "DOTA_TI2016_Reward_Phase_Boots_Effect": "Phase Bootsエフェクト",
+    "DOTA_DB_SeasonPass_Prestige_Rewards_Phase": "Phase Bootsエフェクト",
+    "DOTA_Reward_Phase_Boots_Effect_1": "Phase Bootsエフェクトレベル1",
+    "DOTA_Reward_Phase_Boots_Effect_2": "Phase Bootsエフェクトレベル2",
+    "DOTA_ClaimLevelRewardsFailed": "このレベルのリワードが受け取れませんでした。Dotaゲームコーディネーターへの接続が悪い可能性があります。後で再度試してください。\n\nエラーコード: {d:error_code}"
 }
