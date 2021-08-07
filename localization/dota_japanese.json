@@ -8976,5 +8976,11 @@
     "DOTA_ArcanaProgress_Header_generic": "アルカナオルタネイトスタイル",
     "KillEaterEvent_Spectre_Arcana_KillstreakRecord": "連続キルレコード",
     "KillEaterEvent_Spectre_ArcanaProgress": "メガキルゲーム",
-    "Debut_Spectre_Arcana_ViewProgress": "プログレスを見る"
+    "Debut_Spectre_Arcana_ViewProgress": "プログレスを見る",
+    "DOTA_Arcana_Spectre_MiniGame_Description": "{d:target_score}ゲームでメガキルをしてオルタネイトスタイルをアンロックしよう。",
+    "DOTA_Arcana_Spectre_MiniGame_Slideout_Killstreak_Label": "Kill Streak",
+    "DOTA_Arcana_Spectre_MiniGame_Slideout_Killstreak_CompleteLabel": "Completed",
+    "DOTA_SpectreArcana_Description_Tooltip": "ターボモードでは半分で計算されます。",
+    "DOTA_Arcana_Spectre_MiniGame_Slideout_Killstreak_ProgressLabel": "{d:current_score} / {d:target_score}",
+    "DOTA_SpectreArcana_Description": "{d:unlock_value}ゲームでメガキルをしてオルタネイトスタイルをアンロックしよう。"
 }
