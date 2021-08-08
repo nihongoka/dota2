@@ -8982,5 +8982,6 @@
     "DOTA_Arcana_Spectre_MiniGame_Slideout_Killstreak_CompleteLabel": "Completed",
     "DOTA_SpectreArcana_Description_Tooltip": "ターボモードでは半分で計算されます。",
     "DOTA_Arcana_Spectre_MiniGame_Slideout_Killstreak_ProgressLabel": "{d:current_score} / {d:target_score}",
-    "DOTA_SpectreArcana_Description": "{d:unlock_value}ゲームでメガキルをしてオルタネイトスタイルをアンロックしよう。"
+    "DOTA_SpectreArcana_Description": "{d:unlock_value}ゲームでメガキルをしてオルタネイトスタイルをアンロックしよう。",
+    "DOTA_StoreItem_DotaPlus": "加入する"
 }
