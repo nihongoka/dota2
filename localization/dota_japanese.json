@@ -8983,5 +8983,17 @@
     "DOTA_SpectreArcana_Description_Tooltip": "ターボモードでは半分で計算されます。",
     "DOTA_Arcana_Spectre_MiniGame_Slideout_Killstreak_ProgressLabel": "{d:current_score} / {d:target_score}",
     "DOTA_SpectreArcana_Description": "{d:unlock_value}ゲームでメガキルをしてオルタネイトスタイルをアンロックしよう。",
-    "DOTA_StoreItem_DotaPlus": "加入する"
+    "DOTA_StoreItem_DotaPlus": "加入する",
+    "DOTA_Glossary_Active_Desc": "ほとんどのユニット固有のアビリティはアクティブであり、プレイヤーまたは操作しているAIが手動でキャストする必要がある。一部を除くほとんどのアクティブアビリティはマナコストと再使用するまでのクールダウンを持つ。",
+    "DOTA_Glossary_Auras_Desc": "オーラは発生源の周囲にいるユニットに影響を及ぼすパッシブアビリティである。オーラは透明なユニットにも影響を及ぼす。",
+    "DOTA_Glossary_Root_Desc": "ルートを受けたユニットはテレポートなど多くの行動が中断される。ルートを受けたとき、移動できなくなり、多くの移動に関係するアビリティが使用できなくなる。",
+    "DOTA_Glossary_Silence_Desc": "サイレンスを受けているユニットは自身のアビリティを使用できなくなるが、アイテムは使用できる。",
+    "DOTA_Glossary_Break_Desc": "ブレイクを受けているユニットは自身のパッシブアビリティが無効になる。",
+    "DOTA_Glossary_Disarm_Desc": "ディスアームを受けているユニットは攻撃できない。",
+    "DOTA_Glossary_Cooldown_Desc": "ほとんどのアクティブアビリティは秒単位のクールダウンを持つ。アビリティ使用後、クールダウン期間が終了するまでは再び使用することができない。",
+    "DOTA_Glossary_Passive_Desc": "パッシブアビリティはユーザーからの入力を必要とせず、通常、ユニットのステータスに影響を及ぼしたり、特定の条件下で発動する。",
+    "DOTA_Glossary_Channeled_Desc": "チャネリングアビリティをチャネリングしている最中は、ユニットは他の行動ができなくなる。効果が発動するまでにチャネリングが必要なアビリティや、チャネリングの最中に効果が発揮されるアビリティがある。チャネリングはスタン、恐怖、サイレンスにより中断されることがある。",
+    "DOTA_Glossary_Stun_Desc": "スタンを受けたユニットは全ての行動を中断され、効果中に移動したり他の行動を取ることができなくなる。",
+    "DOTA_Glossary_Mute_Desc": "ミュートを受けているユニットはアイテムを使用できなくなるが、自身のアビリティは使用できる。",
+    "DOTA_Glossary_Fear_Desc": "恐怖を受けたユニットはすべての行動が中断、制限され、特定の方向 (ほとんどの場合は味方チームのエンシェント) に向かって強制的に移動させられる。"
 }
