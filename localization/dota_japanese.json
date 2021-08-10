@@ -9021,5 +9021,8 @@
     "DOTA_Glossary_Map_Structures_Barracks_Melee_Desc": "レーンのメレークリープをスポーンする。破壊されると、敵側のレーンからスーパーメレークリープがスポーンするようになる。ラストヒットすると {d:DOTA_BARRACKS_BOUNTY_GOLD_MIN} -{d:DOTA_BARRACKS_BOUNTY_GOLD_MAX} ゴールド獲得でき、破壊する事で各プレイヤーは {d:DOTA_MELEE_BARRACKS_GOLD_PER_PLAYER} ゴールド獲得する。",
     "DOTA_Glossary_Map_Structures_Barracks_Ranged_Desc": "レーンのレンジクリープをスポーンする。破壊されると、敵側のレーンからスーパーレンジクリープがスポーンするようになる。ラストヒットすると {d:DOTA_BARRACKS_BOUNTY_GOLD_MIN} -{d:DOTA_BARRACKS_BOUNTY_GOLD_MAX} ゴールド獲得でき、破壊する事で各プレイヤーは {d:DOTA_RANGED_BARRACKS_GOLD_PER_PLAYER} ゴールド獲得する。",
     "DOTA_Glossary_Map_Structures_BackdoorProtection_Desc": "ティア1タワーを除くすべての建造物はBackdoor Protectionと呼ばれる特別なパッシブアビリティを持つ。このアビリティは近くに敵クリープがいないとき、受けるダメージを減少させ、HP自然回復を与える。",
-    "DOTA_Glossary_Map_Vision_FogOfWar_Desc": "視界は木やより高い地形によって遮られることがある。マップ上の視界外のエリアは灰色で表示され、敵ユニットがいるか否か分からない。このマップ上の暗く不明なエリアは戦場の霧と呼ばれる。"
+    "DOTA_Glossary_Map_Vision_FogOfWar_Desc": "視界は木やより高い地形によって遮られることがある。マップ上の視界外のエリアは灰色で表示され、敵ユニットがいるか否か分からない。このマップ上の暗く不明なエリアは戦場の霧と呼ばれる。",
+    "DOTA_Glossary_Map_Vision_FlyingVision_Desc": "特定のユニットやアビリティは高い地形に妨げられない上空視界を与えます。",
+    "DOTA_Glossary_Map_Vision_Scan_Desc": "チームの誰でも使用でき、共有のクールダウンを持つアビリティ。マップ上のある地点に使用すると、そこに現在敵がいるかどうかを特定できる。",
+    "DOTA_Glossary_Map_Runes_Bounty_Desc": "0分になると、川とジャングルにバウンティルーンが出現します。以後{d:DOTA_BOUNTY_RUNE_RESPAWN_TIME}分毎に、ジャングルのみにバウンティルーンが出現します。バウンティルーンを取ると、各プレイヤーは{d:DOTA_BOUNTY_RUNE_INITIAL_GOLD}ゴールド (試合時間に応じて毎分{d:DOTA_BOUNTY_RUNE_GOLD_INCREASE_PER_MINUTE}ゴールド増加) 獲得します。"
 }
