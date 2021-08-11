@@ -9024,5 +9024,15 @@
     "DOTA_Glossary_Map_Vision_FogOfWar_Desc": "視界は木やより高い地形によって遮られることがある。マップ上の視界外のエリアは灰色で表示され、敵ユニットがいるか否か分からない。このマップ上の暗く不明なエリアは戦場の霧と呼ばれる。",
     "DOTA_Glossary_Map_Vision_FlyingVision_Desc": "特定のユニットやアビリティは高い地形に妨げられない上空視界を与えます。",
     "DOTA_Glossary_Map_Vision_Scan_Desc": "チームの誰でも使用でき、共有のクールダウンを持つアビリティ。マップ上のある地点に使用すると、そこに現在敵がいるかどうかを特定できる。",
-    "DOTA_Glossary_Map_Runes_Bounty_Desc": "0分になると、川とジャングルにバウンティルーンが出現します。以後{d:DOTA_BOUNTY_RUNE_RESPAWN_TIME}分毎に、ジャングルのみにバウンティルーンが出現します。バウンティルーンを取ると、各プレイヤーは{d:DOTA_BOUNTY_RUNE_INITIAL_GOLD}ゴールド (試合時間に応じて毎分{d:DOTA_BOUNTY_RUNE_GOLD_INCREASE_PER_MINUTE}ゴールド増加) 獲得します。"
+    "DOTA_Glossary_Map_Runes_Bounty_Desc": "0分になると、川とジャングルにバウンティルーンが出現します。以後{d:DOTA_BOUNTY_RUNE_RESPAWN_TIME}分毎に、ジャングルのみにバウンティルーンが出現します。バウンティルーンを取ると、各プレイヤーは{d:DOTA_BOUNTY_RUNE_INITIAL_GOLD}ゴールド (試合時間に応じて毎分{d:DOTA_BOUNTY_RUNE_GOLD_INCREASE_PER_MINUTE}ゴールド増加) 獲得します。",
+    "DOTA_Glossary_Map_Runes_Power_Desc": "ゲーム開始後{d:DOTA_POWER_RUNE_RESPAWN_TIME}分おきに、川にパワールーンが出現します。開始2分には、2つのウォータールーンが川に出現します。6分になると、ランダムに選ばれたパワールーンが川の2つのうちどちらかの地点に出現します。パワールーンを右クリックすることで有効化することができます。パワールーンの種類は以下のようになります。",
+    "DOTA_Glossary_Map_Roshan_Desc": "Roshanは川の中央付近に鎮座するとても強力な中立クリープです。試合時間が進むにつれより強力になり、倒すためには通常、複数のヒーロー、時にはチーム全員が必要となります。倒すと、強力な消費アイテムをドロップします。さらに、通常の経験値とゴールドに加え、ラストヒットを取ったチームの各プレイヤーは{d:DOTA_ROSHAN_GOLD_PER_PLAYER}ゴールド獲得します。Roshanは死んだ後、しばらくするとリスポーンします。",
+    "DOTA_Glossary_Map_Roshan": "Roshan",
+    "DOTA_Glossary_Map_Roshan_Aegis_Desc": "Roshanを倒すと必ずAegis of the Immortalをドロップします。",
+    "DOTA_Glossary_Map_Roshan_Shards_Desc": "3回目のRoshanを倒すと、Refresher ShardかAghanim's Blessingをドロップします。4回目以降は両方ドロップします。",
+    "DOTA_Glossary_Map_Roshan_Cheese_Desc": "2回目のRoshanを倒すとチーズをドロップします。また、この時1回だけAghanim's Shardをドロップします。",
+    "DOTA_Glossary_Teamwork_Communication_AltClickUI_Desc": "ゲーム内の様々なUI要素（アビリティやアイテムのアイコンなど）は、Altキー + 左クリックによって翻訳されたチャットメッセージを送信でき、チームに状況を伝えたり、情報を伝達したりすることができる。",
+    "DOTA_Glossary_Teamwork_Communication_Muting_Desc": "どのチームでも、テキストチャットとボイスチャットで有益なコミュニケーションを取らないプレイヤーを個別にミュートすることができる。ミュートにすると、そのプレイヤーからのピンの表示される頻度が制限される。",
+    "DOTA_Glossary_Teamwork_Communication_ChatWheel_Desc": "テキストチャットはチームにおいて強力なコミュニケーションツールである。チャットホイールを用いることで、よく使うフレーズや命令を素早く送信し、チームとの連携を図ることができる。言語障壁を取り払うため、チャットホイールは各プレイヤーが選択した言語で表示される。",
+    "DOTA_Glossary_Teamwork_Communication_AltClickPings_Desc": "マップ上の特定の場所についてのコミュニケーションが必要な場合、Altキーを押しながらマップまたはミニマップ上を左クリックする事で、ピンコマンドを送信できる。左クリックを長押しすると放射状のメニューが現れ、より詳細な情報を送信することができる。"
 }
