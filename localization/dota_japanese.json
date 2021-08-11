@@ -9032,7 +9032,7 @@
     "DOTA_Glossary_Map_Roshan_Shards_Desc": "3回目のRoshanを倒すと、Refresher ShardかAghanim's Blessingをドロップします。4回目以降は両方ドロップします。",
     "DOTA_Glossary_Map_Roshan_Cheese_Desc": "2回目のRoshanを倒すとチーズをドロップします。また、この時1回だけAghanim's Shardをドロップします。",
     "DOTA_Glossary_Teamwork_Communication_AltClickUI_Desc": "ゲーム内の様々なUI要素（アビリティやアイテムのアイコンなど）は、Altキー + 左クリックによって翻訳されたチャットメッセージを送信でき、チームに状況を伝えたり、情報を伝達したりすることができる。",
-    "DOTA_Glossary_Teamwork_Communication_Muting_Desc": "どのチームでも、テキストチャットとボイスチャットで有益なコミュニケーションを取らないプレイヤーを個別にミュートすることができる。ミュートにすると、そのプレイヤーからのピンの表示される頻度が制限される。",
+    "DOTA_Glossary_Teamwork_Communication_Muting_Desc": "チームにかかわらず、テキストチャットとボイスチャットで有益なコミュニケーションを取らないプレイヤーを個別にミュートすることができる。ミュートにすると、そのプレイヤーからのピンの表示される頻度が制限される。",
     "DOTA_Glossary_Teamwork_Communication_ChatWheel_Desc": "テキストチャットはチームにおいて強力なコミュニケーションツールである。チャットホイールを用いることで、よく使うフレーズや命令を素早く送信し、チームとの連携を図ることができる。言語障壁を取り払うため、チャットホイールは各プレイヤーが選択した言語で表示される。",
     "DOTA_Glossary_Teamwork_Communication_AltClickPings_Desc": "マップ上の特定の場所についてのコミュニケーションが必要な場合、Altキーを押しながらマップまたはミニマップ上を左クリックする事で、ピンコマンドを送信できる。左クリックを長押しすると放射状のメニューが現れ、より詳細な情報を送信することができる。"
 }
