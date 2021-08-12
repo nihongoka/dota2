@@ -8400,7 +8400,7 @@
     "DOTA_Spring2021_Quest_Last_Hit_Towers_Name": "テロリスト",
     "DOTA_Spring2021_Quest_Last_Hit_Towers_Description": "敵のタワーのラストヒットを{s:current_tier_score}回取る",
     "DOTA_Spring2021_Quest_Enemies_Revealed_By_Scan_Description": "スキャンを使って敵ヒーローを{s:current_tier_score}体検出する",
-    "DOTA_Spring2021_Quest_Win_And_Count_Hero_Legs_Description": "足の本数が異なる{s:current_tier_score}ヒーローで試合に勝利する。",
+    "DOTA_Spring2021_Quest_Win_And_Count_Hero_Legs_Description": "勝利した試合で使用したヒーローの足の本数の合計が{s:current_tier_score}本に達する",
     "DOTA_Spring2021_Quest_Win_And_Kills_Description": "勝利した試合で{s:current_tier_score}回キルする",
     "dota_settings_fps_max_ui": "ダッシュボードでの最大FPS",
     "DOTA_Spring2021_Quest_Nemestice_Plays_Name_Week7": "もっともっとNemestice！",
