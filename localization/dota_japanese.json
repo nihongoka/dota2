@@ -9037,5 +9037,9 @@
     "DOTA_Glossary_Teamwork_Communication_AltClickPings_Desc": "マップ上の特定の場所についてのコミュニケーションが必要な場合、Altキーを押しながらマップまたはミニマップ上を左クリックする事で、ピンコマンドを送信できる。左クリックを長押しすると放射状のメニューが現れ、より詳細な情報を送信することができる。",
     "DOTA_DamageReport_Alert": "%s2 %s3 は %s4 に合計<b>%s1</b>ダメージ与えた。",
     "DOTA_DamageReport_TeamAlert": "%s2 %s3 は %s4 に合計<b>%s1</b>ダメージ与えた。",
-    "DOTA_OpenTreasureTooltip_ExtraItems": "... 他{d:extra_items_count}個!"
+    "DOTA_OpenTreasureTooltip_ExtraItems": "... 他{d:extra_items_count}個!",
+    "DOTA_LiveSpectating_Error_SpectatorInLobby": "試合のライブを見るためには現在の試合またはロビーから退出する必要があります。",
+    "DOTA_Chat_YouPaused": "あなたはゲームをポーズしました。後%s1回ポーズできます。",
+    "player_report_fail_too_late": "この試合のプレイヤーフィードバックをするには時間が経ちすぎています。",
+    "player_report_fail_generic": "プレイヤーフィードバックの送信に失敗しました。"
 }
