@@ -9053,8 +9053,11 @@
     "DOTA_Glossary_Teamwork_Terminology_Ganking_Desc": "ギャンキングとは、他のレーンにいる敵ヒーローをキルするためにレーンを離れる行為であり、多くの場合、味方ヒーローの支援を受けて行われる。",
     "DOTA_Glossary_Teamwork_Terminology_Rotation_Desc": "ローテーションとは他のレーンのヒーローが苦戦していたり、支援を必要としている場合に、現在いるレーンを一時的に、または長期的に離れて別のレーンに移動する行為を指す。",
     "DOTA_Glossary_Teamwork_Terminology_LaningPhase_Desc": "レーニングフェーズとはレーン上でラストヒット、ディナイ、ハラスに多くの時間を割くことになる時間帯である。",
-    "DOTA_Glossary_Teamwork_Terminology_Harass_Desc": "ハラスメントは通常レーニングフェーズにおいて、敵にダメージを与えたり、ファーム能力を阻害したりすることを指す。",
+    "DOTA_Glossary_Teamwork_Terminology_Harass_Desc": "ハラスメントは通常レーニングフェーズにおいて、敵にダメージを与えたり、ファームを阻害したりすることを指す。",
     "DOTA_Glossary_Teamwork_Terminology_EarlyMidLate_Desc": "これらの用語は、特定の戦略、ヒーロー、アイテムの力がどの程度発揮されるかの指標となる時間帯を指す。各試合の進行状況によって異なるが、おおよそ以下の時間に対応している。 <br><br>アーリーゲーム : <b>0:00 ～ 15:00</b><br/>ミッドゲーム : <b>15:00 ～ 30:00</b><br/>レイトゲーム : <b>30:00 ～</b>",
     "DOTA_Chat_CantPause": "あなたはポーズできません。",
-    "DOTA_Chat_CantPauseYet": "あなたは後%s1秒ポーズできません。"
+    "DOTA_Chat_CantPauseYet": "あなたは後%s1秒ポーズできません。",
+    "dota_matchgroup_brazil": "ブラジル",
+    "dota_matchgroup_argentina": "アルゼンチン",
+    "dota_region_argentina": "アルゼンチン"
 }
