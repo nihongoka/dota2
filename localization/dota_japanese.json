@@ -7165,7 +7165,7 @@
     "DOTA_Glossary_Teamwork_Terminology_Carry": "キャリー",
     "DOTA_Glossary_Teamwork_Terminology_Teamfight": "チームファイト",
     "DOTA_Glossary_Teamwork_Terminology_EarlyMidLate": "アーリー、ミッド、\nレイトゲーム",
-    "DOTA_Glossary_Teamwork_Teamfights": "集団戦",
+    "DOTA_Glossary_Teamwork_Teamfights": "チームファイト",
     "DOTA_Glossary_Teamwork_Objectives_Ancient": "エンシェント",
     "DOTA_Glossary_Teamwork_Objectives_Towers": "タワー",
     "DOTA_Glossary_Teamwork_Objectives_Barracks": "バラック",
@@ -9060,7 +9060,12 @@
     "dota_matchgroup_brazil": "ブラジル",
     "dota_matchgroup_argentina": "アルゼンチン",
     "dota_region_argentina": "アルゼンチン",
-    "DOTA_Glossary_Teamwork_LaneEquilibrium_2": "レーンの前線を自分のタワーからより遠くに押し上げることをプッシュという。",
-    "DOTA_Glossary_Teamwork_LaneEquilibrium_3": "自分のタワーの近くにレーンをコントロールすることが最も安全である。交戦中、タワーは敵ヒーローに大きなダメージを与え、味方ヒーローは素早くテレポートして防衛を支援できる。",
-    "DOTA_Glossary_Teamwork_LaneEquilibrium_1": "他の条件が同じであれば、クリープのウェーブはレーンの同じ場所で出会い、互いに攻撃する。その場所がレーンの前線（均衡）を決定する。"
+    "DOTA_Glossary_Teamwork_LaneEquilibrium_2": "レーンの前線を自分のタワーからより遠くに押し上げることをプッシュといいます。",
+    "DOTA_Glossary_Teamwork_LaneEquilibrium_3": "自分のタワーの近くにレーンをコントロールすることが最も安全です。交戦中、タワーは敵ヒーローに大きなダメージを与えて、味方ヒーローはテレポートで素早く防衛を支援できます。",
+    "DOTA_Glossary_Teamwork_LaneEquilibrium_1": "他の条件が同じであれば、クリープのウェーブはレーンの同じ場所で出会って、互いに攻撃します。その場所がレーンの前線（均衡）を決定します。",
+    "DOTA_Glossary_Teamwork_LaneEquilibrium_4": "プッシュを十分に行うことで、クリープと敵のタワーを攻撃して破壊することができますが、レーンでのファームがより危険になります。",
+    "DOTA_Glossary_Teamwork_LaneEquilibrium_PushingSubsection_2": "基本攻撃やアビリティーでクリープにダメージを与えた。",
+    "DOTA_Glossary_Teamwork_LaneEquilibrium_PushingSubsection_3": "敵ヒーローへの攻撃によって敵クリープの攻撃を引き付けた。",
+    "DOTA_Glossary_Teamwork_LaneEquilibrium_PushingSubsection_4": "前線がタワーの近くにあり、タワーが敵クリープを攻撃した。",
+    "DOTA_Glossary_Teamwork_LaneEquilibrium_PushingSubsection_1": "ウェーブに敵より多くのクリープがいた。"
 }
