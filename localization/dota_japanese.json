@@ -9067,5 +9067,8 @@
     "DOTA_Glossary_Teamwork_LaneEquilibrium_PushingSubsection_2": "基本攻撃やアビリティーでクリープにダメージを与えた。",
     "DOTA_Glossary_Teamwork_LaneEquilibrium_PushingSubsection_3": "敵ヒーローへの攻撃によって敵クリープの攻撃を引き付けた。",
     "DOTA_Glossary_Teamwork_LaneEquilibrium_PushingSubsection_4": "前線がタワーの近くにあり、タワーが敵クリープを攻撃した。",
-    "DOTA_Glossary_Teamwork_LaneEquilibrium_PushingSubsection_1": "ウェーブに敵より多くのクリープがいた。"
+    "DOTA_Glossary_Teamwork_LaneEquilibrium_PushingSubsection_1": "ウェーブに敵より多くのクリープがいた。",
+    "DOTA_GiftWrap_Success_Header": "成功",
+    "DOTA_GiftWrap_Success": "ギフトが贈られました。",
+    "WrapGift": "ラッピングする"
 }
