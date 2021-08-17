@@ -9070,5 +9070,8 @@
     "DOTA_Glossary_Teamwork_LaneEquilibrium_PushingSubsection_1": "ウェーブに敵より多くのクリープがいた。",
     "DOTA_GiftWrap_Success_Header": "成功",
     "DOTA_GiftWrap_Success": "ギフトが贈られました。",
-    "WrapGift": "ラッピングする"
+    "WrapGift": "ラッピングする",
+    "DOTA_Glossary_Teamwork_Teamfights_EarlyVsLate": "集団で移動して攻撃することには、レーンに留まってファームをしているときに比べてゴールドや経験値の獲得量が大幅に少なくなるというデメリットがあります。",
+    "DOTA_Glossary_Teamwork_Teamfights_Logic": "敵ヒーローを攻撃するとき、相手より多い人数で仕掛ければ成功率が上がります。チーム全体がまとまって動くことで、勝利の可能性を格段に上げることができます。",
+    "DOTA_Glossary_Teamwork_Teamfights_Specialists": "ヒーローのアビリティの多くは、周りにヒーローがいるときより強力になるため、集団戦ではとても有用です。味方や相手のアビリティをよく分析して、交戦するのに最適なタイミングを考えましょう。"
 }
