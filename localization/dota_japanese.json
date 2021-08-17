@@ -9080,5 +9080,12 @@
     "DOTA_Glossary_Teamwork_Objectives_Ancient_Desc": "ゲームにおける究極の目的は敵のエンシェントを破壊する事である。たとえすべての敵ヒーローが死亡したとしても、強力な建造物がエンシェントを守る。段階的に目標物を破壊していくことで、勝利の道が開ける。",
     "DOTA_Glossary_Teamwork_Objectives_Towers_Desc": "最も簡単な目的はタワーを破壊する事である。タワーは体力を自然回復しないため、少しずつ破壊することができる。タワーやバラックを破壊することで、味方チームにゴールドが与えられるうえ、ラストヒットを取ったプレイヤーには追加でボーナスゴールドが与えられる。エンシェントは前にあるタワーが破壊されない限り無敵である。",
     "DOTA_Glossary_Teamwork_Objectives_Barracks_Desc": "敵のバラックを破壊すると、各プレイヤーにゴールドが与えられ、再生成されない。また、敵のバラックを破壊するとそのレーンからスーパークリープが出現するようになる。スーパークリープはより多くの体力と攻撃力を持っているため、敵のベースへ向けてレーンをさらに押し上げる。また、スーパークリープはゴールド、経験値獲得量が減少するため、敵ヒーローのレベルアップ、アイテム購入のペースが減少し、残りの試合時間中はずっと有利になる。",
-    "DOTA_Glossary_Teamwork_Objectives_Buyback_Desc": "ゲーム中盤、終盤では、敵ヒーローに強力なアイテムを買うためのゴールドをバイバックを使わせること自体が重要な目的になってくる。また、これによって集団戦で負かせたときのリカバリーを阻害できるため、さらに有利になる可能性がある。ヒーローが死んでいる間に重要な建造物を攻撃する事で、敵チームに貴重なリソースを割くように仕向けることができる。"
+    "DOTA_Glossary_Teamwork_Objectives_Buyback_Desc": "ゲーム中盤、終盤では、敵ヒーローに強力なアイテムを買うためのゴールドをバイバックを使わせること自体が重要な目的になってくる。また、これによって集団戦で負かせたときのリカバリーを阻害できるため、さらに有利になる可能性がある。ヒーローが死んでいる間に重要な建造物を攻撃する事で、敵チームに貴重なリソースを割くように仕向けることができる。",
+    "DOTA_AutomaticSelectionPriority": "優先権選択システム",
+    "DOTA_AutomaticSelectionPriority_Error_NeedTeams": "優先権選択機能を使うには、ロビーで2つのチームを指定する必要があります。",
+    "DOTA_AutomaticSelectionPriority_Error_UnknownPrevious": "選択優先システムは前の試合で誰が勝ったかが分からないため先に進めません。",
+    "DOTA_AutomaticSelectionPriority_ChoiceConfirm_FirstPick": "この試合でファーストピックを選びますか？",
+    "DOTA_AutomaticSelectionPriority_ChoiceConfirm_SecondPick": "この試合でセカンドピックを選びますか？",
+    "DOTA_AutomaticSelectionPriority_ChoiceConfirm_Radiant": "この試合でRadiantを選びますか？",
+    "DOTA_AutomaticSelectionPriority_ChoiceConfirm_Dire": "この試合でDireを選びますか？"
 }
