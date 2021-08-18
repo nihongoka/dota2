@@ -9087,5 +9087,7 @@
     "DOTA_AutomaticSelectionPriority_ChoiceConfirm_FirstPick": "この試合でファーストピックを選びますか？",
     "DOTA_AutomaticSelectionPriority_ChoiceConfirm_SecondPick": "この試合でセカンドピックを選びますか？",
     "DOTA_AutomaticSelectionPriority_ChoiceConfirm_Radiant": "この試合でRadiantを選びますか？",
-    "DOTA_AutomaticSelectionPriority_ChoiceConfirm_Dire": "この試合でDireを選びますか？"
+    "DOTA_AutomaticSelectionPriority_ChoiceConfirm_Dire": "この試合でDireを選びますか？",
+    "DOTA_Glossary_Teamwork_HeroItemChoice_EarlyVsLate_Desc": "もっとも頻繁に起こり、影響の大きい決断の一つはヒーロー、アイテム、プレイスタイルの選択がゲームの序盤と終盤のどちらで真価を発揮するかということである。ヒーローの力が相対的にピークに達する時間や、様々なゲームの状況においてどのアイテムが最も適切かを学ぶことは勝利のための重要なスキルである。",
+    "DOTA_Glossary_Teamwork_HeroItemChoice_DamageTypes_Desc": "ほとんどのアビリティやアイテムが与えるダメージは物理または魔法ダメージに分類され、それぞれアーマーと魔法耐性で軽減することができる。様々なアイテムを作成することでそれらのステータスを増加させることができる。試合においてそのヒーローがどのタイプのダメージを与えてくるかを知ることで、その攻撃にたいしてクリティカルな防御ができる。"
 }
