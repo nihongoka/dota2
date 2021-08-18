@@ -9089,5 +9089,16 @@
     "DOTA_AutomaticSelectionPriority_ChoiceConfirm_Radiant": "この試合でRadiantを選びますか？",
     "DOTA_AutomaticSelectionPriority_ChoiceConfirm_Dire": "この試合でDireを選びますか？",
     "DOTA_Glossary_Teamwork_HeroItemChoice_EarlyVsLate_Desc": "もっとも頻繁に起こり、影響の大きい決断の一つはヒーロー、アイテム、プレイスタイルの選択がゲームの序盤と終盤のどちらで真価を発揮するかということである。ヒーローの力が相対的にピークに達する時間や、様々なゲームの状況においてどのアイテムが最も適切かを学ぶことは勝利のための重要なスキルである。",
-    "DOTA_Glossary_Teamwork_HeroItemChoice_DamageTypes_Desc": "ほとんどのアビリティやアイテムが与えるダメージは物理または魔法ダメージに分類され、それぞれアーマーと魔法耐性で軽減することができる。様々なアイテムを作成することでそれらのステータスを増加させることができる。試合においてそのヒーローがどのタイプのダメージを与えてくるかを知ることで、その攻撃にたいしてクリティカルな防御ができる。"
+    "DOTA_Glossary_Teamwork_HeroItemChoice_DamageTypes_Desc": "ほとんどのアビリティやアイテムが与えるダメージは物理または魔法ダメージに分類され、それぞれアーマーと魔法耐性で軽減することができる。様々なアイテムを作成することでそれらのステータスを増加させることができる。試合においてそのヒーローがどのタイプのダメージを与えてくるかを知ることで、その攻撃にたいしてクリティカルな防御ができる。",
+    "DOTA_Glossary_Teamwork_HeroItemChoice_Synergy_Desc": "シナジーは広義に、ゲーム内で互いに補完しあう効果を利用することとされる。簡単な例を挙げると、自身の攻撃速度を上げるアビリティやタレントを持っているヒーローにとって、自身の攻撃時のダメージを増加させるアイテムは相性が良い。一方の効果は他方の効果によって増幅される。互いの弱点を補い合うアビリティを持つ2人のヒーローもまた相性が良い。各ヒーローのアビリティセットはそれら自体の相性が良く、正しい順番で使用することで力が増幅する。",
+    "DOTA_Glossary_Teamwork_HeroItemChoice_ItemCounters_BlackKingBar": "Black King Bar",
+    "DOTA_Glossary_Teamwork_HeroItemChoice_ItemCounters_BlackKingBar_Desc": "Black King Barはスペル耐性を付与する。適切なタイミングで使用すると、アビリティやアイテムに依存してダメージやディセーブルを与えてくるヒーローの効果を完全に無視することができる。",
+    "DOTA_Glossary_Teamwork_HeroItemChoice_ItemCounters_HeavensHalberd": "Heaven's Halberd",
+    "DOTA_Glossary_Teamwork_HeroItemChoice_ItemCounters_HeavensHalberd_Desc": "Heaven's Halberdは通常攻撃に依存してダメージを与えてくるヒーロー、特にレンジヒーロー（ディスアーム持続時間が長い）に対して有効である。",
+    "DOTA_Glossary_Teamwork_HeroItemChoice_ItemCounters_BladeMail": "Blade Mail",
+    "DOTA_Glossary_Teamwork_HeroItemChoice_ItemCounters_BladeMail_Desc": "Blade Mailのダメージ反射は、多大なダメージを与えてくるが、脆く体力の低いヒーローに対して非常に有効である。 ",
+    "DOTA_Glossary_Teamwork_HeroItemChoice_ItemCounters_SpiritVessel": "Spirit Vessel",
+    "DOTA_Glossary_Teamwork_HeroItemChoice_Counters_Desc": "カウンターはシナジーの逆である。他のヒーローの弱点を突いたり、効果を無効にするアビリティや属性を持つヒーローはそれらのカウンターとなる。そのため、敵チームがどのヒーローを選んだかに基づき、適切なヒーローを選ぶことが試合の結果に大きく関わってくる。チームの強み、弱み、アイテム、プレイスタイル、戦術についての深い知識は敵に対抗するために重要な役割を果たす。",
+    "DOTA_Glossary_Teamwork_HeroItemChoice_ItemCounters_Desc": "ここでは、特定のヒーローのタイプに対して特に効果的なアイテムの例をいくつか紹介します。このリストはすべてを網羅しているわけではありません。どの時間で最も効果的であるかを理解するために、各アイテムのニュアンスを学ぶことが大切です。",
+    "DOTA_Glossary_Teamwork_HeroItemChoice_ItemCounters_SpiritVessel_Desc": "Spirit VesselはユニットのHP回復量と、自然回復を大幅に減少させるため、アビリティやアイテムによる回復に頼っているヒーローに対して非常に効果的である。"
 }
