@@ -3922,8 +3922,8 @@
     "DOTA_Tooltip_ability_special_bonus_unique_lycan_3": "FralのHP自動回復+{s:value}",
     "DOTA_Tooltip_ability_special_bonus_unique_lycan_4": "Feral Impulseのダメージ+{s:value}%",
     "DOTA_Tooltip_ability_special_bonus_unique_lycan_5": "Shapeshift中のクリティカル確率+{s:value}%",
-    "DOTA_Tooltip_ability_special_bonus_unique_windranger": "Windrun中、不可視状態を得る",
-    "DOTA_Tooltip_ability_special_bonus_unique_windranger_2": "Windrunのスロー効果+{s:value}%",
+    "DOTA_Tooltip_ability_special_bonus_unique_windranger": "Windrunがディスペル不可になる",
+    "DOTA_Tooltip_ability_special_bonus_unique_windranger_2": "Focus Fireでキルするとクールダウンが{s:value}秒減少するようになる。",
     "DOTA_Tooltip_ability_special_bonus_unique_windranger_3": "Powershotのダメージ+{s:value}",
     "DOTA_Tooltip_ability_special_bonus_unique_windranger_4": "Focus Fire中+{s:value}%でミニスタン",
     "DOTA_Tooltip_ability_special_bonus_unique_windranger_5": "Shackleshotのターゲット数+{s:value}",
@@ -9010,7 +9010,7 @@
     "DOTA_Tooltip_ability_special_bonus_unique_night_stalker_6": "-{s:value}秒 Crippling Fear クールダウン",
     "DOTA_Tooltip_ability_special_bonus_unique_nyx_5": "-{s:value}秒 Spiked Carapace クールダウン",
     "DOTA_Tooltip_ability_special_bonus_unique_weaver_6": "{s:value} Shukuchi チャージ",
-    "DOTA_Tooltip_ability_special_bonus_unique_lycan_6": "+{s:value} Shapeshift 移動速度",
+    "DOTA_Tooltip_ability_special_bonus_unique_lycan_6": "+{s:value} Summon Wolvesダメージ",
     "DOTA_Tooltip_ability_special_bonus_unique_lycan_7": "+{s:value} Summon Wolves 体力",
     "DOTA_Tooltip_ability_special_bonus_unique_lion_10": "Mana Drainで味方を回復できる",
     "DOTA_Tooltip_ability_special_bonus_unique_lion_11": "Finger of Deathキルごとの最大体力増加+{s:value}",
@@ -9536,5 +9536,6 @@
     "DOTA_Tooltip_ability_special_bonus_unique_night_stalker_7": "+{s:value}秒 Dark Ascension効果時間",
     "DOTA_Tooltip_ability_special_bonus_unique_chaos_knight_6": "+{s:value}% Chaos Strikeライフスティール",
     "DOTA_Tooltip_ability_special_bonus_unique_chaos_knight_7": "{s:value}% Phantasm Illusionが与えるダメージ",
-    "DOTA_Tooltip_ability_special_bonus_unique_chaos_knight_8": "-{s:value}秒 Chaos Boltクールダウン"
+    "DOTA_Tooltip_ability_special_bonus_unique_chaos_knight_8": "-{s:value}秒 Chaos Boltクールダウン",
+    "DOTA_Tooltip_ability_special_bonus_unique_lycan_8": "-{s:value}秒 Shapeshiftクールダウン"
 }
