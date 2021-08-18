@@ -9484,5 +9484,6 @@
     "DOTA_Tooltip_modifier_rubick_fade_bolt_buff_counter": "Fade Bolt",
     "DOTA_Tooltip_modifier_rubick_fade_bolt_buff_counter_Description": "攻撃力が%dMODIFIER_PROPERTY_TOOLTIP%増加している。",
     "DOTA_Tooltip_ability_ember_spirit_fire_remnant_scepter_range": "セプター範囲:",
-    "DOTA_Tooltip_ability_abyssal_underlord_dark_portal": "Fiend's Gate"
+    "DOTA_Tooltip_ability_abyssal_underlord_dark_portal": "Fiend's Gate",
+    "DOTA_Tooltip_modifier_antimage_dampen_magic": "湿った魔法"
 }
