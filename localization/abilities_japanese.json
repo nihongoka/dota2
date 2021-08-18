@@ -9588,7 +9588,7 @@
     "DOTA_Tooltip_Ability_item_force_field_self_armor": "+$armor",
     "DOTA_Tooltip_Ability_item_force_field_self_mres": "+$spell_resist",
     "DOTA_Tooltip_Ability_item_force_field_Lore": "本来の使用法が見られる前によりもずっと前に果物を喉に詰まらせてしまった妄想癖のある君主が注文した逸品。",
-    "DOTA_Tooltip_Ability_item_black_powder_bag_Description": "<h1>Passive: Hair Trigger</h1> 範囲%radius%内の敵に攻撃されたとき、爆発して範囲%radius%内のすべての敵に%damage%ダメージを与え、%blind_duration%秒間%blind_pct%%%のブラインド状態にする。",
+    "DOTA_Tooltip_Ability_item_black_powder_bag_Description": "<h1>Passive: Hair Trigger</h1> 範囲%radius%内の敵に攻撃されると爆発して、範囲%radius%内のすべての敵に%damage%ダメージを与え、%blind_duration%秒間%blind_pct%%%のブラインド状態にする。",
     "DOTA_Tooltip_Ability_item_black_powder_bag_bonus_armor": "+$armor",
     "DOTA_Tooltip_Ability_item_black_powder_bag_Lore": "かつてOutlandにいた悪名高い山賊が身につけていたカスタムリグの1つで、兄弟機は故障や様々な時代の流れの中で失われてしまった。",
     "DOTA_Tooltip_Ability_item_ascetic_cap_Description": "<h1>Passive: Endurance</h1>所持者がデバフを掛けられたとき、%duration%秒間%status_resistance%%%異常耐性を得る。",
