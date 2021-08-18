@@ -3923,12 +3923,12 @@
     "DOTA_Tooltip_ability_special_bonus_unique_lycan_4": "Feral Impulseのダメージ+{s:value}%",
     "DOTA_Tooltip_ability_special_bonus_unique_lycan_5": "Shapeshift中のクリティカル確率+{s:value}%",
     "DOTA_Tooltip_ability_special_bonus_unique_windranger": "Windrunがディスペル不可になる",
-    "DOTA_Tooltip_ability_special_bonus_unique_windranger_2": "Focus Fireでキルするとクールダウンが{s:value}秒減少するようになる。",
+    "DOTA_Tooltip_ability_special_bonus_unique_windranger_2": "Focus Fireでキルするとクールダウンが{s:value}秒減少",
     "DOTA_Tooltip_ability_special_bonus_unique_windranger_3": "Powershotのダメージ+{s:value}",
     "DOTA_Tooltip_ability_special_bonus_unique_windranger_4": "Focus Fire中+{s:value}%でミニスタン",
     "DOTA_Tooltip_ability_special_bonus_unique_windranger_5": "Shackleshotのターゲット数+{s:value}",
     "DOTA_Tooltip_ability_special_bonus_unique_windranger_6": "Shackleshotの効果時間+{s:value}秒",
-    "DOTA_Tooltip_ability_special_bonus_unique_windranger_7": "Focus Fireのクールダウン-{s:value}秒",
+    "DOTA_Tooltip_ability_special_bonus_unique_windranger_7": "Windrun中透明になる",
     "DOTA_Tooltip_ability_special_bonus_unique_windranger_8": "Focus Fireのダメージ減少効果-{s:value}%",
     "DOTA_Tooltip_ability_special_bonus_unique_windranger_9": "Shackleshotのクールダウン-{s:value}秒",
     "DOTA_Tooltip_ability_special_bonus_unique_windranger_10": "Windrun時のHP自動回復+{s:value}",
@@ -9537,5 +9537,6 @@
     "DOTA_Tooltip_ability_special_bonus_unique_chaos_knight_6": "+{s:value}% Chaos Strikeライフスティール",
     "DOTA_Tooltip_ability_special_bonus_unique_chaos_knight_7": "{s:value}% Phantasm Illusionが与えるダメージ",
     "DOTA_Tooltip_ability_special_bonus_unique_chaos_knight_8": "-{s:value}秒 Chaos Boltクールダウン",
-    "DOTA_Tooltip_ability_special_bonus_unique_lycan_8": "-{s:value}秒 Shapeshiftクールダウン"
+    "DOTA_Tooltip_ability_special_bonus_unique_lycan_8": "-{s:value}秒 Shapeshiftクールダウン",
+    "DOTA_Tooltip_ability_special_bonus_unique_windranger_2_Description": "誰がキルしたかに関係なく、Focus Fired影響下のユニットが死亡すると発動する。"
 }
