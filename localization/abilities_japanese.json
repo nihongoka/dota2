@@ -9547,7 +9547,7 @@
     "DOTA_Tooltip_ability_special_bonus_unique_spirit_breaker_4": "+{s:value} Charge of Darkness移動速度",
     "DOTA_Tooltip_ability_special_bonus_unique_tidehunter_6": "-{s:value}Kraken Shellダメージ閾値",
     "DOTA_Tooltip_ability_special_bonus_unique_tidehunter_7": "+{s:value}秒 Ravageスタン",
-    "DOTA_Tooltip_ability_special_bonus_unique_tidehunter_8": "アタック時50%の確率でAnchor Smash発動",
+    "DOTA_Tooltip_ability_special_bonus_unique_tidehunter_8": "通常攻撃時50%の確率でAnchor Smash発動",
     "DOTA_Tooltip_ability_special_bonus_unique_tinker_7": "+{s:value} Defense Matrixダメージ吸収",
     "DOTA_Tooltip_ability_special_bonus_unique_undying_8": "+{s:value} Decayダメージ",
     "DOTA_Tooltip_ability_special_bonus_unique_zeus_5": "Lightning Bolt {s:value}範囲化",
