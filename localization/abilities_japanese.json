@@ -5137,8 +5137,6 @@
     "DOTA_Tooltip_ability_item_invis_sword_bonus_attack_speed": "+$attack",
     "DOTA_Tooltip_ability_item_silver_edge_bonus_damage": "+$damage",
     "DOTA_Tooltip_ability_item_silver_edge_bonus_attack_speed": "+$attack",
-    "DOTA_Tooltip_ability_item_silver_edge_Note0": "Backstabはミスしない。",
-    "DOTA_Tooltip_ability_item_silver_edge_Note1": "Backstabはスペル耐性を貫通しない。",
     "DOTA_Tooltip_modifier_item_silver_edge_windwalk": "Shadow Walk",
     "DOTA_Tooltip_modifier_item_silver_edge_windwalk_Description": "不可視状態。移動速度が%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%上昇しており、ユニットをすり抜けて移動できる。攻撃によって不可視状態を解除する場合、%dMODIFIER_PROPERTY_PREATTACK_BONUS_DAMAGE_POST_CRIT%のボーナスダメージを与え、ターゲットを原則させ、パッシブアビリティを無効にする。",
     "DOTA_Tooltip_modifier_silver_edge_debuff_Description": "パッシブアビリティが無効化されている。",
