@@ -9103,5 +9103,7 @@
     "DOTA_Glossary_Teamwork_HeroItemChoice_ItemCounters_SpiritVessel_Desc": "Spirit VesselはユニットのHP回復量と、自然回復を大幅に減少させるため、アビリティやアイテムによる回復に頼っているヒーローに対して非常に有効である。",
     "DOTA_Custom_Game_Not_Updated_Recently": "最終更新がDota 7.00以前です",
     "DOTA_Custom_Game_Not_Updated_RecentlyTT": "Dota 7.00でゲームプレイの機構とユーザーインターフェースが変更されました。7.00以前にアップロードされたカスタムゲームは正しく動作しない場合があります。",
-    "join_error_custom_game_cooldown": "現在ゲームを放置したり、レディーアップに失敗したため、カスタムゲームに参加できません。残り時間: {t:r:e:match_denied_time}"
+    "join_error_custom_game_cooldown": "現在ゲームを放置したり、レディーアップに失敗したため、カスタムゲームに参加できません。残り時間: {t:r:e:match_denied_time}",
+    "DOTA_ChallengeDesc_TotalDisableDuration": "敵ヒーローに<font color='#ffffff'>%s1</font>秒ディセーブルを与える。",
+    "DOTA_ChallengeDesc_TotalDebuffWithMedallion": "<font color='#ffffff'>Medallion of Courage</font>または<font color='#ffffff'>Solar Crest</font>で敵に<font color='#ffffff'>%s1</font>秒デバフを与える。"
 }
