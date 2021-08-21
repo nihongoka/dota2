@@ -7050,8 +7050,6 @@
     "DOTA_Tooltip_ability_hoodwink_acorn_shot_Note1": "半径525以内にいるなら視界範囲外のユニットにも跳ね返るが、透明化しているユニットには跳ね返らない。",
     "DOTA_Tooltip_ability_hoodwink_acorn_shot_Note2": "木は生えてから20秒経つと消える。",
     "DOTA_Tooltip_ability_hoodwink_acorn_shot_Note3": "Acorn Shotの射程は攻撃射程ボーナスの影響を受ける。",
-    "DOTA_Tooltip_modifier_squirrel_acorn_shot_slow": "Acorn Shot",
-    "DOTA_Tooltip_modifier_squirrel_acorn_shot_slow_Description": "移動速度が%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%減少している。",
     "DOTA_Tooltip_ability_hoodwink_bushwhack_trap_radius": "範囲:",
     "DOTA_Tooltip_ability_hoodwink_bushwhack_debuff_duration": "スタン時間:",
     "DOTA_Tooltip_ability_hoodwink_acorn_shot_debuff_duration": "スロー効果時間:",
