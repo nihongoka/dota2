@@ -7829,7 +7829,7 @@
     "DOTA_Tooltip_ability_bane_fiends_grip_scepter_description": "Fiend's Gripのクールダウンを45秒減少させる。Fiend's Grip詠唱中、ターゲットに対してFiend's Gripをチャネリングしている2つの操作不能なイリュージョンを作り出すようになる。イリュージョンは700%%のダメージを受け、詠唱が中断されると消滅する。ダメージは重複しない。",
     "DOTA_Tooltip_ability_nevermore_dark_lord_shard_description": "近くの敵の魔法耐性を14%%下げる。",
     "DOTA_Tooltip_ability_storm_spirit_overload_shard_description": "発動すると、Storm Spiritと範囲750以内にいる味方のヒーローにOverloadチャージを3回付与することができる。Overloadチャージは40の攻撃速度を与える。12秒経過するかチャージがなくなるまで持続する。",
-    "DOTA_Tooltip_ability_crystal_maiden_freezing_field_shard_description": "Freezing Field中、自身は75%%遅い速度で移動可能になり、キャストおよび通常攻撃も可能になる。敵に通常攻撃されても詠唱は止まることはない。合計爆発回数を%shard_bonus_explosion%%%増加させる。",
+    "DOTA_Tooltip_ability_crystal_maiden_freezing_field_shard_description": "Freezing Field中、自身は75%遅い速度で移動可能になり、キャストおよび通常攻撃も可能になる。敵に通常攻撃されても詠唱は止まることはない。合計爆発回数を%shard_bonus_explosion%%%増加させる。",
     "DOTA_Tooltip_ability_crystal_maiden_freezing_field_stop": "Stop Freezing Field",
     "DOTA_Tooltip_ability_tiny_tree_grab_shard_description": "Tree Grabの攻撃回数制限が無くなる。",
     "DOTA_Tooltip_ability_slardar_slithereen_crush_shard_description": "Slithereen Crushの範囲が75増加する。影響を受けたユニットに5秒間Corrosive Hazeをかける。",
