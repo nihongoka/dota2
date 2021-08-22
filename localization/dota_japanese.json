@@ -9114,7 +9114,7 @@
     "DOTA_WatchLive_NoMatches": "試合なし",
     "DOTA_WatchLive_CountSpec": "{i:num_spectating}人観戦中",
     "DOTA_WatchLive_ParticipantsVs": "<font color='#ffffff'>{s:team_1}</font> <font color='#888888'>vs.</font> <font color='#ffffff'>{s:team_2}</font>",
-    "DOTA_WatchLive_ParticipantsMMR": "<font color='#888888'>ランク戦</font>",
+    "DOTA_WatchLive_ParticipantsMMR": "<font color='#888888'>ランクマッチ</font>",
     "DOTA_WatchLive_ParticipantsUnranked": "<font color='#888888'>ノーマルマッチ</font>",
     "DOTA_WatchLive_Participants1": "{s:friend_1}",
     "DOTA_WatchLive_DataPending": "試合のライブを探しています..."
