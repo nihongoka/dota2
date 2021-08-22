@@ -9106,5 +9106,16 @@
     "join_error_custom_game_cooldown": "現在ゲームを放置したり、レディーアップに失敗したため、カスタムゲームに参加できません。残り時間: {t:r:e:match_denied_time}",
     "DOTA_ChallengeDesc_TotalDisableDuration": "敵ヒーローに<font color='#ffffff'>%s1</font>秒ディセーブルを与える。",
     "DOTA_ChallengeDesc_TotalDebuffWithMedallion": "<font color='#ffffff'>Medallion of Courage</font>または<font color='#ffffff'>Solar Crest</font>で敵に<font color='#ffffff'>%s1</font>秒デバフを与える。",
-    "DOTA_Nemestice2021_Ended": "イベント終了"
+    "DOTA_Nemestice2021_Ended": "イベント終了",
+    "DOTA_WatchLive_CountFriends": "{i:num_friends_playing} フレンドがプレイ中",
+    "DOTA_WatchLive_DataError": "試合ライブ読み込みエラー",
+    "DOTA_WatchLive_NoGames": "現在プレイされているライブはありません",
+    "DOTA_WatchLive_HeroFilter": "フィルター: {s:hero_filter_name}",
+    "DOTA_WatchLive_NoMatches": "試合なし",
+    "DOTA_WatchLive_CountSpec": "{i:num_spectating}人観戦中",
+    "DOTA_WatchLive_ParticipantsVs": "<font color='#ffffff'>{s:team_1}</font> <font color='#888888'>vs.</font> <font color='#ffffff'>{s:team_2}</font>",
+    "DOTA_WatchLive_ParticipantsMMR": "<font color='#888888'>ランク戦</font>",
+    "DOTA_WatchLive_ParticipantsUnranked": "<font color='#888888'>ノーマルマッチ</font>",
+    "DOTA_WatchLive_Participants1": "{s:friend_1}",
+    "DOTA_WatchLive_DataPending": "試合のライブを探しています..."
 }
