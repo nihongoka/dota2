@@ -9117,5 +9117,16 @@
     "DOTA_WatchLive_ParticipantsMMR": "<font color='#888888'>ランクマッチ</font>",
     "DOTA_WatchLive_ParticipantsUnranked": "<font color='#888888'>ノーマルマッチ</font>",
     "DOTA_WatchLive_Participants1": "{s:friend_1}",
-    "DOTA_WatchLive_DataPending": "試合のライブを探しています..."
+    "DOTA_WatchLive_DataPending": "試合のライブを探しています...",
+    "DOTA_Treasure_EventPurchase": "コンペンディウム報酬",
+    "DOTA_Treasure_InfuserPurchase": "インフューサーを購入",
+    "DOTA_Treasure_Autographed": "署名",
+    "DOTA_Treasure_AutographName": "{s:treasure_autograph_name}",
+    "DOTA_Treasure_MarketPurchase": "マーケット上",
+    "DOTA_Treasure_CharmPurchase": "チャームを購入",
+    "DOTA_Treasure_InfusersOwned": "インフューサー所持数:",
+    "DOTA_Treasure_Gift": "ギフト",
+    "DOTA_Treasure_OpenQuantity": "{d:owned_quantity}",
+    "DOTA_Treasure_OpenPW": "{g:dota_item_name:peek_item_def}を受け取る",
+    "DOTA_Treasure_OpenPWPlural": "アイテムを受け取る"
 }
