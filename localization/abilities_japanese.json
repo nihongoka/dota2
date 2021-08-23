@@ -9243,7 +9243,7 @@
     "DOTA_Tooltip_ability_big_thunder_lizard_slam_non_hero_duration": "効果時間:",
     "DOTA_Tooltip_ability_big_thunder_lizard_slam_hero_duration": "ヒーロー効果時間:",
     "DOTA_Tooltip_ability_item_helm_of_the_overlord_Lore": "亡きネクロマンサーの強力な兜。",
-    "DOTA_Tooltip_ability_item_helm_of_the_overlord_Note0": "一度に2体まで支配可能。 ",
+    "DOTA_Tooltip_ability_item_helm_of_the_overlord_Note0": "一度に1体のみ支配可能。 ",
     "DOTA_Tooltip_ability_item_helm_of_the_overlord_Note1": "敵のレーンクリープや召喚されたユニットも支配下に置くことができる。",
     "DOTA_Tooltip_ability_item_helm_of_the_overlord_Note2": "このアイテムを売った場合、支配下に置いていたユニットは死ぬ。",
     "DOTA_Tooltip_ability_item_helm_of_the_overlord_bonus_stats": "+$all",
