@@ -9662,5 +9662,18 @@
     "DOTA_Tooltip_modifier_rattletrap_cog_immune": "Power Cogs",
     "DOTA_Tooltip_modifier_rattletrap_jetpack": "Jetpack",
     "DOTA_Tooltip_modifier_rattletrap_jetpack_description": "移動速度が%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%増加し、飛んでいる。",
-    "DOTA_Tooltip_modifier_enigma_black_hole_pull_scepter": "Black Hole"
+    "DOTA_Tooltip_modifier_enigma_black_hole_pull_scepter": "Black Hole",
+    "DOTA_Tooltip_modifier_furion_sprout_entangle_Description": "ルートを受けている。",
+    "DOTA_Tooltip_modifier_leshrac_decrepify_aura": "Nihilism",
+    "DOTA_Tooltip_modifier_leshrac_decrepify": "Nihilism",
+    "DOTA_Tooltip_modifier_morphling_adaptive_strike": "Adaptive Strike",
+    "DOTA_Tooltip_modifier_morphling_adaptive_strike_Description": "スタンを受けている。",
+    "DOTA_Tooltip_modifier_furion_sprout_entangle": "Wrath of Nature",
+    "DOTA_Tooltip_modifier_leshrac_decrepify_aura_Description": "移動速度が%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%減少している。",
+    "DOTA_Tooltip_modifier_leshrac_decrepify_Description": "移動速度が%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%減少していて、受けるスペルダメージが%dMODIFIER_PROPERTY_MAGICAL_RESISTANCE_DECREPIFY_UNIQUE%%%増加している。",
+    "DOTA_Tooltip_modifier_phantom_assassin_fan_of_knives": "Fan of Knives",
+    "DOTA_Tooltip_modifier_phantom_assassin_fan_of_knives_Description": "パッシブアビリティが無効になっている。",
+    "DOTA_Tooltip_modifier_storm_spirit_electric_rave": "Overload",
+    "DOTA_Tooltip_modifier_storm_spirit_electric_rave_Description": "%dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%攻撃速度を得て、攻撃が電気エネルギーによって強化されている。",
+    "DOTA_Tooltip_modifier_kunkka_torrent_storm": "Torrent Storm"
 }
