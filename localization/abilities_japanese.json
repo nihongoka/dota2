@@ -9675,5 +9675,15 @@
     "DOTA_Tooltip_modifier_phantom_assassin_fan_of_knives_Description": "パッシブアビリティが無効になっている。",
     "DOTA_Tooltip_modifier_storm_spirit_electric_rave": "Overload",
     "DOTA_Tooltip_modifier_storm_spirit_electric_rave_Description": "%dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%攻撃速度を得て、攻撃が電気エネルギーによって強化されている。",
-    "DOTA_Tooltip_modifier_kunkka_torrent_storm": "Torrent Storm"
+    "DOTA_Tooltip_modifier_kunkka_torrent_storm": "Torrent Storm",
+    "DOTA_Tooltip_modifier_zuus_static_field_slow_Description": "移動速度が%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%減少している。",
+    "DOTA_Tooltip_modifier_jakiro_liquid_ice_debuff": "Liquid Frost",
+    "DOTA_Tooltip_modifier_kunkka_torrent_storm_Description": "激流の嵐を巻き起こせ！",
+    "DOTA_Tooltip_modifier_zuus_static_field_slow": "Heavenly Jump",
+    "DOTA_Tooltip_modifier_lich_ice_spire_debuff": "Ice Spire",
+    "DOTA_Tooltip_modifier_lich_ice_spire_debuff_Description": "移動速度が%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%減少している。",
+    "DOTA_Tooltip_modifier_riki_dart": "Sleeping Dart",
+    "DOTA_Tooltip_modifier_riki_dart_Description": "Rikiの毒のダーツで眠らされている。",
+    "DOTA_Tooltip_modifier_necrophos_death_seeker_ethereal": "Death Seeker",
+    "DOTA_Tooltip_modifier_necrophos_death_seeker_ethereal_Description": "受ける魔法ダメージが%dMODIFIER_PROPERTY_MAGICAL_RESISTANCE_DECREPIFY_UNIQUE%%%増加し、通常攻撃を受けることもすることもできない。"
 }
