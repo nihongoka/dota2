@@ -9129,5 +9129,7 @@
     "DOTA_Treasure_OpenQuantity": "{d:owned_quantity}",
     "DOTA_Treasure_OpenPW": "{g:dota_item_name:peek_item_def}を受け取る",
     "DOTA_Treasure_OpenPWPlural": "アイテムを受け取る",
-    "PartyNotValidToMM": "あなたのパーティーは、現在の状態ではプレイすることができません。コーチ以外のプレイヤーが1人以上5人以下でないとマッチできません。"
+    "PartyNotValidToMM": "あなたのパーティーは、現在の状態ではプレイすることができません。コーチ以外のプレイヤーが1人以上5人以下でないとマッチできません。",
+    "DOTA_HUD_Shop_Item_Complete": "完成までのコスト: {u:cost_to_complete}",
+    "DOTA_Shop_Item_Complete": "完成までのコスト: %s1"
 }
