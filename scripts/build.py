@@ -17,8 +17,8 @@ files = [
     ('chat', default),
     ('dota', default),
     ('gameui', default),
-    ('hero_chat_wheel', simple('hero_chat_wheel')),
-    ('hero_lore', default),
+    #('hero_chat_wheel', simple('hero_chat_wheel')),
+    #('hero_lore', default),
     ('leagues', simple('leagues')),
     ('richpresence', default),
 ]
@@ -26,7 +26,7 @@ files = [
 os.makedirs('pak01/resource/localization/patchnotes', exist_ok=True)
 
 for file in files:
-    with open('localization/' + file[0] + '_japanese.json', 'r', encoding='utf-8') as jf:
+    with open('main/resource/localization/' + file[0] + '_japanese.txt.json', 'r', encoding='utf-8') as jf:
         data = file[1](json.load(jf))
         with open('pak01/resource/localization/' + file[0] + '_japanese.txt', 'w', encoding='utf-8') as of:
             vdf.dump(data, of, pretty=True)

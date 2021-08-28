@@ -29,8 +29,8 @@ files = [
     ('chat', default, None),
     ('dota', default, remove_special_key),
     ('gameui', default, None),
-    ('hero_chat_wheel', simple('hero_chat_wheel'), None),
-    ('hero_lore', default, None),
+#    ('hero_chat_wheel', simple('hero_chat_wheel'), None),
+#    ('hero_lore', default, None),
 #   huge
 #   ('items', default),
     ('leagues', simple('leagues'), None),
@@ -51,6 +51,6 @@ for file in files:
         tokens = file[1](data)
         if file[2]:
             file[2](tokens)
-        with open('localization/' + file[0] + '_english' + '.json', 'w', encoding="utf-8") as fw:
+        with open('main/resource/localization/' + file[0] + '_english' + '.txt.json', 'w', encoding="utf-8") as fw:
             json.dump(tokens, fw, indent=4, ensure_ascii=False)
 
