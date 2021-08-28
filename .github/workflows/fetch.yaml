@@ -1,32 +1,48 @@
-name: Fetch localization data from dotabuff/d2vpkr
+name: Fetch localization data with SteamCMD
 
 on:
   schedule:
-    - cron: '0 */3 * * *'
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
 
 jobs:
-  build:
+  precheck:
+    name: Check version
     runs-on: ubuntu-latest
-
+    outputs:
+      new_version: ${{ steps.new_version.outputs.version }}
+      current_version: ${{ steps.current_version.outputs.version }}
     steps:
-      - uses: actions/setup-python@v2
       - uses: actions/checkout@v2
+      - id: new_version
+        run: echo "::set-output name=version::`curl \"https://api.steampowered.com/IGCVersion_570/GetClientVersion/v1/?key=${{ secrets.STEAM_API_KEY }}\" | jq .result.active_version`"
+      - id: current_version
+        run: echo "::set-output name=version::`cat version`"
 
+  build:
+    name: Fetch and build new source strings
+    runs-on: windows-latest
+    needs: precheck
+    if: ${{ needs.precheck.outputs.new_version != needs.precheck.outputs.current_version }}
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-python@v2
+      - uses: CyberAndrii/setup-steamcmd@v1
+        
       - name: Install packages
-        run: pip install vdf
+        run: pip install vdf vpk
 
-      - name: Fetch localization data
-        run: python ./scripts/pull.py
+      - name: Fetch Dota2 client data
+        run: steamcmd +login ${{ secrets.STEAM_USERNAME }} ${{ secrets.STEAM_PASSWORD }} +force_install_dir "C:/dota2" +app_update 570 validate +quit
 
-      - name: Fetch version data
-        run: python ./scripts/version.py
+      - name: Extract from client data
+        run: python ./scripts/python/extract.py
 
       - name: Commit and Push
         run: |
           git config user.name "Nihongoka Bot"
           git config user.email "71134725+nihongoka-bot@users.noreply.github.com"
-          git remote set-url origin https://nihongoka-bot:${{ secrets.BOT_GITHUB_TOKEN }}@github.com/nihongoka/dota2
-          git add .
-          git pull
-          git diff-index --quiet HEAD || git commit -m "Client version: $(<version)"
+          git add ./main ./version
+          if ( -not ( git diff-index --quiet HEAD ) ) { git commit -m "Client version: $( Get-Content version )" }
           git push origin master

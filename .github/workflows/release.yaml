@@ -20,7 +20,7 @@ jobs:
         run: pip install vpk
 
       - name: Build zip file
-        run: python scripts/build.py
+        run: python scripts/python/build.py
 
       - name: Create Release
         uses: softprops/action-gh-release@v1
