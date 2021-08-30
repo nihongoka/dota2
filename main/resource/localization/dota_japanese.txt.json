@@ -9131,5 +9131,6 @@
     "DOTA_Treasure_OpenPWPlural": "アイテムを受け取る",
     "PartyNotValidToMM": "あなたのパーティーは、現在の状態ではプレイすることができません。コーチ以外のプレイヤーが1人以上5人以下でないとマッチできません。",
     "DOTA_HUD_Shop_Item_Complete": "完成までのコスト: {u:cost_to_complete}",
-    "DOTA_Shop_Item_Complete": "完成までのコスト: %s1"
+    "DOTA_Shop_Item_Complete": "完成までのコスト: %s1",
+    "DOTA_Profile_RemovedBackground": "壁紙をクリア"
 }
