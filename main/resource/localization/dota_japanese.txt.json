@@ -9132,5 +9132,6 @@
     "PartyNotValidToMM": "あなたのパーティーは、現在の状態ではプレイすることができません。コーチ以外のプレイヤーが1人以上5人以下でないとマッチできません。",
     "DOTA_HUD_Shop_Item_Complete": "完成までのコスト: {u:cost_to_complete}",
     "DOTA_Shop_Item_Complete": "完成までのコスト: %s1",
-    "DOTA_Profile_RemovedBackground": "壁紙をクリア"
+    "DOTA_Profile_RemovedBackground": "壁紙をクリア",
+    "DOTA_Chat_ActionItemReason_Unknown": "現在使えません"
 }
