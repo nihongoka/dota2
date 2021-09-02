@@ -9133,5 +9133,21 @@
     "DOTA_HUD_Shop_Item_Complete": "完成までのコスト: {u:cost_to_complete}",
     "DOTA_Shop_Item_Complete": "完成までのコスト: %s1",
     "DOTA_Profile_RemovedBackground": "壁紙をクリア",
-    "DOTA_Chat_ActionItemReason_Unknown": "現在使えません"
+    "DOTA_Chat_ActionItemReason_Unknown": "現在使えません",
+    "DOTA_Plus_Fall2021_Update_Desc": "Nemesticeバトルパスのチャットホイールやアシスタント機能、新しいシーズンクエスト、期間限定のトレジャーなどがDota Plusに追加されました。",
+    "DOTA_Plus_Fall2021_Update_Title": "2021 秋シーズンアップデート",
+    "DOTA_PlusSeason_SeasonFall2021_Name": "2021秋",
+    "DOTA_PlusSeason_SeasonFall2021_Quests": "2021 秋シーズンクエスト",
+    "DOTA_PlusSeason_SeasonFall2021_Subtitle": "2021年12月1日秋シーズン終了まで。",
+    "DOTA_PlusSeason_SeasonFall2021_TreasureDescription": "2021年12月1日秋シーズン終了までの限定販売。",
+    "dota_chatwheel_label_Banjo_Charge": "バンジョーチャージ",
+    "dota_chatwheel_message_Banjo_Charge": "パパパパッパパー♪",
+    "dota_chatwheel_message_Choo_Choo": "ポーッポーッ",
+    "dota_chatwheel_label_Choo_Choo": "ポーッポーッ",
+    "dota_chatwheel_label_Gong": "ゴング",
+    "dota_chatwheel_message_Gong": "ゴング",
+    "dota_chatwheel_label_Slide": "スライド",
+    "dota_chatwheel_message_Slide": "スライド",
+    "dota_chatwheel_label_Uh_Oh": "プルッポー",
+    "dota_chatwheel_message_Uh_Oh": "プルッポー"
 }
