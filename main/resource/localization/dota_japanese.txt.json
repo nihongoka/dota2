@@ -9149,5 +9149,7 @@
     "dota_chatwheel_label_Slide": "スライド",
     "dota_chatwheel_message_Slide": "スライド",
     "dota_chatwheel_label_Uh_Oh": "プルッポー",
-    "dota_chatwheel_message_Uh_Oh": "プルッポー"
+    "dota_chatwheel_message_Uh_Oh": "プルッポー",
+    "DOTA_Arcana_Wraith_King_PostGame_HeroesSlain_Singular": "{d:wk_arcana_hero_count}ヒーロー討伐",
+    "DOTA_Arcana_Wraith_King_PostGame_HeroesSlain_Plural": "{d:wk_arcana_hero_count}ヒーロー討伐"
 }
