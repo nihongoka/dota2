@@ -9151,5 +9151,19 @@
     "dota_chatwheel_label_Uh_Oh": "プルッポー",
     "dota_chatwheel_message_Uh_Oh": "プルッポー",
     "DOTA_Arcana_Wraith_King_PostGame_HeroesSlain_Singular": "{d:wk_arcana_hero_count}ヒーロー討伐",
-    "DOTA_Arcana_Wraith_King_PostGame_HeroesSlain_Plural": "{d:wk_arcana_hero_count}ヒーロー討伐"
+    "DOTA_Arcana_Wraith_King_PostGame_HeroesSlain_Plural": "{d:wk_arcana_hero_count}ヒーロー討伐",
+    "fight_recap_gold": "ゴールドの変化",
+    "fight_recap_xp": "経験値の変化",
+    "DOTA_HUD_RadiantKilledCourier": "Radiantのクーリエが死亡",
+    "fight_recap_hide": "戦闘の要約を閉じる",
+    "DOTA_Chat_CourierLostGood": "Radiantのクーリエが死亡した。",
+    "DOTA_Chat_CourierLostBad": "Direのクーリエが死亡した。",
+    "DOTA_HUD_KilledPersonalCourier": "{g:dota_filtered_string:player_name}のクーリエが死亡",
+    "DOTA_HUD_DireKilledCourier": "Direのクーリエが死亡",
+    "DOTA_Announcer_Preview_Lina_03": "Direのクーリエが死亡",
+    "fight_recap_show": "戦闘の要約を表示",
+    "fight_recap_abilites_used": "使用されたアビリティ",
+    "fight_recap_items_used": "使用されたアイテム",
+    "fight_recap_dmg": "与えたダメージ",
+    "CompetitiveMMNo4Stacks": "現在、ランクマッチは4人パーティーで参加できません。"
 }
