@@ -9155,7 +9155,7 @@
     "fight_recap_gold": "ゴールドの変化",
     "fight_recap_xp": "経験値の変化",
     "DOTA_HUD_RadiantKilledCourier": "Radiantのクーリエが死亡",
-    "fight_recap_hide": "戦闘の要約を閉じる",
+    "fight_recap_hide": "戦闘の要約を隠す",
     "DOTA_Chat_CourierLostGood": "Radiantのクーリエが死亡した。",
     "DOTA_Chat_CourierLostBad": "Direのクーリエが死亡した。",
     "DOTA_HUD_KilledPersonalCourier": "{g:dota_filtered_string:player_name}のクーリエが死亡",
