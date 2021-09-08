@@ -9165,5 +9165,11 @@
     "fight_recap_abilites_used": "使用されたアビリティ",
     "fight_recap_items_used": "使用されたアイテム",
     "fight_recap_dmg": "与えたダメージ",
-    "CompetitiveMMNo4Stacks": "現在、ランクマッチは4人パーティーで参加できません。"
+    "CompetitiveMMNo4Stacks": "現在、ランクマッチは4人パーティーで参加できません。",
+    "DOTA_ChallengeDesc_SuccessfulScan": "泉の外にいる敵に対して<font color='#ffffff'>%s1</font>回スキャンを成功させる。",
+    "DOTA_Armory_Tags_Popup_Info": "タグスロット名を変更しても、そのタグを設定していたアイテムは新しいタグを継承するため消去されません。",
+    "Dota_Lobby_Set_Password": "適用",
+    "UI_APPLY": "適用",
+    "DOTA_ChallengeDesc_KillSingleEnemy": "単一の敵を<font color='#ffffff'>%s1</font>回キルする。",
+    "dota_apply": "適用"
 }
