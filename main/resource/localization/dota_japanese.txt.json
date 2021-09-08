@@ -9171,5 +9171,6 @@
     "Dota_Lobby_Set_Password": "適用",
     "UI_APPLY": "適用",
     "DOTA_ChallengeDesc_KillSingleEnemy": "単一の敵を<font color='#ffffff'>%s1</font>回キルする。",
-    "dota_apply": "適用"
+    "dota_apply": "適用",
+    "DOTA_Hud_NeedMoreGold": "ゴールドが足りない"
 }
