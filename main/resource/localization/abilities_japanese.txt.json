@@ -7322,7 +7322,7 @@
     "DOTA_Tooltip_ability_leshrac_greater_lightning_storm_Description": "自身と自身から範囲%radius%にいる全ての敵をエーテル状態にするオーラを%duration%秒間纏う。その間は通常攻撃することもされることもできず、魔法ダメージを%magic_amp%%%多く受け、%slow%%%スローになる。Leshracは逆に移動速度が向上する。",
     "DOTA_Tooltip_ability_vengefulspirit_magic_missile_abilitycastrange": "キャスト範囲:",
     "DOTA_Tooltip_ability_vengefulspirit_wave_of_terror_shard_description": "Wave of Terrorは敵ヒーローの基礎攻撃力と基礎アーマーの20%%を盗み、デバフの持続時間中Vengeful Spiritに付与する。",
-    "DOTA_Tooltip_ability_vengefulspirit_command_aura_scepter_description": "死亡時、Vengeful Spiritの強力なイリュージョンを生成する。イリュージョンには25%%の移動速度ボーナスがあり、100%%のダメージを与え、全ての呪文を唱えることができる。Vengeful Spiritがリスポーンした時にイリュージョンが生きていれば、その場所に復帰する。イリュージョンで得た経験値は自身に加算される。",
+    "DOTA_Tooltip_ability_vengefulspirit_command_aura_scepter_description": "死亡時、Vengeful Spiritの強力なイリュージョンを生成する。イリュージョンには12%%の移動速度ボーナスがあり、100%%のダメージを与え、全ての呪文を唱えることができる。Vengeful Spiritがリスポーンした時にイリュージョンが生きていれば、その場所に復帰する。イリュージョンで得た経験値は自身に加算される。",
     "DOTA_Tooltip_ability_vengefulspirit_command_aura_bonus_base_damage": "%基礎攻撃力ボーナス:",
     "DOTA_Tooltip_modifier_vengefulspirit_wave_of_terror_buff": "Wave of Terror",
     "DOTA_Tooltip_modifier_vengefulspirit_wave_of_terror_buff_Description": "敵の基礎攻撃力を奪っている。",
@@ -9422,7 +9422,7 @@
     "DOTA_Tooltip_ability_mirana_starfall_damage": "ダメージ:",
     "DOTA_Tooltip_ability_windrunner_gale_force": "Gale Force",
     "DOTA_Tooltip_ability_windrunner_gale_force_Lore": "ついにLyraleiは生まれながらにして持つ新の力を呼び覚ますことを覚えた。",
-    "DOTA_Tooltip_ability_windrunner_gale_force_Description": "マップ上の任意の場所に強力な風を呼び出して、範囲内のすべての敵を指定した方向に毎秒250ユニット押し出す。マナコスト: 150 クールダウン: 40秒",
+    "DOTA_Tooltip_ability_windrunner_gale_force_Description": "マップ上の任意の場所に強力な風を呼び出して、範囲1000内のすべての敵を指定した方向に毎秒250ユニット押し出す。射程: グローバル マナコスト: 150 クールダウン: 40秒",
     "DOTA_Tooltip_ability_vengefulspirit_nether_swap_damage_reduction": "ダメージ減少:",
     "DOTA_Tooltip_ability_vengefulspirit_nether_swap_damage_reduction_duration": "ダメージ減少効果時間:",
     "DOTA_Tooltip_modifier_vengefulspirit_nether_swap_damage_reduction": "Nether Swap",
@@ -9488,7 +9488,7 @@
     "DOTA_Tooltip_modifier_broodmother_silken_bola": "Silken Bola",
     "DOTA_Tooltip_ability_abyssal_underlord_dark_portal_duration": "効果時間:",
     "DOTA_Tooltip_ability_abyssal_underlord_dark_portal_Lore": "長い間、深淵の力は限られていたが、Aghanimの力を手にした今、征服への渇望はますます強くなる。",
-    "DOTA_Tooltip_ability_abyssal_underlord_dark_portal_Description": "Underlordの隣と指定した場所に、2つのポータルを開ける。味方はポータルを2秒間チャネリングすることで反対側へテレポートすることができる。",
+    "DOTA_Tooltip_ability_abyssal_underlord_dark_portal_Description": "Underlordの隣と指定した場所に、2つのポータルを開ける。味方はポータルを2秒間チャネリングすることで反対側へテレポートすることができる。最長ポータル間距離は4000。",
     "DOTA_Tooltip_ability_abyssal_underlord_dark_portal_channel_time": "チャネリング時間:",
     "DOTA_Tooltip_ability_pangolier_shield_crash_slow": "%移動速度減少:",
     "DOTA_Tooltip_ability_pangolier_shield_crash_slow_duration": "速度減少効果時間:",
@@ -9714,5 +9714,6 @@
     "DOTA_Tooltip_modifier_obsidian_destroyer_equilibrium_buff_counter_Description": "最大マナを%dMODIFIER_PROPERTY_TOOLTIP%盗んでいる。",
     "DOTA_Tooltip_modifier_legion_commander_press_the_attack_immunity": "Press the Attack",
     "DOTA_Tooltip_modifier_legion_commander_press_the_attack_immunity_Description": "スペル耐性を得ている。",
-    "DOTA_Tooltip_ability_broodmother_spin_web_abilitydraft_note": "シャード: Silken Bolaは獲得しない。"
+    "DOTA_Tooltip_ability_broodmother_spin_web_abilitydraft_note": "シャード: Silken Bolaは獲得しない。",
+    "DOTA_Tooltip_ability_clinkz_strafe_Note0": "ボーナス攻撃範囲はBurning Barrageの射程を増加させる。"
 }
