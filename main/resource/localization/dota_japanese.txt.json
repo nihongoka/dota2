@@ -9172,5 +9172,6 @@
     "UI_APPLY": "適用",
     "DOTA_ChallengeDesc_KillSingleEnemy": "単一の敵を<font color='#ffffff'>%s1</font>回キルする。",
     "dota_apply": "適用",
-    "DOTA_Hud_NeedMoreGold": "ゴールドが足りない"
+    "DOTA_Hud_NeedMoreGold": "ゴールドが足りない",
+    "DOTA_LiveSpectating_Error_NotFriends": "この機能を使うためにはフレンドになる必要があります。"
 }
