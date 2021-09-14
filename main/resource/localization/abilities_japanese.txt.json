@@ -4228,7 +4228,7 @@
     "DOTA_Tooltip_ability_silencer_last_word_Description": "対象にエンチャントをかけることで、対象の視界を得て、対象が呪文を唱えた場合やエンチャントタイマーが切れた場合にダメージを与えてサイレンス状態にする。その際、Silencerと対象のIntelligenceの差に応じて追加ダメージを与える。",
     "DOTA_Tooltip_ability_silencer_global_silence_Note0": "このスキルは透明状態やスペル耐性ユニットに効果を発揮するが、スペル耐性を発動すればディスペルされる。",
     "DOTA_Tooltip_modifier_silencer_last_word_disarm_Description": "サイレンスを受けてる",
-    "DOTA_Tooltip_modifier_silencer_glaives_of_wisdom_Description": "Silencerは、彼が殺した敵ヒーロー、および925の範囲内で死亡した敵ヒーローから、永久に2(Talentで4)のIntelligenceを盗む。",
+    "DOTA_Tooltip_modifier_silencer_glaives_of_wisdom_Description": "Silencerは、彼が殺した敵ヒーロー、および925の範囲内で死亡した敵ヒーローから、永久に2 Intelligenceを盗む。",
     "DOTA_Tooltip_ability_obsidian_destroyer_arcane_orb_Description": "Outworld Destroyerの攻撃に、残りのマナプールに応じてピュアダメージを追加する。",
     "DOTA_Tooltip_ability_obsidian_destroyer_astral_imprisonment_Description": "対象のユニットを星の牢獄に閉じ込める。隠されたユニットは無敵となり、ディセーブルを受ける。牢獄が崩壊すると、ダメージを与え、対象の最大マナの数パーセントを盗む。",
     "DOTA_Tooltip_ability_obsidian_destroyer_essence_aura_Description": "近くにいる味方のヒーローやOutworld Destroyer自身がスペルを唱えるたびに、そのヒーローは自分のマナプールの何％かを回復するチャンスを得る。  Outworld Destroyerはまた、パッシブでベースマナプールにボーナスを得る。  クールダウンがなく、トグル可能ないくつかのスキルは、Essence Auraを発動できない。",
