@@ -4194,7 +4194,7 @@
     "DOTA_Tooltip_modifier_silencer_glaives_of_wisdom_buff_counter_Description": "一時的にIntを盗んでいる",
     "DOTA_Tooltip_modifier_silencer_glaives_of_wisdom": "恒久的に盗まれているInt量",
     "DOTA_Tooltip_modifier_silencer_int_steal": "盗まれた恒久的なInt量",
-    "DOTA_Tooltip_modifier_silencer_int_steal_Description": "Silencerは、彼が殺した敵ヒーロー、および925の範囲内で死亡した敵ヒーローから、永久に2(Talentで4)のIntelligenceを盗む。",
+    "DOTA_Tooltip_modifier_silencer_int_steal_Description": "Silencerは、彼が殺した敵ヒーロー、および925の範囲内で死亡した敵ヒーローから、永久に2 Intelligenceを盗む。",
     "DOTA_Tooltip_modifier_silencer_global_silence_Description": "すべてのヒーローはサイレンス状態になっている。",
     "DOTA_Tooltip_ability_obsidian_destroyer_arcane_orb_Note0": "ダメージはマナを消費した後に計算される。",
     "DOTA_Tooltip_ability_obsidian_destroyer_arcane_orb_mana_pool_damage_pct": "%マナプールに応じたダメージ:",
