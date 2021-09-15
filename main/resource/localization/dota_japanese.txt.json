@@ -9189,5 +9189,14 @@
     "DOTA_CoachingError_eAlreadyInLobby": "既にロビーにいます。",
     "DOTA_CoachingError_eCoachNotSubscriber": "コーチが会員ではありません。",
     "DOTA_CoachingError_eBehaviorScoreTooLow": "行動スコアが低すぎます。",
-    "DOTA_CoachingError_eCoachInThisLobby": "コーチはこのロビーにいます。"
+    "DOTA_CoachingError_eCoachInThisLobby": "コーチはこのロビーにいます。",
+    "DOTA_CoachingError_eDisabled": "できません。",
+    "DOTA_CoachingError_eCoachSwitchedTeams": "コーチはチームを変えました。",
+    "DOTA_CoachingError_eCoachWasPlayer": "コーチはプレイヤーです。",
+    "DOTA_CoachingError_eFriendIsNotAPlayer": "フレンドはプレイヤーではありません。",
+    "DOTA_CoachingError_eCoachRankNotCalibrated": "コーチがランク戦のキャリブレーションを行っていません。",
+    "DOTA_CoachingError_eCoachRankNotEligible": "コーチのランクが低すぎます。",
+    "DOTA_CoachingError_eCoachRankTooLow": "このプレイヤーをコーチングするにはランクが低すぎます。",
+    "DOTA_CoachingError_eCoachInvalidTeam": "コーチは現在観戦していません。",
+    "DOTA_CoachingError_eCoachNotInLobby": "コーチはロビーにいません。"
 }
