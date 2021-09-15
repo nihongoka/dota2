@@ -9715,5 +9715,6 @@
     "DOTA_Tooltip_modifier_legion_commander_press_the_attack_immunity": "Press the Attack",
     "DOTA_Tooltip_modifier_legion_commander_press_the_attack_immunity_Description": "スペル耐性を得ている。",
     "DOTA_Tooltip_ability_broodmother_spin_web_abilitydraft_note": "シャード: Silken Bolaは獲得しない。",
-    "DOTA_Tooltip_ability_clinkz_strafe_Note0": "ボーナス攻撃範囲はBurning Barrageの射程を増加させる。"
+    "DOTA_Tooltip_ability_clinkz_strafe_Note0": "ボーナス攻撃範囲はBurning Barrageの射程を増加させる。",
+    "DOTA_Tooltip_ability_dawnbreaker_luminosity_Note0": "Luminosityによる回復はライフスティールとしてみなされ、ライフスティール増幅によって増幅される。"
 }
