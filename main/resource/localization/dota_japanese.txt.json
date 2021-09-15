@@ -9200,5 +9200,13 @@
     "DOTA_CoachingError_eCoachInvalidTeam": "コーチは現在観戦していません。",
     "DOTA_CoachingError_eCoachNotInLobby": "コーチはロビーにいません。",
     "DOTA_CoachingError_eFriendsOnBothSides": "両サイドのフレンド。",
-    "DOTA_CoachingError_eInvalidLobbyState": "ロビーは無効な状態です。"
+    "DOTA_CoachingError_eInvalidLobbyState": "ロビーは無効な状態です。",
+    "DOTA_CoachingError_eInvalidLobbyType": "ロビータイプが無効です。",
+    "DOTA_CoachingError_eInvalidUser": "無効ユーザーです。",
+    "DOTA_CoachingError_eJoinFailed": "参加に失敗しました。",
+    "DOTA_CoachingError_eLobbyIsLan": "ロビーはLANゲームです。",
+    "DOTA_CoachingError_eLobbyIsLeague": "ロビーはリーグ戦です。",
+    "DOTA_CoachingError_eLobbyNotFound": "ロビーが見つかりません。",
+    "DOTA_CoachingError_eInvalidRating": "レーティングが無効です。",
+    "DOTA_CoachingError_eInvalidResponse": "レスポンスが無効です。"
 }
