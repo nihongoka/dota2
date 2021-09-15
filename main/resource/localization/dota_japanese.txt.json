@@ -9173,5 +9173,21 @@
     "DOTA_ChallengeDesc_KillSingleEnemy": "単一の敵を<font color='#ffffff'>%s1</font>回キルする。",
     "dota_apply": "適用",
     "DOTA_Hud_NeedMoreGold": "ゴールドが足りない",
-    "DOTA_LiveSpectating_Error_NotFriends": "この機能を使うためにはフレンドになる必要があります。"
+    "DOTA_LiveSpectating_Error_NotFriends": "この機能を使うためにはフレンドになる必要があります。",
+    "MMGameMode_CoachesNotAllowed": "このゲームモードではコーチを利用できません。",
+    "DOTA_CoachFriend_AcceptFailed": "フレンドコーチを承認できません",
+    "DOTA_CoachFriend_RejectFailed": "フレンドコーチを拒否できません",
+    "DOTA_CoachingError_eAlreadyFinished": "セッションが既に終了しています。",
+    "DOTA_CoachingError_eAlreadyHasCoach": "このプレイヤーは既にコーチです。",
+    "DOTA_CoachingError_eAlreadyInSession": "既にセッション中です。",
+    "DOTA_CoachingError_eAlreadyLeft": "既に退出しています。",
+    "DOTA_CoachingError_eAlreadySubmitted": "既に送信しています。",
+    "DOTA_CoachingError_eCoachInALobby": "コーチはロビーにいます。",
+    "DOTA_CoachingError_eAlreadyResponded": "既にこのリクエストに応答しています。",
+    "DOTA_CoachingError_eCoachBehaviorScoreTooLow": "コーチの行動スコアが低すぎます。",
+    "DOTA_CoachingError_eAlreadyHasSession": "このプレイヤーは既にセッションに参加しています。",
+    "DOTA_CoachingError_eAlreadyInLobby": "既にロビーにいます。",
+    "DOTA_CoachingError_eCoachNotSubscriber": "コーチが会員ではありません。",
+    "DOTA_CoachingError_eBehaviorScoreTooLow": "行動スコアが低すぎます。",
+    "DOTA_CoachingError_eCoachInThisLobby": "コーチはこのロビーにいます。"
 }
