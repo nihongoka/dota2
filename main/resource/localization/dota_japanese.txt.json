@@ -9198,5 +9198,7 @@
     "DOTA_CoachingError_eCoachRankNotEligible": "コーチのランクが低すぎます。",
     "DOTA_CoachingError_eCoachRankTooLow": "このプレイヤーをコーチングするにはランクが低すぎます。",
     "DOTA_CoachingError_eCoachInvalidTeam": "コーチは現在観戦していません。",
-    "DOTA_CoachingError_eCoachNotInLobby": "コーチはロビーにいません。"
+    "DOTA_CoachingError_eCoachNotInLobby": "コーチはロビーにいません。",
+    "DOTA_CoachingError_eFriendsOnBothSides": "両サイドのフレンド。",
+    "DOTA_CoachingError_eInvalidLobbyState": "ロビーは無効な状態です。"
 }
