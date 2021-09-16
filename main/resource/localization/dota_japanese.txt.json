@@ -9236,5 +9236,7 @@
     "DOTA_CoachingError_eNoLobby": "ロビーがありません。",
     "DOTA_CoachingError_eNoSession": "セッションがありません。",
     "DOTA_CoachingSessionRole_Student": "プレイヤー",
-    "DOTA_Hero_Selection_PenaltyTime_AllDraft": "現在ピック中のチームでヒーローをピックしていないプレイヤーは、誰かがピックするまで1秒につき2ゴールドを失います。"
+    "DOTA_Hero_Selection_PenaltyTime_AllDraft": "現在ピック中のチームでヒーローをピックしていないプレイヤーは、誰かがピックするまで1秒につき2ゴールドを失います。",
+    "DOTA_BattlePassLog_CorrectPrediction": "予言の成功",
+    "DOTA_BattlePassLog_BonusTreasure": "{g:dota_item_link:bonus_treasure_item}のリサイクルボーナス"
 }
