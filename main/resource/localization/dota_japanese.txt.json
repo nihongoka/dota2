@@ -8606,7 +8606,7 @@
     "WeekendTourney_TeamNamePlaceholder": "チーム名を入力",
     "WeekendTourney_JoinDivisionChat": "{s:selected_division}ティア{d:weekendtourney_team_skill_level}のチャット",
     "WeekendTourney_TitleSelectedDivision": "{s:selected_division}ディビジョン",
-    "WeekendTourney_TierNotInThisDivision": "すみません、このディビジョン/ティアには十分なプレイヤーがいません。",
+    "WeekendTourney_TierNotInThisDivision": "申し訳ありません。このディビジョン/ティアには十分なプレイヤーがいません。",
     "WeekendTourney_EditOfficial": "公式チームを変更する",
     "WeekendTourney_PartyBuilderSoloStartTooltip": "あなたのティアで近くにあるパーティーを探して参加します。",
     "WeekendTourney_PartyBuilderPartyStartTooltip": "チームのティアで近くのプレイヤーを見つけて、パーティーに加えます。",
@@ -9322,5 +9322,9 @@
     "DOTA_Claimed": "受け取った",
     "DOTA_Frontpage_TI10Compendium_Title": "チケット情報、フリーコンペンディウム、観戦者のアップデート",
     "DOTA_Frontpage_SupportersClubSale_Header": "サポータークラブセール",
-    "DOTA_Frontpage_SupportersClubSale_Title": "全てのチームが50%オフ"
+    "DOTA_Frontpage_SupportersClubSale_Title": "全てのチームが50%オフ",
+    "DOTA_Popup_CardPack_Model_SubTitle": "",
+    "DOTA_Popup_CardPack_Opening": "パックを開封中...",
+    "DOTA_ClearHeroAbilityBindings": "クリア",
+    "DOTA_PlayTourneyStatus_StartingSoon": "{s:weekend_tourney_selected_division_name}ディビジョンバトルカップ<br/>エントリー開始まで {s:weekendtourney_duration_until_window_open}"
 }
