@@ -9353,5 +9353,9 @@
     "diresiegecreeps": "Dire シージクリープ",
     "LoadoutSlot_Radiant_Siege_Creeps": "Radiant シージクリープ",
     "LoadoutSlot_Dire_Siege_Creeps": "Dire シージクリープ",
-    "DOTA_Frontpage_TI10Compendium_Desc": "詳しくはブログをチェック。"
+    "DOTA_Frontpage_TI10Compendium_Desc": "詳しくはブログをチェック。",
+    "DOTA_HUD_rune_spawned_top": "ルーンがトップに出現",
+    "DOTA_HUD_rune_spawned_bottom": "ルーンがボトムに出現",
+    "DOTA_WatchLiveInGame": "ゲーム内で視聴する",
+    "DOTA_WatchLive_Viewers": "視聴者数 {s:spectating}"
 }
