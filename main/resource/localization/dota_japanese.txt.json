@@ -9357,5 +9357,10 @@
     "DOTA_HUD_rune_spawned_top": "ルーンがトップに出現",
     "DOTA_HUD_rune_spawned_bottom": "ルーンがボトムに出現",
     "DOTA_WatchLiveInGame": "ゲーム内で視聴する",
-    "DOTA_WatchLive_Viewers": "視聴者数 {s:spectating}"
+    "DOTA_WatchLive_Viewers": "視聴者数 {s:spectating}",
+    "DOTA_PlayerCardsRecycleConfirmBodyInUse": "このプレイヤーカード破壊して{i:card_dust_amount}ダストと交換しますか。<br><br><font color='#ff0000'>このカードはファンタジーロースターで使うことができます！</font><br><br>続けますか？",
+    "DOTA_PlayerCardsRecycleConfirmBodyMultiple": "ゴールドまたはシルバーをもっているプレイヤーカードや重複しているコモンカードを破壊して、{i:card_dust_amount}ダストを獲得します。<br><br>続けますか？",
+    "DOTA_PlayerCardsSelectPlayer": "プレイヤーを選択...",
+    "DOTA_PlayerCardsSelectTeam": "チームを選択...",
+    "DOTA_PlayerCardsRecycleConfirmBodyInUseMultiple": "シルバーまたはゴールドを持っている全てのコモンカードを破壊して、{i:card_dust_amount}ダストを獲得します。<br><br><font color='#ff0000'>これらのカードはファンタジーロースターで使うことができます！</font><br><br>続けますか？"
 }
