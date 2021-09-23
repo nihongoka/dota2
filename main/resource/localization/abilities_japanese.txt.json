@@ -129,7 +129,7 @@
     "DOTA_Tooltip_modifier_antimage_mana_void": "クールダウンが増加した",
     "DOTA_Tooltip_modifier_antimage_mana_void_Description": "Mana Voidによりアビリティのクールダウンが増加している。",
     "DOTA_Tooltip_ability_queenofpain_shadow_strike": "Shadow Strike",
-    "DOTA_Tooltip_ability_queenofpain_shadow_strike_Description": "大きな初期ダメージと、時間が経つにつれて与える継続ダメージを与える毒仕込みのダガーを放つ。毒を受けたユニットは、移動速度が%abilityduration%秒の間遅くなる。<br>ダメージは%damage_interval%秒毎に発生する。Queen of Painは痛めつけに悦びを感じ、敵がダメージを受けるたびに回復する。クリープに対しては半分量だけ回復する。",
+    "DOTA_Tooltip_ability_queenofpain_shadow_strike_Description": "大きな初期ダメージと、時間が経つにつれて与える継続ダメージを与える毒仕込みのダガーを放つ。毒を受けたユニットは、移動速度が%duration%秒間減少する。<br>ダメージは%damage_interval%秒毎に発生する。Queen of Painは痛めつけに悦びを感じ、敵がダメージを受けるたびに回復する。クリープに対しては半分量だけ回復する。",
     "DOTA_Tooltip_ability_queenofpain_shadow_strike_Note0": "効果を受けたユニットは効果期間中、1秒ごとに少しずつ元の移動速度へ戻る。",
     "DOTA_Tooltip_ability_queenofpain_shadow_strike_movement_slow": "%移動速度減少:",
     "DOTA_Tooltip_ability_queenofpain_shadow_strike_strike_damage": "初期ダメージ:",
