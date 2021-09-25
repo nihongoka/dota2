@@ -9362,5 +9362,7 @@
     "DOTA_PlayerCardsRecycleConfirmBodyMultiple": "ゴールドまたはシルバーをもっているプレイヤーカードや重複しているコモンカードを破壊して、{i:card_dust_amount}ダストを獲得します。<br><br>続けますか？",
     "DOTA_PlayerCardsSelectPlayer": "プレイヤーを選択...",
     "DOTA_PlayerCardsSelectTeam": "チームを選択...",
-    "DOTA_PlayerCardsRecycleConfirmBodyInUseMultiple": "シルバーまたはゴールドを持っている全てのコモンカードを破壊して、{i:card_dust_amount}ダストを獲得します。<br><br><font color='#ff0000'>これらのカードはファンタジーロースターで使うことができます！</font><br><br>続けますか？"
+    "DOTA_PlayerCardsRecycleConfirmBodyInUseMultiple": "シルバーまたはゴールドを持っている全てのコモンカードを破壊して、{i:card_dust_amount}ダストを獲得します。<br><br><font color='#ff0000'>これらのカードはファンタジーロースターで使うことができます！</font><br><br>続けますか？",
+    "DOTA_Custom_Game_Penalty_Support_I": "このカスタムゲームでは、レディーアップに失敗したり、ゲームを放棄したりするとペナルティが課せられるようになっています。 ペナルティを受けると、ペナルティ期間中はカスタムゲームに参加できなくなります。",
+    "DOTA_Custom_Game_Penalty_Support": "ペナルティが有効です"
 }
