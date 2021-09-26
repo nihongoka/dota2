@@ -9364,5 +9364,21 @@
     "DOTA_PlayerCardsSelectTeam": "チームを選択...",
     "DOTA_PlayerCardsRecycleConfirmBodyInUseMultiple": "シルバーまたはゴールドを持っている全てのコモンカードを破壊して、{i:card_dust_amount}ダストを獲得します。<br><br><font color='#ff0000'>これらのカードはファンタジーロースターで使うことができます！</font><br><br>続けますか？",
     "DOTA_Custom_Game_Penalty_Support_I": "このカスタムゲームでは、レディーアップに失敗したり、ゲームを放棄したりするとペナルティが課せられるようになっています。 ペナルティを受けると、ペナルティ期間中はカスタムゲームに参加できなくなります。",
-    "DOTA_Custom_Game_Penalty_Support": "ペナルティが有効です"
+    "DOTA_Custom_Game_Penalty_Support": "ペナルティが有効です",
+    "DOTA_DPCTeams_Search": "チームを検索",
+    "DOTA_WatchReplays_Friends3Plus": "{g:dota_persona:b:friend_1}, {g:dota_persona:b:friend_2}他{i:friend_count_over_2}人のフレンド",
+    "DOTA_WatchReplays_MatchType_Public": "マッチ {s:match_id} - {s:game_mode}",
+    "DOTA_TeamFanContent_CompendiumCardPacksBasicText": "各サポーターティアごとに<span class=\"Highlight\">ベーシックパック</span>が受け取れます。<br><br>各パックで1枚はゴールドまたはシルバーカードが保証されています。",
+    "DOTA_Custom_Game_Already_In_Lobby": "このゲームを開始するには現在のゲームを終了する必要があります。",
+    "DOTA_WatchReplays_Friends1": "{g:dota_persona:b:friend_1}がプレイ",
+    "DOTA_WatchReplays_Friends2": "{g:dota_persona:b:friend_1}と{g:dota_persona:friend_2}がプレイ",
+    "DOTA_Custom_Game_Finished_Vote_Skip": "スキップ",
+    "DOTA_Shop_Tip_EditCommonItems": "自分のピン留めの編集<br>ピン留めしたアイテムショートカットはすべてのヒーローで共有されます。",
+    "DOTA_TeamFanContent_Sale": "50% off",
+    "DOTA_Item_Build_Neutral_Items": "使用可能なニュートラルアイテム",
+    "DOTA_Item_Build_Enter_Tooltip_Title": "ツールチップテキストを入力",
+    "DOTA_Item_Build_Options_Items": "人気のアイテム",
+    "DOTA_Item_Build_Other_Options_Items": "良く購入されているアイテム",
+    "DOTA_PatchNotes_NeutralItemsSection": "ニュートラルアイテムの変更",
+    "DOTA_Custom_Game_Finished_Vote_Question": "このカスタムゲームをどう思いますか？"
 }
