@@ -7179,7 +7179,7 @@
     "DOTA_Tooltip_Ability_item_river_painter": "River Vial: Chrome",
     "DOTA_Tooltip_Ability_item_recipe_vambrace": "Vambrace Recipe",
     "DOTA_Tooltip_Ability_item_gloves_of_travel": "Gloves of Travel",
-    "DOTA_Tooltip_ability_item_overwhelming_blink_Description": "<h1>Active: Overwhelming Blink</h1> 範囲%blink_range%以内の選択した地点にテレポートする。<br><br>テレポート後、範囲%radius%にいるすべての敵に対して%duration%秒間、移動速度%movement_slow%%%低下、攻撃速度%attack_slow%低下のデバフを与え、200 + 所有者のstrengthの%damage_pct%%% に等しいダメージを与える。 <br><br>Overwhelming Blinkは敵ヒーローやRoshanからダメージを受けた後、%blink_damage_cooldown%秒間は使用不可。",
+    "DOTA_Tooltip_ability_item_overwhelming_blink_Description": "<h1>Active: Overwhelming Blink</h1> 範囲%blink_range%以内の選択した地点にテレポートする。<br><br>テレポート後、範囲%radius%にいるすべての敵に対して%duration%秒間、移動速度%movement_slow%%%低下、攻撃速度%attack_slow%低下のデバフを与え、100 + 所有者のstrengthの%damage_pct%%% に等しいダメージを与える。 <br><br>Overwhelming Blinkは敵ヒーローやRoshanからダメージを受けた後、%blink_damage_cooldown%秒間は使用不可。",
     "DOTA_Tooltip_Ability_item_grandmasters_glaive_int": "Ocean Stance",
     "DOTA_Tooltip_ability_riki_smoke_screen_Note1": "アクティブアイテムの使用を妨げない。",
     "DOTA_Tooltip_Ability_item_eternal_shroud": "Eternal Shroud",
