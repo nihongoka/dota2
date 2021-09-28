@@ -9409,5 +9409,6 @@
     "DOTA_ChallengeDesc_TinkerTravels": "<font color='#ffffff'>Tinker</font>で、試合時間が<font color='#ffffff'>%s1</font>になる前に<font color='#ffffff'>Boots of Travel</font>を購入する。",
     "DOTA_ChallengeDesc_InvokerSunStrike": "<font color='#ffffff'>Sun Strike</font>で<font color='#ffffff'>%s1</font>キルする。",
     "DOTA_ChallengeDesc_KillRoshanAsX": "<font color='#ffffff'>%s2</font>で、試合時間が<font color='#ffffff'>%s1</font>になる前にRoshanをキルする。",
-    "DOTA_ChallengeDesc_BurstDamage": "1秒以内にヒーローに<font color='#ffffff'>%s1</font>ダメージ与える。"
+    "DOTA_ChallengeDesc_BurstDamage": "1秒以内にヒーローに<font color='#ffffff'>%s1</font>ダメージ与える。",
+    "DOTA_ChallengeDesc_MiranaArrow": "<font color='#ffffff'>Mirana</font>で、<font color='#ffffff'>%s1</font>回以上<font color='#ffffff'>Sacred Arrow</font>によって<font color='#ffffff'>%s2</font>秒以上のスタンを与える。"
 }
