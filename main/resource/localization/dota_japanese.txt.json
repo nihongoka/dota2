@@ -9411,5 +9411,21 @@
     "DOTA_ChallengeDesc_KillRoshanAsX": "<font color='#ffffff'>%s2</font>で、試合時間が<font color='#ffffff'>%s1</font>になる前にRoshanをキルする。",
     "DOTA_ChallengeDesc_BurstDamage": "1秒以内にヒーローに<font color='#ffffff'>%s1</font>ダメージ与える。",
     "DOTA_ChallengeDesc_MiranaArrow": "<font color='#ffffff'>Mirana</font>で、<font color='#ffffff'>%s1</font>回以上<font color='#ffffff'>Sacred Arrow</font>によって<font color='#ffffff'>%s2</font>秒以上のスタンを与える。",
-    "custom_game_file_error": "カスタムゲームファイルへのアクセスエラー。"
+    "custom_game_file_error": "カスタムゲームファイルへのアクセスエラー。",
+    "DOTA_FantasyHelpText1": "各パックにはシルバーまたはゴールドカードを含む5枚のカードが入っています。シルバーカードは3つのランダムなスタッツボーナス、ゴールドは5つのボーナスがついています。",
+    "DOTA_FantasyHelpText2": "{g:dota_event_league_name:eventid}の各日程のファンタジーロースターに2枚のコアプレイヤーカード、1枚のミッドプレイヤーカード、2枚のサポートプレイヤーカードを置きましょう。",
+    "DOTA_FantasyHelpText3": "名簿に登録したカードのプレイヤーがその日の{g:dota_event_league_name:eventid}の試合でどのくらい活躍したかによってファンタジーポイントを獲得できます。",
+    "DOTA_FantasyHelpText4": "{g:dota_event_league_name:eventid}終了後、他のコミュニティと比べてどのくらいファンタジーポイントを稼いだかに応じてバトルポイントを獲得します。",
+    "DOTA_FantasyHelpDetailsSub1Text5": "+1 × タワー破壊 pt",
+    "DOTA_FantasyHelpDetailsSub1Text6": "+1 × Roshanキル pt",
+    "DOTA_FantasyHelpDetailsSub1Text1": "+0.3 × キル pt",
+    "DOTA_FantasyHelpTitle1": "プレイヤーカードパックを開封",
+    "DOTA_FantasyHelpTitle2": "ファンタジーロースターにカードを設置",
+    "DOTA_FantasyHelpTitle3": "ファンタジーポイントの獲得",
+    "DOTA_FantasyHelpTitle4": "バトルポイントを稼ぐ",
+    "DOTA_FantasyHelpDetailsHeader": "ファンタジーチャレンジの詳細",
+    "DOTA_FantasyHelpDetailsSub1": "各統計ごとの得点",
+    "DOTA_FantasyHelpDetailsSub1Text2": "+3 - 0.3 × デス pt",
+    "DOTA_FantasyHelpDetailsSub1Text4": "+0.002 × GPM pt",
+    "DOTA_FantasyHelpDetailsSub1Text3": "+0.003 × ラストヒット/ディナイ pt"
 }
