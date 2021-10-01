@@ -9412,7 +9412,7 @@
     "DOTA_ChallengeDesc_BurstDamage": "1秒以内にヒーローに<font color='#ffffff'>%s1</font>ダメージ与える。",
     "DOTA_ChallengeDesc_MiranaArrow": "<font color='#ffffff'>Mirana</font>で、<font color='#ffffff'>%s1</font>回以上<font color='#ffffff'>Sacred Arrow</font>によって<font color='#ffffff'>%s2</font>秒以上のスタンを与える。",
     "custom_game_file_error": "カスタムゲームファイルへのアクセスエラー。",
-    "DOTA_FantasyHelpText1": "各パックにはシルバーまたはゴールドカードを含む5枚のカードが入っています。シルバーカードは3つのランダムな統計ボーナス、ゴールドは5つのボーナスがついています。",
+    "DOTA_FantasyHelpText1": "各パックにはシルバーまたはゴールドカードを含む5枚のカードが入っています。シルバーカードは3つの、ゴールドは5つのランダムな統計ボーナスがついています。",
     "DOTA_FantasyHelpText2": "{g:dota_event_league_name:eventid}の各日程のファンタジーロースターに2枚のコアプレイヤーカード、1枚のミッドプレイヤーカード、2枚のサポートプレイヤーカードを置きましょう。",
     "DOTA_FantasyHelpText3": "名簿に登録したカードのプレイヤーがその日の{g:dota_event_league_name:eventid}の試合でどのくらい活躍したかによってファンタジーポイントを獲得できます。",
     "DOTA_FantasyHelpText4": "{g:dota_event_league_name:eventid}終了後、他のコミュニティと比べてどのくらいファンタジーポイントを稼いだかに応じてバトルポイントを獲得します。",
@@ -9483,5 +9483,9 @@
     "DOTA_FantasyHelpDetailsSub5Text2": "合計得点上位25%のファンタジーチームには8,000バトルポイントが与えられます。",
     "DOTA_FantasyHelpDetailsSub5Text3": "合計得点上位50%のファンタジーチームには4,000バトルポイントが与えられます。",
     "DOTA_FantasySelectHeader": "このスロットに置くプレイヤーカードを選択",
-    "DOTA_FantasyDropdownFilter": "全てのチーム"
+    "DOTA_FantasyDropdownFilter": "全てのチーム",
+    "DOTA_InvalidRoleSelection_Title": "無効なパーティーロール選択",
+    "DOTA_InvalidRoleSelection_SubTitle_1": "パーティー内で選択されたロールが不完全です。",
+    "DOTA_InvalidRoleSelection_SubTitle_2": "ロールを適切に調整してください",
+    "DOTA_FantasyLockTimeTI10": "名簿は各日程の午前9時(EEST)に固定されます"
 }
