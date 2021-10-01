@@ -9487,5 +9487,13 @@
     "DOTA_InvalidRoleSelection_Title": "無効なパーティーロール選択",
     "DOTA_InvalidRoleSelection_SubTitle_1": "パーティー内で選択されたロールが不完全です。",
     "DOTA_InvalidRoleSelection_SubTitle_2": "ロールを適切に調整してください",
-    "DOTA_FantasyLockTimeTI10": "名簿は各日程の午前9時(EEST)に固定されます"
+    "DOTA_FantasyLockTimeTI10": "名簿は各日程の午前9時(EEST)に固定されます",
+    "DOTA_DerivedStatsHelp_Tooltip_Armor_Desc": "受ける物理ダメージを軽減する。",
+    "DOTA_DerivedStatsHelp_Tooltip_Movespeed": "移動速度",
+    "DOTA_DerivedStatsHelp_Tooltip_Movespeed_Desc": "マップ上を動く速度。1秒間の距離に相当する。",
+    "DOTA_DerivedStatsHelp_Tooltip_Damage": "攻撃力",
+    "DOTA_DerivedStatsHelp_Tooltip_Damage_Desc": "通常攻撃時の物理ダメージ量",
+    "DOTA_DerivedStatsHelp_Tooltip_Armor": "アーマー",
+    "DOTA_DerivedStatsHelp_Tooltip_AttackRange_Desc": "ヒーローが攻撃できる範囲",
+    "DOTA_HeroSelectorCategory_AttackRange_Melee": "メレー"
 }
