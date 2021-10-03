@@ -9763,5 +9763,8 @@
     "DOTA_TI9_FrontPage_Bracket_Title": "対戦表の予想",
     "DOTA_Short_Film_Vote_NoLabel": "あんまり。",
     "DOTA_Short_Film_VotePrompt": "このショートフィルムは面白いですか？",
-    "DOTA_Custom_Game_Vote_Box_Title": "ワークショップの投票"
+    "DOTA_Custom_Game_Vote_Box_Title": "ワークショップの投票",
+    "DOTA_CompTI10_BattlePass_RepeatingRewards_Title": "繰り返し報酬",
+    "DOTA_CompTI10_BattlePass_RepeatingRewards_Description": "レベルを上げるごとにInternational Lineage Treasureを1つ獲得できます。",
+    "DOTA_TI10_BattlePass_RepeatingRewards_Title": "繰り返し報酬"
 }
