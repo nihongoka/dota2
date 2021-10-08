@@ -10026,5 +10026,9 @@
     "LoadoutSlot_Legs_Persona_1": "脚",
     "LoadoutSlot_Neck_Persona_1": "首",
     "LoadoutSlot_Back_Persona_1": "背中",
-    "DOTA_SpectatorMode_Broadcaster": "配信者"
+    "DOTA_SpectatorMode_Broadcaster": "配信者",
+    "DOTA_Chat_ObserverWardKilled": "%s1はObserver Wardを破壊した！",
+    "DOTA_Chat_ObserverWardKilledGood": "RadiantはObserver Wardを破壊した！",
+    "DOTA_Chat_ObserverWardKilledBad": "DireはObserver Wardを破壊した！",
+    "DOTA_Chat_SentryWardGood": "RadiantはSentry Wardを破壊した！"
 }
