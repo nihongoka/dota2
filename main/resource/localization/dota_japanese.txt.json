@@ -10030,5 +10030,7 @@
     "DOTA_Chat_ObserverWardKilled": "%s1はObserver Wardを破壊した！",
     "DOTA_Chat_ObserverWardKilledGood": "RadiantはObserver Wardを破壊した！",
     "DOTA_Chat_ObserverWardKilledBad": "DireはObserver Wardを破壊した！",
-    "DOTA_Chat_SentryWardGood": "RadiantはSentry Wardを破壊した！"
+    "DOTA_Chat_SentryWardGood": "RadiantはSentry Wardを破壊した！",
+    "DOTA_Chat_SentryWardKilled": "%s1はSentry Wardを破壊した！",
+    "DOTA_Chat_SentryWardBad": "DireはSentry Wardを破壊した！"
 }
