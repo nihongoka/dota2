@@ -10025,5 +10025,6 @@
     "DOTA_SpectatorFOW_Radiant": "視界: Radiant",
     "LoadoutSlot_Legs_Persona_1": "脚",
     "LoadoutSlot_Neck_Persona_1": "首",
-    "LoadoutSlot_Back_Persona_1": "背中"
+    "LoadoutSlot_Back_Persona_1": "背中",
+    "DOTA_SpectatorMode_Broadcaster": "配信者"
 }
