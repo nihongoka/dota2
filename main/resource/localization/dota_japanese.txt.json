@@ -10032,5 +10032,11 @@
     "DOTA_Chat_ObserverWardKilledBad": "DireはObserver Wardを破壊した！",
     "DOTA_Chat_SentryWardGood": "RadiantはSentry Wardを破壊した！",
     "DOTA_Chat_SentryWardKilled": "%s1はSentry Wardを破壊した！",
-    "DOTA_Chat_SentryWardBad": "DireはSentry Wardを破壊した！"
+    "DOTA_Chat_SentryWardBad": "DireはSentry Wardを破壊した！",
+    "DOTA_HUD_DisableHelp": "無効にすると、{s:player_name}はあなたのヒーローに特定のアビリティを使用できなくなります。",
+    "DOTA_HUD_SharedUnits": "有効にすると、{s:player_name}があなたの支配下にある非ヒーローユニットに命令を出せるようになります。",
+    "DOTA_HUD_SharedHero": "有効にすると、{s:player_name}があなたのヒーローに命令を出せるようになります。",
+    "dota_casters": "配信者",
+    "DOTA_Chat_PlayerKilled": "%s1は%s2の首を取り%s3ゴールドを獲得した！",
+    "Dota_Lobby_Broadcasters": "配信者"
 }
