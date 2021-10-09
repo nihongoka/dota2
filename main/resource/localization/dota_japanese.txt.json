@@ -1061,7 +1061,7 @@
     "dota_settings_name_over_healthbar": "HPバーの上に表示するもの",
     "dota_settings_showheronames": "ヒーロー名",
     "dota_alt_shows_tower_attack_range": "Altキーを押している間タワーの攻撃範囲を表示する",
-    "dota_settings_hud_healthbar_disable_status_display": "ディセーブルの状態を表示する",
+    "dota_settings_hud_healthbar_disable_status_display": "ステータスの表示を無効化する",
     "dota_settings_hud_disable_damage_numbers": "ダメージを非表示にする",
     "dota_settings_reducedflash": "フラッシュを減らす",
     "dota_settings_minimap": "ミニマップ",
