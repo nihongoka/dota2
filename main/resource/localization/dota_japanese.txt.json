@@ -10090,5 +10090,17 @@
     "dota_series_bo5": "3本先取",
     "DOTA_Custom_Game": "カスタムゲーム",
     "DOTA_Broadcaster_ImagePicker_Match": "試合の詳細",
-    "DOTA_Compendium_Predictions_Denies_First_Player_To_Reach": "最初に15ディナイ取るプレイヤー"
+    "DOTA_Compendium_Predictions_Denies_First_Player_To_Reach": "最初に15ディナイ取るプレイヤー",
+    "DOTA_HUD_Rune_DenyDoubleDamage": "<font color='#82CAFF'>ダブルダメージ</font>ルーンをディナイした",
+    "DOTA_HUD_Rune_DenyHaste": "<font color='#F62817'>ヘイスト</font>ルーンをディナイした",
+    "DOTA_HUD_Rune_DenyIllusion": "<font color='#FFD700'>イリュージョン</font>ルーンをディナイした",
+    "DOTA_HUD_Rune_DenyRegeneration": "<font color='#7FFF00'>リジェネレーション</font>ルーンをディナイした",
+    "DOTA_HUD_Rune_DenyArcane": "<font color='#FD3AFB'>アルケーン</font>ルーンをディナイした",
+    "DOTA_HUD_Rune_DenyWater": "<font color='#74A7F7'>ウォーター</font>ルーンをディナイした",
+    "DOTA_HUD_DenyRune": "{s:player_name}{s:denied_icon}{s:rune_name}{s:rune_icon}",
+    "DOTA_Chat_TowerKilledGood": "Direはタワーを破壊した！",
+    "DOTA_HUD_Rune_DenyInvisibility": "<font color='#8B008B'>インビジビリティ</font>ルーンをディナイした",
+    "DOTA_HUD_Rune_DenyBounty": "<font color='#FF7800'>バウンティ</font>ルーンをディナイした",
+    "DOTA_Chat_TowerPlayerKilled": "%s1はタワーを破壊した！",
+    "DOTA_Chat_TowerKilledBad": "Radiantはタワーを破壊した！"
 }
