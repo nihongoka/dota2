@@ -9610,7 +9610,7 @@
     "DOTA_Bracket_HelpBody_1": "<span class=\"Highlight\">{g:dota_event_league_name:eventid}</span>期間中、対戦表の枠を埋めていき、予想が的中すると<span class=\"Highlight\">コンペンディウムポイント</span>を獲得できます。",
     "DOTA_Bracket_HelpBody_3": "予想の開始時刻は<span class=\"Highlight\">{t:l:start_time}</span> <span class=\"Highlight\">{t:t:start_time}</span> 終了時刻は<span class=\"Highlight\">{t:l:lock_time}</span> <span class=\"Highlight\">{t:t:lock_time}</span>です。",
     "DOTA_Less_Details": "詳細を隠す",
-    "DOTA_Bracket_Blocker_Text1": "対戦表の予想は、グループステージ終了の翌日、次の日時で解放されます。<br> <b>{t:l:start_time}</b> <b>{t:t:start_time}</b>",
+    "DOTA_Bracket_Blocker_Text1": "対戦表の予想は、グループステージ終了後、次の日時で解放されます。<br> <b>{t:l:start_time}</b> <b>{t:t:start_time}</b>",
     "DOTA_Bracket_Blocker_Text2": "予想時間は<b>24</b>時間で、メインイベントが開始される前に固定されます。<br> <b>{t:l:lock_time}</b> <b>{t:t:lock_time}</b>",
     "DOTA_Bracket_Blocker_Text3": "表示されている時刻はあなたの地域のタイムゾーンです。",
     "DOTA_Bracket_UpperBracketRound2": "UB ラウンド2",
@@ -9780,7 +9780,7 @@
     "DOTA_Chat_PrivateCoachConnected": "%s1があなたのプライベートコーチとして参加しました。右上のコーチコントローラーを使って、コミュニケーションをとってください。",
     "DOTA_Frontpage_TI10News01_Header": "最新のニュース",
     "DOTA_Frontpage_TI10News01_Desc": "全く新しい応援システムと強力なTwitchとの連携を紹介します。",
-    "DOTA_Frontpage_TI10News01_Title": "新しい機能",
+    "DOTA_Frontpage_TI10News01_Title": "観戦して応援しよう",
     "DOTA_TI10ScheduleWidget_Final": "終了",
     "DOTA_TI10ScheduleWidget_Live": "ライブ",
     "DOTA_TI10ScheduleWidget_Title": "本日のスケジュール",
@@ -10089,5 +10089,6 @@
     "dota_series_bo3": "2本先取",
     "dota_series_bo5": "3本先取",
     "DOTA_Custom_Game": "カスタムゲーム",
-    "DOTA_Broadcaster_ImagePicker_Match": "試合の詳細"
+    "DOTA_Broadcaster_ImagePicker_Match": "試合の詳細",
+    "DOTA_Compendium_Predictions_Denies_First_Player_To_Reach": "最初に15ディナイ取るプレイヤー"
 }
