@@ -10102,5 +10102,6 @@
     "DOTA_HUD_Rune_DenyInvisibility": "<font color='#8B008B'>インビジビリティ</font>ルーンをディナイした",
     "DOTA_HUD_Rune_DenyBounty": "<font color='#FF7800'>バウンティ</font>ルーンをディナイした",
     "DOTA_Chat_TowerPlayerKilled": "%s1はタワーを破壊した！",
-    "DOTA_Chat_TowerKilledBad": "Radiantはタワーを破壊した！"
+    "DOTA_Chat_TowerKilledBad": "Radiantはタワーを破壊した！",
+    "DOTA_TI10ScheduleWidget_NextMatches": "{s:next_match_month} {d:next_match_day}日試合開始"
 }
