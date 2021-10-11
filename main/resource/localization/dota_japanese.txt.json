@@ -3933,8 +3933,8 @@
     "DOTA_Lobby_Settings_PreviousMatch": "前回のマッチID",
     "DOTA_Lobby_Settings_Bot_Difficulty_None": "なし",
     "DOTA_Lobby_Settings_Bots_Default": "デフォルトボット",
-    "DOTA_Lobby_Settings_Series_Best_of_3": "2本先取(Bo3)",
-    "DOTA_Lobby_Settings_Series_Best_of_5": "3本先取(Bo5)",
+    "DOTA_Lobby_Settings_Series_Best_of_3": "三番勝負(Bo3)",
+    "DOTA_Lobby_Settings_Series_Best_of_5": "五番勝負(Bo5)",
     "DOTA_Lobby_Settings_Enable_Cheats": "チートを有効化",
     "DOTA_Lobby_Settings_Bot_Difficulty": "ボットの難易度",
     "DOTA_Lobby_Settings_Series_Type": "対戦形式",
@@ -10103,5 +10103,9 @@
     "DOTA_HUD_Rune_DenyBounty": "<font color='#FF7800'>バウンティ</font>ルーンをディナイした",
     "DOTA_Chat_TowerPlayerKilled": "%s1はタワーを破壊した！",
     "DOTA_Chat_TowerKilledBad": "Radiantはタワーを破壊した！",
-    "DOTA_TI10ScheduleWidget_NextMatches": "{s:next_match_month} {d:next_match_day}日試合開始"
+    "DOTA_TI10ScheduleWidget_NextMatches": "{s:next_match_month} {d:next_match_day}日試合開始",
+    "DOTA_Series_Best_of_3": "三番勝負",
+    "DOTA_Series_Best": "優勝",
+    "DOTA_Series_Best_of_1": "一番勝負",
+    "DOTA_Series_Best_of_5": "五番勝負"
 }
