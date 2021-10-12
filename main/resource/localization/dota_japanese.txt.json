@@ -10140,5 +10140,18 @@
     "dungeon_game_mode_status": "Siltbreakerをプレイ中",
     "custom_difficulty_0": "ノーマル",
     "custom_difficulty_1": "ハード",
-    "custom_difficulty_2": "インセイン"
+    "custom_difficulty_2": "インセイン",
+    "dota_leaver_consequence_ForcedLossForLeaversParty": "パーティーメンバー全員負けとみなされる。",
+    "dota_reconnect_popup_title": "再接続しますか？",
+    "dota_leaver_consequence_ForcedLossForLeaversTeam": "あなたのチーム%s1は負けとみなされる。",
+    "dota_leaver_consequence_MMRLossForLeaversParty": "パーティーメンバー全員のMMRが減少する。",
+    "dota_leaver_consequence_MMRLossForLeaversTeam": "あなたのチーム%s1のMMRが減少する。",
+    "dota_leaver_consequence_MatchDiscardedForOtherPlayers": "他のプレイヤーにとってスコアなしとみなされる。",
+    "dota_leaver_consequence_NotDecrementLowPriGamesRemaining": "マッチを完了したとみなされない。",
+    "dota_leaver_consequence_header_failure_to_reconnect": "再接続しなかった場合、次のような結果を招来します:",
+    "dota_leaver_consequence_CreditWithAbandon": "棄権とみなされる。",
+    "dota_leaver_consequence_ForcedLossForLeaver": "負けとみなされる。",
+    "dota_leaver_consequence_MMRLossForLeaver": "MMRが減少する。",
+    "dota_leaver_consequence_SmallMatchmakingCooldown": "一定時間マッチメイキングできなくなる。",
+    "dota_leaver_consequence_LetDownTeammates": "チームメイトが不利な条件でプレイすることになる。"
 }
