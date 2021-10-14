@@ -10174,5 +10174,6 @@
     "dota_settings_spectator_enable_edgepan_temporary_free_cam": "エッジパンでオーバーライドカメラを有効化",
     "clear_tournament_entry_button": "クリア",
     "DOTA_ProfileCard_HeroHover": "ホバー時:",
-    "DOTA_ProfileCard_HeroOnly": "ヒーローのみ"
+    "DOTA_ProfileCard_HeroOnly": "ヒーローのみ",
+    "DOTA_Home_Plus_MemberSince": "加入日"
 }
