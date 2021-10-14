@@ -10175,5 +10175,6 @@
     "clear_tournament_entry_button": "クリア",
     "DOTA_ProfileCard_HeroHover": "ホバー時:",
     "DOTA_ProfileCard_HeroOnly": "ヒーローのみ",
-    "DOTA_Home_Plus_MemberSince": "加入日"
+    "DOTA_Home_Plus_MemberSince": "加入日",
+    "DOTA_OwnedItemDetails_Style": "{i:item_style_count}スタイル"
 }
