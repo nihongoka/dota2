@@ -10176,5 +10176,7 @@
     "DOTA_ProfileCard_HeroHover": "ホバー時:",
     "DOTA_ProfileCard_HeroOnly": "ヒーローのみ",
     "DOTA_Home_Plus_MemberSince": "加入日",
-    "DOTA_OwnedItemDetails_Style": "{i:item_style_count}スタイル"
+    "DOTA_OwnedItemDetails_Style": "{i:item_style_count}スタイル",
+    "UI_AudioLanguage": "音声言語:",
+    "dota_settings_chat_filter_settings_apply_to_spectating": "許可されたチャットフィルター設定を観戦に適用"
 }
