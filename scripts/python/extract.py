@@ -4,6 +4,9 @@ import vdf
 import json
 import os
 
+DOTA_CLIENT = 'C:/dota2/'
+#DOTA_CLIENT = 'C:/Program Files (x86)/Steam/steamapps/common/dota 2 beta/'
+
 class L10nRule:
     name = ''
     is_simple = False
@@ -45,7 +48,7 @@ l10ns = [
 def main():
     def main_version():
         head = 'ClientVersion='
-        with open('C:/dota2/game/dota/steam.inf', 'r') as inf:
+        with open(DOTA_CLIENT+'game/dota/steam.inf', 'r') as inf:
             while True:
                 line = inf.readline().strip()
                 if line:
@@ -59,7 +62,7 @@ def main():
 
     os.makedirs('localization', exist_ok=True)
 
-    with vpk.open('C:/dota2/game/dota/pak01_dir.vpk') as pak01:
+    with vpk.open(DOTA_CLIENT+'game/dota/pak01_dir.vpk') as pak01:
         for rule in l10ns:
             with pak01.get_file(rule.get_pak_path('english')) as input:
                 data = rule.pull(vdf.loads(input.read().decode('utf-8')))
