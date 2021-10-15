@@ -10178,5 +10178,8 @@
     "DOTA_Home_Plus_MemberSince": "加入日",
     "DOTA_OwnedItemDetails_Style": "{i:item_style_count}スタイル",
     "UI_AudioLanguage": "音声言語:",
-    "dota_settings_chat_filter_settings_apply_to_spectating": "許可されたチャットフィルター設定を観戦に適用"
+    "dota_settings_chat_filter_settings_apply_to_spectating": "許可されたチャットフィルター設定を観戦に適用",
+    "DOTA_Bans": "バン",
+    "DOTA_HUD_InvokerSpellCard_Hide_Names": "スキル名を隠す",
+    "DOTA_HUD_InvokerSpellCard_Show_Names": "スキル名を表示"
 }
