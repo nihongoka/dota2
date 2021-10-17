@@ -10158,7 +10158,7 @@
     "DOTA_ChatWheelPhraseLocked_HeroLevel": "バッジレベル{d:hero_level}",
     "DOTA_ProfileCard_HeroShowWins": "勝利",
     "DOTA_ProfileCard_HeroShowWinsAndLosses": "勝利/敗北",
-    "DOTARankTierName0": "未キャリブレーション",
+    "DOTARankTierName0": "未キャリブレート",
     "dota_chatwheel_header_ti2021_caster_voice_lines_desc": "レベル5以上のタレントサインで専用のキャスターラインが利用可能",
     "dota_chatwheel_header_ti2021_caster_voice_lines": "The International 2021 キャスターライン",
     "DOTA_Settings_Tooltip_EnableEdgepanTemporaryFreeCam": "エッジパンを行ったときに観戦者用のオーバーライドカメラが有効になります。",
@@ -10181,5 +10181,10 @@
     "dota_settings_chat_filter_settings_apply_to_spectating": "許可されたチャットフィルター設定を観戦に適用",
     "DOTA_Bans": "バン",
     "DOTA_HUD_InvokerSpellCard_Hide_Names": "スキル名を隠す",
-    "DOTA_HUD_InvokerSpellCard_Show_Names": "スキル名を表示"
+    "DOTA_HUD_InvokerSpellCard_Show_Names": "スキル名を表示",
+    "DOTA_BattlePass_ArcanaViewBracket": "対戦表を見る",
+    "DOTA_TI10ScheduleWidget_ViewBracket": "対戦表を見る",
+    "dota_weekend_tourney_hub_show_bracket": "対戦表を見る",
+    "DOTA_TI8_BattlePass_ArcanaViewBracket": "対戦表を見る",
+    "SocialFeed2_WeekendTourney_Button": "対戦表を見る"
 }
