@@ -10186,5 +10186,14 @@
     "DOTA_TI10ScheduleWidget_ViewBracket": "対戦表を見る",
     "dota_weekend_tourney_hub_show_bracket": "対戦表を見る",
     "DOTA_TI8_BattlePass_ArcanaViewBracket": "対戦表を見る",
-    "SocialFeed2_WeekendTourney_Button": "対戦表を見る"
+    "SocialFeed2_WeekendTourney_Button": "対戦表を見る",
+    "DOTA_Tooltip_ability_aghsfort_magnataur_skewer_skewer_cooldown": "セプタークールダウン:",
+    "DOTA_HUD_GlyphCooldown": "クールダウン: {s:cooldown_time}",
+    "DOTA_HUD_RadarCooldown": "クールダウン: {s:cooldown_time}",
+    "DOTA_Tooltip_ability_aghsfort_phantom_assassin_blur_scepter_cooldown": "セプタークールダウン:",
+    "DOTA_Tooltip_ability_aghsfort_ursa_enrage_cooldown_scepter": "セプタークールダウン:",
+    "DOTA_Tooltip_ability_aghsfort_mars_gods_rebuke_scepter_cooldown": "セプタークールダウン:",
+    "DOTA_Tooltip_ability_aghsfort_viper_viper_strike_cooldown_scepter": "セプタークールダウン:",
+    "DOTA_Tooltip_ability_aghsfort_weaver_time_lapse_cooldown_scepter": "セプタークールダウン:",
+    "DOTA_Tooltip_ability_aghsfort_queenofpain_sonic_wave_cooldown_scepter": "セプタークールダウン:"
 }
