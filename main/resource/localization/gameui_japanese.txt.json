@@ -46,7 +46,7 @@
     "GameUI_CrosshairGreen": "緑",
     "GameUI_EventList": "イベントリスト",
     "GameUI_Quit": "ゲームを終了",
-    "GameUI_MouseLook": "マウスを固定",
+    "GameUI_MouseLook": "視点変更にマウスを使う",
     "GameUI_JoystickLabel": "コントローラーを有効",
     "GameUI_GameMenu_Multiplayer": "マルチプレイヤー ",
     "GameUI_AspectWide16x9": "ワイドスクリーン 16:9",
@@ -140,5 +140,9 @@
     "GameUI_Add": "追加",
     "GameUI_Remove": "削除",
     "GameUI_Save": "セーブ",
-    "GameUI_Time": "時間"
+    "GameUI_Time": "時間",
+    "GameUI_JoystickLook": "視点変更にジョイスティックを使う",
+    "GameUI_JoystickMoveLookSticks": "ジョイスティック",
+    "GameUI_JoystickLookType": "視点変更の種類",
+    "GameUI_JoystickSouthpaw": "左利き用"
 }
