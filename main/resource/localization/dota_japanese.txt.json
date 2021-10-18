@@ -10195,5 +10195,9 @@
     "DOTA_Tooltip_ability_aghsfort_mars_gods_rebuke_scepter_cooldown": "セプタークールダウン:",
     "DOTA_Tooltip_ability_aghsfort_viper_viper_strike_cooldown_scepter": "セプタークールダウン:",
     "DOTA_Tooltip_ability_aghsfort_weaver_time_lapse_cooldown_scepter": "セプタークールダウン:",
-    "DOTA_Tooltip_ability_aghsfort_queenofpain_sonic_wave_cooldown_scepter": "セプタークールダウン:"
+    "DOTA_Tooltip_ability_aghsfort_queenofpain_sonic_wave_cooldown_scepter": "セプタークールダウン:",
+    "DOTA_Frontpage_TI10Replay_Title": "試合のリプレイ",
+    "DOTA_Frontpage_TimedEvent_Active": "終了まで:",
+    "DOTA_Frontpage_TimedEvent_AfterEnd": "もう利用できません。",
+    "DOTA_Frontpage_TimedEvent_BeforeStart": "開始まで:"
 }
