@@ -9461,7 +9461,6 @@
     "DOTA_FantasyLeaderboardScore": "合計スコア",
     "DOTA_FantasyScoreDay": "今日のスコア",
     "DOTA_FantasyScoreTotal": "これまでの合計スコア",
-    "DOTA_FantasyScorePercentile": "パーセンタイル",
     "DOTA_FantasyMidTooltip": "ミッドプレイヤーはふつうミドルレーンを陣取ります。",
     "DOTA_FantasyLockUntilTimeH": "{i:lock_number}時間後\n名簿固定",
     "DOTA_FantasyLockUntilTimeD": "{i:lock_number}日後\n名簿固定",
