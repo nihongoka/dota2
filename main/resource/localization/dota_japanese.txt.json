@@ -10218,5 +10218,7 @@
     "DOTA_Chat_ShareProfileMessage": "プロフィールを公開: <span class=\"ShareChatPersona\">[{s:share_persona}]</span>",
     "DOTA_ShareLobby_Available": "ロビーに参加",
     "DOTA_ShareLobby_Available_Tooltip": "クリックするとロビーに参加します。",
-    "DOTA_Chat_SuggestAbility": "ドラフトの提案: <span class=\"RequestedAbility\" >[{g:dota_ability_name:ability_name}]</span>"
+    "DOTA_Chat_SuggestAbility": "ドラフトの提案: <span class=\"RequestedAbility\" >[{g:dota_ability_name:ability_name}]</span>",
+    "DOTA_FantasyScorePercentileDay": "今日のパーセンタイル",
+    "DOTA_FantasyScorePercentileTotal": "合計パーセンタイル"
 }
