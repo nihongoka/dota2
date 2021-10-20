@@ -2500,7 +2500,7 @@
     "custom_game_lobby_mismatch": "カスタムゲームのデータがロビーリーダーと一致しません。",
     "custom_game_team_select": "チーム選択",
     "custom_game_team_select_timer": "{i:countdown_timer_seconds}",
-    "custom_game_team_select_auto_start": "オートスタート",
+    "custom_game_team_select_auto_start": "自動で開始",
     "custom_game_team_select_starting": "開始中",
     "custom_game_team_select_lock_start": "ロック＋スタート",
     "DOTA_Survey_response_agree_Low": "そう思わない",
