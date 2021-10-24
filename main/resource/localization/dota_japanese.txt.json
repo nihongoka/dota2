@@ -10111,7 +10111,7 @@
     "DOTA_ChallengeDesc_Treant_Damage_With_NaturesGrasp": "Nature's Graspで敵ヒーローに<font color='#ffffff'>%s1</font>ダメージ与える。",
     "DOTA_ChallengeDesc_KunkkaCombo": "敵ヒーローに対し<font color='#ffffff'>X、Torrent、Ghostship</font>コンボを<font color='#ffffff'>%s1</font>回成功させる。",
     "DOTA_ChallengeDesc_Kunkka_TorrentStormDamage": "Torrent Stormで敵ヒーローに<font color='#ffffff'>%s1</font>ダメージ与える。",
-    "DOTA_ChallengeDesc_TeleportKill": "<font color='#ffffff'>%s1</font>回、テレポート後<font color='#ffffff'>15秒</font>いないに敵ヒーローをキルする。",
+    "DOTA_ChallengeDesc_TeleportKill": "<font color='#ffffff'>%s1</font>回、テレポート後<font color='#ffffff'>15秒</font>以内に敵ヒーローをキルする。",
     "DOTA_ChallengeDesc_BuildingDamage": "敵建造物に<font color='#ffffff'>%s1</font>以上のダメージを与える。",
     "DOTA_ChallengeDesc_BuySupportItems_Sub3": "試合時間が<font color='#ffffff'>%s1</font>になる前に<font color='#ffffff'>%s2</font>本ワードを購入する。",
     "DOTA_ChallengeDesc_BuySoulRingTranquil": "試合時間が<font color='#ffffff'>%s1</font>になる前に<font color='#ffffff'>Tranquil Boots</font>と<font color='#ffffff'>Soul Ring</font>を購入する。",
