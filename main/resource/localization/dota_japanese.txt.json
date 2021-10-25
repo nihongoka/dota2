@@ -10256,5 +10256,6 @@
     "DOTA_Custom_Game_Author_ShortFilm": "作者 {g:dota_persona:shortfilm_author}",
     "DOTA_Lobby_Broadcaster_Channel_Customize_Language": "言語:",
     "DOTA_Custom_Game_Author": "作者 {g:dota_persona:author}",
-    "UI_UILanguage": "言語:"
+    "UI_UILanguage": "言語:",
+    "DOTA_Hero_Selection_EnteringBattleAs": "あなたのヒーロー"
 }
