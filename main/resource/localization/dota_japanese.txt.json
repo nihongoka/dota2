@@ -10327,5 +10327,6 @@
     "DOTA_PurchaseRandomRelic_NewRelic": "新しいレリックを獲得",
     "DOTA_tooltip_treasure_market_soldout": "このアイテムは現在マーケットに出品されていません。",
     "DOTA_ChallengeDesc_MiranaArrowStarstormDamage_Sub2": "<font color='#ffffff'>Starstorm</font>で敵ヒーローに<font color='#ffffff'>%s2</font>魔法ダメージを与える。",
-    "DOTA_ChallengeDesc_PickupArcaneRunes": "<font color='#ffffff'>%s1</font>回 (内<font color='#ffffff'>%s2</font>回はアルケーン) ルーンを拾う。"
+    "DOTA_ChallengeDesc_PickupArcaneRunes": "<font color='#ffffff'>%s1</font>回 (内<font color='#ffffff'>%s2</font>回はアルケーン) ルーンを拾う。",
+    "DOTA_Hud_Pregame_Random_Tooltip": "あなたがよくプレイするヒーロープールからランダムにピックします。ボーナスとしてFaerie FireとMangoを獲得します。"
 }
