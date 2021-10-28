@@ -3,9 +3,11 @@ import vpk
 import vdf
 import json
 import os
+import vccd
 
-DOTA_CLIENT = 'C:/dota2/'
-#DOTA_CLIENT = 'C:/Program Files (x86)/Steam/steamapps/common/dota 2 beta/'
+DOTA2_CLIENT = os.getenv('DOTA2_CLIENT')
+if not DOTA2_CLIENT:
+    DOTA2_CLIENT = 'C:/Program Files (x86)/Steam/steamapps/common/dota 2 beta/'
 
 class L10nRule:
     name = ''
@@ -48,7 +50,7 @@ l10ns = [
 def main():
     def main_version():
         head = 'ClientVersion='
-        with open(DOTA_CLIENT+'game/dota/steam.inf', 'r') as inf:
+        with open(DOTA2_CLIENT+'game/dota/steam.inf', 'r') as inf:
             while True:
                 line = inf.readline().strip()
                 if line:
@@ -62,7 +64,7 @@ def main():
 
     os.makedirs('localization', exist_ok=True)
 
-    with vpk.open(DOTA_CLIENT+'game/dota/pak01_dir.vpk') as pak01:
+    with vpk.open(DOTA2_CLIENT+'game/dota/pak01_dir.vpk') as pak01:
         for rule in l10ns:
             with pak01.get_file(rule.get_pak_path('english')) as input:
                 data = rule.pull(vdf.loads(input.read().decode('utf-8')))
@@ -71,6 +73,24 @@ def main():
                 with open(out_name, 'w', encoding='utf-8') as out:
                     json.dump(data, out, indent=4, ensure_ascii=False)
                     print(f'Wrote "{out_name}" done!!')
+
+        with open('vo.txt', 'r') as vof:
+            for vo in vof.readlines():
+                vo = vo.strip()
+                if len(vo) == 0:
+                    continue
+                with pak01.get_file(f'resource/subtitles/subtitles_{vo}_english.dat') as dat:
+                    keys = []
+                    for fn in pak01:
+                        if not fn.startswith(f'sounds/vo/{vo}/'):
+                            continue
+                        fn = fn.removeprefix('sounds/vo/').removesuffix('.vsnd_c').replace('/', '_')
+                        keys.append(fn)
+                    data = vccd.load(dat.read(), keys=keys).captions
+                    out_name = f'main/resource/subtitles/subtitles_{vo}_english.dat.json'
+                    with open(out_name, 'w', encoding='utf-8') as out:
+                        json.dump(data, out, indent=4, ensure_ascii=False)
+                        print(f'Wrote "{out_name}" done!!')
 
 if __name__ == '__main__':
     main()

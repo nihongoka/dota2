@@ -37,6 +37,8 @@ jobs:
         run: steamcmd +login ${{ secrets.STEAM_USERNAME }} ${{ secrets.STEAM_PASSWORD }} +force_install_dir "C:/dota2" +app_update 570 validate +quit
 
       - name: Extract from client data
+        env:
+          DOTA2_CLIENT: C:/dota2/
         run: python ./scripts/python/extract.py
 
       - name: Commit and Push
