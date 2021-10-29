@@ -10408,5 +10408,20 @@
     "DOTA_ChallengeDesc_TripleAoENukes": "<font color='#ffffff'>%s1</font>回、1回のスペルで<font color='#ffffff'>3人以上</font>の敵ヒーローに攻撃する。",
     "DOTA_ChallengeDesc_Rampage": "<font color='#ffffff'>ランページ</font>を達成する。",
     "DOTA_ChallengeDesc_BuyItemNoLimit": "<font color='#ffffff'>%s1</font>を購入する。",
-    "DOTA_GetChallenges": "チャレンジを開始する"
+    "DOTA_GetChallenges": "チャレンジを開始する",
+    "DOTA_ChallengeDesc_Marci_MultiHeroDispose": "<font color='#ffffff'>%s1</font>回、<font color='#ffffff'>Dispose</font>で複数の敵ヒーローを一度に攻撃する。",
+    "DOTA_ChallengeDesc_Marci_SidekickLifesteal": "<font color='#ffffff'>Sidekick</font>によって<font color='#ffffff'>%s1</font>だけライフスティールする。",
+    "DOTA_ChallengeDesc_Marci_DisposeHeroesStunnedTotal": "Disposeで敵ヒーローを<font color='#ffffff'>%s1</font>体スタンさせる。",
+    "DOTA_ChallengeDesc_Marci_MultiHeroRebound": "<font color='#ffffff'>%s1</font>回、<font color='#ffffff'>Rebound</font>で<font color='#ffffff'>2人以上</font>の敵ヒーローを同時に攻撃する。",
+    "DOTA_ChallengeDesc_Marci_UnleashPulseDamage": "<font color='#ffffff'>Unleash</font>のパルスで<font color='#ffffff'>%s1</font>ダメージ与える。",
+    "DOTA_ChallengeDesc_Marci_UnleashKills": "<font color='#ffffff'>Unleash</font>で敵ヒーローを<font color='#ffffff'>%s1</font>体キルする。",
+    "KillEaterEventType_Marci_MultiHeroDispose": "Dispose複数ヒーロースタン",
+    "KillEaterEventType_Marci_DisposeHeroesStunnedTotal": "Disposeヒーロースタン",
+    "KillEaterEventType_Marci_MultiHeroRebound": "Rebound複数ヒーロースタン",
+    "KillEaterEventType_Marci_SidekickLifesteal": "Sidekickライフスティール",
+    "KillEaterEventType_Marci_UnleashPulseDamage": "Unleashパルスダメージ",
+    "KillEaterEventType_Marci_UnleashKills": "Unleashキル",
+    "npc_dota_hero_marci_npedesc1": "猛スピードで敵を叩きのめしながらダッシュする。",
+    "npc_dota_hero_marci": "Marci",
+    "npc_dota_hero_marci:n": "Marci"
 }
