@@ -10407,5 +10407,6 @@
     "DOTA_ChallengeDesc_UseRefresher_Ranked": "<font color='#ffffff'>Refresher Orb</font>を<font color='#ffffff'>%s1</font>回使用する。",
     "DOTA_ChallengeDesc_TripleAoENukes": "<font color='#ffffff'>%s1</font>回、1回のスペルで<font color='#ffffff'>3人以上</font>の敵ヒーローに攻撃する。",
     "DOTA_ChallengeDesc_Rampage": "<font color='#ffffff'>ランページ</font>を達成する。",
-    "DOTA_ChallengeDesc_BuyItemNoLimit": "<font color='#ffffff'>%s1</font>を購入する。"
+    "DOTA_ChallengeDesc_BuyItemNoLimit": "<font color='#ffffff'>%s1</font>を購入する。",
+    "DOTA_GetChallenges": "チャレンジを開始する"
 }
