@@ -204,7 +204,7 @@
     "#npc_dota_hero_terrorblade": "Terrorblade",
     "#npc_dota_hero_oracle": "Oracle",
     "#npc_dota_hero_techies": "Techies",
-    "#npc_dota_hero_target_dummy": "ターゲットダミー",
+    "#npc_dota_hero_target_dummy": "ダミーターゲット",
     "#npc_dota_hero_winter_wyvern": "Winter Wyvern",
     "#npc_dota_hero_arc_warden": "Arc Warden",
     "#npc_dota_hero_monkey_king": "Monkey King",
@@ -248,5 +248,6 @@
     "#DOTA_EventName_Frostivus2018": "Frosthaven",
     "#DOTA_EventGameName_International2020": "アガニムの迷宮",
     "#DOTA_RP_TOURNEY_PLAYING_AS": "バトルカップ {%param2%} ( {%param1%} )",
-    "#dota_eventgamename_nemestice": "ネメスティス"
+    "#dota_eventgamename_nemestice": "ネメスティス",
+    "#npc_dota_hero_marci": "Marci"
 }
