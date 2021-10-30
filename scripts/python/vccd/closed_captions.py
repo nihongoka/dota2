@@ -1,5 +1,4 @@
 from collections import OrderedDict
-from ctypes import FormatError
 from io import BytesIO
 from typing import List
 from struct import pack
@@ -30,7 +29,7 @@ class ClosedCaptions():
         text: str
         for key, text in self.captions.items():
             if type(key) != str or type(text) != str:
-                raise FormatError()
+                raise Exception()
             text += '\0'
             text_data = text.encode('utf-16-le')
             length = len(text_data)
