@@ -10472,5 +10472,7 @@
     "Frontpage_Hoodwink_Intro": "新登場",
     "DOTAAbilityDraft_Standard_Label": "基本アビリティ",
     "DOTA_FrontPage_International2020_Website": "ウェブサイトを見る",
-    "Frontpage_Hoodwink_Website": "ウェブサイトを見る"
+    "Frontpage_Hoodwink_Website": "ウェブサイトを見る",
+    "ranked_calibration_games": "キャリブレーションゲーム後{i:calibration_games_remaining}回",
+    "DOTA_ChallengeDesc_ChenSaveHeroesHealing": "<font color='#ffffff'>%s1</font>回、回復スペルで味方ヒーローへのとどめを阻止する。"
 }
