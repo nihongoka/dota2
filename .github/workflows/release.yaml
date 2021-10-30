@@ -13,6 +13,8 @@ jobs:
         run: echo "::set-output name=date::$(TZ=UTC date +'%Y-%m-%d')"
 
       - uses: actions/checkout@v2
+        with:
+          ref: 'master'
 
       - uses: actions/setup-python@v2
 

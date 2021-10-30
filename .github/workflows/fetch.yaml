@@ -15,6 +15,8 @@ jobs:
       current_version: ${{ steps.current_version.outputs.version }}
     steps:
       - uses: actions/checkout@v2
+        with:
+          ref: 'master'
       - id: new_version
         run: echo "::set-output name=version::`curl \"https://api.steampowered.com/IGCVersion_570/GetClientVersion/v1/?key=${{ secrets.STEAM_API_KEY }}\" | jq .result.active_version`"
       - id: current_version
