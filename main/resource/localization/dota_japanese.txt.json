@@ -10314,7 +10314,7 @@
     "DOTA_ChallengeDesc_StackCampsAncients_Sub1": "任意のニュートラルキャンプを<font color='#ffffff'>%s1</font>回スタックする。",
     "DOTA_ChallengeDesc_Luna_Lucent_Beams_Creep_Kills_Sub1": "<font color='#ffffff'>Lucent Beam</font>を敵ヒーローに<font color='#ffffff'>%s1</font>回当てる。",
     "DOTA_ChallengeDesc_SpellDamageInstances": "<font color='#ffffff'>10</font>秒以内に敵ヒーローに<font color='#ffffff'>%s2</font>以上魔法またはピュアダメージを<font color='#ffffff'>%s1</font>回与える。",
-    "DOTA_ChallengeDesc_ManaDamage": "敵ヒーローに<font color='#ffffff'>%s1</font>マナバーンを与える。",
+    "DOTA_ChallengeDesc_ManaDamage": "敵ヒーローのマナを<font color='#ffffff'>%s1</font>燃焼させる。",
     "DOTA_ChallengeDesc_PreventPhysicalDamage": "アーマーまたはダメージブロックで、敵ヒーローから自身や味方ヒーローに与えられた物理ダメージを<font color='#ffffff'>%s1</font>防ぐ。",
     "DOTA_ChallengeDesc_CleaveHeroDamageCreepKills": "<font color='#ffffff'>クリーブ</font>によって、敵ヒーローに<font color='#ffffff'>%s1</font>ダメージ与え、敵ユニットを<font color='#ffffff'>%s2</font>体キルする。",
     "DOTA_ChallengeDesc_CleaveHeroDamageCreepKills_Sub2": "<font color='#ffffff'>クリーブ</font>によって、敵ユニットを<font color='#ffffff'>%s2</font>体キルする。",
@@ -10471,5 +10471,6 @@
     "Frontpage_Hoodwink_Debut": "登場シーンを再生",
     "Frontpage_Hoodwink_Intro": "新登場",
     "DOTAAbilityDraft_Standard_Label": "基本アビリティ",
-    "DOTA_FrontPage_International2020_Website": "ウェブサイトを見る"
+    "DOTA_FrontPage_International2020_Website": "ウェブサイトを見る",
+    "Frontpage_Hoodwink_Website": "ウェブサイトを見る"
 }
