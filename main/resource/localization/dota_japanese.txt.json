@@ -10534,5 +10534,11 @@
     "DOTA_ChallengeDesc_TripleMek": "<font color='#ffffff'>%s1</font>回、 <font color='#ffffff'>Mekansm</font>で3人以上の味方を回復する。",
     "DOTA_ChallengeDesc_Timbersaw_TimberChainWhirlingDeathCombos": "<font color='#ffffff'>%s1</font>回、<font color='#ffffff'>Timber Chain</font>使用中に敵ヒーローに<font color='#ffffff'>Whirling Death</font>でダメージを与える。",
     "DOTA_ChallengeDesc_Blink_Stun": "<font color='#ffffff'>Blink Dagger</font>使用後敵ヒーローを<font color='#ffffff'>%s1</font>回スタンさせる。",
-    "DOTA_ChallengeDesc_Kills_Of_Armor_Debuffed_Enemies": "アビリティで<font color='#ffffff'>アーマー減少</font>を与えた敵ヒーローを<font color='#ffffff'>%s1</font>体キルまたはアシストする。"
+    "DOTA_ChallengeDesc_Kills_Of_Armor_Debuffed_Enemies": "アビリティで<font color='#ffffff'>アーマー減少</font>を与えた敵ヒーローを<font color='#ffffff'>%s1</font>体キルまたはアシストする。",
+    "DOTA_ChallengeDesc_DoubleHeroTorrents": "<font color='#ffffff'>%s1</font>回、<font color='#ffffff'>Torrent</font>を同時に<font color='#ffffff'>2</font>人以上の敵ヒーローに当てる。",
+    "DOTA_ChallengeDesc_KillAfterCyclone": "<font color='#ffffff'>%s1</font>回、<font color='#ffffff'>Eul's Scepter of Divinity</font>を敵ヒーローに当てた後キルまたはアシストする。",
+    "DOTA_ChallengeDesc_KillAfterXMarks": "<font color='#ffffff'>%s1</font>回、<font color='#ffffff'>X Marks the Spot</font>を敵ヒーローに当てた後キルまたはアシストする。",
+    "DOTA_ChallengeDesc_DoubleVeil": "<font color='#ffffff'>%s1</font>回、<font color='#ffffff'>Veil of Discord</font>を同時に<font color='#ffffff'>2</font>人以上の敵ヒーローに当てる。",
+    "DOTA_ChallengeDesc_TwoManStuns": "<font color='#ffffff'>%s1</font>回、1つスペルを<font color='#ffffff'>2</font>人以上の敵ヒーローに当てる。",
+    "DOTA_ChallengeDesc_TotalTeamDisableDuration": "チームで敵ヒーローを<font color='#ffffff'>%s1</font>秒ディセーブルする。"
 }
