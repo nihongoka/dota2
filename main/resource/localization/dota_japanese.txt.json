@@ -10636,5 +10636,10 @@
     "DOTA_ChallengeDesc_Venomancer_Gale_Nova_Combo": "<font color='#ffffff'>Poison NovaとVenomous Gale</font>を<font color='#ffffff'>%s1</font>体の敵ヒーローに同時に当てる。",
     "DOTA_ChallengeDesc_Venomancer_TriplePoisonNova": "<font color='#ffffff'>%s1</font>回、<font color='#ffffff'>Poison Nova</font>を<font color='#ffffff'>3</font>体以上の敵ヒーローに同時に当てる。",
     "DOTA_ChallengeDesc_Silencer_Steal_Stacks": "敵ヒーローから<font color='#ffffff'>%s1</font> Intelligence盗む。",
-    "DOTA_ChallengeDesc_Silencer_Two_Man_Curse": "<font color='#ffffff'>%s1</font>回、<font color='#ffffff'>Arcane Curse</font>を<font color='#ffffff'>2</font>体以上の敵ヒーローに同時に当てる。"
+    "DOTA_ChallengeDesc_Silencer_Two_Man_Curse": "<font color='#ffffff'>%s1</font>回、<font color='#ffffff'>Arcane Curse</font>を<font color='#ffffff'>2</font>体以上の敵ヒーローに同時に当てる。",
+    "DOTA_ChallengeDesc_Treant_BuildingHealing": "味方の建造物の体力を合計<font color='#ffffff'>%s1</font>回復する。",
+    "DOTA_ChallengeDesc_Treant_Damage_With_Overgrowth": "<font color='#ffffff'>Overgrowth</font>で<font color='#ffffff'>%s1</font>ダメージ与える。",
+    "DOTA_ChallengeDesc_Treant_Eyes_In_The_Forest": "<font color='#ffffff'>Eyes in the Forest</font>を<font color='#ffffff'>%s1</font>回設置する。",
+    "DOTA_ChallengeDesc_Treant_Triple_Man_Overgrowth": "<font color='#ffffff'>%s1</font>回、<font color='#ffffff'>Overgrowth</font>を一度に<font color='#ffffff'>3</font>体以上の敵ヒーローに当てる。",
+    "DOTA_ChallengeDesc_Treant_Natures_Guise_Roots": "<font color='#ffffff'>%s1</font>回、<font color='#ffffff'>Nature's Guise</font>解除後に敵ヒーローに<font color='#ffffff'>ルート</font>を与える。"
 }
