@@ -10641,5 +10641,10 @@
     "DOTA_ChallengeDesc_Treant_Damage_With_Overgrowth": "<font color='#ffffff'>Overgrowth</font>で<font color='#ffffff'>%s1</font>ダメージ与える。",
     "DOTA_ChallengeDesc_Treant_Eyes_In_The_Forest": "<font color='#ffffff'>Eyes in the Forest</font>を<font color='#ffffff'>%s1</font>回設置する。",
     "DOTA_ChallengeDesc_Treant_Triple_Man_Overgrowth": "<font color='#ffffff'>%s1</font>回、<font color='#ffffff'>Overgrowth</font>を一度に<font color='#ffffff'>3</font>体以上の敵ヒーローに当てる。",
-    "DOTA_ChallengeDesc_Treant_Natures_Guise_Roots": "<font color='#ffffff'>%s1</font>回、<font color='#ffffff'>Nature's Guise</font>解除後に敵ヒーローに<font color='#ffffff'>ルート</font>を与える。"
+    "DOTA_ChallengeDesc_Treant_Natures_Guise_Roots": "<font color='#ffffff'>%s1</font>回、<font color='#ffffff'>Nature's Guise</font>解除後に敵ヒーローに<font color='#ffffff'>ルート</font>を与える。",
+    "DOTA_ChallengeDesc_Enigma_TripleBlackHoles": "<font color='#ffffff'>%s1</font>回、<font color='#ffffff'>Black Hole</font>を一度に<font color='#ffffff'>3</font>体以上の敵ヒーローを当てる。",
+    "DOTA_ChallengeDesc_Omniknight_Four_Man_Guardian_Angel": "<font color='#ffffff'>%s1</font>回、<font color='#ffffff'>Guardian Angel</font>を一度に<font color='#ffffff'>4</font>人以上の味方ヒーローに与える。",
+    "DOTA_ChallengeDesc_Omniknight_Repel_On_Allies_Duration": "<font color='#ffffff'>Heavenly Grace</font>を味方ヒーローに合計<font color='#ffffff'>%s1</font>秒キャストする。",
+    "DOTA_ChallengeDesc_Omniknight_Damage_During_Repel": "<font color='#ffffff'>Heavenly Grace</font>効果中に敵ヒーローに<font color='#ffffff'>%s1</font>ダメージ与える。",
+    "DOTA_ChallengeDesc_Wisp_Spirits_Slows": "<font color='#ffffff'>%s1</font>回、<font color='#ffffff'>Spirits</font>で<font color='#ffffff'>%s1</font>体の敵ヒーローにスローを与える。"
 }
