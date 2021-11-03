@@ -10646,5 +10646,7 @@
     "DOTA_ChallengeDesc_Omniknight_Four_Man_Guardian_Angel": "<font color='#ffffff'>%s1</font>回、<font color='#ffffff'>Guardian Angel</font>を一度に<font color='#ffffff'>4</font>人以上の味方ヒーローに与える。",
     "DOTA_ChallengeDesc_Omniknight_Repel_On_Allies_Duration": "<font color='#ffffff'>Heavenly Grace</font>を味方ヒーローに合計<font color='#ffffff'>%s1</font>秒キャストする。",
     "DOTA_ChallengeDesc_Omniknight_Damage_During_Repel": "<font color='#ffffff'>Heavenly Grace</font>効果中に敵ヒーローに<font color='#ffffff'>%s1</font>ダメージ与える。",
-    "DOTA_ChallengeDesc_Wisp_Spirits_Slows": "<font color='#ffffff'>%s1</font>回、<font color='#ffffff'>Spirits</font>で<font color='#ffffff'>%s1</font>体の敵ヒーローにスローを与える。"
+    "DOTA_ChallengeDesc_Wisp_Spirits_Slows": "<font color='#ffffff'>%s1</font>回、<font color='#ffffff'>Spirits</font>で<font color='#ffffff'>%s1</font>体の敵ヒーローにスローを与える。",
+    "DOTA_ChallengeDesc_Broodmother_Kills_Inside_Web": "<font color='#ffffff'>巣</font>の中で敵ヒーローを<font color='#ffffff'>%s1</font>体キルする。",
+    "DOTA_ChallengeDesc_Broodmother_Lifesteal": "敵ヒーローから合計<font color='#ffffff'>%s1</font>ライフスティールする。"
 }
