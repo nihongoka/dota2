@@ -10681,5 +10681,7 @@
     "DOTA_ChallengeDesc_Earth_Spirit_Grip_Smash_Combos": "<font color='#ffffff'>%s1</font>回、単一の敵に<font color='#ffffff'>Geomagnetic Grip、Boulder Smash</font>コンボを与える。",
     "DOTA_ChallengeDesc_Zeus_Nimbus_Damage": "<font color='#ffffff'>Nimbus</font>で敵ヒーローに<font color='#ffffff'>%s1</font>ダメージ与える。",
     "DOTA_ChallengeDesc_Earth_Spirit_Petrify_Smash_Combo": "<font color='#ffffff'>%s1</font>回、単一の敵ヒーローを<font color='#ffffff'>石化</font>させて<font color='#ffffff'>Boulder Smash</font>を与える。",
-    "DOTA_ChallengeDesc_Sand_King_Double_Burrowstrikes": "<font color='#ffffff'>%s1</font>回、<font color='#ffffff'>Burrowstrike</font>を<font color='#ffffff'>2</font>体以上の敵に当てる。"
+    "DOTA_ChallengeDesc_Sand_King_Double_Burrowstrikes": "<font color='#ffffff'>%s1</font>回、<font color='#ffffff'>Burrowstrike</font>を<font color='#ffffff'>2</font>体以上の敵に当てる。",
+    "dota_lobby_title_default": "ロビー",
+    "dota_chat_lobby_tab": "ロビー"
 }
