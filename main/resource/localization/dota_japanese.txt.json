@@ -10915,5 +10915,21 @@
     "DOTA_ChallengeDesc_Gyrocopter_Deal_Rocket_Barrage_Damage_On_Stunned_Heroes": "<font color='#ffffff'>Homing Missile</font>でスタン中の敵ヒーローに<font color='#ffffff'>Rocket Barrage</font>で<font color='#ffffff'>%s1</font>ダメージ与える。",
     "DOTA_ChallengeDesc_Tusk_KickEnemyHeroes": "<font color='#ffffff'>%s1</font>回、敵ヒーローに<font color='#ffffff'>Walrus Kick</font>を使用する。",
     "DOTA_ChallengeDesc_Abaddon_Damage_Borrowed_Time": "<font color='#ffffff'>Borrowed Time</font>効果中、敵ヒーローに<font color='#ffffff'>%s1</font>ダメージ与える。",
-    "DOTA_ChallengeDesc_Medusa_DamageDoneToStonedTargets": "Aghanim's Scepterでアップグレードした<font color='#ffffff'>Mystic Snake</font>効果中や<font color='#ffffff'>Stone Gaze</font>効果中の敵ヒーローに<font color='#ffffff'>%s1</font>ダメージ与える。"
+    "DOTA_ChallengeDesc_Medusa_DamageDoneToStonedTargets": "Aghanim's Scepterでアップグレードした<font color='#ffffff'>Mystic Snake</font>効果中や<font color='#ffffff'>Stone Gaze</font>効果中の敵ヒーローに<font color='#ffffff'>%s1</font>ダメージ与える。",
+    "DOTA_ChallengeDesc_Life_Stealer_Damage_With_Infest": "<font color='#ffffff'>Infest</font>で敵ヒーローに<font color='#ffffff'>%s1</font>ダメージ与える。",
+    "DOTA_ChallengeDesc_Night_Stalker_Void_Slow": "<font color='#ffffff'>Void</font>で敵ヒーローに合計<font color='#ffffff'>%s1</font>秒スローを与える。",
+    "DOTA_ChallengeDesc_Axe_Damage_Called_Target": "<font color='#ffffff'>Berserker's Call</font>効果中の敵ヒーローに<font color='#ffffff'>%s1</font>ダメージ与える。",
+    "DOTA_ChallengeDesc_Kills_After_Meteor_Hammer": "<font color='#ffffff'>%s1</font>回、<font color='#ffffff'>Meteor Hammer</font>を敵ヒーローに当てた後キルまたはアシストする。",
+    "DOTA_ChallengeDesc_OutworldDevourer_AstralDamage": "<font color='#ffffff'>Astral Imprisonment</font>で敵ヒーローに<font color='#ffffff'>%s1</font>ダメージ与える。",
+    "DOTA_ChallengeDesc_Zuus_ChannelsCancelled": "<font color='#ffffff'>%s1</font>回、 <font color='#ffffff'>Lightning Bolt</font>でスペルのチャネリングを中断させる。",
+    "DOTA_ChallengeDesc_Zeus_Static_Field_Damage": "<font color='#ffffff'>Static Field</font>で敵ヒーローに<font color='#ffffff'>%s1</font>ダメージ与える。",
+    "DOTA_ChallengeDesc_Tinker_MarchDamage": "<font color='#ffffff'>March of the Machines</font>で敵ヒーローに<font color='#ffffff'>%s1</font>ダメージ与える。",
+    "DOTA_ChallengeDesc_Kills_Of_Nullified_Enemies": "<font color='#ffffff'>Nullifier</font>効果中の敵ヒーローを<font color='#ffffff'>%s1</font>体キルまたはアシストする。",
+    "DOTA_ChallengeDesc_Axe_Battle_Hunger_Duration": "<font color='#ffffff'>Battle Hunger</font>で敵ヒーローに合計<font color='#ffffff'>%s1</font>秒ダメージを与える。",
+    "DOTA_ChallengeDesc_Broodmother_Kills_While_Hunger": "<font color='#ffffff'>Insatiable Hunger</font>効果中、敵ヒーローを<font color='#ffffff'>%s1</font>体キルする。",
+    "DOTA_ChallengeDesc_Huskar_Two_Life_Breaks_Within_10_seconds": "<font color='#ffffff'>%s1</font>回、10秒以内に<font color='#ffffff'>Life Break</font>を2体の敵ヒーローに当てる。",
+    "DOTA_ChallengeDesc_Zeus_Arc_Lightning_Triple_Hits": "<font color='#ffffff'>%s1</font>回、<font color='#ffffff'>Arc Lightning</font>を一度に3体以上の敵ヒーローに当てる。",
+    "DOTA_ChallengeDesc_Tinker_Scepter_Laser_Damage": "<font color='#ffffff'>Aghanim's Scepter</font>でアップグレードした<font color='#ffffff'>Laser</font>で敵ヒーローに<font color='#ffffff'>%s1</font>ダメージ与える。",
+    "DOTA_ChallengeDesc_Spirit_Breaker_Bashes_On_Three_During_Charge": "<font color='#ffffff'>%s1</font>回、<font color='#ffffff'>Charge of Darkness</font>中に3体以上の敵ヒーローに当たる。",
+    "DOTA_ChallengeDesc_Axe_Kills_With_Culling_Blade": "<font color='#ffffff'>Culling Blade</font>で敵ヒーローを<font color='#ffffff'>%s1</font>体キルする。"
 }
