@@ -9778,5 +9778,10 @@
     "DOTA_Tooltip_ability_special_bonus_unique_marci_guardian_magic_immune": "{s:value}秒 Sidekickスペル耐性",
     "DOTA_Tooltip_ability_special_bonus_unique_marci_unleash_pulse_damage": "+{s:value} Unleashパルスダメージ",
     "DOTA_Tooltip_ability_special_bonus_unique_marci_unleash_pulse_lunge_refresh": "UnleashパルスがReboundをリフレッシュ",
-    "DOTA_Tooltip_ability_special_bonus_unique_marci_unleash_silence": "{s:value}秒 Unleashパルスサイレンス"
+    "DOTA_Tooltip_ability_special_bonus_unique_marci_unleash_silence": "{s:value}秒 Unleashパルスサイレンス",
+    "DOTA_Tooltip_ability_antimage_mana_break_Lore": "Turstarkuriの僧侶たちの改良された平和的な技は、魔法エネルギーを持ち主に向けることです。",
+    "DOTA_Tooltip_ability_antimage_counterspell_Lore": "適切な集中により、Anti-Mageは本来の抵抗力を計算された報復に変えることができる。",
+    "DOTA_Tooltip_ability_antimage_spell_shield_Lore": "長年の瞑想と復讐への執着は、神秘的な相手に対してAnti-Mageの肌を硬化させた。",
+    "DOTA_Tooltip_ability_antimage_mana_void_Lore": "敵を屈服させた後、Anti-Mageは魔術を使ったことに罰を与える。",
+    "DOTA_Tooltip_ability_antimage_blink_Lore": "死神との出会いの中で、Anti-Mageは捉えどころのない存在であることの価値を学んだ。"
 }
