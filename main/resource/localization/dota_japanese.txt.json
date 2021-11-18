@@ -6462,7 +6462,7 @@
     "Dota_Shared_Content_Announcer": "アナウンサー",
     "DOTA_Compendium_ChooseHero": "ヒーローを選択する",
     "UI_COURIER": "クーリエ",
-    "DOTA_Overwatch_Convict_Error_Body": "判定の送信中にエラー ({d:error_code} が発生しました。再度試してください。",
+    "DOTA_Overwatch_Convict_Error_Body": "判定の送信中にエラー ({d:error_code}) が発生しました。再度試してください。",
     "DOTA_HUD_Spec_Items_Items": "ヒーロー",
     "DOTA_SettingsHeroSelectorDefault": "デフォルト",
     "DOTA_Glossary_Items": "アイテム",
