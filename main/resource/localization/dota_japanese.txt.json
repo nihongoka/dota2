@@ -10973,7 +10973,7 @@
     "DOTA_FantasyHelpTitle4b": "報酬を受け取る",
     "DOTA_FantasyHelpDetailsRegionHeader": "地域ごとのファンタジー",
     "DOTA_FantasyHelpDetailsRegionSub1": "DPCの各地域はそれぞれのファンタジーリーグです。複数の地域のリーグに参加することも可能です。",
-    "DOTA_FantasyHelpDetailsHeaderWinter2022": "DPCウィンター2022ファンタジー",
+    "DOTA_FantasyHelpDetailsHeaderWinter2022": "DPC2022年冬季ツアー",
     "DOTA_FantasyHelpDetailsSub2Text4b": "重複したプレイヤーカードは同じ期間に使用することはできません。",
     "DOTA_FantasyHelpDetailsSub2Text5b": "各期間の名簿は独立していて、1枚の選手カードを複数の期間で使用することができます。",
     "DOTA_FantasyHelpDetailsSub3Text1b": "2022年冬季ツアー中のディビジョンIの試合は、すべてファンタジープレイが適用されます。",
@@ -10990,5 +10990,13 @@
     "DOTA_PlayerCard_RosterDesc": "このカードはこれからのファンタジーロースターで有効になっています。",
     "DOTA_PlayerCard_Team_NoPacks": "現在購入可能なチームパックがありません。",
     "DOTA_FantasyWeekHeader": "各週に向けて自分だけのチームを作ろう",
-    "DOTA_FantasyLockTimeDPC": "{i:lock_number}後に名簿が固定されます"
+    "DOTA_FantasyLockTimeDPC": "{t:d:t:T:countdown_time}後に名簿が固定されます",
+    "DOTA_FrontPage_DPCWinter2022_Header": "DPC2022年冬季ツアー",
+    "DOTA_Popup_CardPack_ErrorFailedToFindPack": "開封しようとしたプレイヤーカードパックが見つかりませんでした。",
+    "DOTA_Popup_CardPack_WaitingToOpen": "お待ちください...",
+    "DOTA_Popup_CardPack_ErrorInvalidTeamID": "プレイヤーカードパックに指定されているチームが見つかりません。",
+    "DOTA_Popup_CardPack_Model_Winter2022": "DPC2022年冬季ツアー",
+    "DOTA_Popup_CardPack_ErrorNotCardPack": "開封しようとしたアイテムがプレイヤーカードパックではありませんでした。",
+    "DOTA_Popup_CardPack_ErrorFailedCardCreate": "プレイヤーカードの生成に失敗",
+    "DOTA_Popup_CardPack_ErrorInvalidTeamIDAttribute": "プレイヤーカードパックに指定されたチーム属性が無効です。"
 }
