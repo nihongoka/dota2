@@ -3743,7 +3743,7 @@
     "DOTA_Tooltip_ability_special_bonus_unique_rubick_2": "-{s:value}% Fade Boldのダメージ軽減",
     "DOTA_Tooltip_ability_special_bonus_unique_rubick_3": "-{s:value}秒 Fade Boltのクールダウン減少",
     "DOTA_Tooltip_ability_special_bonus_unique_rubick_4": "-{s:value}秒 Telekinesis クールダウン減少",
-    "DOTA_Tooltip_ability_special_bonus_unique_rubick_6": "-{s:value}% Stolen Spellsクールダウン",
+    "DOTA_Tooltip_ability_special_bonus_unique_rubick_6": "-{s:value}% 盗んだスペルのクールダウン",
     "DOTA_Tooltip_ability_special_bonus_unique_sven": "-{s:value}秒 Storm Hammerのクールダウンを減少させる",
     "DOTA_Tooltip_ability_special_bonus_unique_sven_2": "+{s:value}% God's Strengthのダメージを増加",
     "DOTA_Tooltip_ability_special_bonus_unique_sven_3": "Storm Hammerが敵のバフを取り除く",
