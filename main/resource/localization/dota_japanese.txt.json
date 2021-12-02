@@ -10998,5 +10998,12 @@
     "DOTA_Popup_CardPack_Model_Winter2022": "DPC2022年冬季ツアー",
     "DOTA_Popup_CardPack_ErrorNotCardPack": "開封しようとしたアイテムがプレイヤーカードパックではありませんでした。",
     "DOTA_Popup_CardPack_ErrorFailedCardCreate": "プレイヤーカードの生成に失敗",
-    "DOTA_Popup_CardPack_ErrorInvalidTeamIDAttribute": "プレイヤーカードパックに指定されたチーム属性が無効です。"
+    "DOTA_Popup_CardPack_ErrorInvalidTeamIDAttribute": "プレイヤーカードパックに指定されたチーム属性が無効です。",
+    "DOTA_Plus_Winter2021_Update_Title": "2021 冬シーズンアップデート",
+    "DOTA_Plus_Winter2021_Update_Desc": "新しいシーズンクエスト、期間限定のトレジャーなどがDota Plusに登場しました。",
+    "DOTA_VoidPack_Music_Pack_Text": "Humanity's Last Breathによる新しいヘビーメタルミュージックパックが登場しました。",
+    "DOTA_FrontPage_New_Music_Pack_Header": "新しいミュージックパック",
+    "DOTA_PreviewMusic": "音楽をプレビュー",
+    "DOTA_PlusSeason_SeasonWinter2021_Subtitle": "2022年3月1日冬シーズン終了まで。",
+    "DOTA_PlusSeason_SeasonWinter2021_TreasureDescription": "2022年3月1日冬シーズン終了までの限定販売。"
 }
