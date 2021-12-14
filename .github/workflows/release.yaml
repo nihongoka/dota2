@@ -12,6 +12,7 @@ jobs:
     outputs:
       new_hash: ${{ steps.new_hash.outputs.hash }}
       old_hash: ${{ steps.old_hash.outputs.hash }}
+      date: ${{ steps.date.outputs.date }}
     steps:
       - name: Get current date
         id: date
@@ -47,5 +48,5 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.BOT_GITHUB_TOKEN }}
         with:
           files: ./dota2jp.zip
-          tag_name: v${{ steps.date.outputs.date }}
+          tag_name: v${{ needs.build.outputs.date }}
 
