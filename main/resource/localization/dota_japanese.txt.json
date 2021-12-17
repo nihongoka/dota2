@@ -11307,5 +11307,7 @@
     "DOTA_SplashAd_Immortal_Gardens_Reward_Label": "リワード",
     "DOTA_SplashAd_Terrain_Reward_Label": "リワード",
     "DOTA_TI10BP_Gifting_RewardTitle": "報酬",
-    "DOTA_TI10_EventGame_PostGameReward": "報酬"
+    "DOTA_TI10_EventGame_PostGameReward": "報酬",
+    "DOTA_Fall2021_WeeklUnlockMessage": "第{d:week_number} 週のクエスト解放まであと{s:time_until_week_unlock}",
+    "DOTA_InventoryMenu_DropImmediate": "その場に落とす"
 }
