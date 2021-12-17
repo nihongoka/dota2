@@ -4354,7 +4354,7 @@
     "DOTA_DerivedStatsHelp_Tooltip_AttackRange": "攻撃範囲",
     "DOTA_DerivedStatsHelp_Tooltip_AttackSpeed": "攻撃速度",
     "DOTA_DPCFanContent_SupportClubs": "好きなチームを応援しよう",
-    "DOTA_DPCFanContent_SupportClubsDesc": "チームのサポータークラブに参加すると、バッジ、絵文字、スプレー、チャットホイール、ロード画面など、2021-2022年冬季ツアー終了までお気に入りのチームのアイテムを手に入れることができます。<br><br>収益の50％がサポートしているチームに支払われます。  サポーターズクラブのコンテンツの有効期限は2022年3月1日です。",
+    "DOTA_DPCFanContent_SupportClubsDesc": "チームのサポータークラブに参加すると、バッジ、絵文字、スプレー、チャットホイール、ロード画面など、2021-2022年冬季ツアー終了までお気に入りのチームのアイテムを手に入れることができます。<br><br>収益の50％がサポートしているチームに支払われます。  サポータークラブのコンテンツの有効期限は2022年3月1日です。",
     "DOTA_DPCTeams_SupporterClub": "サポータークラブ",
     "DOTA_DPCTeams_SupporterClubFPDesc": "お気に入りのプロチームをサポートしてバッジ、スプレー、チャットホイールやその他のクラブ特典をゲットしよう。",
     "DOTA_FavoriteTeamSet": "お気に入りのチームセット",
@@ -11294,5 +11294,18 @@
     "DOTA_AghsLab_TitleDepth13": "Act 3: Room 1",
     "DOTA_AghsLab_TitleDepth14": "Act 3: Room 2",
     "DOTA_AghsLab_TitleDepth15": "Act 3: Room 3",
-    "DOTA_AghsLab_TitleDepth16": "Act 3: Room 4"
+    "DOTA_AghsLab_TitleDepth16": "Act 3: Room 4",
+    "DOTA_SplashAd_LegionCommander_Reward_Label": "リワード",
+    "DOTA_SplashAd_Prestige_Gardens_Reward_Label": "リワード",
+    "DOTA_SplashAd_Aegis_Reward_Label": "リワード",
+    "DOTA_ProfileCard_BattlePassLevel_Fall2021": "Aghanim's Labyrinth 2021\nバトルレベル",
+    "DOTA_FALL2021_EventGame_PlayMenu_BlessingsTreeFragments": " 使用可能",
+    "DOTA_BattlePass_GiftRewardInfo": "バトルパスをギフトして報酬を貰いましょう",
+    "Fall2021_BP_Buy_End_Date": "<b>{t:l:event_end_date}</b>まで利用可能",
+    "DOTA_TrophyName_AghsLab2021BattlePass_Level": "The Aghanim's Labyrinth 2021 バトルパスレベル",
+    "Dota_TI10_BPHOME_GIFTS_Desc": "バトルパスをギフトして報酬を貰いましょう",
+    "DOTA_SplashAd_Immortal_Gardens_Reward_Label": "リワード",
+    "DOTA_SplashAd_Terrain_Reward_Label": "リワード",
+    "DOTA_TI10BP_Gifting_RewardTitle": "報酬",
+    "DOTA_TI10_EventGame_PostGameReward": "報酬"
 }
