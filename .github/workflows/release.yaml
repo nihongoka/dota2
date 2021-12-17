@@ -6,13 +6,9 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  release:
     name: Build and compare hash
     runs-on: ubuntu-latest
-    outputs:
-      new_hash: ${{ steps.new_hash.outputs.hash }}
-      old_hash: ${{ steps.old_hash.outputs.hash }}
-      date: ${{ steps.date.outputs.date }}
     steps:
       - name: Get current date
         id: date
@@ -36,17 +32,12 @@ jobs:
       - id: old_hash
         run: echo "::set-output name=hash::`curl -sL https://github.com/nihongoka/dota2/releases/download/latest/dota2jp.zip | md5sum | cut -d ' ' -f 1`"
 
-  upload:
-    name: Upload
-    runs-on: ubuntu-latest
-    needs: build
-    if: ${{ needs.build.outputs.new_hash != needs.build.outputs.old_hash }}
-    steps:
       - name: Create Release
         uses: softprops/action-gh-release@v1
+        if: ${{ steps.release.outputs.new_hash != steps.release.outputs.old_hash }}
         env:
           GITHUB_TOKEN: ${{ secrets.BOT_GITHUB_TOKEN }}
         with:
           files: ./dota2jp.zip
-          tag_name: v${{ needs.build.outputs.date }}
+          tag_name: v${{ steps.release.outputs.date }}
 
