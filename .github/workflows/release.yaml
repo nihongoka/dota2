@@ -34,7 +34,7 @@ jobs:
 
       - name: Create Release
         uses: softprops/action-gh-release@v1
-        if: ${{ steps.release.outputs.new_hash != steps.release.outputs.old_hash }}
+        if: steps.release.outputs.new_hash != steps.release.outputs.old_hash
         env:
           GITHUB_TOKEN: ${{ secrets.BOT_GITHUB_TOKEN }}
         with:
