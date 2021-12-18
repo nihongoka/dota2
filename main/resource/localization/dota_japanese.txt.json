@@ -11308,5 +11308,18 @@
     "DOTA_TI10BP_Gifting_RewardTitle": "報酬",
     "DOTA_TI10_EventGame_PostGameReward": "報酬",
     "DOTA_Fall2021_WeeklUnlockMessage": "第{d:week_number} 週のクエスト解放まであと{s:time_until_week_unlock}",
-    "DOTA_InventoryMenu_DropImmediate": "その場に落とす"
+    "DOTA_InventoryMenu_DropImmediate": "その場に落とす",
+    "DOTA_ChatWheelType_Sounds": "サウンド",
+    "DOTA_ChatWheelType_Sprays": "スプレー",
+    "dota_chatwheel_header_ddb_heroes_desc": "シーズン2の準備をしよう！バトルパス期間終了まで有効です。",
+    "dota_chatwheel_header_fall2021_sprays": "Aghanim's Labyrinth - スプレー",
+    "dota_chatwheel_header_fall2021_sprays_desc": "バトルパス期間終了まで有効です。",
+    "dota_chatwheel_header_ddb_heroes": "Dota ドラゴンの血 - ヒーロー",
+    "dota_chatwheel_header_ddb_villains": "Dota ドラゴンの血 - ヴィラン",
+    "dota_chatwheel_header_fall2021_event_game_reward_desc": "コンティニュアムヴォールトを生き抜いたプレイヤーへの報酬。バトルパス期間終了まで有効です。",
+    "dota_chatwheel_header_fall2021_legacy_aghanim": "Aghanim's Labyrinth - レガシーライン",
+    "DOTA_ChatWheelType_Default": "デフォルト",
+    "dota_chatwheel_header_fall2021_event_game_reward": "Aghanim's Labyrinth - コンティニュアム",
+    "dota_chatwheel_header_fall2021_legacy_aghanim_desc": "過去からのセプターブラスト！バトルパス期間終了まで有効です。",
+    "dota_chatwheel_header_ddb_villains_desc": "シーズン2の準備をしよう！バトルパス期間終了まで有効です。"
 }
