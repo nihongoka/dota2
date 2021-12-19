@@ -39,5 +39,5 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.BOT_GITHUB_TOKEN }}
         with:
           files: ./dota2jp.zip
-          tag_name: v${{ steps.release.outputs.date }}
+          tag_name: v${{ steps.date.outputs.date }}
 
