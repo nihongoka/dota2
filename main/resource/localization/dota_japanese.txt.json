@@ -11321,5 +11321,8 @@
     "DOTA_ChatWheelType_Default": "デフォルト",
     "dota_chatwheel_header_fall2021_event_game_reward": "Aghanim's Labyrinth - コンティニュアム",
     "dota_chatwheel_header_fall2021_legacy_aghanim_desc": "過去からのセプターブラスト！バトルパス期間終了まで有効です。",
-    "dota_chatwheel_header_ddb_villains_desc": "シーズン2の準備をしよう！バトルパス期間終了まで有効です。"
+    "dota_chatwheel_header_ddb_villains_desc": "シーズン2の準備をしよう！バトルパス期間終了まで有効です。",
+    "DOTACavernCrawl_CustomChallenge_support_aghs": "コンティニュアムの空間に閉じ込められたサポートヒーローで勝利する",
+    "DOTACavernCrawl_CustomChallenge_carry_aghs": "コンティニュアムの空間に閉じ込められたキャリーヒーローで勝利する",
+    "DOTACavernCrawl_CustomChallenge_utility_aghs": "コンティニュアムの空間に閉じ込められたユーティリティヒーローで勝利する"
 }
