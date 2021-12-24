@@ -1,4 +1,5 @@
 import struct
+from typing import Union
 
 _crc_table = [
     0x00000000, 0x77073096, 0xee0e612c, 0x990951ba,
@@ -67,7 +68,7 @@ _crc_table = [
     0xb40bbe37, 0xc30c8ea1, 0x5a05df1b, 0x2d02ef8d
 ]
 
-def _crc_hash(text:str|bytes) -> int:
+def _crc_hash(text:Union[str,bytes]) -> int:
     if type(text) == str:
         text = text.encode('ascii')
 

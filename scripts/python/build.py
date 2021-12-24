@@ -50,4 +50,7 @@ for file in glob('main/resource/subtitles/*_japanese.dat.json'):
 vpk.new('./pak01').save('pak01_dir.vpk')
 
 with zipfile.ZipFile('dota2jp.zip', 'w', compression=zipfile.ZIP_DEFLATED) as zip:
-    zip.write('pak01_dir.vpk', arcname='game/dota_japanese/pak01_dir.vpk')
+    info = zipfile.ZipInfo()
+    info.filename = 'game/dota_japanese/pak01_dir.vpk'
+    with open('pak01_dir.vpk', 'rb') as pak01:
+        zip.writestr(info, pak01.read())
