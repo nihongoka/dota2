@@ -7734,7 +7734,7 @@
     "DOTA_Tooltip_ability_visage_gravekeepers_cloak_shard_Description": "Gravekeeper's Cloakにアクティブ効果が追加される。自身がStone Formに変化し、最大HPの35%を回復する。 クールダウン: 60. マナコスト: 125.",
     "DOTA_Tooltip_ability_visage_silent_as_the_grave": "Silent as the Grave",
     "DOTA_Tooltip_ability_visage_silent_as_the_grave_Description": "自身とfamiliarsが透明化状態になり、20%%の移動速度ボーナスを得て飛行ユニットになる。透明化は%invis_duration%秒経つか攻撃すると解除され、解除されたユニットは%bonus_duration%秒間%bonus_damage%%%のダメージボーナスを得る。",
-    "DOTA_Tooltip_ability_rubick_telekinesis_shard_description": "Telekinesisを自身または味方に使用可能になる。味方を指定した場合落下の射程が85%増加し、CDが30%%減少する。また落下までの時間が0.5秒に減少する。",
+    "DOTA_Tooltip_ability_rubick_telekinesis_shard_description": "Telekinesisを自身または味方に使用可能になる。味方を指定した場合落下の射程が85%%増加し、CDが30%%減少する。また落下までの時間が0.5秒に減少する。",
     "DOTA_Tooltip_ability_rubick_telekinesis_land_self": "Telekinesis Land",
     "DOTA_Tooltip_ability_rubick_arcane_supremacy_cast_range": "射程:",
     "DOTA_Tooltip_ability_rubick_spell_steal_stolen_debuff_amp": "%デバフ強化:",
