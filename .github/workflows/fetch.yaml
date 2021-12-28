@@ -47,6 +47,6 @@ jobs:
         run: |
           git config user.name "Nihongoka Bot"
           git config user.email "71134725+nihongoka-bot@users.noreply.github.com"
-          git add ./main ./version
+          git add ./main ./version ./addons
           if ( -not ( git diff-index --quiet HEAD ) ) { git commit -m "Client version: $( Get-Content version )" }
           git push origin master
