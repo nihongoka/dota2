@@ -98,7 +98,7 @@ def main():
             if len(addon) == 0:
                 continue
             with open(DOTA2_CLIENT+f'game/dota_addons/{addon}/resource/addon_english.txt', 'r') as input:
-                data = vdf.loads(input.read().decode('utf-8'))['lang']['Tokens']
+                data = vdf.loads(input.read())['lang']['Tokens']
                 os.makedirs(f'addons/{addon}/resource', exist_ok=True)
                 out_name = f'addons/{addon}/resource/addon_english.txt.json'
                 with open(out_name, 'w', encoding='utf-8') as out:
