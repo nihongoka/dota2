@@ -92,5 +92,18 @@ def main():
                         json.dump(data, out, indent=4, ensure_ascii=False)
                         print(f'Wrote "{out_name}" done!!')
 
+    with open('addons.txt', 'r') as addons:
+        for addon in addons.readlines():
+            addon = addon.strip()
+            if len(addon) == 0:
+                continue
+            with open(DOTA2_CLIENT+'game/dota_addons/{addon}/resource/addon_english.txt', 'r') as input:
+                data = vdf.loads(input.read().decode('utf-8'))['lang']['Tokens']
+                os.makedirs(f'addons/{addon}/resource', exist_ok=True)
+                out_name = f'addons/{addon}/resource/addon_english.txt.json'
+                with open(out_name, 'w', encoding='utf-8') as out:
+                    json.dump(data, out, indent=4, ensure_ascii=False)
+                    print(f'Wrote "{out_name}" done!!')
+
 if __name__ == '__main__':
     main()
