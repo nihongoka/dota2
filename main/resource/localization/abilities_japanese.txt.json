@@ -9802,5 +9802,6 @@
     "DOTA_Tooltip_ability_furion_force_of_nature_Lore": "Verodiciaは預言者に、神話上の野生の感覚を持った軍隊であるTreant Guardを召喚する能力を授けた。",
     "DOTA_Tooltip_ability_furion_wrath_of_nature_Lore": "Nature's Prophetは、原生林を荒らす者を討つためにVerodiciaの怒りを呼び起こす。",
     "DOTA_Tooltip_ability_life_stealer_infest_Lore": "侵入したN'aixは、宿主の生命の血を消費して、邪悪な力を完全に取り戻す。",
-    "DOTA_Tooltip_ability_mirana_starfall_Lore": "女神は姫に力を与えるために、時に雲層を破る。"
+    "DOTA_Tooltip_ability_mirana_starfall_Lore": "女神は姫に力を与えるために、時に雲層を破る。",
+    "dota_ability_variable_cooldown_reduction": "クールダウン低下"
 }
