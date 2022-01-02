@@ -11039,7 +11039,7 @@
     "DOTA_LabyrinthBlessing_stat_mana_Desc": "<span class=\"Flavor\">1レベル毎に+{d:instance_value} マナだ。100,000レベルくらいで私の魔法が使えるようになるはずだよ。</span>",
     "DOTA_LabyrinthBlessing_potion_mana_Name": "+{d:instance_value}% ポーションマナ",
     "DOTA_LabyrinthBlessing_oracle_shop_discount_Name": "{d:instance_value}% Oracle割引",
-    "DOTA_LabyrinthBlessing_oracle_shop_discount_Desc": "<span class=\"Flavor\">あのエセ占い師の屋台でフルプライス払うのはバカだけ。値引きを要求しなければならない。もちろん私は全く期待してないが、あなたには{d:instance_value}％でも高くしてくれるかもしれない</span>",
+    "DOTA_LabyrinthBlessing_oracle_shop_discount_Desc": "<span class=\"Flavor\">あのエセ占い師の屋台でフルプライス払うのはバカだけ。値引きを要求しなければならない。もちろん私は全く期待してないが、君には{d:instance_value}％でも高くしてくれるかもしれないね。</span>",
     "DOTA_LabyrinthBlessing_respawn_invulnerability_Name": "+{d:instance_value}秒 死亡後無敵時間",
     "aghanim_game_fall_2021_info_brief_description": "ランダムに生成されるダンジョンを探索し、Aghanimのモンスターを倒してAghanimの次元のドッペルゲンガーを救出しましょう。セプターの破片を発見して能力を強化し、魔法の欠片を集めて永久的なアップグレードを購入することができます。スコアボードには、このゲームで集めたセプターの破片の記録が表示されます。",
     "aghanim_game_info_extra_lives": "ライフがなくなるとゲームオーバーとなりますが、敵をすべてを倒すと死んだプレイヤーはリスポーンします。迷宮をクリアすると階級が上がり、より難易度の高いステージに挑戦できるようになります。",
