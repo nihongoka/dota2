@@ -11324,5 +11324,12 @@
     "dota_chatwheel_header_ddb_villains_desc": "シーズン2の準備をしよう！バトルパス期間終了まで有効です。",
     "DOTACavernCrawl_CustomChallenge_support_aghs": "コンティニュアムの空間に閉じ込められたサポートヒーローで勝利する",
     "DOTACavernCrawl_CustomChallenge_carry_aghs": "コンティニュアムの空間に閉じ込められたキャリーヒーローで勝利する",
-    "DOTACavernCrawl_CustomChallenge_utility_aghs": "コンティニュアムの空間に閉じ込められたユーティリティヒーローで勝利する"
+    "DOTACavernCrawl_CustomChallenge_utility_aghs": "コンティニュアムの空間に閉じ込められたユーティリティヒーローで勝利する",
+    "DOTA_Scoreboard_MuteAndReport": "ミュートして通報 (後{d:reports_available}回可能)",
+    "DOTA_Scoreboard_UnmuteVoice": "ボイスミュート解除",
+    "DOTA_Scoreboard_MuteText": "テキストミュート",
+    "DOTA_Scoreboard_MuteVoice": "ボイスミュート",
+    "DOTA_Scoreboard_UnmuteText": "テキストミュート解除",
+    "DOTA_Scoreboard_AlreadyReported": "通報済み",
+    "DOTA_Scoreboard_MuteOtherCoaches": "パーティー外のコーチをミュート"
 }
