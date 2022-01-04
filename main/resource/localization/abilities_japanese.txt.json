@@ -7227,7 +7227,7 @@
     "DOTA_Tooltip_ability_earthshaker_fissure_shard_description": "Fissureのクールダウンが2秒短縮され、Earthshakerがその上を歩けるようになる。アビリティを発動するたび、設置されているFissureの周りにスタンの効果時間が半分のAftershockが放たれる。",
     "DOTA_Tooltip_ability_earthshaker_enchant_totem_scepter_description": "Enchant Totemは範囲%distance_scepter%の地点指定能力になる。Earthshakerがジャンプして目標地点に着地し、そこにEnchant Totemをキャストするようになる。この能力をセルフキャストすると、ジャンプせずに元の形で動作する。Enchant Totemの効果で40%% cleaveが付与される。",
     "DOTA_Tooltip_ability_tidehunter_gush_scepter_description": "Gushは、一列に並んだ敵ユニットに影響を与える地点指定のアビリティとなる。 クールダウンを減少させる。",
-    "DOTA_Tooltip_ability_luna_lucent_beam_shard_description": "Lucent beamが、地点指定で発動できるようになり、指定した地点から範囲325以内の敵ユニット当たるようになる。また、Lucent Beamの範囲500以内にいるランダムな敵1体に攻撃を放つようになり、マナコストが50減少する。",
+    "DOTA_Tooltip_ability_luna_lucent_beam_shard_description": "Lucent Beamが、地点指定で発動できるようになり、指定した地点から範囲325以内の敵ユニット当たるようになる。また、Lucent Beamの範囲500以内にいるランダムな敵1体に攻撃を放つようになり、マナコストが50減少する。",
     "DOTA_Tooltip_ability_earthshaker_fissure_abilitydraft_note": "<span class=\"ADWarning\">Shardをアップグレードするには<b>Aftershock</b>のドラフトが必要。</span>",
     "DOTA_Tooltip_ability_tidehunter_anchor_smash_shard_description": "Anchor Smashのダメージが90増加し、建物に影響を与えるようになる。クールダウンを1秒減少させる。",
     "DOTA_Tooltip_ability_luna_lunar_blessing_bonus_damage": "ダメージボーナス:",
