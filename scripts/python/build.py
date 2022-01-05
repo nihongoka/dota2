@@ -54,3 +54,14 @@ with zipfile.ZipFile('dota2jp.zip', 'w', compression=zipfile.ZIP_DEFLATED) as zi
     info.filename = 'game/dota_japanese/pak01_dir.vpk'
     with open('pak01_dir.vpk', 'rb') as pak01:
         zip.writestr(info, pak01.read())
+
+    with open('addons.txt', 'r') as addons:
+        for addon in addons.readlines():
+            addon = addon.strip()
+            if addon == '':
+                continue
+            info = zipfile.ZipInfo()
+            info.filename = f'game/dota_addons/{addon}/resource/addon_japanese.txt'
+            with open(f'addons/{addon}/resource/addon_japanese.txt.json', 'r', encoding='utf-8') as jf:
+                data = default(json.load(jf))
+                zip.writestr(info, vdf.dumps(data, pretty=True))
