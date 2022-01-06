@@ -11717,5 +11717,13 @@
     "DOTA_Tooltip_modifier_aghsfort_undying_tombstone_zombie_deathstrike_slow_counter": "Deathlustスロー",
     "DOTA_Tooltip_modifier_aghsfort_undying_tombstone_zombie_deathlust": "Deathlust Frenzy",
     "DOTA_Tooltip_modifier_aghsfort_undying_tombstone_zombie_deathlust_Description": "移動速度と攻撃速度が%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%増加している。",
-    "DOTA_Tooltip_ability_aghsfort_undying_soul_rip": "Soul Rip"
+    "DOTA_Tooltip_ability_aghsfort_undying_soul_rip": "Soul Rip",
+    "DOTA_Tooltip_ability_aghsfort_special_undying_decay_spawn_zombies_Description": "Decayを与えた敵の隣にゾンビを出現させる。",
+    "DOTA_Tooltip_ability_aghsfort_special_undying_decay_reverberation_Description": "%interval%秒間隔で、指定した場所に%extra_decays%回追加でDecayを発動する。追加されたDecayは与えるダメージが%decay_strength_percent%%%、奪うStrengthが%decay_strength_percent%%%になる。",
+    "DOTA_Tooltip_ability_aghsfort_special_undying_soul_rip_ward_Description": "Soul Ripは地点指定でGoading Totemを生成することができるようになる。Totemは%ward_duration%秒間、%taunt_interval%秒おきに敵を挑発する。Totemが時間切れになったとき、範囲%ward_radius%にいる敵と味方にSoul Ripの累積値に相当するダメージまたは回復を与える。トグルによるオートキャストは常に地点指定となる。",
+    "DOTA_Tooltip_Ability_aghsfort_special_undying_decay_spawn_zombies": "死を引き出せ",
+    "DOTA_Tooltip_Ability_aghsfort_special_undying_decay_on_attack": "腐るミット",
+    "DOTA_Tooltip_ability_aghsfort_special_undying_decay_on_attack_Description": "攻撃した後、 %value%%%の確率でDeCayをキャストする。",
+    "DOTA_Tooltip_Ability_aghsfort_special_undying_decay_reverberation": "恐ろしい残響",
+    "DOTA_Tooltip_Ability_aghsfort_special_undying_soul_rip_ward": "注目の的"
 }
