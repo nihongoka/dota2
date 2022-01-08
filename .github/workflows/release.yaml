@@ -43,3 +43,9 @@ jobs:
           files: ./dota2jp-${{ steps.date.outputs.date }}.zip
           tag_name: v${{ steps.date.outputs.date }}
 
+      - name: Upload to Discord
+        uses: sinshutu/upload-to-discord@v2
+        env:
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_UPLOAD_WEBHOOK }}
+        with:
+          files: ./dota2jp-${{ steps.date.outputs.date }}.zip
