@@ -7358,7 +7358,7 @@
     "DOTA_Tooltip_ability_special_bonus_unique_phantom_lancer_7": "+{s:value} Spirit Lance 複数対象",
     "DOTA_Tooltip_ability_drow_ranger_multishot_wave_count": "ウェーブ数:",
     "DOTA_Tooltip_ability_drow_ranger_multishot_scepter_wave_count": "SCEPTER ウェーブ数:",
-    "DOTA_Tooltip_ability_drow_ranger_multishot_arrow_count_per_wave": "ウェーブあたりの弓矢数:",
+    "DOTA_Tooltip_ability_drow_ranger_multishot_arrow_count_per_wave": "ウェーブあたりの矢数:",
     "DOTA_Tooltip_ability_phantom_lancer_juxtapose_scepter_description": "Juxtaposeにアクティブ効果を追加する。juxtaposeで生成されたイリュージョンを一旦全て消滅させ、最大数のイリュージョンを素早く作成する。このスキルによって作成されたイリュージョンは持続時間が本来より10秒増加する。最大イリュージョン数が2だけ増加する。",
     "DOTA_Tooltip_ability_special_bonus_unique_drow_ranger_7": "-{s:value}秒 Gust クールダウン",
     "DOTA_Tooltip_ability_pudge_rot_scepter_description": "Rotの範囲が%scepter_rot_radius_bonus%、ダメージが%scepter_rot_damage_bonus%増加する。<br><br>影響下の敵のHP自然回復効果を25%%減少させる。",
