@@ -12001,5 +12001,8 @@
     "DOTA_Tooltip_modifier_item_aghsfort_bloodstone_active": "Bloodpact",
     "DOTA_Tooltip_ability_item_aghsfort_bloodstone_Lore": "Bloodstoneの鮮やかなルビー色は、戦場では紛れもなく、持ち主は無限の活力と精神力を持つように見える。",
     "DOTA_Tooltip_Ability_aghsfort_special_juggernaut_blade_dance_cooldown_Description": "Blade Danceのクリティカルヒットにより、クールダウンが最も長く残っているアビリティのクールダウンが %value% 秒短縮される。",
-    "DOTA_Tooltip_Ability_aghsfort_special_juggernaut_blade_dance_buff": "Flashing Steel"
+    "DOTA_Tooltip_Ability_aghsfort_special_juggernaut_blade_dance_buff": "Flashing Steel",
+    "DOTA_Tooltip_modifier_item_aghsfort_bloodstone_active_Description": "毎秒%dMODIFIER_PROPERTY_HEALTH_REGEN_CONSTANT%HP回復している。",
+    "DOTA_Tooltip_ability_item_aghsfort_bloodstone_bonus_health_regen": "+$hp_regen",
+    "DOTA_Tooltip_ability_item_aghsfort_bloodstone_spell_amp": "%+Spell Amplification"
 }
