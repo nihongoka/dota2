@@ -4415,7 +4415,7 @@
     "DOTA_Location_Name_TopLane": "トップ",
     "DOTA_Location_Name_Tower2": "ティア2タワー",
     "DOTA_Location_Name_Top_Rune": "トップパワールーン",
-    "DOTA_Chat_Tombstone_Pinged": "ここでチームメイトが死んだ。",
+    "DOTA_Chat_Tombstone_Pinged": "ここに倒れた仲間。",
     "DOTA_Chat_Ping_Msg_Regular": "<img class=\"ChatWheelIcon\" src=\"file://{images}/control_icons/chat_wheel_icon.png\" />ピン (%s1)",
     "DOTA_Chat_Ping_Msg_Waypoint": "<img class=\"ChatWheelIcon\" src=\"file://{images}/hud/reborn/ping_icon_waypoint.psd\" />向かっている (%s1)",
     "DOTA_Chat_Ping_Msg_Retreat": "<img class=\"ChatWheelIcon\" src=\"file://{images}/hud/reborn/ping_icon_retreat.psd\" />後退する (%s1)",
