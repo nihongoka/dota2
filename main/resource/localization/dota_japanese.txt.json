@@ -11982,5 +11982,12 @@
     "DOTA_Tooltip_Ability_item_amorphotic_shell_bonus_agility": "ボーナスAGILITY:",
     "DOTA_Tooltip_ability_item_cursed_item_slot": "Continuum Curse",
     "DOTA_Tooltip_ability_item_cursed_item_slot_Description": "<h1>パッシブ: Continuum Curse</h1>このアイテムスロットは、アイテムには使用できません。 ボスを倒すか、コンティニュアムキーを見つけると呪いが解けます。",
-    "DOTA_Tooltip_ability_item_cursed_key": "Continuum Key"
+    "DOTA_Tooltip_ability_item_cursed_key": "Continuum Key",
+    "DOTA_Tooltip_Ability_aghsfort_special_juggernaut_healing_ward_blade_fury": "Swords on a Ward",
+    "DOTA_Tooltip_Ability_aghsfort_special_juggernaut_healing_ward_blade_fury_Description": "開始時にBlade Furyを発動する。",
+    "DOTA_Tooltip_Ability_aghsfort_special_juggernaut_healing_ward_crit": "Sharp Heals",
+    "DOTA_Tooltip_Ability_aghsfort_special_juggernaut_healing_ward_detonate": "Detonate Ward",
+    "DOTA_Tooltip_Ability_aghsfort_special_juggernaut_zen_ward": "Zen Ward",
+    "DOTA_Tooltip_Ability_aghsfort_special_juggernaut_healing_ward_crit_Description": "Healing WardはBlade Danceの恩恵を受ける。",
+    "DOTA_Tooltip_Ability_aghsfort_special_juggernaut_healing_ward_detonate_Description": "ヒーリング後、自動的に敵を追いかけ、ヒーリングされた総量の %damage_percent%% に相当するダメージを与えて爆発させる。"
 }
