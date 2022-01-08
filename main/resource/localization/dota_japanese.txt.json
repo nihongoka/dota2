@@ -12054,5 +12054,9 @@
     "aghsfort_juggernaut_blade_fury_damage": "+{s:value} {s:ability_name} Damage",
     "DOTA_Tooltip_ability_aghsfort2_drow_ranger_multishot_Lore": "若かりし頃、一度に複数の矢を放つことを学ぶことは、気晴らしの軽薄な行為と考えていた。古代人の戦争では、その技術は奇妙にも必須なものとなった。",
     "DOTA_Tooltip_ability_aghsfort2_drow_ranger_multishot_wave_count": "ウェーブ数:",
-    "DOTA_Tooltip_ability_aghsfort2_drow_ranger_multishot_arrow_count_per_wave": "ウェーブあたりの矢数:"
+    "DOTA_Tooltip_ability_aghsfort2_drow_ranger_multishot_arrow_count_per_wave": "ウェーブあたりの矢数:",
+    "DOTA_Tooltip_ability_aghsfort2_drow_ranger_multishot_arrow_damage_pct": "%矢の基本ダメージボーナス:",
+    "DOTA_Tooltip_ability_aghsfort2_drow_ranger_marksmanship_Description": "スローダウンとフォーカスを行って、攻撃の範囲とダメージを増加させる。<br><br><b>パッシブ:</b> Drow Rangerとその周囲のレンジヒーローに、現在のAgilityに応じたボーナスAgilityを付与する。このオーラは範囲%aura_disable_range%内に敵ヒーローがいる場合無効化される。",
+    "DOTA_Tooltip_ability_aghsfort2_drow_ranger_multishot_range": "矢の射程:",
+    "DOTA_Tooltip_ability_aghsfort2_drow_ranger_marksmanship": "Marksmanship"
 }
