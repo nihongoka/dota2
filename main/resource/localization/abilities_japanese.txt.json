@@ -7257,7 +7257,7 @@
     "DOTA_Tooltip_ability_special_bonus_unique_zeus_4": "+{s:value} Thundergod's Wrath ダメージ",
     "DOTA_Tooltip_ability_faceless_void_time_walk_reverse_Description": "Time Walk使用後1.5秒間、Time WalkをReverse Time Walkに置き換える。この間に使用すると、Time Walk使用前の元の位置に戻る。HP巻き戻しやScepterの効果は適用されない。",
     "DOTA_Tooltip_ability_void_spirit_dissimilate_Description": "一時的にエーテルに潜り込み、再出現することのできるポータルを召喚する。再出現すると、その範囲内のすべての敵にダメージを与える。",
-    "DOTA_Tooltip_ability_void_spirit_astral_step_Description": "アストラル面を切り裂いて対象の場所に現れ、その経路上にいる全ての敵を攻撃する。この攻撃は、%pop_damage_delay% 秒間スローになるvoid markを付与させ、その後爆発させる。",
+    "DOTA_Tooltip_ability_void_spirit_astral_step_Description": "アストラル面を切り裂いて対象の場所に現れ、その経路上にいる全ての敵を攻撃する。この攻撃は、%pop_damage_delay% 秒間スローになるVoid Markを付与し、その後爆発させる。",
     "DOTA_Tooltip_ability_void_spirit_resonant_pulse_Description": "周囲にダメージパルスを放ち、物理的なダメージを吸収するシールドに自身の身を包む。ダメージパルスに当たった敵ヒーローごとにダメージ吸収量が増加する。",
     "DOTA_Tooltip_modifier_void_spirit_resonant_pulse_buff_Description": "このユニットは物理ダメージを吸収するシールドを持っている。",
     "DOTA_Tooltip_modifier_void_spirit_planeshift_caster_buff_Description": "%dMODIFIER_PROPERTY_PREATTACK_BONUS_DAMAGE%のボーナスダメージと、%dMODIFIER_PROPERTY_EVASION_CONSTANT%%%のボーナス回避を持っている。",
@@ -7267,7 +7267,7 @@
     "DOTA_Tooltip_ability_faceless_void_time_walk_reverse": "Reverse Time Walk",
     "DOTA_Tooltip_ability_faceless_void_time_walk_shard_description": "Reverse Time Walkを得て、Time Walkのキャスト範囲を400増加させる。",
     "DOTA_Tooltip_ability_void_spirit_aether_remnant_Description": "指定地点に残像を設置する。残像は向いている方向を見守るように立っている。ユニットが監視範囲を横切ると、それを引き込んでダメージを与える。",
-    "DOTA_Tooltip_ability_void_spirit_aether_remnant_pull_duration": "プル効果時間:",
+    "DOTA_Tooltip_ability_void_spirit_aether_remnant_pull_duration": "引き寄せ効果時間:",
     "DOTA_Tooltip_ability_void_spirit_aether_remnant_impact_damage": "ダメージ:",
     "DOTA_Tooltip_ability_void_spirit_aether_remnant_duration": "残像の監視時間:",
     "DOTA_Tooltip_ability_void_spirit_aether_remnant_activation_delay": "反応時間:",
@@ -9816,5 +9816,9 @@
     "DOTA_Tooltip_ability_luna_lunar_blessing_Lore": "月の女神は、親族に微笑みかける。",
     "DOTA_Tooltip_ability_luna_lucent_beam_Lore": "Selemeneは、Nightsilver Woodsを侵す者を打ちのめす。",
     "DOTA_Tooltip_ability_luna_moon_glaive_Lore": "丁寧に研ぎ澄まされたブーメランのような武器で、敵を大きく切り裂く。",
-    "DOTA_Tooltip_ability_luna_eclipse_Lore": "大きな必要性に迫られた時、Selemene自身が世界に降り立ち、敵の光と希望を遮断してしまう。"
+    "DOTA_Tooltip_ability_luna_eclipse_Lore": "大きな必要性に迫られた時、Selemene自身が世界に降り立ち、敵の光と希望を遮断してしまう。",
+    "DOTA_Tooltip_ability_void_spirit_aether_remnant_Lore": "Inaiは、時空の一点をはるかに超えて存在する。",
+    "DOTA_Tooltip_ability_void_spirit_dissimilate_Lore": "Inaiは、肉体にとらわれず、我々の平面を自由に観察することを好んでいる。",
+    "DOTA_Tooltip_ability_void_spirit_astral_step_Lore": "Inaiの小さな一歩が、人間界に大きな破壊をもたらす。",
+    "DOTA_Tooltip_ability_void_spirit_resonant_pulse_Lore": "Inaiは、人間との交流を余儀なくされたとき、躊躇なく真の自分のエッセンスに身を包むことができる。"
 }
