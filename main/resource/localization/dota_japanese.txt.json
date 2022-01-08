@@ -11956,5 +11956,7 @@
     "DOTA_Tooltip_modifier_aghsfort_juggernaut_blade_fury_Description": "呪文耐性を付与し、毎秒ダメージを与える",
     "DOTA_Tooltip_modifier_aghsfort_juggernaut_zen_ward_armor_Description": "アーマーが %dMODIFIER_PROPERTY_PHYSICAL_ARMOR_BONUS% で増加",
     "DOTA_Tooltip_modifier_aghsfort_juggernaut_blade_dance_Description": "%dMODIFIER_PROPERTY_PREATTACK_CRITICALSTRIKE%% の確率でクリティカルダメージを与える",
-    "DOTA_Tooltip_modifier_aghsfort_juggernaut_blade_dance_buff_Description": "dMODIFIER_PROPERTY_EVASION_CONSTANT%% 回避と %dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%% 移動速度を獲得する。最大移動速度のロックを解除する。"
+    "DOTA_Tooltip_modifier_aghsfort_juggernaut_blade_dance_buff_Description": "dMODIFIER_PROPERTY_EVASION_CONSTANT%% 回避と %dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%% 移動速度を獲得する。最大移動速度のロックを解除する。",
+    "DOTA_Tooltip_modifier_aghsfort_juggernaut_blade_fury_force_pull": "Fury Force Suction",
+    "DOTA_Tooltip_modifier_aghsfort_juggernaut_omnislash_ignite_disarm_Description": "剣が冷えている間は武装解除される。"
 }
