@@ -48,4 +48,4 @@ jobs:
         env:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_UPLOAD_WEBHOOK }}
         with:
-          files: ./dota2jp-${{ steps.date.outputs.date }}.zip
+          args: ./dota2jp-${{ steps.date.outputs.date }}.zip
