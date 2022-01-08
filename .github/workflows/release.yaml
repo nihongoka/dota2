@@ -26,22 +26,22 @@ jobs:
       - name: Build zip file
         run: python scripts/python/build.py
 
-      - id: new_hash
-        run: echo "::set-output name=hash::`md5sum dota2jp.zip | cut -d ' ' -f 1`"
+      # - id: new_hash
+      #   run: echo "::set-output name=hash::`md5sum dota2jp.zip | cut -d ' ' -f 1`"
 
-      - id: old_hash
-        run: echo "::set-output name=hash::`curl -sL https://github.com/nihongoka/dota2/releases/download/latest/dota2jp.zip | md5sum | cut -d ' ' -f 1`"
+      # - id: old_hash
+      #   run: echo "::set-output name=hash::`curl -sL https://github.com/nihongoka/dota2/releases/download/latest/dota2jp.zip | md5sum | cut -d ' ' -f 1`"
 
       - run: mv dota2jp.zip dota2jp-${{ steps.date.outputs.date }}.zip
 
-      - name: Create Release
-        uses: softprops/action-gh-release@v1
-        if: steps.new_hash.outputs.hash != steps.old_hash.outputs.hash
-        env:
-          GITHUB_TOKEN: ${{ secrets.BOT_GITHUB_TOKEN }}
-        with:
-          files: ./dota2jp-${{ steps.date.outputs.date }}.zip
-          tag_name: v${{ steps.date.outputs.date }}
+      # - name: Create Release
+      #   uses: softprops/action-gh-release@v1
+      #   if: steps.new_hash.outputs.hash != steps.old_hash.outputs.hash
+      #   env:
+      #     GITHUB_TOKEN: ${{ secrets.BOT_GITHUB_TOKEN }}
+      #   with:
+      #     files: ./dota2jp-${{ steps.date.outputs.date }}.zip
+      #     tag_name: v${{ steps.date.outputs.date }}
 
       - name: Upload to Discord
         uses: sinshutu/upload-to-discord@master
