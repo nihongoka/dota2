@@ -11994,5 +11994,10 @@
     "DOTA_Tooltip_Ability_item_aghsfort_bloodstone": "Vault Bloodstone",
     "DOTA_Tooltip_ability_item_aghsfort_bloodstone_Description": "<h1>アクティブ: Bloodpact</h1> 最大マナの%mana_cost_percentage%%を%restore_duration%秒間のHP自然回復に回す。\n<h1>パッシブ: Mana Battery</h1>チャージごとに、%regen_per_charge%マナ回復と %amp_per_charge%%%スペル増幅を得る。近くでキャプテンまたはボスがキルされると%kill_charges%チャージを得る。自分が死亡した場合、%death_charges%チャージを失う。購入時のチャージは%initial_charges_tooltip%。<br><br>1回のエンカウントで<font color='#F40000'>最大2チャージ</font>まで獲得可能。",
     "DOTA_Tooltip_Ability_aghsfort_special_juggernaut_zen_ward_Description": "JuggernautはHealing Wardのヘルス回復量と同じ割合でマナを回復し、ヘルス割合の2倍に相当するアーマーバフを与えるZen Wardを召喚する能力を得る。",
-    "DOTA_Tooltip_Ability_aghsfort_special_juggernaut_blade_dance_cooldown": "Up-Tempo"
+    "DOTA_Tooltip_Ability_aghsfort_special_juggernaut_blade_dance_cooldown": "Up-Tempo",
+    "DOTA_Tooltip_ability_item_aghsfort_bloodstone_bonus_health": "+$health",
+    "DOTA_Tooltip_ability_item_aghsfort_bloodstone_bonus_mana": "+$mana",
+    "DOTA_Tooltip_ability_item_aghsfort_bloodstone_bonus_intellect": "+$int",
+    "DOTA_Tooltip_modifier_item_aghsfort_bloodstone_active": "Bloodpact",
+    "DOTA_Tooltip_ability_item_aghsfort_bloodstone_Lore": "Bloodstoneの鮮やかなルビー色は、戦場では紛れもなく、持ち主は無限の活力と精神力を持つように見える。"
 }
