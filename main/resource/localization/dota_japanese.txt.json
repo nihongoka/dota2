@@ -11691,7 +11691,7 @@
     "DOTA_Tooltip_ability_aghsfort_special_undying_decay_reverberation_Description": "%interval%秒間隔で、指定した場所に%extra_decays%回追加でDecayを発動する。追加されたDecayは与えるダメージが%decay_strength_percent%%%、奪うStrengthが%decay_strength_percent%%%になる。",
     "DOTA_Tooltip_ability_aghsfort_special_undying_soul_rip_ward_Description": "Soul Ripは地点指定でGoading Totemを生成することができるようになる。Totemは%ward_duration%秒間、%taunt_interval%秒おきに敵を挑発する。Totemが時間切れになったとき、範囲%ward_radius%にいる敵と味方にSoul Ripの累積値に相当するダメージまたは回復を与える。トグルによるオートキャストは常に地点指定となる。",
     "DOTA_Tooltip_Ability_aghsfort_special_undying_decay_spawn_zombies": "死を引き出せ",
-    "DOTA_Tooltip_ability_aghsfort_special_undying_decay_on_attack_Description": "攻撃した後、 %value%%%の確率でDeCayをキャストする。",
+    "DOTA_Tooltip_ability_aghsfort_special_undying_decay_on_attack_Description": "攻撃した後、 %value%%%の確率でDecayをキャストする。",
     "DOTA_Tooltip_Ability_aghsfort_special_undying_decay_reverberation": "恐ろしい残響",
     "DOTA_Tooltip_Ability_aghsfort_special_undying_soul_rip_ward": "注目の的",
     "DOTA_FantasyScorePercentilePeriod": "今期間のパーセンタイル",
