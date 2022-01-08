@@ -3286,7 +3286,7 @@
     "DOTA_Tooltip_ability_luna_moon_glaive_range": "跳ねる半径:",
     "DOTA_Tooltip_ability_luna_moon_glaive_bounces": "跳ねる回数:",
     "DOTA_Tooltip_ability_luna_moon_glaive_damage_reduction_percent": "%跳ねる毎のダメージ減少:",
-    "DOTA_Tooltip_ability_luna_moon_glaive_Note0": "Moon Glaivesはクリティカル以外のattack modifierを発動させない。",
+    "DOTA_Tooltip_ability_luna_moon_glaive_Note0": "Moon Glaivesはクリティカル以外の追加効果を発動させない。",
     "DOTA_Tooltip_ability_luna_eclipse_Description": "近くのランダムな敵に、現在のレベルのLucent Beamを浴びせる。このビームは対象をスタンせず、同一対象を攻撃できる回数には上限がある。 また、%night_duration%秒間夜になる。",
     "DOTA_Tooltip_ability_luna_eclipse_Note0": "EclipseはLucent Beamを取得していない場合機能しない。",
     "DOTA_Tooltip_modifier_luna_lunar_blessing_aura_Description": "%dMODIFIER_PROPERTY_PREATTACK_BONUS_DAMAGE%ダメージ増加",
@@ -9812,5 +9812,9 @@
     "DOTA_Tooltip_ability_drow_ranger_frost_arrows_Lore": "氷に包まれた矢が静寂を破り、犠牲者を芯まで凍らせる。",
     "DOTA_Tooltip_ability_drow_ranger_wave_of_silence_Lore": "Traxexはむしろ物理的な戦闘の静けさを好み、敵対する魔術師の呪文を終わらせるために血統を呼び起こす。",
     "DOTA_Tooltip_ability_drow_ranger_multishot_Lore": "若かりし頃、一度に複数の矢を放つことを学ぶことは、気晴らしの軽薄な行為と考えていた。古代人の戦争では、その技術は奇妙にも必須なものとなった。",
-    "DOTA_Tooltip_ability_drow_ranger_marksmanship_Lore": "Drow Rangerはアーチェリーの腕前を要約するような存在である。"
+    "DOTA_Tooltip_ability_drow_ranger_marksmanship_Lore": "Drow Rangerはアーチェリーの腕前を要約するような存在である。",
+    "DOTA_Tooltip_ability_luna_lunar_blessing_Lore": "月の女神は、親族に微笑みかける。",
+    "DOTA_Tooltip_ability_luna_lucent_beam_Lore": "Selemeneは、Nightsilver Woodsを侵す者を打ちのめす。",
+    "DOTA_Tooltip_ability_luna_moon_glaive_Lore": "丁寧に研ぎ澄まされたブーメランのような武器で、敵を大きく切り裂く。",
+    "DOTA_Tooltip_ability_luna_eclipse_Lore": "大きな必要性に迫られた時、Selemene自身が世界に降り立ち、敵の光と希望を遮断してしまう。"
 }
