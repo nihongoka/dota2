@@ -11966,5 +11966,11 @@
     "DOTA_Tooltip_ability_item_ogre_seal_totem_Lore": "オニアザラシの牙から彫られたトーテム。",
     "DOTA_Tooltip_Ability_item_ogre_seal_totem_bonus_strength": "+$str",
     "DOTA_Tooltip_Ability_item_ogre_seal_totem_bonus_hp": "+$health",
-    "DOTA_Tooltip_Ability_item_bear_cloak": "Cloak of the Bear"
+    "DOTA_Tooltip_Ability_item_bear_cloak": "Cloak of the Bear",
+    "DOTA_Tooltip_Ability_aghsfort_special_juggernaut_blade_fury_force": "Fury Force",
+    "DOTA_Tooltip_Ability_aghsfort_special_juggernaut_blade_fury_force_Description": "Blade Furyはキャスト地点に複製を作り、敵を優しく引き寄せ、 %fury_damage_percent%% のダメージを与える。",
+    "DOTA_Tooltip_Ability_aghsfort_special_juggernaut_blade_fury_shared": "Shared Fury",
+    "DOTA_Tooltip_Ability_aghsfort_special_juggernaut_blade_fury_shared_Description": "Blade Furyは最初のキャスト内で最も近い味方のヒーローに適用される。Blade Furyの攻撃制限は解除される。",
+    "DOTA_Tooltip_Ability_aghsfort_special_juggernaut_blade_fury_lifesteal_hit": "Sudden Fury",
+    "DOTA_Tooltip_Ability_aghsfort_special_juggernaut_blade_fury_lifesteal_hit_Description": "JuggernautはBlade Furyの開始時に範囲内の全ての敵に %lifesteal_percent%% のライフスティールを持つ攻撃を行う。"
 }
