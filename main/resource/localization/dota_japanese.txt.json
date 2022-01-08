@@ -11959,5 +11959,8 @@
     "DOTA_Tooltip_modifier_aghsfort_juggernaut_blade_dance_buff_Description": "dMODIFIER_PROPERTY_EVASION_CONSTANT%% 回避と %dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%% 移動速度を獲得する。最大移動速度のロックを解除する。",
     "DOTA_Tooltip_modifier_aghsfort_juggernaut_blade_fury_force_pull": "Fury Force Suction",
     "DOTA_Tooltip_modifier_aghsfort_juggernaut_omnislash_ignite_disarm_Description": "剣が冷えている間は武装解除される。",
-    "DOTA_Tooltip_Ability_item_ogre_seal_totem_Description": "<h1>アクティブ: Ogre Seal Flop</h1> Ogre Sealのように跳ね、バウンドするたびに%damage%ダメージと%stun_duration%秒間スタンさせる。"
+    "DOTA_Tooltip_Ability_item_ogre_seal_totem_Description": "<h1>アクティブ: Ogre Seal Flop</h1> Ogre Sealのように跳ね、バウンドするたびに%damage%ダメージと%stun_duration%秒間スタンさせる。",
+    "DOTA_Tooltip_Ability_aghsfort_special_juggernaut_blade_fury_sparks": "Fury Sparks",
+    "DOTA_Tooltip_modifier_aghsfort_juggernaut_blade_fury_force_pull_Description": "ブレードフューリーに向かって引っ張られる。",
+    "DOTA_Tooltip_Ability_aghsfort_special_juggernaut_blade_fury_sparks_Description": "Juggernautから遠い敵ほど、Blade Furyの与えるダメージが増加する。Juggernautから %spark_radius% 離れるごとに、Blade Furyは %spark_damage_percent%% 増加したダメージを与える。"
 }
