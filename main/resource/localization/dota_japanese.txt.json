@@ -12048,5 +12048,8 @@
     "DOTA_ChangeLog_Collectors_Cache_Voting_Started": "Aghanim's Collector's Cacheの投票が開始しました！",
     "DOTA_FrontPage_Fall2021_CollectorsCache_Voting_Header": "Collector's Cache投票",
     "DOTA_FrontPage_Fall2021_CollectorsCache_Voting_Title": "投票受付中！",
-    "DOTA_FrontPage_Fall2021_CollectorsCache_Voting_Desc": "今後発売されるCollector's Cacheの中から、お気に入りのセットを投票してください。"
+    "DOTA_FrontPage_Fall2021_CollectorsCache_Voting_Desc": "今後発売されるCollector's Cacheの中から、お気に入りのセットを投票してください。",
+    "aghsfort_juggernaut_blade_fury_radius": "+{s:value} {s:ability_name} Radius",
+    "DOTA_Tooltip_Ability_aghsfort_special_juggernaut_omni_slash_ignite_Description": "JuggernautはOmnislash中、刃をオーバーヒートさせ、当たった全ての敵を秒間 %ignite_damage_percent%% の攻撃ダメージを与え、 %slow_movement_speed_pct%% のスローダウンさせる。Omnislashが終了すると、ブレードが冷めるまで %invuln_duration% 秒間、無敵、フェイズ、ディスアーム状態になる。",
+    "aghsfort_juggernaut_blade_fury_damage": "+{s:value} {s:ability_name} Damage"
 }
