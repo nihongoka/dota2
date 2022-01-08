@@ -12338,5 +12338,11 @@
     "DOTA_Tooltip_ability_aghsfort_special_lich_chain_frost_applies_frost_shield_Description": "Chain Frostは味方ヒーローをターゲットにしてバウンスし、Frost Shieldを付与することができる。Chain Frostに%extra_jumps%の追加バウンスを追加する。",
     "DOTA_Tooltip_modifier_aghsfort_lich_frost_shield_magic_resist_debuff": "Shiver Shield",
     "DOTA_Tooltip_modifier_aghsfort_lich_frost_shield_magic_resist_debuff_Description": "魔法耐性が %dMODIFIER_PROPERTY_MAGICAL_RESISTANCE_BONUS%%% で低下する。",
-    "DOTA_Tooltip_modifier_aghsfort_lich_frost_giant": "Frost Giant"
+    "DOTA_Tooltip_modifier_aghsfort_lich_frost_giant": "Frost Giant",
+    "dota_chatwheel_header_international2017": "The International 2017",
+    "dota_chatwheel_header_international2017_desc": "これらのメッセージはThe International 2017 Battle Passの所有者のみ読むことが出来ます。",
+    "dota_chatwheel_header_international2018_sounds_desc": "これらのメッセージはThe International 2018 Battle Passの所有者のみ読むことが出来ます。",
+    "dota_chatwheel_header_international2018_casters": "The International 2018 - キャスター",
+    "dota_chatwheel_header_international2018_sounds": "The International 2018 - Sounds",
+    "DOTA_MoreInformation": "より詳細な情報"
 }
