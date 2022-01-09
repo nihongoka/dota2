@@ -8,8 +8,13 @@ Dota2というゲームの非公式の日本語化modです
 
 ## インストール方法
 
-1. https://github.com/nihongoka/dota2/releases から最新の `dota2jp.zip` をダウンロードして `dota 2 beta` フォルダの中に展開してください  
+~~https://github.com/nihongoka/dota2/releases から最新の `dota2jp.zip` をダウンロードして `dota 2 beta` フォルダの中に展開してください~~
+
+ダウンロード場所はDiscordにお引越ししました。  
+
+https://dota2.nihongoka.games/ から参加してください。
+
 (`game`フォルダの中に`dota_korean`,`dota_russian`などのように`dota_japanese`があれば正しい位置に展開できてます。)
 
-1. `Steam`から`Dota 2`を右クリックしてプロパティを開き、一般タブの中の`起動オプション`に`-language japanese`を追加してください。
+`Steam`から`Dota 2`を右クリックしてプロパティを開き、一般タブの中の`起動オプション`に`-language japanese`を追加してください。
 
