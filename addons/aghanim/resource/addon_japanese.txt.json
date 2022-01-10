@@ -582,5 +582,7 @@
     "DOTA_Tooltip_modifier_blessing_damage_bonus_Description": "追加の%dMODIFIER_PROPERTY_PREATTACK_BONUS_DAMAGE%攻撃ダメージ(+レベルごとに%dMODIFIER_PROPERTY_TOOLTIP%)得ている。",
     "DOTA_Tooltip_modifier_blessing_spell_life_steal_Description": "スペルダメージの%dMODIFIER_PROPERTY_TOOLTIP%%%を回復する。",
     "DOTA_Tooltip_modifier_blessing_potion_dragon_Description": "Dragon PotionがあなたをBlack Dragonに変身させ、攻撃ダメージを%dMODIFIER_PROPERTY_TOOLTIP2%増加させ、%dMODIFIER_PROPERTY_TOOLTIP%%%のスプラッシュダメージを与えている。",
-    "DOTA_Tooltip_modifier_blessing_potion_shadow_wave_Description": "Shadow Wave Potionは更に%dMODIFIER_PROPERTY_TOOLTIP%だけ味方への回復と敵へのダメージを追加している。"
+    "DOTA_Tooltip_modifier_blessing_potion_shadow_wave_Description": "Shadow Wave Potionは更に%dMODIFIER_PROPERTY_TOOLTIP%だけ味方への回復と敵へのダメージを追加している。",
+    "DOTA_Tooltip_modifier_sand_king_boss_caustic_finale_Description": "攻撃するたびに相手のアーマーを10%ずつ減らす。",
+    "DOTA_Tooltip_modifier_bandit_archer_arrow_debuff_Description": "このユニットはブレークされている"
 }
