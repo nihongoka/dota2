@@ -1097,7 +1097,7 @@
     "DOTA_Tooltip_ability_item_spell_prism_Description": "<h1>Passive: Cooldown Reduction</h1>すべてのスペルとアイテムのクールダウンを%bonus_cooldown%%%減少させる。",
     "DOTA_Tooltip_ability_item_spider_legs_Description": "<h1>Active: Scurry</h1> %duration%秒間、自身に %bonus_movement_speed_active%%%のボーナス移動速度を付与し、地形を無視して移動できるようになる。またがれた木は破壊される。",
     "DOTA_Tooltip_ability_item_imp_claw_Description": "<h1>Passive: Critical Strike</h1>次の攻撃を強烈な一撃にし、 %crit_multiplier%%%の追加ダメージを与えるクリティカルを発生させる。",
-    "DOTA_Tooltip_ability_item_spy_gadget_Description": "<h1>Passive: Prescient Aura</h1> スキャンのクールダウンを%scan_cooldown_reduction%%% 減少させる。半径%aura_range%以内にいる味方に攻撃範囲とキャスト範囲を増加させる。",
+    "DOTA_Tooltip_ability_item_spy_gadget_Description": "<h1>Passive: Prescient Aura</h1> スキャンのクールダウンを%scan_cooldown_reduction%%% 減少させる。半径%aura_range%以内にいる味方の攻撃範囲とキャスト範囲を増加させる。",
     "DOTA_Tooltip_Ability_item_trusty_shovel_Description": "<h1>Active: Dig</h1> %abilitychanneltime% 秒間詠唱を行う。 <br>バウンティルーン、Healing Salve、Enchanted Mango、Kobold(敵クリープ)のいずれかをランダムに掘り出す。",
     "DOTA_Tooltip_Ability_item_essence_ring_Description": "<h1>Active: Life Essence</h1>現在HPと最大HPを%health_gain%増加させる。効果は %health_gain_duration%秒間持続する。",
     "DOTA_Tooltip_modifier_item_essence_ring_active_Description": "最大HPを増加させる。",
