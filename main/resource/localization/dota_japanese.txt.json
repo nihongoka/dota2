@@ -12594,5 +12594,13 @@
     "aghsfort_lina_fiery_soul_mana_cost_cooldown": "{s:value1}% {s:ability_name} クールダウン/マナコスト減少",
     "aghsfort_lina_laguna_blade_percent_cooldown": "-{s:value}% {s:ability_name} クールダウン",
     "aghsfort_lina_laguna_blade_percent_manacost": "-{s:value}% {s:ability_name} マナコスト",
-    "aghsfort_lina_laguna_blade_damage": "+{s:value} {s:ability_name} ダメージ"
+    "aghsfort_lina_laguna_blade_damage": "+{s:value} {s:ability_name} ダメージ",
+    "DOTA_Tooltip_ability_aghsfort_dawnbreaker_solar_guardian": "Solar Guardian",
+    "DOTA_Tooltip_ability_aghsfort_dawnbreaker_solar_guardian_Lore": "仲間を守るためなら、Veloraは宇宙を翔るための古代の力を呼び出すことに躊躇しないだろう。",
+    "DOTA_Tooltip_ability_aghsfort_dawnbreaker_solar_guardian_Description": "任意の味方ヒーローの周囲%max_offset_distance%以内の地点にパルスを発生させて、範囲内の敵にダメージを与え、味方は回復する。チャネリング後、自身は指定した地点に飛んでいき、着地点の敵にダメージとスタンを与える。一度チャネリングを開始すると自身で止めることができない。",
+    "DOTA_Tooltip_ability_aghsfort_dawnbreaker_solar_guardian_Note1": "飛翔時間の合計は詠唱%abilitychanneltime%秒 + 飛翔%airtime_duration%秒。",
+    "DOTA_Tooltip_ability_aghsfort_dawnbreaker_solar_guardian_Note2": "ハンマーが無いとキャストできない。",
+    "DOTA_Tooltip_ability_aghsfort_dawnbreaker_solar_guardian_Note3": "自分自身に回復効果はない。",
+    "DOTA_Tooltip_ability_aghsfort_dawnbreaker_solar_guardian_scepter_description": "Solar Guardianの回復量が増加、チャネリング時間が1秒減少し、合計効果時間が6秒に増加する。また、Dawnbreakerが空中にいる間、着地点周辺の味方に60%の回避率を与え、飛んだ後もう一度Solar Guardianを使うことでより早く着地する事ができるようになる。",
+    "DOTA_Tooltip_ability_aghsfort_dawnbreaker_solar_guardian_Note0": "パルス間隔は%pulse_interval%秒。"
 }
