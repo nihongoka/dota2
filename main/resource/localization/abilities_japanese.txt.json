@@ -175,7 +175,7 @@
     "DOTA_Tooltip_ability_lina_laguna_blade_Description": "敵ユニット1体に稲妻を放ち、大ダメージを与える。",
     "DOTA_Tooltip_ability_lina_laguna_blade_Note0": "Laguna Bladeは、スキルを使用した後ダメージを与える前に%damage_delay%の遅延を持ち、特定のアビリティでダメージを回避することができる。",
     "DOTA_Tooltip_ability_lina_laguna_blade_damage": "ダメージ:",
-    "DOTA_Tooltip_modifier_lina_fiery_soul_Description": "攻撃速度が%dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%増加、移動速度が%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%増加しました。",
+    "DOTA_Tooltip_modifier_lina_fiery_soul_Description": "攻撃速度が%dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%増加、移動速度が%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%増加している。",
     "DOTA_Tooltip_ability_lina_light_strike_array_light_strike_array_stun_duration": "スタン時間:",
     "DOTA_Tooltip_ability_lina_fiery_soul_Description": "Linaがスキルを使用する度に攻撃と移動速度のボーナスを付与する。この効果は重複する。持続時間は%fiery_soul_stack_duration%秒。",
     "DOTA_Tooltip_ability_lina_fiery_soul_fiery_soul_attack_speed_bonus": "攻撃速度ボーナス:",
