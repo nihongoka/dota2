@@ -7972,7 +7972,7 @@
     "DOTA_Tooltip_ability_special_bonus_unique_void_spirit_6": "Dissimilateは{s:value}秒間透明化を与える",
     "DOTA_Tooltip_ability_special_bonus_unique_snapfire_3": "Scatterblast {s:value}秒 ディスアーム",
     "DOTA_Tooltip_ability_dawnbreaker_solar_guardian_Lore": "仲間を守るためなら、Veloraは宇宙を翔るための古代の力を呼び出すことに躊躇しないだろう。",
-    "DOTA_Tooltip_ability_dawnbreaker_solar_guardian_Description": "任意の味方ヒーローの周囲350以内の地点にパルスを発生させて、範囲内の敵にダメージを与え、味方は回復する。チャネリング後、自身は指定した地点に飛んでいき、着地点の敵にダメージとスタンを与える。一度チャネリングを開始すると自身で止めることができない。",
+    "DOTA_Tooltip_ability_dawnbreaker_solar_guardian_Description": "任意の味方ヒーローの周囲%max_offset_distance%以内の地点にパルスを発生させて、範囲内の敵にダメージを与え、味方は回復する。チャネリング後、自身は指定した地点に飛んでいき、着地点の敵にダメージとスタンを与える。一度チャネリングを開始すると自身で止めることができない。",
     "DOTA_Tooltip_ability_dawnbreaker_fire_wreath_duration": "コンボ効果時間:",
     "DOTA_Tooltip_ability_dawnbreaker_converge": "Converge",
     "DOTA_Tooltip_Ability_dawnbreaker_luminosity": "Luminosity",
