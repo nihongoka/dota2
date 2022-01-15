@@ -12075,7 +12075,7 @@
     "aghsfort_juggernaut_omni_slash_bonus_damage": "+{s:value} {s:ability_name} ボーナスダメージ",
     "aghsfort_juggernaut_omni_slash_duration": "+{s:value} {s:ability_name} 効果時間",
     "aghsfort_juggernaut_omni_slash_mana_cost_cooldown": "{s:value1}% {s:ability_name} クールダウン/マナコスト減少",
-    "aghsfort_juggernaut_blade_fury_duration": "+{s:value}s {s:ability_name} 効果時間",
+    "aghsfort_juggernaut_blade_fury_duration": "+{s:value}秒 {s:ability_name} 効果時間",
     "aghsfort_juggernaut_omni_slash_bonus_attack_speed": "+{s:value} {s:ability_name} ボーナスアタックスピード",
     "DOTA_Tooltip_ability_aghsfort2_drow_ranger_marksmanship_Lore": "Drow Rangerはアーチェリーの腕前を要約するような存在である。",
     "DOTA_Tooltip_ability_aghsfort2_drow_ranger_marksmanship_Note0": "Marksmanshipはトゥルーストライクを持つ。",
