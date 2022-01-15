@@ -11933,7 +11933,7 @@
     "DOTA_Tooltip_modifier_aghsfort_juggernaut_omnislash_ignite_Description": "白熱のカタナからスロウをかけられ、ダメージを受ける。",
     "DOTA_Tooltip_modifier_aghsfort_juggernaut_omnislash_ignite_invuln": "Cooling Down",
     "DOTA_Tooltip_ability_aghsfort_juggernaut_blade_fury_Note1": "JuggernautはBlade Fury状態でも攻撃を行うことができます。ただし、ワードや建造物などBlade Furyの影響を受けないユニットのみ、この攻撃によるダメージを受けることになります。",
-    "DOTA_Tooltip_ability_aghsfort_juggernaut_healing_ward_Description": "近くのすべての味方ユニットを最大体力に基づいて回復させるHealing Wardを召喚する。  Healing Wardは召喚された後、 %healing_ward_movespeed_tooltip%の移動速度で移動する。パルス数は%healing_ward_movespeed_tooltip%。味方への効果は半減する。",
+    "DOTA_Tooltip_ability_aghsfort_juggernaut_healing_ward_Description": "近くのすべての味方ユニットを最大体力に基づいて回復させるHealing Wardを召喚する。  Healing Wardは召喚された後、 %healing_ward_movespeed_tooltip%の移動速度で移動する。移動速度は%healing_ward_movespeed_tooltip%。味方への効果は半減する。",
     "DOTA_Tooltip_ability_aghsfort_juggernaut_zen_ward_Description": "近くの味方ユニットのマナを回復させ、近くの味方ヒーローにアーマーを付与するZen Wardを召喚する。半径、リジェネ量、パルス数はHealing Wardと共通である。アーマーはHealing Wardのパルス毎体力回復割合の2倍に相当する。味方への効果は半減する。",
     "DOTA_Tooltip_ability_aghsfort_juggernaut_omni_slash_Description": "対象の敵ユニットに向かって跳躍し、対象および周囲の敵ユニットを攻撃速度アップで斬りつける。Juggernautは持続的に無敵になる。",
     "DOTA_Tooltip_ability_aghsfort_juggernaut_omni_slash_omni_slash_radius": "ジャンプ範囲:",
