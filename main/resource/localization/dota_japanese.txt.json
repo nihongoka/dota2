@@ -11229,7 +11229,7 @@
     "DOTA_AghsLab_TitleDepth8": "Act 2: ルーム 2",
     "DOTA_AghsLab_TitleDepth9": "Act 2: ルーム 3",
     "DOTA_AghsLab_TitleDepth17": "Act 3: ルーム 5",
-    "DOTA_LabyrinthBlessing_respawn_attack_speed_Desc": "<span class=\"Flavor\">誰かに殺された後、地べたを転げまわって泣きたくなるのは自然なことだ。しかし、より良いアイデアは+{d:instance_value}攻撃速度で自分自身を強化sし、スポーン後の無敵時間中に自分を奮い立たせ、君を自分の都合のいい場所に置こうと考えたヤツを倒すだけだ。</span>",
+    "DOTA_LabyrinthBlessing_respawn_attack_speed_Desc": "<span class=\"Flavor\">誰かに殺された後、地べたを転げまわって泣きたくなるのは自然なことだ。しかし、より良いアイデアは+{d:instance_value}攻撃速度で自分自身を強化し、スポーン後の無敵時間中に自分を奮い立たせ、君を自分の都合のいい場所に置こうと考えたヤツを倒すだけだ。</span>",
     "DOTA_LabyrinthBlessing_attack_range_Desc": "<span class=\"Flavor\">これは遠距離ヒーロー専用だ。タイトルに遠距離と入っています。もし君が近接ヒーローで、とりあえずこれを選ぼうとしたのなら、恥を知りなさい。</span>",
     "DOTA_LabyrinthBlessing_projectile_speed_Desc": "<span class=\"Flavor\">これは遠距離ヒーロー専用だ。私は近接ヒーローを差別するのは好きではないし、彼らが差別されるのも好きではないだろうが、ここで例外を作ると、時間と空間の構造そのものを引き裂くことになるかもしれない。そして、私は自分のためにだけにそれを行おうと思う。</span>",
     "DOTA_LabyrinthBlessing_regen_around_allies_Desc": "<span class=\"Flavor\">私がいつも言っていることがあるとすれば、それは「団結すること」だろう。これは絶対に必要なことだ。そして君が尊敬し、信頼している人が、個々に別れてコンティニュアムの空間を探検するのが最も効率的だと言っても、絶対に、絶対に耳を貸してはいけない。たとえ、その人が一番賢くて、ハンサムで、間違いなく一番後悔しているメンバーであってもだ。そこで、味方の近くにいることを推奨するために、味方が射程300以内にいるとHPの回復量が増加するようにしよう。これで歌姫たちの絆が深まらないわけがない。</span>",
