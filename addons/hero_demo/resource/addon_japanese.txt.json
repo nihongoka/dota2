@@ -1,3 +1,25 @@
 {
-    "addon_game_name": "ヒーローデモモード"
+    "addon_game_name": "ヒーローデモモード",
+    "DemoOptions_MinimizeButton": "デモオプション",
+    "DemoOptions_UnMinimizeButton": "  >&#xD;&#xD;&#xD;&#xD;  >",
+    "Hero_ButtonCategory": "ヒーロー",
+    "Spawn_ButtonCategory": "スポーン",
+    "Misc_ButtonCategory": "カスタマイズ",
+    "SpawnCreeps_Button": "クリープウェーブ",
+    "TowersEnabled_Button": "タワー",
+    "Refresh_Button": "リフレッシュ",
+    "LevelUp_Button": "レベルアップ",
+    "MaxLevel_Button": "レベル最大",
+    "FreeSpells_Button": "スペル使い放題",
+    "Invulnerability_Button": "無敵",
+    "Enemy_Button": "敵",
+    "SelectHero_Button": "敵ヒーロー選択",
+    "LevelUpEnemy_Button": "敵レベルアップ",
+    "DummyTarget_Button": "ダミーターゲット",
+    "RemoveSpawns_Button": "敵削除",
+    "SelectCosmetics_Button": "新アイテム装備",
+    "ChangeHero_Button": "新ヒーロー選択",
+    "PauseDemo_Button": "ポーズ",
+    "QuitDemo_Button": "終了",
+    "MaxLevelEnemy_Button": "敵レベル最大"
 }
