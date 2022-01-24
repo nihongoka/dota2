@@ -9195,7 +9195,7 @@
     "DOTA_Tooltip_ability_spawnlord_master_stomp_armor_reduction_pct": "%ベースアーマー効果時間:",
     "DOTA_Tooltip_modifier_spawnlord_master_stomp": "Desecrate",
     "DOTA_Tooltip_modifier_spawnlord_master_stomp_Description": "ベースアーマーが%fMODIFIER_PROPERTY_PHYSICAL_ARMOR_BONUS%減少している。",
-    "DOTA_Tooltip_ability_satyr_soulstealer_mana_burn": "マナ燃焼",
+    "DOTA_Tooltip_ability_satyr_soulstealer_mana_burn": "Mana Burn",
     "DOTA_Tooltip_ability_satyr_hellcaller_unholy_aura": "Unholy Aura",
     "DOTA_Tooltip_ability_satyr_hellcaller_unholy_aura_radius": "範囲:",
     "DOTA_Tooltip_modifier_satyr_hellcaller_unholy_aura_bonus": "Unholy Aura",
