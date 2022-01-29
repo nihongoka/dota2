@@ -12715,5 +12715,13 @@
     "aghsfort_dawnbreaker_solar_guardian_base_heal": "+{s:value} {s:ability_name} パルス回復量",
     "aghsfort_dawnbreaker_solar_guardian_mana_cost_cooldown": "{s:value1}% {s:ability_name} クールダウン/マナコスト減少",
     "aghsfort_dawnbreaker_luminosity_heal_radius": "+{s:value} {s:ability_name} 回復範囲",
-    "aghsfort_dawnbreaker_solar_guardian_damage": "+{s:value1} / {s:value2} {s:ability_name} パルス/着地ダメージ"
+    "aghsfort_dawnbreaker_solar_guardian_damage": "+{s:value1} / {s:value2} {s:ability_name} パルス/着地ダメージ",
+    "DOTA_CompendiumSummary_Supporters_Join1": "サポータークラブに加入",
+    "DOTA_CompendiumSummary_Fantasy_Title": "DPCファンタジー",
+    "DOTA_CompendiumSummary_Fantasy_Desc": "自分だけのチームを作ろう。",
+    "DOTA_CompendiumSummary_Fantasy_RewardLevel": "リワードレベル",
+    "DOTA_CompendiumSummary_Supporters_Join2": "好きなチームを応援しよう。",
+    "DOTA_CompendiumSummary_Supporters_Sale": "セール: 50%オフ",
+    "DOTA_CompendiumSummary_Fantasy_NoRosterSet": "名簿未設定",
+    "DOTA_CompendiumSummary_Fantasy_NextPeriod": "次の期間"
 }
