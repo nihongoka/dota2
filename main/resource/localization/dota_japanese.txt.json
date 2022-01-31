@@ -9395,7 +9395,7 @@
     "DOTA_ChallengeDesc_SingleTierOne": "試合時間が<font color='#ffffff'>%s1</font>になる前にチームでティア1タワーを破壊する。",
     "DOTA_ChallengeDesc_Kills": "敵ヒーローを<font color='#ffffff'>%s1</font>体以上キルする。",
     "DOTA_ChallengeDesc_EarnXPM": "XPM<font color='#ffffff'>%s1</font>以上で試合を終える。",
-    "DOTA_ChallengeDesc_BountyHunterTrackKills": "Track中の敵から<font color='#ffffff'>%s1</font>ゴールド稼ぐ。",
+    "DOTA_ChallengeDesc_BountyHunterTrackKills": "Track中の敵から<font color='#ffffff'>%s1</font>回賞金をいただく。",
     "DOTA_ChallengeDesc_TinyCombo": "単一の敵に<font color='#ffffff'>%s1</font>回、<font color='#ffffff'>Avalanche/Toss</font>コンボを与える。",
     "DOTA_ChallengeDesc_TotalHealingAsHero": "味方ヒーローの体力を<font color='#ffffff'>%s1</font>回復する。",
     "DOTA_ChallengeDesc_SniperAssassinate": "<font color='#ffffff'>Assassinate</font>で<font color='#ffffff'>%s1</font>キルする。",
