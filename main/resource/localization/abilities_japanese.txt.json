@@ -3900,7 +3900,7 @@
     "DOTA_Tooltip_ability_special_bonus_unique_faceless_void_2": "Chronosphereの範囲+{s:value}",
     "DOTA_Tooltip_ability_special_bonus_unique_faceless_void_3": "Time Lockのダメージ+{s:value}",
     "DOTA_Tooltip_ability_special_bonus_unique_faceless_void_4": "Backtrackの発動確率+{s:dodge_chance_pct}%",
-    "DOTA_Tooltip_ability_special_bonus_unique_faceless_void_5": "Time Walk-{s:value}秒",
+    "DOTA_Tooltip_ability_special_bonus_unique_faceless_void_5": "-{s:value}秒 Time Walkクールダウン",
     "DOTA_Tooltip_ability_special_bonus_unique_night_stalker": "Dark Ascensionのクールダウン-{s:value}秒",
     "DOTA_Tooltip_ability_special_bonus_unique_night_stalker_2": "Hunter In The Night中の攻撃速度+{s:value}",
     "DOTA_Tooltip_ability_special_bonus_unique_night_stalker_3": "+{s:value} Dark Ascensionダメージ",
