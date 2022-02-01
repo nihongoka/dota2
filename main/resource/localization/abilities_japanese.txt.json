@@ -4742,7 +4742,7 @@
     "DOTA_Tooltip_modifier_shredder_reactive_armor_Description": "スタック毎にボーナスアーマーとHP自然回復を得る。",
     "DOTA_Tooltip_modifier_shredder_chakram_debuff_Description": "Chakramは持続ダメージと移動速度減少を付与する。",
     "DOTA_Tooltip_modifier_shredder_chakram_disarm_Description": "Chakramが浮遊していた場合、通常攻撃ができない。",
-    "DOTA_Tooltip_ability_spectre_haunt_Description": "各敵ヒーローをを攻撃するspectral nemesisを作り出す。効果時間中はいつでも、SpectreはReality を使用しハウントと場所を入れ替えることができる。\n\nHauntのイリュージョンは操作できず、追加のダメージを受け、与えるダメージは減る。<br>イリュージョンは地形を無視する。",
+    "DOTA_Tooltip_ability_spectre_haunt_Description": "各敵ヒーローを攻撃するSpectral Nemesisを作り出す。効果時間中はいつでも、SpectreはReality を使用しハウントと場所を入れ替えることができる。\n\nHauntのイリュージョンは操作できず、追加のダメージを受け、与えるダメージは減る。<br>イリュージョンは地形を無視する。",
     "DOTA_Tooltip_ability_spectre_desolate_Description": "Spectreが半径%radius%以内に味方ユニットがいない敵を攻撃するとボーナスダメージを与える。",
     "DOTA_Tooltip_ability_spectre_desolate_Note0": "ダメージはSpectreの攻撃の前に与えられる。",
     "DOTA_Tooltip_ability_spectre_desolate_Note1": "SpectreのイリュージョンにDesolateを持つ。",
