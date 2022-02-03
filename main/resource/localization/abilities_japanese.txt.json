@@ -2704,7 +2704,7 @@
     "DOTA_Tooltip_ability_tiny_grow_attack_speed_reduction": "攻撃速度減少:",
     "DOTA_Tooltip_modifier_tiny_avalanche_stun_Description": "落岩でスタンさせられる。",
     "DOTA_Tooltip_modifier_tiny_tree_grab_Description": "攻撃範囲が%dMODIFIER_PROPERTY_ATTACK_RANGE_BONUS%増加し、追加ダメージと拡散ダメージを与えるようになる。",
-    "DOTA_Tooltip_ability_puck_illusory_orb_Description": "Puckはまっすぐ進むmagic orbを発射し、敵にダメージを与える。PuckはいつでもEthereal Jauntを使用し、orbの場所にテレポートできる。",
+    "DOTA_Tooltip_ability_puck_illusory_orb_Description": "Puckはまっすぐ進むMagic Orbを発射し、敵にダメージを与える。PuckはいつでもEthereal Jauntを使用し、Magic Orbの場所にテレポートできる。",
     "DOTA_Tooltip_ability_puck_illusory_orb_max_distance": "最大距離:",
     "DOTA_Tooltip_ability_puck_waning_rift_Description": "Puckはターゲットエリアにテレポートして妖精の粉を放出し、付近の敵にダメージとサイレンスを与える。",
     "DOTA_Tooltip_ability_puck_waning_rift_radius": "範囲:",
