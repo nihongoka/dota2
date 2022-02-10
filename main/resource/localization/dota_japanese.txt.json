@@ -12724,5 +12724,6 @@
     "DOTA_CompendiumSummary_Supporters_Sale": "セール: 50%オフ",
     "DOTA_CompendiumSummary_Fantasy_NoRosterSet": "名簿未設定",
     "DOTA_CompendiumSummary_Fantasy_NextPeriod": "次の期間",
-    "dota_settings_experimental_controller_support": "実験的なコントローラーサポートを有効にする"
+    "dota_settings_experimental_controller_support": "実験的なコントローラーサポートを有効にする",
+    "DOTA_WatchLive_Game_LoadMore": "さらに表示"
 }
