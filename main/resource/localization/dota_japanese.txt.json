@@ -12729,5 +12729,8 @@
     "dota_gift_received_title": "ギフトを受け取りました",
     "dota_gift_received_accept": "ギフトを開ける",
     "DOTA_ShareParty_Joined": "参加済み",
-    "dota_gift_received_note": "メッセージ:"
+    "dota_gift_received_note": "メッセージ:",
+    "DOTA_ShareLobby_Joined_Tooltip": "既にこのロビーに入っています。",
+    "DOTA_ShareLobby_Joined": "参加済み",
+    "DOTA_ShareLobby_Sent": "自分のロビー"
 }
