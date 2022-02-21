@@ -12725,5 +12725,9 @@
     "DOTA_CompendiumSummary_Fantasy_NoRosterSet": "名簿未設定",
     "DOTA_CompendiumSummary_Fantasy_NextPeriod": "次の期間",
     "dota_settings_experimental_controller_support": "実験的なコントローラーサポートを有効にする",
-    "DOTA_WatchLive_Game_LoadMore": "さらに表示"
+    "DOTA_WatchLive_Game_LoadMore": "さらに表示",
+    "dota_gift_received_title": "ギフトを受け取りました",
+    "dota_gift_received_accept": "ギフトを開ける",
+    "DOTA_ShareParty_Joined": "参加済み",
+    "dota_gift_received_note": "メッセージ:"
 }
