@@ -12733,5 +12733,7 @@
     "DOTA_ShareLobby_Joined_Tooltip": "既にこのロビーに入っています。",
     "DOTA_ShareLobby_Joined": "参加済み",
     "DOTA_ShareLobby_Sent": "自分のロビー",
-    "CompetitiveMMSpreadTooLarge": "パーティメンバーのMMRが離れすぎているため、ランクマッチに参加できません。"
+    "CompetitiveMMSpreadTooLarge": "パーティメンバーのMMRが離れすぎているため、ランクマッチに参加できません。",
+    "DOTA_Custom_Game_View_Details": "ゲームの詳細を見る",
+    "DOTA_Custom_Game_Info": "情報"
 }
