@@ -12732,5 +12732,6 @@
     "dota_gift_received_note": "メッセージ:",
     "DOTA_ShareLobby_Joined_Tooltip": "既にこのロビーに入っています。",
     "DOTA_ShareLobby_Joined": "参加済み",
-    "DOTA_ShareLobby_Sent": "自分のロビー"
+    "DOTA_ShareLobby_Sent": "自分のロビー",
+    "CompetitiveMMSpreadTooLarge": "パーティメンバーのMMRが離れすぎているため、ランクマッチに参加できません。"
 }
