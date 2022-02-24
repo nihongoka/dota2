@@ -2928,7 +2928,7 @@
     "DOTA_Tooltip_modifier_enigma_malefice_Description": "％fMODIFIER_PROPERTY_TOOLTIP％秒ごと、％dMODIFIER_PROPERTY_TOOLTIP％のダメージと、％fMODIFIER_PROPERTY_TOOLTIP％秒のスタンを受ける。",
     "DOTA_Tooltip_ability_necrolyte_heartstopper_aura_mana_regen": "キル毎のマナ自然回復:",
     "DOTA_Tooltip_ability_necrolyte_sadist_Description": "Necrophosは、生者と死者の狭間に入り込む。 その間、攻撃することも攻撃されることもできず、周囲の敵を遅くするオーラを放出する。 受ける魔法ダメージは増加するが、回復力も増幅される。",
-    "DOTA_Tooltip_ability_necrolyte_reapers_scythe_Description": "指定した敵ヒーローをスタンさせ、失われているHPに応じたダメージを与える。Reaper's Scytheでキルされたヒーローはリスポーンまでの時間が%respawn_constant%秒増加する。効果中のすべてのキルはNecrophosのものとして扱われる。",
+    "DOTA_Tooltip_ability_necrolyte_reapers_scythe_Description": "指定した敵ヒーローをスタンさせ、失われているHPに応じたダメージを与える。Necrophosがこのスキルで敵をキルした場合、永続的に体力とマナの自然回復が上昇する。効果中のすべてのキルはNecrophosのものとして扱われる。",
     "DOTA_Tooltip_modifier_necrolyte_heartstopper_aura_effect_Description": "Necrophosの近くにいる間、毎秒一定割合のHPを失う。",
     "DOTA_Tooltip_ability_slardar_sprint_Description": "Slardarはつるつる滑り、高速で移動してユニットをすり抜けられる。Slardarは川にいる間、移動速度ボーナスを得る。",
     "DOTA_Tooltip_ability_slardar_sprint_puddle_status_resistance": "%SCEPTER 川の中状態耐性:",
