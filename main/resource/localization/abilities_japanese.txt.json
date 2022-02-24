@@ -1144,8 +1144,8 @@
     "DOTA_Tooltip_ability_shadow_shaman_voodoo_Note2": "ヘックスはダメージブロック効果を解除させる。",
     "DOTA_Tooltip_ability_shadow_shaman_voodoo_duration": "効果時間:",
     "DOTA_Tooltip_ability_shadow_shaman_shackles": "Shackles",
-    "DOTA_Tooltip_ability_shadow_shaman_shackles_Description": "チャネリング - 魔法によって敵を拘束し、動くことも攻撃することもできなくさせる。拘束中は継続的にダメージを与える。",
-    "DOTA_Tooltip_ability_shadow_shaman_shackles_total_damage": "総ダメージ量:",
+    "DOTA_Tooltip_ability_shadow_shaman_shackles_Description": "チャネリング - 魔法によって敵を拘束し、動くことも攻撃することもできなくさせる。拘束中は継続的にダメージを与え、体力を吸収する。",
+    "DOTA_Tooltip_ability_shadow_shaman_shackles_total_damage": "総ダメージ/回復量:",
     "DOTA_Tooltip_ability_shadow_shaman_shackles_channel_time": "最大効果時間:",
     "DOTA_Tooltip_ability_shadow_shaman_mass_serpent_ward": "Mass Serpent Ward",
     "DOTA_Tooltip_ability_shadow_shaman_mass_serpent_ward_Description": "%ward_count% 体のSerpent Wardsを召喚し、敵ユニットと敵建造物を攻撃する。Serpent Wardsはスペル耐性を持つ。",
@@ -2800,7 +2800,7 @@
     "DOTA_Tooltip_ability_lich_chain_frost_slow_duration": "スロー時間:",
     "DOTA_Tooltip_ability_lich_chain_frost_bonus_jump_damage": "増加ダメージ:",
     "DOTA_Tooltip_modifier_lich_attack_slow_debuff_Description": "移動速度が%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%減少、攻撃速度が%dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%減少。",
-    "DOTA_Tooltip_modifier_lich_frost_shield_Description": "あなたに対する物理ダメージを軽減する。",
+    "DOTA_Tooltip_modifier_lich_frost_shield_Description": "あなたに対するダメージを軽減する。",
     "DOTA_Tooltip_modifier_lich_frost_shield_slow_Description": "移動速度が%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%減少。",
     "DOTA_Tooltip_modifier_lich_sinister_gaze_Description": "あなたはLichのSinister Gazeに対して無力！",
     "DOTA_Tooltip_ability_tidehunter_gush_Description": "大量の水を召喚して敵ユニットにダメージを与え、移動速度とアーマーを減少させる。",
@@ -9923,5 +9923,7 @@
     "DOTA_Tooltip_ability_dazzle_lucky_charm_Description": "Dazzleのアイテムのクールダウンを減少させる。味方にキャストすることで、その味方のアイテムのクールダウンをすべてリフレッシュする。",
     "DOTA_Tooltip_ability_dazzle_lucky_charm_cooldown_reduction": "%アイテムクールダウン減少:",
     "DOTA_Tooltip_modifier_dazzle_bad_juju_armor_counter": "Bad Juju",
-    "DOTA_Tooltip_modifier_dazzle_bad_juju_armor_counter_Description": "アーマーが%dMODIFIER_PROPERTY_TOOLTIP%変化している。"
+    "DOTA_Tooltip_modifier_dazzle_bad_juju_armor_counter_Description": "アーマーが%dMODIFIER_PROPERTY_TOOLTIP%変化している。",
+    "DOTA_Tooltip_ability_lich_frost_nova_slow_attack_speed_primary": "",
+    "DOTA_Tooltip_ability_shadow_shaman_mass_serpent_ward_hits_to_destroy_tooltip_creeps": "破壊するまでのヒット数(クリープ):"
 }
