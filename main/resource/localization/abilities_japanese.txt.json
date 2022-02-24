@@ -7407,7 +7407,7 @@
     "DOTA_Tooltip_Ability_item_refresher_shard_Description": "<h1>Use: Reset Cooldowns</h1>自身の全てのアイテムとアビリティのクールダウンをリセットする。",
     "DOTA_Tooltip_modifier_item_butterfly_extra": "Flutter",
     "DOTA_Tooltip_modifier_nyx_assassin_vendetta_armor_reduction": "Vendetta",
-    "DOTA_Tooltip_ability_item_bloodstone_Description": "<h1>Active: Bloodpact</h1>最大マナの%mana_cost_percentage%%%を%restore_duration%秒間HP自然回復に回す。\n<h1>Passive: Mana Battery</h1>チャージごとに、 %regen_per_charge% マナ回復と%amp_per_charge%%%スペルダメージボーナスを得る。自分の近くで敵がキルされると%kill_charges%チャージが得られる。自分が死亡した場合、%death_charges%チャージを失う。購入時のチャージ数は%initial_charges_tooltip%。",
+    "DOTA_Tooltip_ability_item_bloodstone_Description": "<h1>Active: Bloodpact</h1>スペルライフスティール効果を2倍にし、与えたダメージと同じ割合だけマナに変換する。%buff_duration%秒間持続する。コストは起動時の体力の%hp_cost%%%。",
     "DOTA_Tooltip_ability_item_bloodstone_hero_lifesteal": "%+スペルライフスティール (ヒーロー)",
     "DOTA_Tooltip_ability_item_bloodstone_creep_lifesteal": "%+スペルライフスティール (クリープ)",
     "DOTA_Tooltip_ability_ad_shard_grant": "シャードは新しい能力を付与する: <font color=\"#ffffff\"><b>%s1</b></font>",
@@ -9960,6 +9960,11 @@
     "DOTA_Tooltip_ability_item_wraith_pact_bonus_health": "+$health",
     "DOTA_Tooltip_ability_item_wraith_pact_bonus_mana": "+$mana",
     "DOTA_Tooltip_modifier_item_wraith_pact_death_aura": "Wraith's Reprisal",
-    "DOTA_Tooltip_ability_item_wraith_band_Description": "%clock_time%分後効果が2倍になる。",
-    "DOTA_Tooltip_modifier_item_boots_of_bearing_aura": "Swiftness Aura"
+    "DOTA_Tooltip_ability_item_wraith_band_Description": "%clock_time%分後、効果が2倍になる。",
+    "DOTA_Tooltip_modifier_item_boots_of_bearing_aura": "Swiftness Aura",
+    "DOTA_Tooltip_modifier_item_bloodstone_drained": "Drained",
+    "DOTA_Tooltip_modifier_item_bloodstone_drained_Description": "現在、Bloodpactのボーナスを得られない。",
+    "DOTA_Tooltip_ability_item_bloodstone_Note0": "Bloodpactを使用すると40秒間ドレイン状態になり、その間はBloodpactの恩恵を受けることができない。",
+    "DOTA_Tooltip_ability_item_bracer_Description": "%clock_time%分後、効果が2倍になる。",
+    "DOTA_Tooltip_ability_item_null_talisman_Description": "%clock_time%分後、効果が2倍になる。"
 }
