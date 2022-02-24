@@ -28,7 +28,6 @@ jobs:
     needs: precheck
     if: ${{ needs.precheck.outputs.new_version != needs.precheck.outputs.current_version || github.event_name == 'workflow_dispatch' }}
     steps:
-      - uses: actions/checkout@v2
       - uses: actions/setup-python@v2
       - uses: CyberAndrii/setup-steamcmd@v1
         
@@ -37,6 +36,8 @@ jobs:
 
       - name: Fetch Dota2 client data
         run: steamcmd +force_install_dir "C:/dota2" +login ${{ secrets.STEAM_USERNAME }} ${{ secrets.STEAM_PASSWORD }} +app_update 570 validate +quit
+
+      - uses: actions/checkout@v2
 
       - name: Extract from client data
         env:
