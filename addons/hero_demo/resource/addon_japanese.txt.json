@@ -21,5 +21,6 @@
     "ChangeHero_Button": "新ヒーロー選択",
     "PauseDemo_Button": "ポーズ",
     "QuitDemo_Button": "終了",
-    "MaxLevelEnemy_Button": "敵レベル最大"
+    "MaxLevelEnemy_Button": "敵レベル最大",
+    "Refresh_Msg": ""
 }
