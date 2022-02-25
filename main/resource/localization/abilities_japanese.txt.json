@@ -10140,5 +10140,17 @@
     "DOTA_Tooltip_ability_berserker_troll_break_duration": "効果時間:",
     "DOTA_Tooltip_modifier_break": "ブレイク",
     "DOTA_Tooltip_modifier_break_Description": "パッシブアビリティが無効になっている。",
-    "DOTA_Tooltip_ability_hill_troll_rally": "Rally"
+    "DOTA_Tooltip_ability_hill_troll_rally": "Rally",
+    "DOTA_Tooltip_modifier_hill_troll_rally": "Rallied",
+    "DOTA_Tooltip_ability_fel_beast_haunt_Description": "指定したユニットにサイレンスを与える。",
+    "DOTA_Tooltip_ability_fel_beast_haunt_damage_per_second": "秒間ダメージ:",
+    "DOTA_Tooltip_ability_fel_beast_haunt_radius": "範囲:",
+    "DOTA_Tooltip_ability_fel_beast_haunt_duration": "効果時間:",
+    "DOTA_Tooltip_modifier_fel_beast_haunt": "サイレンス",
+    "DOTA_Tooltip_ability_ogre_bruiser_ogre_smash": "Ogre Smash!",
+    "DOTA_Tooltip_ability_hill_troll_rally_Description": "Skeletonの味方はボーナス攻撃力を得る。このオーラは重複する。",
+    "DOTA_Tooltip_ability_hill_troll_rally_radius": "範囲:",
+    "DOTA_Tooltip_ability_hill_troll_rally_damage_bonus": "ボーナス攻撃力:",
+    "DOTA_Tooltip_modifier_hill_troll_rally_Description": "攻撃力が%dMODIFIER_PROPERTY_PREATTACK_BONUS_DAMAGE%上昇している。",
+    "DOTA_Tooltip_ability_fel_beast_haunt": "Vex"
 }
