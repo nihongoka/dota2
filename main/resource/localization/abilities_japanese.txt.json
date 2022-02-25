@@ -9944,7 +9944,6 @@
     "DOTA_Tooltip_modifier_item_revenants_brooch_internal_cd": "Witch Bladeクールダウン",
     "DOTA_Tooltip_modifier_item_revenants_brooch_internal_cd_Description": "次のWitch Bladeが発動するまでの遅延。",
     "DOTA_Tooltip_ability_riki_smoke_screen_Note2": "MiranaのSacred Arrowのような非対象指定の飛翔体ではなく、ヒーローに追従する飛翔体のみかわす可能性がある。",
-    "DOTA_Tooltip_ability_riki_smoke_screen_dodge_chance": "%飛翔体回避確率:",
     "DOTA_Tooltip_ability_riki_blink_strike_slow": "スロー効果時間:",
     "DOTA_Tooltip_modifier_riki_blinkstrike_slow": "Blink Strike",
     "DOTA_Tooltip_modifier_riki_blinkstrike_slow_Description": "移動速度が%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%減少している。",
