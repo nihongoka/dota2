@@ -12731,5 +12731,6 @@
     "DOTA_ShareLobby_Sent": "自分のロビー",
     "CompetitiveMMSpreadTooLarge": "パーティメンバーのMMRが離れすぎているため、ランクマッチに参加できません。",
     "DOTA_Custom_Game_View_Details": "ゲームの詳細を見る",
-    "DOTA_Custom_Game_Info": "情報"
+    "DOTA_Custom_Game_Info": "情報",
+    "DOTA_HeroDebut_ViewLoadout": "装備画面へ"
 }
