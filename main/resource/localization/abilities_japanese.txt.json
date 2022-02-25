@@ -10139,5 +10139,6 @@
     "DOTA_Tooltip_ability_berserker_troll_break_Description": "Hill Troll Berserkerの攻撃はいつでも対象にブレイクを与える。",
     "DOTA_Tooltip_ability_berserker_troll_break_duration": "効果時間:",
     "DOTA_Tooltip_modifier_break": "ブレイク",
-    "DOTA_Tooltip_modifier_break_Description": "パッシブアビリティが無効になっている。"
+    "DOTA_Tooltip_modifier_break_Description": "パッシブアビリティが無効になっている。",
+    "DOTA_Tooltip_ability_hill_troll_rally": "Rally"
 }
