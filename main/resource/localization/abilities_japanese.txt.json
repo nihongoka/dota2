@@ -1021,7 +1021,7 @@
     "DOTA_Tooltip_modifier_item_shivas_guard_aura_Description": "攻撃速度が%dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%、自動回復が%dMODIFIER_PROPERTY_LIFESTEAL_AMPLIFY_PERCENTAGE%%%減少している。",
     "DOTA_Tooltip_modifier_item_shivas_guard_blast_Description": "移動速度が%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%低下している。",
     "DOTA_Tooltip_ability_item_skadi_Description": "<h1>Passive: Cold Attack</h1> 通常攻撃が敵の移動速度と攻撃速度を減少させ、回復、自動回復、ライフスティール、スペルライフスティールを%cold_duration%秒間%heal_reduction%%%減少させる。遠距離ユニットの場合は%cold_slow_ranged%%%移動速度低下と%cold_slow_ranged%攻撃速度低下を受ける。近接ユニットの場合は%cold_slow_melee%%%移動速度低下と%cold_slow_melee%攻撃速度低下を受ける 。 ",
-    "DOTA_Tooltip_modifier_item_skadi_slow_Description": "%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%の移動速度低下と %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%の攻撃速度低下を受けている。",
+    "DOTA_Tooltip_modifier_item_skadi_slow_Description": "%dMODIFIER_PROPERTY_LIFESTEAL_AMPLIFY_PERCENTAGE%%%のヒールする量、HP自然回復速度、ライフスティール量、スペルライフスティール量を低下と%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%の移動速度低下と %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%の攻撃速度低下を受けている。",
     "DOTA_Tooltip_modifier_item_soul_ring_buff_Description": "HPを失った代わりにマナが増加している。増加した分のマナは効果時間終了後に失われる。",
     "DOTA_Tooltip_ability_item_stout_shield_Description": "<h1>Passive: Damage Block</h1>%block_chance%%%の確率で、近接ヒーローには%damage_block_melee%、遠距離ヒーローには%damage_block_ranged% のダメージをブロックする効果を付与する。",
     "DOTA_Tooltip_ability_item_stout_shield_Note0": "複数のダメージブロックは重複しない。",
