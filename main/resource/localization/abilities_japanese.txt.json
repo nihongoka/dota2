@@ -10256,5 +10256,6 @@
     "DOTA_Tooltip_ability_black_drake_magic_amplification_aura_": "%受けるスペルダメージの増幅:",
     "DOTA_Tooltip_ability_black_drake_magic_amplification_aura_radius": "範囲:",
     "DOTA_Tooltip_ability_mud_golem_hurl_boulder_damage_creeps": "クリープへのダメージ:",
-    "DOTA_Tooltip_ability_item_urn_of_shadows_bonus_health": "+health"
+    "DOTA_Tooltip_ability_item_urn_of_shadows_bonus_health": "+health",
+    "DOTA_Tooltip_ability_legion_commander_overwhelming_odds_shard_description": "Legion CommanderはOverwhelming Oddsをヒーローに当てる度に4アーマー、クリープに当てる度に0.5アーマー獲得する。効果は8秒持続する。"
 }
