@@ -9868,7 +9868,6 @@
     "DOTA_Tooltip_ability_morphling_replicate_scepter_stat_steal": "%セプターステータス奪取量:",
     "DOTA_Tooltip_ability_morphling_replicate_scepter_status_resist": "%セプター異常耐性奪取量 (STR):",
     "DOTA_Tooltip_ability_morphling_replicate_scepter_spell_amplify": "%セプタースペル増幅奪取量 (INT):",
-    "DOTA_Tooltip_ability_morphling_replicate_scepter_move_speed": "%セプター移動速度奪取量 (AGI):",
     "DOTA_Tooltip_modifier_morphling_scepter_stats_drain_strength_buff": "Morph Strength吸収",
     "DOTA_Tooltip_modifier_morphling_scepter_stats_drain_strength_buff_Description": "%dMODIFIER_PROPERTY_STATS_STRENGTH_BONUS%Strengthと%dMODIFIER_PROPERTY_STATUS_RESISTANCE_STACKING%%%異常耐性を得ている。",
     "DOTA_Tooltip_modifier_morphling_scepter_stats_drain_strength_debuff": "Morph Strength流出",
