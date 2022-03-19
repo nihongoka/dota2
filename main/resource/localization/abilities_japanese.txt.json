@@ -3627,7 +3627,7 @@
     "DOTA_Tooltip_ability_tusk_walrus_punch_air_time": "打ち上げられる時間:",
     "DOTA_Tooltip_ability_tusk_walrus_punch_slow_duration": "スロー効果時間:",
     "DOTA_Tooltip_ability_tusk_walrus_punch_move_slow": "%移動速度減少:",
-    "DOTA_Tooltip_ability_tusk_walrus_kick_Description": "最も近い敵ユニットを指定方向に蹴り飛ばし、スタンとダメージを与える。また、着地点の周囲%search_radius%にいるすべてのヒーローにダメージを与える。クリープを蹴った場合、クールダウンは50%減少する。",
+    "DOTA_Tooltip_ability_tusk_walrus_kick_Description": "最も近い敵ユニットを指定方向に蹴り飛ばし、スローとダメージを与える。また、着地点の周囲%search_radius%にいるすべてのヒーローにダメージを与える。クリープを蹴った場合、クールダウンは50%減少する。",
     "DOTA_Tooltip_ability_tusk_walrus_kick_push_length": "蹴り飛ばす距離:",
     "DOTA_Tooltip_ability_tusk_ice_shards_Description": "Tuskは氷の破片を圧縮して凍った壁にし、接触したすべての敵にダメージを与える。氷壁が目標の目的地に到達すると、破片は解放され、%shard_duration%秒間続くバリアを形成する。",
     "DOTA_Tooltip_ability_tusk_snowball_Description": "Tuskが雪玉となって転がり始める。雪玉が移動している間も、右クリックすることで、%snowball_grab_radius%の範囲内にいる味方を雪玉に追加することができる。発射されると、雪玉に巻き込まれた敵は気絶してダメージを受ける。雪玉の中にいる味方ヒーローの数だけダメージが加算される。",
