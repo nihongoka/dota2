@@ -12794,5 +12794,6 @@
     "DOTA_GuildRoleChange_Failure_Message": "不明なエラー。再度試してください。",
     "DOTA_GuildRoleChange_Failure_Message_NoOtherLeader": "ギルドリーダーを他の人に任命しないと役職を変更できません。",
     "DOTA_Ability_Ping_ReadyChargesWithReplenish": "%s1%s2 ( レベル %s4 ) %s3 %s5 チャージ (リチャージまで%s6秒)",
-    "DOTA_Ability_Ping_ReadyPassiveChargesWithReplenish ": "%s1%s2 ( レベル %s4 ) %s3 %s5 チャージ (リチャージまで%s6秒)"
+    "DOTA_Ability_Ping_ReadyPassiveChargesWithReplenish ": "%s1%s2 ( レベル %s4 ) %s3 %s5 チャージ (リチャージまで%s6秒)",
+    "DOTA_SteamChatError_Fail": "Steamチャットに接続できません。不明なエラー。"
 }
