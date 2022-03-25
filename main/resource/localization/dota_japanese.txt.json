@@ -12624,5 +12624,8 @@
     "DOTA_SteamChatError_Fail": "Steamチャットに接続できません。不明なエラー。",
     "DOTA_Custom_Game_Current_Player_Count": "{d:current_player_count}人がプレイ中",
     "DOTA_Custom_Game_Overview_Sort_Lobbies": "オープンロビー",
-    "DOTA_Custom_Game_Overview_Sort_CurrentPlayerCount": "アクティブプレイヤー"
+    "DOTA_Custom_Game_Overview_Sort_CurrentPlayerCount": "アクティブプレイヤー",
+    "DOTA_RR_GamesRemaining:p{games_remaining}": "残り{d:games_remaining}ロールキュー",
+    "DOTA_RR_EarnGames:p{earn_amount}": "{d:earn_amount}ロールキュー稼げます",
+    "DOTA_RR_SpendGames:p{spend_amount}": "{d:spend_amount}ロールキュー消費します"
 }
