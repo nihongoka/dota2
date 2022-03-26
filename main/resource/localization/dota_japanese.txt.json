@@ -12666,5 +12666,9 @@
     "DOTA_TeamMute_Title": "チームミュート",
     "DOTA_TeamMute_Text": "クリックすると、パーティ、ギルド、フレンドリスト以外の、このチームのメンバー全員を試合中ミュートします。",
     "DOTA_Feed_Timestamp_MinutesAgo:p{value}": "{i:value} 分前",
-    "DOTA_Feed_Timestamp_HoursAgo:p{value}": "{i:value}時間前"
+    "DOTA_Feed_Timestamp_HoursAgo:p{value}": "{i:value}時間前",
+    "DOTA_HUD_QuickbuyAndBuybackCost_Needed": "{d:quickbuy_and_buyback_gold_needed}不足: クイックバイとバイバック",
+    "DOTA_HUD_QuickbuyAndBuybackCost_Surplus": "{d:quickbuy_and_buyback_gold_surplus}超過: クイックバイとバイバック",
+    "DOTA_HUD_QuickbuyCost_Needed": "{d:quickbuy_gold_needed}不足: クイックバイ",
+    "DOTA_HUD_QuickbuyCost_Surplus": "{d:quickbuy_gold_surplus}超過: クイックバイ"
 }
