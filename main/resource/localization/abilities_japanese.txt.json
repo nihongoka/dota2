@@ -4206,7 +4206,7 @@
     "DOTA_Tooltip_ability_huskar_burning_spear_Note0": "Burning Spear を1つの標的に複数回使用すると、効果はスタックする。<br>上限はない。",
     "DOTA_Tooltip_ability_huskar_burning_spear_Note1": "Huskarはこのスキルで死ぬことはない。",
     "DOTA_Tooltip_ability_huskar_burning_spear_health_cost": "%体力コスト:",
-    "DOTA_Tooltip_ability_huskar_burning_spear_burn_damage": "バーンダメージ:",
+    "DOTA_Tooltip_ability_huskar_burning_spear_burn_damage": "燃焼ダメージ:",
     "DOTA_Tooltip_ability_huskar_berserkers_blood_Description": "Huskarの怪我は彼の力を養い、減った体力に基づき攻撃速度、魔法耐性、HP自然回復を得る。HP自然回復量はStrengthの割合に基づく。",
     "DOTA_Tooltip_ability_huskar_berserkers_blood_maximum_attack_speed": "最大攻撃速度:",
     "DOTA_Tooltip_ability_huskar_berserkers_blood_maximum_health_regen": "%最大STR自然回復:",
@@ -10560,5 +10560,6 @@
     "DOTA_Tooltip_ability_dawnbreaker_solar_guardian_airtime_scepter_bonus": "セプターボーナス飛翔時間:",
     "DOTA_Tooltip_ability_dawnbreaker_solar_guardian_scepter_channel_time": "セプター詠唱時間:",
     "DOTA_Tooltip_modifier_ice_shaman_incendiary_bomb": "Icy Burn",
-    "DOTA_Tooltip_modifier_ice_shaman_incendiary_bomb_Description": "秒間%dMODIFIER_PROPERTY_TOOLTIP%ダメージ受けている。"
+    "DOTA_Tooltip_modifier_ice_shaman_incendiary_bomb_Description": "秒間%dMODIFIER_PROPERTY_TOOLTIP%ダメージ受けている。",
+    "DOTA_Tooltip_Ability_item_pirate_hat_bonus_ms": "+$move_speed"
 }
