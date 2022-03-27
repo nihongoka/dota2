@@ -2379,7 +2379,7 @@
     "DOTA_Overwatch_Report_Cancel": "キャンセル",
     "DOTA_Overwatch_AutoPlay_Toggle": "マーカーまで自動でスキップ",
     "DOTA_Overwatch_Reports_Title": "通報可能回数が残っていません",
-    "DOTA_Overwatch_Reports_Body": "通報可能回数が残っていないので、新たにプレイヤーを通報する事はできませんが、既に通報したプレイヤーは引き続き報告することができます。",
+    "DOTA_Overwatch_Reports_Body": "通報可能回数が残っていないので、新たにプレイヤーを通報する事はできませんが、既に通報したプレイヤーは引き続き通報することができます。",
     "dota_popup_comms_reports_remaining": "コミュニケーション通報可能回数: {d:comms_reports_remaining}",
     "DOTA_Overwatch_Jump_Next_Marker": "次のマーカーへジャンプ...",
     "DOTA_Overwatch_Jump_End": "<span class=\"FullScreenTitle\">疑いのある行動はここで終わりです</span><br>判定を提出するか、証拠をさらに確認するために巻き戻してください。",
@@ -12672,5 +12672,10 @@
     "DOTA_TrophyCount:p{trophy_count}": "{d:trophy_count}トロフィー",
     "DOTA_Profile_LeaguePassCount:p{league_pass_count}": "{d:league_pass_count}トーナメントパス",
     "DOTA_Item_Charge_Description:p": " (%s1 チャージ)",
-    "DOTA_Overwatch_Report_Remaining_Reports:p{num_reports_remaining}": "後{d:num_reports_remaining}回通報できます。"
+    "DOTA_Overwatch_Report_Remaining_Reports:p{num_reports_remaining}": "後{d:num_reports_remaining}回通報できます。",
+    "DOTA_Overwatch_Reports_Left:p{num_reports_remaining}": "後{d:num_reports_remaining}回通報できます。",
+    "DOTA_FantasyLockUntilTimeH:p{lock_number}": "{i:lock_number}時間後\n名簿固定",
+    "DOTA_FantasyLockUntilTimeW:p{lock_number}": "{i:lock_number}週間後\n名簿固定",
+    "DOTA_CompendiumSummary_PlayerCards_StarterPacksCount:p{starter_pack_count}": "{d:starter_pack_count} スターターパック",
+    "DOTA_FantasyLockUntilTimeD:p{lock_number}": "{i:lock_number}日後\n名簿固定"
 }
