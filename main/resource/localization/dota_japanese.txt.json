@@ -12677,5 +12677,8 @@
     "DOTA_FantasyLockUntilTimeH:p{lock_number}": "{i:lock_number}時間後\n名簿固定",
     "DOTA_FantasyLockUntilTimeW:p{lock_number}": "{i:lock_number}週間後\n名簿固定",
     "DOTA_CompendiumSummary_PlayerCards_StarterPacksCount:p{starter_pack_count}": "{d:starter_pack_count} スターターパック",
-    "DOTA_FantasyLockUntilTimeD:p{lock_number}": "{i:lock_number}日後\n名簿固定"
+    "DOTA_FantasyLockUntilTimeD:p{lock_number}": "{i:lock_number}日後\n名簿固定",
+    "DOTA_ReadyCheck_Countdown:p{countdown_seconds}": "後 {d:countdown_seconds} 秒",
+    "DOTA_Glossary_IntroHeroes_Map:p{num_heroes}": "プレイヤーは試合の最初にヒーローを選びます。現在Dota2には{d:num_heroes}体のヒーローがいて、それぞれ特有の能力やプレイスタイルを持っています。",
+    "DOTA_Glossary_Heroes_Desc:p{num_heroes}": "プレイヤーは試合の最初にヒーローを選びます。現在Dota2には{d:num_heroes}体のヒーローがいて、それぞれ特有の能力やプレイスタイルを持っています。"
 }
