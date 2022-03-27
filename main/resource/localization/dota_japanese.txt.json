@@ -12668,5 +12668,8 @@
     "DOTA_HUD_QuickbuyAndBuybackCost_Needed": "{d:quickbuy_and_buyback_gold_needed}不足: クイックバイとバイバック",
     "DOTA_HUD_QuickbuyAndBuybackCost_Surplus": "{d:quickbuy_and_buyback_gold_surplus}超過: クイックバイとバイバック",
     "DOTA_HUD_QuickbuyCost_Needed": "{d:quickbuy_gold_needed}不足: クイックバイ",
-    "DOTA_HUD_QuickbuyCost_Surplus": "{d:quickbuy_gold_surplus}超過: クイックバイ"
+    "DOTA_HUD_QuickbuyCost_Surplus": "{d:quickbuy_gold_surplus}超過: クイックバイ",
+    "DOTA_TrophyCount:p{trophy_count}": "{d:trophy_count}トロフィー",
+    "DOTA_Profile_LeaguePassCount:p{league_pass_count}": "{d:league_pass_count}トーナメントパス",
+    "DOTA_Item_Charge_Description:p": " (%s1 チャージ)"
 }
