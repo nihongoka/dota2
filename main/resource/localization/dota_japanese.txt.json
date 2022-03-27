@@ -12671,5 +12671,6 @@
     "DOTA_HUD_QuickbuyCost_Surplus": "{d:quickbuy_gold_surplus}超過: クイックバイ",
     "DOTA_TrophyCount:p{trophy_count}": "{d:trophy_count}トロフィー",
     "DOTA_Profile_LeaguePassCount:p{league_pass_count}": "{d:league_pass_count}トーナメントパス",
-    "DOTA_Item_Charge_Description:p": " (%s1 チャージ)"
+    "DOTA_Item_Charge_Description:p": " (%s1 チャージ)",
+    "DOTA_Overwatch_Report_Remaining_Reports:p{num_reports_remaining}": "後{d:num_reports_remaining}回通報できます。"
 }
