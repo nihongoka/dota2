@@ -12680,5 +12680,7 @@
     "DOTA_FantasyLockUntilTimeD:p{lock_number}": "{i:lock_number}日後\n名簿固定",
     "DOTA_ReadyCheck_Countdown:p{countdown_seconds}": "後 {d:countdown_seconds} 秒",
     "DOTA_Glossary_IntroHeroes_Map:p{num_heroes}": "プレイヤーは試合の最初にヒーローを選びます。現在Dota2には{d:num_heroes}体のヒーローがいて、それぞれ特有の能力やプレイスタイルを持っています。",
-    "DOTA_Glossary_Heroes_Desc:p{num_heroes}": "プレイヤーは試合の最初にヒーローを選びます。現在Dota2には{d:num_heroes}体のヒーローがいて、それぞれ特有の能力やプレイスタイルを持っています。"
+    "DOTA_Glossary_Heroes_Desc:p{num_heroes}": "プレイヤーは試合の最初にヒーローを選びます。現在Dota2には{d:num_heroes}体のヒーローがいて、それぞれ特有の能力やプレイスタイルを持っています。",
+    "DOTA_PlayerCard_Claim_Packs:p{claimable_packs}": "{d:claimable_packs}パック受け取る",
+    "DOTA_PlayerCard_Team_Header_Count:p{team_pack_count}": "未開封のチームパックを<span class=\"TeamPurchaseHeaderCountHighlight\">{i:team_pack_count}</span>個所持"
 }
