@@ -5533,7 +5533,7 @@
     "DOTA_RR_QueueNormalPriority_Supplement1": "(ロールが割り当てられていません)",
     "DOTA_RRParty_NonEligibleWarningTitle": "あなたのパーティーはランクロールをする権利がありません",
     "DOTA_RR_SoloEarningQP": "すべてのロールを選択することで、{d:earn_amount}ロールキュー稼ぐことができます。",
-    "DOTA_RR_FiveStack": "フルパーティーは常にランクロールに参加できますが、ロールキューは稼げません。",
+    "DOTA_RR_FiveStack": "フルパーティーは常にランクロールに参加できますが、ロールキューは獲得できません。",
     "DOTA_RR_HighDemandRole_Title": "需要の高いロール",
     "DOTA_RR_SoloSpendingQP": "ロールキューを消費して、選んだロールでプレイします。",
     "DOTA_RR_PartySpendingQP": "各パーティーメンバーはロールキューを消費して、選んだロールでプレイします。",
@@ -12682,5 +12682,11 @@
     "DOTA_Glossary_IntroHeroes_Map:p{num_heroes}": "プレイヤーは試合の最初にヒーローを選びます。現在Dota2には{d:num_heroes}体のヒーローがいて、それぞれ特有の能力やプレイスタイルを持っています。",
     "DOTA_Glossary_Heroes_Desc:p{num_heroes}": "プレイヤーは試合の最初にヒーローを選びます。現在Dota2には{d:num_heroes}体のヒーローがいて、それぞれ特有の能力やプレイスタイルを持っています。",
     "DOTA_PlayerCard_Claim_Packs:p{claimable_packs}": "{d:claimable_packs}パック受け取る",
-    "DOTA_PlayerCard_Team_Header_Count:p{team_pack_count}": "未開封のチームパックを<span class=\"TeamPurchaseHeaderCountHighlight\">{i:team_pack_count}</span>個所持"
+    "DOTA_PlayerCard_Team_Header_Count:p{team_pack_count}": "未開封のチームパックを<span class=\"TeamPurchaseHeaderCountHighlight\">{i:team_pack_count}</span>個所持",
+    "DOTA_PlayerCard_RecycleAmount:p{recycle_duplicate_commons_dust_amount}": "現在リサイクルすると<span class=\"DustHighlight\">{d:recycle_duplicate_commons_dust_amount}</span>ダスト獲得できます",
+    "DOTA_HUD_Scoreboard_SpectreArcanaNeeded": "2番目のスタイルアンロックに必要な連続キル",
+    "DOTA_Play_RR_SoloEarningQP:p{earn_amount}": "{d:earn_amount}ロールキュー稼ぐことができます。",
+    "DOTA_Play_RR_PartyEarningQP:p{earn_amount}": "各パーティーメンバーは{d:earn_amount}ロールキュー獲得できます。",
+    "DOTA_RRParty_NonEligibleWarning:p{earn_amount}": "パーティーの誰かがロールキューを持っていません。<br>すべてのロールを選択することで、各プレイヤーは{d:earn_amount}ロールキューを獲得することができます。",
+    "DOTA_RR_PartyEarningQP:p{earn_amount}": "すべてのロールを選択しているため、各パーティーメンバーは{d:earn_amount}ロールキューを獲得することができます。"
 }
