@@ -12688,5 +12688,14 @@
     "DOTA_Play_RR_SoloEarningQP:p{earn_amount}": "{d:earn_amount}ロールキュー稼ぐことができます。",
     "DOTA_Play_RR_PartyEarningQP:p{earn_amount}": "各パーティーメンバーは{d:earn_amount}ロールキュー獲得できます。",
     "DOTA_RRParty_NonEligibleWarning:p{earn_amount}": "パーティーの誰かがロールキューを持っていません。<br>すべてのロールを選択することで、各プレイヤーは{d:earn_amount}ロールキューを獲得することができます。",
-    "DOTA_RR_PartyEarningQP:p{earn_amount}": "すべてのロールを選択しているため、各パーティーメンバーは{d:earn_amount}ロールキューを獲得することができます。"
+    "DOTA_RR_PartyEarningQP:p{earn_amount}": "すべてのロールを選択しているため、各パーティーメンバーは{d:earn_amount}ロールキューを獲得することができます。",
+    "DOTA_ChallengeDesc_AbyssalUnderlordAtrophyAuraDamageCount": "<font color='#ffffff'>Atrophy Aura</font>で合計<font color='#ffffff'>%s1</font>ボーナスダメージを得る。",
+    "DOTA_HeroLevelReward_Currency:p{currency_amount}": "{d:currency_amount} シャード",
+    "DOTA_SeasonalItemReceived_ShardText:p{GrantPoints}": "{d:GrantPoints} シャード",
+    "DOTA_StoreBrowse_Search_Results:p{search_result_count}": "{d:search_result_count}件見つかりました",
+    "DOTA_Plus_ProfileCard_TimeRemainingDays:p{days_left}": "後{i:days_left}日で更新",
+    "WeekendTourney_PlusPrize:p{weekendtourney_prize_shards}": "優勝賞品: 各プレイヤーに{d:weekendtourney_prize_shards}シャード",
+    "DOTA_Chat_ChannelMemberCountLabel:p{channel_member_count}": "{d:channel_member_count}人参加中",
+    "DOTA_ChallengeDesc_AbyssalUnderlordKillsAfterDarkRift": "自分もしくは味方が<font color='#ffffff'>Feind's Gate</font>を使用した後敵ヒーローを<font color='#ffffff'>%s1</font>体キルする。",
+    "DOTA_GuildSearch_Results_Found:p{guild_count}": "{d:guild_count}ギルド見つかりました"
 }
