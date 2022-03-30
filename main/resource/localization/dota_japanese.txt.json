@@ -12697,5 +12697,12 @@
     "WeekendTourney_PlusPrize:p{weekendtourney_prize_shards}": "優勝賞品: 各プレイヤーに{d:weekendtourney_prize_shards}シャード",
     "DOTA_Chat_ChannelMemberCountLabel:p{channel_member_count}": "{d:channel_member_count}人参加中",
     "DOTA_ChallengeDesc_AbyssalUnderlordKillsAfterDarkRift": "自分もしくは味方が<font color='#ffffff'>Feind's Gate</font>を使用した後敵ヒーローを<font color='#ffffff'>%s1</font>体キルする。",
-    "DOTA_GuildSearch_Results_Found:p{guild_count}": "{d:guild_count}ギルド見つかりました"
+    "DOTA_GuildSearch_Results_Found:p{guild_count}": "{d:guild_count}ギルド見つかりました",
+    "DOTA_PlusSeason_SeasonSpring2022_Quests": "2022 春シーズンクエスト",
+    "DOTA_PlusSeason_SeasonSpring2022_Subtitle": "2022年6月1日春シーズン終了まで。",
+    "DOTA_PlusSeason_SeasonSpring2022_Name": "2022年春シーズン",
+    "DOTA_Plus_NeutralItemAssistant_Help": "クリックしてDota Plusによるニュートラルアイテムの提案を見る。",
+    "DOTA_PlusSeason_SeasonSpring2022_TreasureDescription": "2022年6月1日春シーズン終了までの限定販売。",
+    "DOTA_Plus_Spring2022_Update_Desc": "新しいアシスタント機能、新シーズンのクエスト、期間限定のトレジャー、その他様々なものがDota Plasに登場しました。",
+    "DOTA_Plus_Spring2022_Update_Title": "2022年春シーズンアップデート"
 }
