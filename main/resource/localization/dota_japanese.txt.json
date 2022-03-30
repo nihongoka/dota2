@@ -2650,7 +2650,7 @@
     "DOTA_CrateRecycle_DescriptionSell": "いらないアイテムを追加して、マーケットで売ろう。",
     "DOTA_CrateRecycle_CategoryHeader": "{s:current_tier_name}",
     "DOTA_CrateRecycle_CategoryHeaderAmount": "({d:current_tier_numitems} {s:current_tier_item_p})",
-    "DOTA_CrateRecycle_CategoryHeader_Item:p": "item#|#items",
+    "DOTA_CrateRecycle_CategoryHeader_Item:p": "アイテム",
     "DOTA_CrateRecycle_MarketPrice": "マーケット",
     "DOTA_CrateRecycle_SelectTier": "ティアを選択",
     "DOTA_CrateRecycle_Owned": "所有済み",
