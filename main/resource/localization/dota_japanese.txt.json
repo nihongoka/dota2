@@ -12704,5 +12704,13 @@
     "DOTA_Plus_NeutralItemAssistant_Help": "クリックしてDota Plusによるニュートラルアイテムの提案を見る。",
     "DOTA_PlusSeason_SeasonSpring2022_TreasureDescription": "2022年6月1日春シーズン終了までの限定販売。",
     "DOTA_Plus_Spring2022_Update_Desc": "新しいアシスタント機能、新シーズンのクエスト、期間限定のトレジャー、その他様々なものがDota Plasに登場しました。",
-    "DOTA_Plus_Spring2022_Update_Title": "2022年春シーズンアップデート"
+    "DOTA_Plus_Spring2022_Update_Title": "2022年春シーズンアップデート",
+    "DOTA_ChallengeDesc_WraithKingReincarnation_Sub2": "<font color='#ffffff'>ライフスティール</font>で敵から<font color='#ffffff'>%s2</font>HP奪う。",
+    "DOTA_ChallengeDesc_Bloodseeker_Kills_On_Bloodraged_Enemies": "<font color='#ffffff'>Bloodrage</font>効果中の敵ヒーローを<font color='#ffffff'>%s1</font>体キルする。",
+    "DOTA_ChallengeDesc_Queenofpain_Scream_Of_Pain_Fears": "<font color='#ffffff'>Scream of Pain</font>で敵ヒーローに合計<font color='#ffffff'>%s1</font>秒<font color='#ffffff'>恐怖</font>を与える。",
+    "DOTA_ChallengeDesc_Lifestealer_KillAfterInfest": "<font color='#ffffff'>%s1</font>回、別のユニットに<font color='#ffffff'>Infest</font>を使用した後、敵ヒーローをキルまたはアシストする。",
+    "DOTA_ChallengeDesc_MaimDuration": "試合時間が<font color='#ffffff'>%s1</font>になる前に敵ヒーローに、Sange、Sange and Yasha、Heaven's Halberdのいずれかで<font color='#ffffff'>Maim</font>を与える。",
+    "DOTA_Plus_PurchaseDialog_DetailText_Subscriber_Recurring:p{plus_subscription_duration_months}": "あなたのサブスクリプションは{d:plus_subscription_duration_months}ヶ月更新で、{T:s:plus_subscription_end_date}に{s:plus_subscription_renew_price}で更新されます。",
+    "DOTA_PlusSeasonAchievement_Wins_Name:p{achievement_quantity}": "{d:achievement_quantity} 試合勝利する",
+    "DOTA_PlusSeasonAchievement_Wins_Description:p{achievement_quantity}": "シーズン中、マッチメイキングした試合に {d:achievement_quantity} 回勝利しましょう。"
 }
