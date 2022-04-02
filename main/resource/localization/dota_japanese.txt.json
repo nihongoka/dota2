@@ -12714,5 +12714,6 @@
     "DOTA_PlusSeasonAchievement_Wins_Name:p{achievement_quantity}": "{d:achievement_quantity} 試合勝利する",
     "DOTA_PlusSeasonAchievement_Wins_Description:p{achievement_quantity}": "シーズン中、マッチメイキングした試合に {d:achievement_quantity} 回勝利しましょう。",
     "WeekendTourney_Toast_QuarterFinals_Lost": "準々決勝敗退",
-    "WeekendTourney_Toast_SemiFinals_Lost": "準決勝敗退"
+    "WeekendTourney_Toast_SemiFinals_Lost": "準決勝敗退",
+    "DOTA_Custom_Game_Lobby_Count:p{lobby_count}": "{d:lobby_count} ロビー"
 }
