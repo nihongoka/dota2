@@ -12712,5 +12712,7 @@
     "DOTA_ChallengeDesc_MaimDuration": "試合時間が<font color='#ffffff'>%s1</font>になる前に敵ヒーローに、Sange、Sange and Yasha、Heaven's Halberdのいずれかで<font color='#ffffff'>Maim</font>を与える。",
     "DOTA_Plus_PurchaseDialog_DetailText_Subscriber_Recurring:p{plus_subscription_duration_months}": "あなたのサブスクリプションは{d:plus_subscription_duration_months}ヶ月更新で、{T:s:plus_subscription_end_date}に{s:plus_subscription_renew_price}で更新されます。",
     "DOTA_PlusSeasonAchievement_Wins_Name:p{achievement_quantity}": "{d:achievement_quantity} 試合勝利する",
-    "DOTA_PlusSeasonAchievement_Wins_Description:p{achievement_quantity}": "シーズン中、マッチメイキングした試合に {d:achievement_quantity} 回勝利しましょう。"
+    "DOTA_PlusSeasonAchievement_Wins_Description:p{achievement_quantity}": "シーズン中、マッチメイキングした試合に {d:achievement_quantity} 回勝利しましょう。",
+    "WeekendTourney_Toast_QuarterFinals_Lost": "準々決勝敗退",
+    "WeekendTourney_Toast_SemiFinals_Lost": "準決勝敗退"
 }
