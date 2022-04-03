@@ -12622,7 +12622,7 @@
     "DOTA_SteamChatError_Fail": "Steamチャットに接続できません。不明なエラー。",
     "DOTA_Custom_Game_Current_Player_Count": "{d:current_player_count}人がプレイ中",
     "DOTA_Custom_Game_Overview_Sort_Lobbies": "オープンロビー",
-    "DOTA_Custom_Game_Overview_Sort_CurrentPlayerCount": "アクティブプレイヤー",
+    "DOTA_Custom_Game_Overview_Sort_CurrentPlayerCount": "プレイ人数",
     "DOTA_RR_GamesRemaining:p{games_remaining}": "残り{d:games_remaining}ロールキュー",
     "DOTA_RR_EarnGames:p{earn_amount}": "{d:earn_amount}ロールキュー稼げます",
     "DOTA_RR_SpendGames:p{spend_amount}": "{d:spend_amount}ロールキュー消費します",
@@ -12715,5 +12715,9 @@
     "DOTA_PlusSeasonAchievement_Wins_Description:p{achievement_quantity}": "シーズン中、マッチメイキングした試合に {d:achievement_quantity} 回勝利しましょう。",
     "WeekendTourney_Toast_QuarterFinals_Lost": "準々決勝敗退",
     "WeekendTourney_Toast_SemiFinals_Lost": "準決勝敗退",
-    "DOTA_Custom_Game_Lobby_Count:p{lobby_count}": "{d:lobby_count} ロビー"
+    "DOTA_Custom_Game_Lobby_Count:p{lobby_count}": "{d:lobby_count} ロビー",
+    "dota_hud_error_beyond_physical_item_limit": "これ以上アイテムを所有できない",
+    "dota_hud_error_cant_cast_twice": "同じ対象に2回有効にすることはできない",
+    "dota_hud_error_too_close": "もっと遠くにキャストする必要がある",
+    "dota_hud_error_item_already_purchased": "購入済みのため、購入することができない。"
 }
