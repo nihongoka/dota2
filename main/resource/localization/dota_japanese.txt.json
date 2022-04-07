@@ -12737,5 +12737,7 @@
     "DOTA_ConductScorecard_CommsReport_P": "コミュニケーションの悪用",
     "DOTA_ConductScorecard_CommsReports_Count:p{num_commsreports}": "あなたは{d:num_commsreports}回チャットの通報をされました。",
     "dota_hud_error_cant_toss_meepo": "近くにトスできるMeepoがいない",
-    "dota_hud_error_infest_zombie": "ゾンビにはInfestできない"
+    "dota_hud_error_infest_zombie": "ゾンビにはInfestできない",
+    "FrontPage_DPC_SpringTreasure2022_Title": "DPC春のファンタジートレジャー",
+    "FrontPage_DPC_SpringTreasure2022_Text": "春季DPCファンタジーを遊んで、Lineage Treasureをゲットしましょう！4ファンタジーレベルごとに1つ受け取ることができます。"
 }
