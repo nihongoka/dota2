@@ -12765,5 +12765,6 @@
     "DOTA_RateCoachingSession_ReportCoach": "コーチングの悪用を通報する",
     "DOTA_RateCoachingSesison_Failed": "セッション評価を送信できません",
     "DOTA_LeaveCoachingSession_Title": "コーチングセッションを終了",
-    "DOTA_LeaveCoachingSession_FailedTitle": "コーチングセッションを終了できません"
+    "DOTA_LeaveCoachingSession_FailedTitle": "コーチングセッションを終了できません",
+    "DOTA_RequestCoach_PlayerRankRequirement:p{required_coach_higher_stars}": "コーチを受けるには、コーチするプレイヤーの星が少なくとも{d:required_coach_higher_stars}つだけ高い必要があります (あなたがキャリブレーション済みの場合)"
 }
