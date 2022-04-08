@@ -12757,7 +12757,7 @@
     "DOTA_NPXHomeWidget_PlayersLookingForCoach:p{players_looking_for_coach}": "<span class=\"PlayerCount\">{d:players_looking_for_coach}</span>人のプレイヤーがコーチを探しています",
     "DOTA_AcceptCoachingSession_FriendlyTip": "優しくそして忍耐強く",
     "DOTA_AcceptCoachingSession_SuccessesTip": "上手く行ったら褒めましょう",
-    "DOTA_AcceptCoachingSession_MicromanageTip": "細かい指示は控えましょう",
+    "DOTA_AcceptCoachingSession_MicromanageTip": "細かすぎる指示は控えましょう",
     "DOTA_AcceptCoachingSession_StartCoaching": "コーチングを開始",
     "DOTA_RateCoachingSession_Title": "コーチングはどうでしたか？",
     "DOTA_RateCoachingSession_Good": "良い",
