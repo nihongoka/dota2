@@ -12795,5 +12795,7 @@
     "DOTA_PlusSeasonAchievement_WinCoreMatches_Name:p{achievement_quantity}": "{d:achievement_quantity}回ミッド、オフ、セーフレーンで勝利する",
     "DOTA_PlusSeasonAchievement_WinSupportMatches_Name:p{achievement_quantity}": "{d:achievement_quantity}回サポート、ハードサポートで勝利する",
     "DOTA_PlusSeasonAchievement_WinMatchMVP_Name:p{achievement_quantity}": "試合のMVPに{d:achievement_quantity}回選出される",
-    "DOTA_LiveSpectating_Error_LobbyNotFound": "あなたのフレンドの試合が見つかりませんでした。"
+    "DOTA_LiveSpectating_Error_LobbyNotFound": "あなたのフレンドの試合が見つかりませんでした。",
+    "DOTA_ChallengeDesc_DragonDamage": "<font color='#ffffff'>ドラゴンフォーム</font>中に敵ヒーローに<font color='#ffffff'>%s1</font>ダメージ与える。",
+    "DOTA_Custom_Game_Friends_Ready": "プレイ準備中のフレンド"
 }
