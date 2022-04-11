@@ -3169,7 +3169,7 @@
     "DOTA_Tooltip_ability_venomancer_poison_nova_speed": "進行速度:",
     "DOTA_Tooltip_modifier_venomancer_venomous_gale_Description": "スローを受け、毎秒%dMODIFIER_PROPERTY_TOOLTIP%ダメージを受ける。",
     "DOTA_Tooltip_modifier_venomancer_poison_sting_fake_Description": "移動速度が%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%減少しており、%dMODIFIER_PROPERTY_TOOLTIP%持続ダメージを受けている。",
-    "DOTA_Tooltip_modifier_venomancer_poison_nova_Description": "毎秒%dMODIFIER_PROPERTY_TOOLTIP%ダメージ。",
+    "DOTA_Tooltip_modifier_venomancer_poison_nova_Description": "毎秒%dMODIFIER_PROPERTY_TOOLTIP%%%ダメージ。",
     "DOTA_Tooltip_ability_faceless_void_time_walk_Description": "直近%backtrack_duration%秒間に受けたあらゆるダメージを巻き戻し、指定地点に急行する。",
     "DOTA_Tooltip_ability_faceless_void_time_walk_range": "範囲:",
     "DOTA_Tooltip_ability_faceless_void_time_walk_backtrack_duration": "巻き戻し時間:",
