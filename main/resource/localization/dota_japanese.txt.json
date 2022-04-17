@@ -10189,7 +10189,7 @@
     "DOTA_ChallengeDesc_MultiMatchTowers": "チームで敵の<font color='#ffffff'>タワー</font>を<font color='#ffffff'>%s1</font>つ破壊する。",
     "DOTA_ChallengeDesc_WinBeforeTimeMultiMatch": "<font color='#ffffff'>%s2</font>回、試合時間が<font color='#ffffff'>%s1</font>になる前に勝利する。",
     "DOTA_ChallengeDesc_KillingSpree": "<font color='#ffffff'>%s1回キリングスプリー</font>を達成する。",
-    "DOTA_ChallengeDesc_EarthShakerStunMagicDamage_Sub1": "敵ヒーローに<font color='#ffffff'>%s1</font>秒スタンを与える。。",
+    "DOTA_ChallengeDesc_EarthShakerStunMagicDamage_Sub1": "敵ヒーローに<font color='#ffffff'>%s1</font>秒スタンを与える。",
     "DOTA_ChallengeDesc_Support_Item_Gold": "<font color='#ffffff'>%s1</font>ゴールド分サポートアイテムを購入する。",
     "DOTA_ChallengeDesc_FiendsGripKills": "<font color='#ffffff'>Fiend's Grip</font>で敵ヒーローを<font color='#ffffff'>%s2</font>体キルまたはアシストをし、合計<font color='#ffffff'>%s1</font>秒間デバフを与える。",
     "DOTA_ChallengeDesc_KillAfterAbyssal": "<font color='#ffffff'>Abyssal Blade</font>でスタンした敵を<font color='#ffffff'>%s1</font>体キルまたはアシストする。",
@@ -12852,5 +12852,11 @@
     "DOTA_ChallengeDesc_BuyAghsAsHero": "試合時間が<font color='#ffffff'>%s2</font>になる前に<font color='#ffffff'>Aghanim's Scepter</font>を購入する。",
     "DOTA_ChallengeDesc_BuyBlink_AsHero": "試合時間が<font color='#ffffff'>%s2</font>になる前に<font color='#ffffff'>Blink Dagger</font>を購入する。",
     "DOTA_Plus_NeutralItemAssistant_Title": "ニュートラルアイテムの提案",
-    "DOTA_Plus_NeutralItemAssistant_Instructions": "クリックでアイテムを受け取れます。"
+    "DOTA_Plus_NeutralItemAssistant_Instructions": "クリックでアイテムを受け取れます。",
+    "DOTA_ChallengeDesc_EarthShakerStunMagicDamage": "敵ヒーローに<font color='#ffffff'>%s1</font>秒スタンを与え、<font color='#ffffff'>%s2</font>魔法ダメージを与える。",
+    "DOTA_ChallengeDesc_DeathProphetSpiritSiphon": "合計<font color='#ffffff'>%s1</font>秒間<font color='#ffffff'>Spirit Siphon</font>を敵に使用し、<font color='#ffffff'>%s2</font>回、2体以上の敵ヒーローに同時に<font color='#ffffff'>サイレンス</font>を与える。",
+    "DOTA_ChallengeDesc_WraithKingReincarnation": "<font color='#ffffff'>Reincarnation</font>発動後敵を<font color='#ffffff'>%s1</font>体キルし、<font color='#ffffff'>ライフスティール</font>で敵から<font color='#ffffff'>%s2</font>HP奪う。",
+    "DOTA_ChallengeDesc_ZeusLightningBolts": "<font color='#ffffff'>%s1</font>回、<font color='#ffffff'>Arc Lightning</font>で一度に<font color='#ffffff'>3</font>体以上の敵に攻撃し、合計<font color='#ffffff'>%s2</font>魔法またはピュアダメージ与える。",
+    "DOTA_ChallengeDesc_AntimageDoubleManaVoid": "<font color='#ffffff'>%s1</font>回、<font color='#ffffff'>Mana Void</font>で同時に<font color='#ffffff'>2</font>体以上の敵ヒーローを攻撃し、敵ヒーローのマナを<font color='#ffffff'>%s2</font>燃焼させる。",
+    "DOTA_ChallengeDesc_SpectreDispersionReality": "<font color='#ffffff'>Dispersion</font>で<font color='#ffffff'>%s1</font>ダメージ与え、<font color='#ffffff'>Reality</font>使用後に敵を<font color='#ffffff'>%s2</font>体キルする。"
 }
