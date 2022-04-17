@@ -12842,5 +12842,15 @@
     "DOTA_AllHeroChallenge_GamesSingular": "1 試合",
     "DOTA_AllHeroChallenge_GamesPlural": "%s1 試合",
     "DOTA_AllHeroChallenge_BestLapNotCompleted": "N/A",
-    "DOTA_WatchLive_TopPlayerRank": "上位プレイヤーランク戦"
+    "DOTA_WatchLive_TopPlayerRank": "上位プレイヤーランク戦",
+    "DOTA_ChallengeDesc_LifestealerFeast": "<font color='#ffffff'>ライフスティール</font>によって敵ヒーローから<font color='#ffffff'>%s1</font>HP盗み、敵ヒーローに<font color='#ffffff'>%s2</font>物理ダメージを与える。",
+    "DOTA_ChallengeDesc_SlarkEssencePurge": "<font color='#ffffff'>Essence Shift</font>を<font color='#ffffff'>%s1</font>スタックして、<font color='#ffffff'>Dark Pact</font>で<font color='#ffffff'>%s2</font>回デバフを解除する。",
+    "DOTA_ChallengeDesc_SlarkEssencePurge_Sub2": "<font color='#ffffff'>Dark Pact</font>で<font color='#ffffff'>%s2</font>回デバフを解除する。",
+    "DOTA_ChallengeDesc_LinaStuns": "<font color='#ffffff'>Light Strike Array</font>で敵ヒーローに<font color='#ffffff'>%s1</font>回スタンを与える。",
+    "DOTA_ChallengeDesc_BuildingDamage_AsHero": "敵の建造物に<font color='#ffffff'>%s1</font>ダメージ与える。",
+    "DOTA_ChallengeDesc_EmberChainsMultiMatch": "<font color='#ffffff'>Searing Chains</font>で敵ヒーローを<font color='#ffffff'>%s1</font>体捕らえる。",
+    "DOTA_ChallengeDesc_BuyAghsAsHero": "試合時間が<font color='#ffffff'>%s2</font>になる前に<font color='#ffffff'>Aghanim's Scepter</font>を購入する。",
+    "DOTA_ChallengeDesc_BuyBlink_AsHero": "試合時間が<font color='#ffffff'>%s2</font>になる前に<font color='#ffffff'>Blink Dagger</font>を購入する。",
+    "DOTA_Plus_NeutralItemAssistant_Title": "ニュートラルアイテムの提案",
+    "DOTA_Plus_NeutralItemAssistant_Instructions": "クリックでアイテムを受け取れます。"
 }
