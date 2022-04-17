@@ -12838,5 +12838,9 @@
     "DOTA_Armory_Category_Map_Effects": "マップエフェクト",
     "DOTA_Armory_Category_Emblems": "エンブレム",
     "DOTA_GlobalItems_Map_Effects": "マップエフェクト",
-    "DOTA_ClientVersion": "バージョン: <span class=\"VersionNumber\">{d:client_version_number}</span>"
+    "DOTA_ClientVersion": "バージョン: <span class=\"VersionNumber\">{d:client_version_number}</span>",
+    "DOTA_AllHeroChallenge_GamesSingular": "1 試合",
+    "DOTA_AllHeroChallenge_GamesPlural": "%s1 試合",
+    "DOTA_AllHeroChallenge_BestLapNotCompleted": "N/A",
+    "DOTA_WatchLive_TopPlayerRank": "上位プレイヤーランク戦"
 }
