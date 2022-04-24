@@ -10563,5 +10563,9 @@
     "DOTA_Tooltip_modifier_ice_shaman_incendiary_bomb_Description": "秒間%dMODIFIER_PROPERTY_TOOLTIP%ダメージ受けている。",
     "DOTA_Tooltip_Ability_item_pirate_hat_bonus_ms": "+$move_speed",
     "DOTA_Tooltip_ability_item_moon_shard_bonus_night_vision": "+ボーナス夜間視界",
-    "DOTA_Tooltip_ability_abyssal_underlord_firestorm_shard_wave_interval_reduction": "%効果時間/間隔 減少:"
+    "DOTA_Tooltip_ability_abyssal_underlord_firestorm_shard_wave_interval_reduction": "%効果時間/間隔 減少:",
+    "DOTA_Tooltip_ability_bane_brain_sap_Lore": "アトロポスは自分が作り出した恐怖を収穫することほど大きな喜びはない。",
+    "DOTA_Tooltip_ability_bane_enfeeble_Lore": "アトロポスが編み出す恐怖の糸は、難解な術や未知の術に対する犠牲者の脆弱性を増大させる。",
+    "DOTA_Tooltip_ability_bane_nightmare_Lore": "女神ナイクターシャから獲物を永遠の眠らせる能力を盗んだ。",
+    "DOTA_Tooltip_ability_bane_fiends_grip_Lore": "アトロポスの犠牲者は、しばしば自分自身の悪夢を鮮明に思い起こし、引き裂かれる。"
 }
