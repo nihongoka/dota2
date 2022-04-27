@@ -13134,5 +13134,16 @@
     "dota_tip_intermediate_15": "死にそうな味方クリープは攻撃して倒すことができます。これによって敵のラストヒットによるゴールド獲得を阻止することができます。",
     "dota_tip_intermediate_16": "魔法ダメージは魔法耐性を得ることで軽減することができます。",
     "dota_tip_intermediate_18": "ピュアダメージはアーマーでも魔法耐性でも軽減できません。",
-    "dota_tip_intermediate_22": "Ctrlキーを押しながらボトルを味方ヒーローに使用する事で回復させることができます。しかし、ボトルに入ったルーンは共有できません。"
+    "dota_tip_intermediate_22": "Ctrlキーを押しながらボトルを味方ヒーローに使用する事で回復させることができます。しかし、ボトルに入ったルーンは共有できません。",
+    "guild_lfm_looking_cancel": "キャンセル",
+    "DOTA_Plus_RoleAssistant_Tooltip": "ロールアシスタントは、ランクロールマッチの全試合からプレイヤーのピックを追跡し、そのヒーローの最もピックされているロールを表示します。<br><br>現在表示されているデータは{t:s:roles_start_timestamp}から{t:s:roles_end_timestamp}の期間で集計したものです。",
+    "DOTA_Plus_RoleAssistant_Updated": "最終更新日: {t:s:roles_end_timestamp}",
+    "DOTA_HeroGrid_MissingHeroes:p{missing_hero_count}": "{d:missing_hero_count}体のヒーローが含まれていません",
+    "DOTA_BattleReport_RoleHeroCount:p{role_hero_count}": "{d:role_hero_count}ヒーロー",
+    "ToolActionCancel": "キャンセル",
+    "DOTA_AddFriends_Cancel": "キャンセル",
+    "DOTA_Filter_CloseRule": "キャンセル",
+    "DOTA_Scoreboard_CancelBounty": "キャンセル",
+    "fantasy_swap_player_cancel": "キャンセル",
+    "DOTA_UI_Confirmation_Cancel": "キャンセル"
 }
