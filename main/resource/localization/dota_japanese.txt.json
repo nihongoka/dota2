@@ -13145,5 +13145,13 @@
     "DOTA_Filter_CloseRule": "キャンセル",
     "DOTA_Scoreboard_CancelBounty": "キャンセル",
     "fantasy_swap_player_cancel": "キャンセル",
-    "DOTA_UI_Confirmation_Cancel": "キャンセル"
+    "DOTA_UI_Confirmation_Cancel": "キャンセル",
+    "dota_tip_intermediate_26": "VanguardやCrimson Guardによるダメージブロックの値は攻撃者のタイプによって変化します。",
+    "dota_tip_intermediate_27": "DagonやBoots of Travelはレシピを買うことでアップグレードすることができます。",
+    "dota_tip_intermediate_28": "Ctrlキーを押しながらインベントリ内のワードをクリックし、その後味方をクリックすることで1つ渡すことができます。",
+    "dota_tip_intermediate_29": "Blink DaggerやForce Staffを使うと崖を上ることができます。",
+    "dota_tip_intermediate_30": "Quelling BladeやBattlefuryで木を切り倒して、自分だけの道を切り開こう。",
+    "dota_tip_intermediate_23": "クーリエを送ることで、シークレットショップで買い物をすることができます。ただし、敵陣に送り込まないように注意しましょう！",
+    "dota_tip_intermediate_24": "近くに敵クリープがいない場合、タワーやバラックは受けるダメージを軽減し、自身を回復するバックドアプロテクションを得ます。",
+    "dota_tip_intermediate_25": "Quelling Bladeは敵クリープと中立クリープのみにボーナスダメージを与えます。"
 }
