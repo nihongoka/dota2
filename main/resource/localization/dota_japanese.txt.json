@@ -5267,7 +5267,7 @@
     "Crate_Purchase_And_Open": "トレジャーを購入する",
     "DOTA_create_bot_practice_coop_desc": "マッチメイキングを利用して、他のプレイヤーと一緒にボットを相手します。",
     "DOTA_Lobby_BotDifficulty": "ボットの強さ",
-    "DOTA_Lobby_BotScript": "ボットスプリクト",
+    "DOTA_Lobby_BotScript": "ボットスクリプト",
     "DOTA_Lobby_BotScriptURL": "ワークショップを見る",
     "DOTA_Lobby_BotDifficulty_no_bot": "ボットなし",
     "DOTA_Lobby_BotDifficulty_passive": "パッシブ",
@@ -13184,5 +13184,6 @@
     "dota_tip_intermediate_63": "次に攻めたい目標物の近くにワードを刺してみましょう。",
     "dota_tip_intermediate_64": "サポートをプレイして学ぶことで、より上手くキャリーをプレイできるでしょう。また、キャリーをプレイして学ぶことで、より上手くサポートをプレイできるでしょう。",
     "dota_tip_intermediate_66": "Ctrlキーを押しながらインベントリ内のMangoをクリックし、その後味方をクリックすることで食べさせることができます。",
-    "dota_tip_intermediate_59": "イリュージョンは敵の建造物に与えるダメージが60%減少します。"
+    "dota_tip_intermediate_59": "イリュージョンは敵の建造物に与えるダメージが60%減少します。",
+    "DOTA_Lobby_BotScriptIndex_Valve": "デフォルトボット"
 }
