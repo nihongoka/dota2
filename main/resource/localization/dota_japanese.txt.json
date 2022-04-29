@@ -13153,5 +13153,17 @@
     "dota_tip_intermediate_30": "Quelling BladeやBattlefuryで木を切り倒して、自分だけの道を切り開こう。",
     "dota_tip_intermediate_23": "クーリエを送ることで、シークレットショップで買い物をすることができます。ただし、敵陣に送り込まないように注意しましょう！",
     "dota_tip_intermediate_24": "近くに敵クリープがいない場合、タワーやバラックは受けるダメージを軽減し、自身を回復するバックドアプロテクションを得ます。",
-    "dota_tip_intermediate_25": "Quelling Bladeは敵クリープと中立クリープのみにボーナスダメージを与えます。"
+    "dota_tip_intermediate_25": "Quelling Bladeは敵クリープと中立クリープのみにボーナスダメージを与えます。",
+    "dota_tip_intermediate_34": "バラックは透明なユニットやワードを看破することができません。",
+    "dota_tip_intermediate_36": "各ヒーローはStrength、Agility、Intelligenceのいずれかを第一属性として持っています。第一属性が1上げる度に、攻撃力が1上がります。",
+    "dota_tip_intermediate_39": "オーラ効果があるアイテムを買う前に味方のインベントリを見てみましょう。味方が既に所有している場合があり、オーラ効果は重複しません。",
+    "dota_tip_intermediate_43": "エンシェントに近いタワーほど、壊したときに得られるゴールドが多くなります。",
+    "dota_tip_intermediate_31": "Smoke of Deceitはイリュージョンやクリープには破られず、敵ヒーローとタワーのみに破られます。",
+    "dota_tip_intermediate_33": "いくつかのアビリティやアイテムは、Altキーを押すことで追加情報が表示されます。",
+    "dota_tip_intermediate_35": "バイバックは8分のクールダウンがあります。",
+    "dota_tip_intermediate_37": "Roshanは3回死んだ後、Aegis of the Immortalに加えて使用すると2500HP、1500マナを回復するチーズをドロップするようになります。",
+    "dota_tip_intermediate_38": "Roshanに対して、イリュージョンのダメージは減少します。",
+    "dota_tip_intermediate_41": "異なるスキルによるスタンの効果時間は重複しません。うまくタイミングを合わせることで、より長く敵にスタンを与えることができます。",
+    "dota_tip_intermediate_42": "Town Portal ScrollやBoots of Travelによるテレポートはサイレンスやノックバックで中断させることはできません。",
+    "dota_tip_intermediate_45": "Soul Ringを使用すると、マナが最大であっても追加のマナを得ることができます。"
 }
