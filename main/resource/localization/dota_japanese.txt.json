@@ -13199,5 +13199,9 @@
     "dota_tip_intermediate_74": "Boots of Travelのテレポート先のユニットが死亡した場合、詠唱が中断されます。",
     "dota_tip_intermediate_75": "自分がスタックしたニュートラルクリープが他の味方にキルされた場合、割合でゴールドを得ることができます。",
     "dota_tip_intermediate_77": "Aghanim's Shardを獲得すると、既存のアビリティを強化、または新しいアビリティを獲得することができます。",
-    "dota_tip_intermediate_78": "Aghanim's Shardは試合開始15分後から購入することができます。"
+    "dota_tip_intermediate_78": "Aghanim's Shardは試合開始15分後から購入することができます。",
+    "DOTA_WatchLive_CountFriends:p{num_friends_playing}": "{i:num_friends_playing}フレンドがプレイ中",
+    "DOTA_Friends_In_Party_Open:p{num_friends}": "{d:num_friends}人のフレンドがオープンパーティー中",
+    "DOTA_Friend_Lobby_Mode_N_Friends:p{num_friends}": "{d:num_friends}フレンドが{s:game_mode}ロビー中",
+    "DOTA_Friend_Game_Mode_N_Friends:p{num_friends}": "{d:num_friends}フレンドが{s:game_mode}をプレイ中"
 }
