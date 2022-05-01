@@ -13185,5 +13185,19 @@
     "dota_tip_intermediate_64": "サポートをプレイして学ぶことで、より上手くキャリーをプレイできるでしょう。また、キャリーをプレイして学ぶことで、より上手くサポートをプレイできるでしょう。",
     "dota_tip_intermediate_66": "Ctrlキーを押しながらインベントリ内のMangoをクリックし、その後味方をクリックすることで食べさせることができます。",
     "dota_tip_intermediate_59": "イリュージョンは敵の建造物に与えるダメージが60%減少します。",
-    "DOTA_Lobby_BotScriptIndex_Valve": "デフォルトボット"
+    "DOTA_Lobby_BotScriptIndex_Valve": "デフォルトボット",
+    "dota_tip_intermediate_76": "3回目のRoshanを倒すと使用可能なセプターまたはRefresher Shardをドロップします。4回目のRoshanはどちらもドロップします。Roshanをクリックしてインベントリを見ることで、何をドロップするかを確認することができます。",
+    "dota_tip_intermediate_73": "TangoはIron Branchで生成した木に対して使うことで効果時間が倍になります。",
+    "dota_tip_advanced_1": "確実なゴールドは自動収入やバウンティールーンによる収入のみから得られます。その他のゴールドは不確実であり、死亡時に失う可能性があります。",
+    "dota_tip_advanced_2": "セーフレーンに一番近いニュートラルキャンプにいるクリープは攻撃することで、レーンにプルすることができます。",
+    "dota_tip_advanced_3": "いくつかのアイテムは右クリックメニューの \"分解\" をクリックすることで素材に分解することができます。素材を再利用して新しいアイテムを作りましょう！",
+    "npc_dota_hero_primal_beast_npedesc1": "あらゆるものを踏みつぶし、敵を粉々にする",
+    "dota_tip_intermediate_69": "Monkey King Barの回避無視効果は、建造物を攻撃するときには適用されません。",
+    "dota_tip_intermediate_70": "ほとんどのスペルは発動するまで、短時間のキャストアニメーションがあります。それに対し、アイテムはすべて即時発動します。",
+    "dota_tip_intermediate_71": "他のヒーローが同じエリアにテレポートした直後は、Town Portal Scrollの詠唱は少し長くなります。",
+    "dota_tip_intermediate_72": "あなたのチームはMedallion of CourageやUrn of Shadows、Vladmir's Offeringは持っていますか？これらはチーム全体に利益をもたらす効果的なアイテムです。",
+    "dota_tip_intermediate_74": "Boots of Travelのテレポート先のユニットが死亡した場合、詠唱が中断されます。",
+    "dota_tip_intermediate_75": "自分がスタックしたニュートラルクリープが他の味方にキルされた場合、割合でゴールドを得ることができます。",
+    "dota_tip_intermediate_77": "Aghanim's Shardを獲得すると、既存のアビリティを強化、または新しいアビリティを獲得することができます。",
+    "dota_tip_intermediate_78": "Aghanim's Shardは試合開始15分後から購入することができます。"
 }
