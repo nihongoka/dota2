@@ -1025,7 +1025,7 @@
     "DOTA_Tooltip_ability_item_talisman_of_evasion_Note0": "他の回避効果とはわずかに重複する。",
     "DOTA_Tooltip_ability_item_tpscroll_Description": "<h1>使用: Teleport</h1>%tooltip_channel_time% 秒の詠唱のあと、味方の建造物の近くへとテレポートする。 <br><br>ダブルクリックすると、味方ベースの泉へとテレポートする。",
     "DOTA_Tooltip_ability_item_tpscroll_Note0": "もし複数のヒーローが一つの建造物へのテレポートに成功した場合、詠唱時間はそのテレポートに成功したヒーローごとに増加する。",
-    "DOTA_Tooltip_ability_item_tpscroll_Note1": "テレポートはrootによって妨げられる。",
+    "DOTA_Tooltip_ability_item_tpscroll_Note1": "テレポートはルートを受けると中断する。",
     "DOTA_Tooltip_ability_item_tpscroll_2_Description": "<h1>使用: Teleport</h1>After channeling for %tooltip_channel_time%秒の詠唱の後、味方の建造物、味方ユニットまたは味方ヒーローの場所にテレポートする。 <br><br>ダブルクリックで味方ベースの泉へとテレポートする。",
     "DOTA_Tooltip_ability_item_tpscroll_2_Note0": "もし複数のヒーローが一つの建造物へのテレポートに成功した場合、詠唱時間はそのテレポートに成功したヒーローごとに増加する。",
     "DOTA_Tooltip_ability_item_soul_ring_Description": "<h1>Active: Sacrifice</h1>  %health_sacrifice%体力を消費することで%mana_gain% のマナを得る。効果は %duration% 秒間継続する.<br><br>もしマナ増加がマナプールを超えてしまう場合、マナプールを使用するより先に消費されるマナを作り出す。",
