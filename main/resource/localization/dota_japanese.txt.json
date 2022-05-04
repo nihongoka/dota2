@@ -13238,5 +13238,20 @@
     "dota_tip_advanced_37": "Blade Mailは受けたダメージと同じタイプのダメージを返します。",
     "dota_tip_advanced_39": "Eye of Skadiの効果はスペル耐性を貫通し、ディスペルできません。",
     "dota_tip_advanced_40": "常にTown Portal Scrollを持ち歩くようにしましょう。",
-    "dota_tip_advanced_41": "味方クリープにオーラを与えるアイテムはトグルでオフにすることで、近くのヒーローにのみオーラが適用されるかを切り替えることができます。レーンをプッシュしないために使用しましょう。"
+    "dota_tip_advanced_41": "味方クリープにオーラを与えるアイテムはトグルでオフにすることで、近くのヒーローにのみオーラが適用されるかを切り替えることができます。レーンをプッシュしないために使用しましょう。",
+    "dota_tip_advanced_46": "Shiva's Guardは起動時、使用者の周囲800の範囲に飛行視界を与えるため、高台や障害物を越えての偵察に効果的です。",
+    "dota_tip_hero_abaddon_4": "AbaddonのCurse of Avernusのデバフは建造物にも効果があります。",
+    "dota_tip_hero_abaddon_6": "もしAbaddonがBorrowed Timeの閾値を越えたダメージを一度に受けた場合、Borrowed Timeは自動的には発動しません。",
+    "dota_tip_hero_abaddon_8": "AbaddonのAphotic Shieldは視界外の敵にはダメージを与えません。戦場の霧や透明化を利用することでダメージを回避することができます。",
+    "dota_tip_advanced_47": "Silver EdgeとHeaven's Halberdの効果はスペル耐性を貫通しませんが、ディスペルすることができません。",
+    "dota_tip_advanced_48": "クリープから距離が500以上離れているときにヒーローを攻撃しても、クリープから攻撃されることはありません。",
+    "dota_tip_hero_abaddon_1": "AbaddonのBorrowed Timeはブレイクを受けていても、手動で起動することができます。",
+    "dota_tip_advanced_42": "特定の中立クリープがもつアビリティSlamは、周囲に3体以上敵がにいるときのみ使用します。",
+    "dota_tip_advanced_43": "ほとんどのエンシェントクリープは高い魔法耐性を持っているため、他のニュートラルクリープに比べ、スペルで倒すのは効率が悪いです。",
+    "dota_tip_advanced_44": "通常攻撃には、アタックポイントの後に \"バックスイング\" と呼ばれるアニメーションがあります。任意の操作でバックスイングをキャンセルすることで、より素早くターゲットを追いかけることができます。",
+    "dota_tip_advanced_45": "自分がスペルをキャストしたとき、敵ヒーローが視界を持っていれば、敵はMagic Wandのチャージを得ます。これを利用することで敵のワードを探すことができるかもしれません。",
+    "dota_tip_hero_abaddon_2": "AbaddonのAphotic Shieldの範囲ダメージは、吸収したダメージの量に依存しません。",
+    "dota_tip_hero_abaddon_3": "AbaddonのAphotic Shieldはほとんどのデバフを取り除いたり、味方のスタンを解除することができます。",
+    "dota_tip_hero_abaddon_5": "AbaddonのBorrowed Timeはスタン中や睡眠中であっても手動で起動することができ、ほとんどのデバフを解除します。",
+    "dota_tip_hero_abaddon_7": "Borrowed Time発動中Abaddonに対して回復させないために、Eul's Scepterなどを使用することはとても有効な手段です。"
 }
