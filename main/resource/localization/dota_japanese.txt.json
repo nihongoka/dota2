@@ -13278,5 +13278,13 @@
     "dota_lobby_browser_header_region": "地域",
     "dota_post_game_frostivus_2017_score": "スコア",
     "DOTA_PlayerCardsPurchaseSpecific": "{i:dust_cost}ダストでプレイヤーカードを購入",
-    "DOTA_PlayerCard_PackOpeningDisabled": "プレイヤーカードパックが開封できません"
+    "DOTA_PlayerCard_PackOpeningDisabled": "プレイヤーカードパックが開封できません",
+    "dota_tip_hero_alchemist_2": "Acid Sprayはアーマーを減少させ、物理ダメージを与えるため、エンシェントクリープやRoshanを倒すときにとても効率的です。",
+    "dota_tip_hero_alchemist_3": "AlchemistのUnstable Concoctionのスタンは、タイミングよくManta StyleやEul's Scepterを使用することで、Alchemist自身でも回避することができます。",
+    "dota_tip_hero_alchemist_5": "AlchemistのGreevils Greedによるバウンティルーンのボーナスは本人のみに与えられます。ルーンを誰が拾うかは関係ありません。",
+    "dota_tip_hero_alchemist_6": "AlchemistのChemical Rageは強力なHP自然回復を与えますが、Spirit VesselやAncient ApparitionのIce Blastなどで効果を減少させることができます。",
+    "dota_tip_hero_abyssal_underlord_1": "UnderlordのFirestormは各ウェーブごとに、対象の最大体力の割合に応じた魔法ダメージを与えるため、特定のヒーローに対してとても有効です。",
+    "dota_tip_hero_alchemist_4": "AlchemistのUnstable Concoctionは、サイレンス中や近くに敵がいないため投げることができず爆発した場合、Alchemist自身がスタンして隙ができてしまいます。",
+    "dota_tip_hero_ancient_apparition_1": "Ancient ApparitionのIce Blastはユニットの回復効果を無効化することができます。対象の体力が閾値を下回った場合、対象は死亡します。",
+    "dota_tip_hero_alchemist_1": "AlchemistのGreevil's Greedを通じて得られたゴールドは、不確実なゴールドです。"
 }
