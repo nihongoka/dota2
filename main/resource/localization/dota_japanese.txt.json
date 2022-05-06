@@ -13296,5 +13296,15 @@
     "dota_tip_hero_axe_2": "AxeのBerserker's Callはスペル耐性を貫通するため、Black King Barを使用している敵を捕まえるのに有効です。",
     "dota_tip_hero_axe_4": "Battle Hungerの移動速度減少はAxeの方向を向いていないときのみ有効になります。",
     "dota_tip_hero_axe_3": "Berserker's Call使った後のAxeにEul's Scepterを使用すると、捕まった味方がCounter Helixからダメージを受けるのを防ぐことができます。",
-    "dota_tip_hero_axe_5": "イリュージョンルーンやManta Styleによって召喚されたAxeのイリュージョンは、フルパワーのCounter Helixを持っています。"
+    "dota_tip_hero_axe_5": "イリュージョンルーンやManta Styleによって召喚されたAxeのイリュージョンは、フルパワーのCounter Helixを持っています。",
+    "dota_tip_hero_axe_6": "AxeのCulling BladeはDazzleのShallow GraveやOracleのFalse Promise効果中でも対象をキルできます。",
+    "dota_tip_hero_axe_7": "AxeのCulling Bladeはクーリエに使用するとキルすることができます。",
+    "dota_tip_hero_bane_1": "BaneのNightmare効果中の味方を攻撃しようとすることで、自分がNightmareに掛かるかわりに、その味方を解放することができます。",
+    "dota_tip_hero_bane_2": "Baneはいつでも敵や味方に掛けたNightmareを解除することができます。",
+    "dota_tip_hero_bane_3": "BaneのNightmareが掛けられた直後の対象は無敵になります。これを利用することで味方が受けるダメージを軽減することができます。",
+    "dota_tip_hero_bane_4": "Baneは対象指定アビリティが多いため、Linken's SphereやLotus orbを作ることはとても有効です。",
+    "dota_tip_hero_batrider_1": "BatriderのSticky Napalmを受けると、Batriderから攻撃を受ける時、追加の魔法ダメージを受けます。他のユニットから攻撃を受けるときは発動しません。",
+    "dota_tip_hero_beastmaster_1": "BeastmasterのPrimal Roarはスペル耐性を貫通してスタンを与えます。",
+    "dota_tip_hero_beastmaster_2": "BeastmasterのWild Axesは木を切って隠れた敵を見つけることもできます。",
+    "dota_tip_hero_beastmaster_3": "BeastmasterのInner Beastは、召喚されたユニットやクリープと同様に、味方ヒーローにも効果があります。Helm of the OverlordやHelm of the Dominatorで支配したユニットはこのオーラによって、より強力になります。"
 }
