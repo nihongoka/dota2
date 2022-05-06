@@ -13286,5 +13286,12 @@
     "dota_tip_hero_abyssal_underlord_1": "UnderlordのFirestormは各ウェーブごとに、対象の最大体力の割合に応じた魔法ダメージを与えるため、特定のヒーローに対してとても有効です。",
     "dota_tip_hero_alchemist_4": "AlchemistのUnstable Concoctionは、サイレンス中や近くに敵がいないため投げることができず爆発した場合、Alchemist自身がスタンして隙ができてしまいます。",
     "dota_tip_hero_ancient_apparition_1": "Ancient ApparitionのIce Blastはユニットの回復効果を無効化することができます。対象の体力が閾値を下回った場合、対象は死亡します。",
-    "dota_tip_hero_alchemist_1": "AlchemistのGreevil's Greedを通じて得られたゴールドは、不確実なゴールドです。"
+    "dota_tip_hero_alchemist_1": "AlchemistのGreevil's Greedを通じて得られたゴールドは、不確実なゴールドです。",
+    "dota_tip_hero_antimage_1": "Anti-MageのMana Breakのマナ燃焼効果と追加ダメージは、スペル耐性中で防ぐことができます。",
+    "dota_tip_hero_arc_warden_1": "Arc WardenのMagnetic Fieldの中にいる味方は、タワーを含む外からの攻撃を回避することができます。",
+    "dota_tip_hero_arc_warden_2": "Arc WardenのMagnetic Fieldは、中にいる味方建造物にも回避を与えます。",
+    "dota_tip_hero_arc_warden_3": "Arc WardenのTempest Doubleは他の召喚ユニットと異なり、敵のスモークを破ることができます。",
+    "dota_tip_hero_arc_warden_4": "Arc WardenのFluxのダメージと移動速度減少は、味方ユニットの近くにいることで回避することができます。",
+    "dota_tip_hero_axe_1": "AxeのBattle Hungerの効果は、レーンクリープや中立クリープのラストヒットを取ることで解除できます。",
+    "dota_tip_hero_axe_2": "AxeのBerserker's Callはスペル耐性を貫通するため、Black King Barを使用している敵を捕まえるのに有効です。"
 }
