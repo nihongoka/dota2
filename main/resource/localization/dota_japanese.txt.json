@@ -9390,7 +9390,7 @@
     "DOTA_Frontpage_TI10Autographs_Desc": "サインをレベルアップしてお気に入りのDotaパーソナリティを応援しましょう。",
     "DOTA_BattlePassLog_AchievementCompleted": "アチーブメント達成 \"{s:achievement}\"",
     "DOTA_PlayerCard_Packs_EarnNote": "毎日1回試合に勝利することでベーシックパックを1つ獲得できます",
-    "DOTA_PlayerCard_Team_TeamPackDesc": "チームパックのうち1枚はそのチームのプレイヤーのシルバーまたはゴールドカードが含まれます",
+    "DOTA_PlayerCard_Team_TeamPackDesc": "チームパックのうち1枚はそのチームのプレイヤーの<span class=\"Silver\">シルバー</span>または<span class=\"Gold\">ゴールド</span>カードが含まれます",
     "DOTA_FantasyHelpTitle4_compendium": "コンペンディウムポイントを獲得",
     "DOTA_FantasyHelpDetailsFinalFantasy_compendium": "{g:dota_event_league_name:eventid}終了時",
     "DOTA_FantasyHelpDetailsDailyFantasy_compendium": "各日程終了時",
@@ -11810,7 +11810,7 @@
     "DOTA_Tooltip_Ability_aghsfort_special_juggernaut_healing_ward_detonate": "Detonate Ward",
     "DOTA_Tooltip_Ability_aghsfort_special_juggernaut_zen_ward": "Zen Ward",
     "DOTA_Tooltip_Ability_aghsfort_special_juggernaut_healing_ward_crit_Description": "Healing WardはBlade Danceの恩恵を受ける。",
-    "DOTA_Tooltip_Ability_aghsfort_special_juggernaut_healing_ward_detonate_Description": "回復効果終了後、自動的に敵を追いかけ爆発し、回復した総量の%damage_percent%%%に相当するダメージを与える。",
+    "DOTA_Tooltip_Ability_aghsfort_special_juggernaut_healing_ward_detonate_Description": "Healing Wardの効果範囲を%bonus_radius%増加する。回復効果終了後、自動的に敵を追いかけ爆発し、回復した総量の%damage_percent%%%に相当するダメージを与える。",
     "DOTA_Tooltip_ability_item_cursed_key_Description": "<h1>アクティブ: Unlock</h1>インベントリにかかっているコンティニュアムの呪いを取り除き、使用可能にする。",
     "DOTA_Tooltip_Ability_item_aghsfort_bloodstone": "Vault Bloodstone",
     "DOTA_Tooltip_ability_item_aghsfort_bloodstone_Description": "<h1>アクティブ: Bloodpact</h1> 最大マナの%mana_cost_percentage%%を%restore_duration%秒間のHP自然回復に回す。\n<h1>パッシブ: Mana Battery</h1>チャージごとに、%regen_per_charge%マナ回復と %amp_per_charge%%%スペル増幅を得る。近くでキャプテンまたはボスがキルされると%kill_charges%チャージを得る。自分が死亡した場合、%death_charges%チャージを失う。購入時のチャージは%initial_charges_tooltip%。<br><br>1回のエンカウントで<font color='#F40000'>最大2チャージ</font>まで獲得可能。",
@@ -13293,5 +13293,8 @@
     "dota_tip_hero_arc_warden_3": "Arc WardenのTempest Doubleは他の召喚ユニットと異なり、敵のスモークを破ることができます。",
     "dota_tip_hero_arc_warden_4": "Arc WardenのFluxのダメージと移動速度減少は、味方ユニットの近くにいることで回避することができます。",
     "dota_tip_hero_axe_1": "AxeのBattle Hungerの効果は、レーンクリープや中立クリープのラストヒットを取ることで解除できます。",
-    "dota_tip_hero_axe_2": "AxeのBerserker's Callはスペル耐性を貫通するため、Black King Barを使用している敵を捕まえるのに有効です。"
+    "dota_tip_hero_axe_2": "AxeのBerserker's Callはスペル耐性を貫通するため、Black King Barを使用している敵を捕まえるのに有効です。",
+    "dota_tip_hero_axe_4": "Battle Hungerの移動速度減少はAxeの方向を向いていないときのみ有効になります。",
+    "dota_tip_hero_axe_3": "Berserker's Call使った後のAxeにEul's Scepterを使用すると、捕まった味方がCounter Helixからダメージを受けるのを防ぐことができます。",
+    "dota_tip_hero_axe_5": "イリュージョンルーンやManta Styleによって召喚されたAxeのイリュージョンは、フルパワーのCounter Helixを持っています。"
 }
