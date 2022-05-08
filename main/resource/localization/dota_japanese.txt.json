@@ -13306,5 +13306,8 @@
     "dota_tip_hero_batrider_1": "BatriderのSticky Napalmを受けると、Batriderから攻撃を受ける時、追加の魔法ダメージを受けます。他のユニットから攻撃を受けるときは発動しません。",
     "dota_tip_hero_beastmaster_1": "BeastmasterのPrimal Roarはスペル耐性を貫通してスタンを与えます。",
     "dota_tip_hero_beastmaster_2": "BeastmasterのWild Axesは木を切って隠れた敵を見つけることもできます。",
-    "dota_tip_hero_beastmaster_3": "BeastmasterのInner Beastは、召喚されたユニットやクリープと同様に、味方ヒーローにも効果があります。Helm of the OverlordやHelm of the Dominatorで支配したユニットはこのオーラによって、より強力になります。"
+    "dota_tip_hero_beastmaster_3": "BeastmasterのInner Beastは、召喚されたユニットやクリープと同様に、味方ヒーローにも効果があります。Helm of the OverlordやHelm of the Dominatorで支配したユニットはこのオーラによって、より強力になります。",
+    "dota_tip_hero_beastmaster_4": "BeastmasterのPrimal Roarは対象指定されたヒーローがLinken's Sphereを持っていた場合無効化することができます。",
+    "dota_tip_hero_beastmaster_5": "BeastmasterのCall of the Wildはハラスや嫌がらせに有用なユニットを召喚できますが、倒されるといくぶんかのゴールドと経験値を与えてしまいます。",
+    "dota_tip_hero_beastmaster_6": "BeastmasterのPrimal Roarのスタン効果は、Aeon DiskやAbaddonのAphotic Shieldなどの強化ディスペルで解除できます。"
 }
