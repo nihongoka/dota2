@@ -13309,5 +13309,14 @@
     "dota_tip_hero_beastmaster_3": "BeastmasterのInner Beastは、召喚されたユニットやクリープと同様に、味方ヒーローにも効果があります。Helm of the OverlordやHelm of the Dominatorで支配したユニットはこのオーラによって、より強力になります。",
     "dota_tip_hero_beastmaster_4": "BeastmasterのPrimal Roarは対象指定されたヒーローがLinken's Sphereを持っていた場合無効化することができます。",
     "dota_tip_hero_beastmaster_5": "BeastmasterのCall of the Wildはハラスや嫌がらせに有用なユニットを召喚できますが、倒されるといくぶんかのゴールドと経験値を与えてしまいます。",
-    "dota_tip_hero_beastmaster_6": "BeastmasterのPrimal Roarのスタン効果は、Aeon DiskやAbaddonのAphotic Shieldなどの強化ディスペルで解除できます。"
+    "dota_tip_hero_beastmaster_6": "BeastmasterのPrimal Roarのスタン効果は、Aeon DiskやAbaddonのAphotic Shieldなどの強化ディスペルで解除できます。",
+    "dota_tip_hero_bloodseeker_1": "Blood SeekerのRupture効果中、Town Portal Scrollを使うことで、ダメージを受けずに逃げることができます。",
+    "dota_tip_hero_bloodseeker_2": "体力が25%を下回った場合、BloodseekerのThirstは敵にトゥルーサイトを与えてしまうので注意しましょう。",
+    "dota_tip_hero_bloodseeker_4": "BloodseekerのBloodrageはスペル増幅と攻撃速度ボーナスを与えます。味方に使用した場合、攻撃速度ボーナスは半分になります。",
+    "dota_tip_hero_bloodseeker_5": "BloodseekerのRuptureはLinken's sphereによってブロックできるため、Bloodseekerと対面しているヒーローにとっては良い投資になるかもしれません。",
+    "dota_tip_hero_bloodseeker_6": "Magic StickやMagic Wandは、BloodseekerのBloodrageによってチャージを得ることができるため、試合序盤、レーンでBloodseekerに対面したときに非常に有効です。",
+    "dota_tip_hero_bloodseeker_8": "十分な体力がある場合、BlademailはBloodseekerのRuptureに対してとても有効です。",
+    "dota_tip_hero_bounty_hunter_1": "Bounty HunterのTrackによるボーナスゴールドは、死亡したヒーローの周囲1200以内にいた場合のみ獲得できます。Bounty Hunter自身は、ボーナスゴールドの獲得範囲に制限はありません。",
+    "dota_tip_hero_bounty_hunter_2": "Altキーを押したままTrackのデバフアイコンをクリックすることで、対象が現在持っているゴールドをチームに知らせることができます。",
+    "dota_tip_hero_bloodseeker_7": "BloodseekerはThirstによって、通常の最大速度550を超えることができます。"
 }
