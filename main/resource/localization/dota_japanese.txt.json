@@ -13318,5 +13318,6 @@
     "dota_tip_hero_bloodseeker_8": "十分な体力がある場合、BlademailはBloodseekerのRuptureに対してとても有効です。",
     "dota_tip_hero_bounty_hunter_1": "Bounty HunterのTrackによるボーナスゴールドは、死亡したヒーローの周囲1200以内にいた場合のみ獲得できます。Bounty Hunter自身は、ボーナスゴールドの獲得範囲に制限はありません。",
     "dota_tip_hero_bounty_hunter_2": "Altキーを押したままTrackのデバフアイコンをクリックすることで、対象が現在持っているゴールドをチームに知らせることができます。",
-    "dota_tip_hero_bloodseeker_7": "BloodseekerはThirstによって、通常の最大速度550を超えることができます。"
+    "dota_tip_hero_bloodseeker_7": "BloodseekerはThirstによって、通常の最大速度550を超えることができます。",
+    "dota_tip_hero_brewmaster_1": "BrewmasterのPrimal Split終了時、Brewmasterが再出現する場所の優先度はEarth spirit、Storm spirit、Fire spiritの順です。"
 }
