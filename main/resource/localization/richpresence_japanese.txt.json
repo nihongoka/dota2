@@ -253,5 +253,6 @@
     "#DOTA_EventGameName_International2021": "Aghanim's Labyrinth",
     "#DOTA_RP_PLAYING_AGHANIMS_MATCH_PREGAME": "Aghanim's Labyrinth: ヒーロー選択",
     "#DOTA_RP_EVENT_GAME": "Aghanim's Labyrinth",
-    "#DOTA_RP_PLAYING_AGHANIMS_MATCH": "Aghanim's Labyrinth: Act %param0% as {%param1%}"
+    "#DOTA_RP_PLAYING_AGHANIMS_MATCH": "Aghanim's Labyrinth: Act %param0% as {%param1%}",
+    "#npc_dota_hero_primal_beast": "Primal Beast"
 }
