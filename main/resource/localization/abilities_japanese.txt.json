@@ -600,7 +600,7 @@
     "DOTA_Tooltip_ability_special_bonus_unique_morphling_6": "{s:value} Waveform チャージ数",
     "DOTA_Tooltip_ability_special_bonus_unique_morphling_7": "-{s:value}秒 Adaptive Strike クールダウン",
     "DOTA_Tooltip_ability_special_bonus_unique_morphling_8": "+{s:value}秒 Morph効果時間",
-    "DOTA_Tooltip_ability_morphling_replicate_Description": "Morphlingは対象の敵に変身し、対象の基本のアビリティを少ないマナコストで得る。アビリティの効果時間中は自由に入れ替わることができる。",
+    "DOTA_Tooltip_ability_morphling_replicate_Description": "Morphlingは対象の敵に変身し、対象の基本のアビリティを得る。アビリティの効果時間中は自由に入れ替わることができる。",
     "DOTA_Tooltip_ability_special_bonus_unique_morphling_1": "+{s:value} Waveform 距離",
     "DOTA_Tooltip_ability_special_bonus_unique_morphling_2": "-{s:value} Morph クールダウン",
     "DOTA_Tooltip_ability_special_bonus_unique_morphling_3_Description": "Adaptive Strikeがキャスト範囲内にいる追加の敵ユニットにも当たるようになる。",
@@ -10588,5 +10588,7 @@
     "DOTA_Tooltip_ability_antimage_blink_abilitycastrange": "範囲:",
     "DOTA_Tooltip_ability_queenofpain_blink_abilitycastrange": "範囲:",
     "DOTA_Tooltip_ability_witch_doctor_paralyzing_cask_base_damage": "基本ダメージ:",
-    "DOTA_Tooltip_ability_bane_enfeeble_abilitycastrange": "キャスト範囲:"
+    "DOTA_Tooltip_ability_bane_enfeeble_abilitycastrange": "キャスト範囲:",
+    "DOTA_Tooltip_ability_dragon_knight_fireball_dragon_form_cast_range": "ドラゴン時キャスト範囲:",
+    "DOTA_Tooltip_ability_dragon_knight_fireball_melee_cast_range": "近接時キャスト範囲:"
 }
