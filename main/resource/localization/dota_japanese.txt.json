@@ -13334,5 +13334,9 @@
     "FrontPage_DPC_SpringMajor2022_Dates3": "5月20日 - 22日",
     "FrontPage_DPC_SpringMajor2022_MajorTitle": "ストックホルムメジャー",
     "DOTA_DPCSchedule_UpcomingMatches": "これから行われる試合",
-    "dota_leave_queue": "キューを退出"
+    "dota_leave_queue": "キューを退出",
+    "DOTA_Plus_ProfileCard_TimeRemainingHours:p{hours_left}": "後{i:hours_left}時間で更新",
+    "dota_play_mutation_time_remaining": "{i:mutations_hours}時間{i:mutations_minutes}分",
+    "DOTA_Plus_ProfileCard_TimeRemainingMinutes:p{minutes_left}": "後{i:minutes_left}分で更新",
+    "DOTA_SeasonPass_Prediction_Remaining_Time": "固定まで\n{i:reset_days}日 {i:reset_hours}時間 {i:reset_minutes}分"
 }
