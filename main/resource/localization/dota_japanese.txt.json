@@ -13336,5 +13336,7 @@
     "DOTA_Plus_ProfileCard_TimeRemainingHours:p{hours_left}": "後{i:hours_left}時間で更新",
     "dota_play_mutation_time_remaining": "{i:mutations_hours}時間{i:mutations_minutes}分",
     "DOTA_Plus_ProfileCard_TimeRemainingMinutes:p{minutes_left}": "後{i:minutes_left}分で更新",
-    "DOTA_SeasonPass_Prediction_Remaining_Time": "固定まで\n{i:reset_days}日 {i:reset_hours}時間 {i:reset_minutes}分"
+    "DOTA_SeasonPass_Prediction_Remaining_Time": "固定まで\n{i:reset_days}日 {i:reset_hours}時間 {i:reset_minutes}分",
+    "dota_cannot_request_steamdatagram_ticket": "Steamデータグラムチケットが欠落しており、現在新しいチケットを要求することができません。 {s:reason}",
+    "UnwrapGift": "ギフトを開封する"
 }
