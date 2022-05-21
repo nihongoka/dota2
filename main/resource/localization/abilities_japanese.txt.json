@@ -7063,7 +7063,7 @@
     "DOTA_Tooltip_ability_enigma_black_hole_damage": "秒間ダメージ:",
     "DOTA_Tooltip_ability_enigma_black_hole_scepter_description": "Black Holeはユニットの1秒毎に最大体力の%scepter_pct_damage%%%を追加ダメージとして与えるようになる。",
     "DOTA_Tooltip_ability_special_bonus_unique_enigma_9": "+{s:value} Midnight Pulse 範囲",
-    "DOTA_Tooltip_ability_razor_unstable_current_shard_description": "攻撃された時に確率で、スキルの標的となった時は常に、周囲の敵にフォーク状の雷を放ち、ダメージと移動速度減少を与えるように。",
+    "DOTA_Tooltip_ability_razor_unstable_current_shard_description": "攻撃された時に確率で、スキルの対象となった時は常に、周囲の敵にフォーク状の雷を放ち、ダメージと移動速度減少を与えるようになる。",
     "DOTA_Tooltip_ability_razor_eye_of_the_storm_scepter_description": "Eye of the Stormが2つの異なるユニットを攻撃するようになり、建造物も攻撃するようになる。建造物を攻撃する場合、タワーとバラックとエンシェントが対象となる。",
     "DOTA_Tooltip_ability_viper_poison_attack_shard_description": "最大スタック数を増加させ、Poison Attackはスタック毎にアーマーを低下させ、建造物に弱めの毒ダメージを与えるようになる。",
     "DOTA_Tooltip_ability_special_bonus_unique_viper_5": "-{s:value}s Nethertoxin クールダウン",
