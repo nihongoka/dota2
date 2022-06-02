@@ -13341,5 +13341,8 @@
     "UnwrapGift": "ギフトを開封する",
     "dota_page_match_details_battle_pass_replay": "このリプレイは、対戦中に1人のプレイヤーがバトルパスを有効にしていたため、3ヶ月間追加で視聴可能です。",
     "dota_page_match_details_not_found": "試合データが見つかりません",
-    "dota_page_match_details_victory": "勝者: {s:winner}"
+    "dota_page_match_details_victory": "勝者: {s:winner}",
+    "DOTA_DPCTeams_SeasonPeriod_Event37_Name": "夏季ツアー",
+    "dpc_event_summer22": "夏季ツアー",
+    "DOTA_Popup_CardPack_Model_Summer2022": "2022年夏季ツアー"
 }
