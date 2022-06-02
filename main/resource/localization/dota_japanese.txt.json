@@ -13338,5 +13338,8 @@
     "DOTA_Plus_ProfileCard_TimeRemainingMinutes:p{minutes_left}": "後{i:minutes_left}分で更新",
     "DOTA_SeasonPass_Prediction_Remaining_Time": "固定まで\n{i:reset_days}日 {i:reset_hours}時間 {i:reset_minutes}分",
     "dota_cannot_request_steamdatagram_ticket": "Steamデータグラムチケットが欠落しており、現在新しいチケットを要求することができません。 {s:reason}",
-    "UnwrapGift": "ギフトを開封する"
+    "UnwrapGift": "ギフトを開封する",
+    "dota_page_match_details_battle_pass_replay": "このリプレイは、対戦中に1人のプレイヤーがバトルパスを有効にしていたため、3ヶ月間追加で視聴可能です。",
+    "dota_page_match_details_not_found": "試合データが見つかりません",
+    "dota_page_match_details_victory": "勝者: {s:winner}"
 }
