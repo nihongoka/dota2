@@ -13344,5 +13344,6 @@
     "dota_page_match_details_victory": "勝者: {s:winner}",
     "DOTA_DPCTeams_SeasonPeriod_Event37_Name": "夏季ツアー",
     "dpc_event_summer22": "夏季ツアー",
-    "DOTA_Popup_CardPack_Model_Summer2022": "2022年夏季ツアー"
+    "DOTA_Popup_CardPack_Model_Summer2022": "2022年夏季ツアー",
+    "matchmaking_match_disabled_permanent": "サードパーティのプログラムの使用、Steam利用規約への違反、スマーフィング、マッチメイキングの乱用、またはその他の悪質な乱用により、マッチメイキングは永久に無効になっています。"
 }
