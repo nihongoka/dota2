@@ -1895,8 +1895,8 @@
     "DOTA_Search": "探す",
     "DOTA_Start": "開始する",
     "DOTA_PleaseWait": "少々お待ちください…",
-    "DOTA_Previous": "前の",
-    "DOTA_PreviousShort": "前の",
+    "DOTA_Previous": "前",
+    "DOTA_PreviousShort": "前",
     "DOTA_Coming_Soon": "近日登場",
     "DOTA_Last_Chance": "ラストチャンス",
     "DOTA_Time_Remaining": "終了まで",
@@ -13345,5 +13345,16 @@
     "DOTA_DPCTeams_SeasonPeriod_Event37_Name": "夏季ツアー",
     "dpc_event_summer22": "夏季ツアー",
     "DOTA_Popup_CardPack_Model_Summer2022": "2022年夏季ツアー",
-    "matchmaking_match_disabled_permanent": "サードパーティのプログラムの使用、Steam利用規約への違反、スマーフィング、マッチメイキングの乱用、またはその他の悪質な乱用により、マッチメイキングは永久に無効になっています。"
+    "matchmaking_match_disabled_permanent": "サードパーティのプログラムの使用、Steam利用規約への違反、スマーフィング、マッチメイキングの乱用、またはその他の悪質な乱用により、マッチメイキングは永久に無効になっています。",
+    "DOTA_Profile_BattleReport": "バトルレポート",
+    "DOTA_BattleReport_Heroes": "ヒーロー",
+    "DOTA_BattleReport_Roles": "ロール",
+    "DOTA_BattleReport_Filters": "フィルター",
+    "DOTA_BattleReport_GameCount:p{games}": "{d:games}試合",
+    "DOTA_BattleReport_WinRate": "勝率 {d:win_rate}%",
+    "DOTA_BattleReport_Role_SafeLane": "セーフレーン",
+    "DOTA_BattleReport_Role_MidLane": "ミッドレーン",
+    "DOTA_BattleReport_Role_OffLane": "オフレーン",
+    "DOTA_BattleReport_Role_SoftSupport": "ソフトサポート",
+    "DOTA_BattleReport_Role_HardSupport": "ハードサポート"
 }
