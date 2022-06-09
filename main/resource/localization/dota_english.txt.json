@@ -17883,6 +17883,7 @@
     "DOTA_BattleReport_FeaturedHero": "Hero: <span class=\"HeroName\">{s:featured_hero_name}</span>",
     "DOTA_BattleReport_FeaturedRole": "Role: <span class=\"RoleName\">{s:featured_role_name}</span>",
     "DOTA_BattleReport_ReportGamesPlayed": "Games Played:",
+    "DOTA_BattleReport_New_Report": "New Report",
     "DOTA_BattleReport_NewReportReady": "New Battle Report Ready",
     "DOTA_BattleReport_ViewReport": "View Report",
     "DOTA_BattleReport_ViewLater": "All Battle Reports can be found later on the Dota Plus page.",
