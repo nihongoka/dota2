@@ -10613,5 +10613,6 @@
     "DOTA_Tooltip_ability_beastmaster_call_of_the_wild_hawk_hawk_base_movespeed": "BOARの移動速度:",
     "DOTA_Tooltip_ability_beastmaster_call_of_the_wild_hawk_hawk_base_vision_range": "BOARの視界:",
     "DOTA_Tooltip_ability_doom_bringer_devour_armor": "アーマー:",
-    "DOTA_Tooltip_ability_item_null_talisman_bonus_max_mana_percentage": "%+$max_mana_percentage"
+    "DOTA_Tooltip_ability_item_null_talisman_bonus_max_mana_percentage": "%+$max_mana_percentage",
+    "DOTA_Tooltip_ability_earthshaker_enchant_totem_Lore": "Raigorのゴリラのような強さは山でも破壊できる。"
 }
