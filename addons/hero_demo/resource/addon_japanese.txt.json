@@ -40,5 +40,9 @@
     "ScepterSelectedHeroes_Button": "セプター",
     "ShardSelectedHeroes_Button": "シャード",
     "Global_ButtonCategory": "グローバル設定",
-    "SpawnSingleCreepWave_Tooltip": "クリープウェーブを1つ生成"
+    "SpawnSingleCreepWave_Tooltip": "クリープウェーブを1つ生成",
+    "RestoreState_Button": "ロード",
+    "NightEnable_Button": "夜間",
+    "GameState_ButtonCategory": "ゲーム状態",
+    "SaveState_Button": "セーブ"
 }
