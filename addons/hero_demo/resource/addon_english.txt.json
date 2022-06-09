@@ -59,6 +59,7 @@
     "ChangeHero_Button": "Change Hero",
     "PauseDemo_Button": "Pause",
     "QuitDemo_Button": "Quit",
+    "NightEnable_Button": "Night Time",
     "Runes_ButtonCategory": "RUNES",
     "RuneSpawn_DoubleDamage_Button": "Double Damage",
     "RuneSpawn_Haste_Button": "Haste",
@@ -78,8 +79,14 @@
     "SpawnAllyHero_Button": "ALLY",
     "AutoSkill_Button": "Auto Skill",
     "NewHero_Button": "New Hero",
+    "GameState_ButtonCategory": "Game State",
+    "SaveState_Button": "Save",
+    "RestoreState_Button": "Load",
     "SpawnDummyTargeT_Tooltip": "Spawn Dummy Target",
     "Invulnerable_Tooltip": "Toggle Invulnerability for selected heroes",
     "ToggleShard_Tooltip": "Toggle Shard for selected heroes",
-    "ToggleScepter_Tooltip": "Toggle Scepter for selected heroes"
+    "ToggleScepter_Tooltip": "Toggle Scepter for selected heroes",
+    "SpeedIncrement_Tooltip": "Increase Speed",
+    "SpeedDecrement_Tooltip": "Decrease Speed",
+    "SpeedReset_Tooltip": "Reset to Normal Speed"
 }
