@@ -30183,6 +30183,7 @@
     "DOTA_PlayerMatchSurvey_Negative_IndividualPerformance": "Wasn't able to play my Hero",
     "DOTA_PlayerMatchSurvey_Negative_HeroChoice": "Bad Draft",
     "DOTA_PlayerMatchSurvey_Negative_Smurf": "Smurf in the Game",
+    "DOTA_ClipBuilder_EstimatedFileSize": "Estimated File Size : ~ <font color='grey>{d:estimated_filesize_mb}MB</font>",
     "DOTA_ClipBuilder_RangeSliderFillTooltip": "Clip Length: {d:duration_seconds}s",
     "DOTA_ClipBuilder_RangeSliderLowTooltip": "{s:range_time}",
     "DOTA_ClipBuilder_RangeSliderHighTooltip": "{s:range_time}",
