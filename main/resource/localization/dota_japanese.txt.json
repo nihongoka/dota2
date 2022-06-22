@@ -13661,5 +13661,8 @@
     "DOTAWatchDownloads_Delete": "削除",
     "DOTAWatchDownloads_NoMatchDetails": "試合の詳細がありません",
     "DOTAWatchDownloads_DeleteTitle": "リプレイを削除しますか？",
-    "DOTA_WatchReplaysConextMenu_NoMatchDetails": "試合の詳細がありません"
+    "DOTA_WatchReplaysConextMenu_NoMatchDetails": "試合の詳細がありません",
+    "DOTA_Treasure_KeyPurchase": "キーを購入する",
+    "DOTA_Treasure_RecyclingSubtitle_KeyAndTwoTreasures": "セットをリサイクルすることで1つのキーと2つのトレジャーを受け取れます。",
+    "DOTA_OpenTreasureTooltip_BonusTreasuresAndKey": "このトレジャーの未開封のバンドルをリサイクルすることで、2つのトレジャーとキーを獲得することができます。"
 }
