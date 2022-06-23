@@ -13664,5 +13664,8 @@
     "DOTA_WatchReplaysConextMenu_NoMatchDetails": "試合の詳細がありません",
     "DOTA_Treasure_KeyPurchase": "キーを購入する",
     "DOTA_Treasure_RecyclingSubtitle_KeyAndTwoTreasures": "セットをリサイクルすることで1つのキーと2つのトレジャーを受け取れます。",
-    "DOTA_OpenTreasureTooltip_BonusTreasuresAndKey": "このトレジャーの未開封のバンドルをリサイクルすることで、2つのトレジャーとキーを獲得することができます。"
+    "DOTA_OpenTreasureTooltip_BonusTreasuresAndKey": "このトレジャーの未開封のバンドルをリサイクルすることで、2つのトレジャーとキーを獲得することができます。",
+    "Comp_1248_PG_stretchgoalstextcustom22_text": "開封",
+    "DOTA_Treasure_Unlock": "開封",
+    "UnlockUse": "開封"
 }
