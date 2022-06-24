@@ -601,7 +601,7 @@
     "DOTA_Tooltip_ability_special_bonus_unique_morphling_7": "-{s:value}秒 Adaptive Strike クールダウン",
     "DOTA_Tooltip_ability_special_bonus_unique_morphling_8": "+{s:value}秒 Morph効果時間",
     "DOTA_Tooltip_ability_morphling_replicate_Description": "Morphlingは対象の敵に変身し、対象の基本のアビリティを得る。アビリティの効果時間中は自由に入れ替わることができる。",
-    "DOTA_Tooltip_ability_special_bonus_unique_morphling_1": "+{s:value} Waveform 距離",
+    "DOTA_Tooltip_ability_special_bonus_unique_morphling_1": "+{s:bonus_AbilityCastRange} Waveform 距離",
     "DOTA_Tooltip_ability_special_bonus_unique_morphling_2": "-{s:value} Morph クールダウン",
     "DOTA_Tooltip_ability_special_bonus_unique_morphling_3_Description": "Adaptive Strikeがキャスト範囲内にいる追加の敵ユニットにも当たるようになる。",
     "DOTA_Tooltip_modifier_arc_warden_tempest_double_Description": "Gem of True SightとDivine Rapierを除く呪文やアイテムを使用できるArc Wardenの完全なクローン。",
@@ -10614,5 +10614,18 @@
     "DOTA_Tooltip_ability_beastmaster_call_of_the_wild_hawk_hawk_base_vision_range": "BOARの視界:",
     "DOTA_Tooltip_ability_doom_bringer_devour_armor": "アーマー:",
     "DOTA_Tooltip_ability_item_null_talisman_bonus_max_mana_percentage": "%+$max_mana_percentage",
-    "DOTA_Tooltip_ability_earthshaker_enchant_totem_Lore": "Raigorのゴリラのような強さは山でも破壊できる。"
+    "DOTA_Tooltip_ability_earthshaker_enchant_totem_Lore": "Raigorのゴリラのような強さは山でも破壊できる。",
+    "DOTA_Tooltip_ability_morphling_replicate_abilitycastrange": "キャスト範囲:",
+    "DOTA_Tooltip_ability_slardar_amplify_damage_abilitycastrange": "キャスト範囲:",
+    "DOTA_Tooltip_ability_batrider_sticky_napalm_abilitycastrange": "キャスト範囲:",
+    "DOTA_Tooltip_ability_ogre_magi_ignite_abilitycastrange": "キャスト範囲:",
+    "DOTA_Tooltip_ability_skywrath_mage_ancient_seal_abilitycastrange": "キャスト範囲:",
+    "DOTA_Tooltip_ability_abyssal_underlord_firestorm_abilitycastrange": "キャスト範囲:",
+    "DOTA_Tooltip_ability_oracle_false_promise_abilitycastrange": "キャスト範囲:",
+    "DOTA_Tooltip_ability_dark_willow_cursed_crown_abilitycastrange": "キャスト範囲:",
+    "DOTA_Tooltip_ability_item_aether_lens_cast_range_bonus": "+$cast_range",
+    "DOTA_Tooltip_ability_axe_battle_hunger_abilitycastrange": "キャスト範囲:",
+    "DOTA_Tooltip_ability_phantom_lancer_spirit_lance_abilitycastrange": "キャスト範囲:",
+    "DOTA_Tooltip_ability_naga_siren_ensnare_abilitycastrange": "キャスト範囲:",
+    "DOTA_Tooltip_ability_dark_willow_bramble_maze_abilitycastrange": "キャスト範囲:"
 }
