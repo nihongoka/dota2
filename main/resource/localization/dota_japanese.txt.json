@@ -13683,5 +13683,9 @@
     "DOTA_BattlePass_FriendsAndFoes_ErrorNoData": "データの取得に失敗しました",
     "game_mode_event_overthrow_3v3v3_desc": "3人1組のチームで戦い、キル数を競い合います。",
     "game_mode_event_overthrow_3v3v3": "オーバースロートリオ",
-    "DOTA_KillCam_LowYou": "あなた"
+    "DOTA_KillCam_LowYou": "あなた",
+    "game_mode_event_conquest": "ジャングルコロッセウム",
+    "game_mode_event_conquest_desc": "5人1組の2チームが領域を取りあい、総力戦を繰り広げます。",
+    "game_mode_event_overthrow_5v5v5": "オーバースローファイブ",
+    "game_mode_event_overthrow_5v5v5_desc": "5人1組のチームで戦い、キル数を競い合います。"
 }
