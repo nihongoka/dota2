@@ -13690,5 +13690,9 @@
     "game_mode_event_overthrow_5v5v5_desc": "5人1組のチームで戦い、キル数を競い合います。",
     "DOTA_Featured_Gamemode_Generic": "スポットライト",
     "DOTA_CombatLog_RebornIntervalTime": "{d:interval_time}秒",
-    "DOTA_GameMode_Colosseum": "ジャングルコロッセウム"
+    "DOTA_GameMode_Colosseum": "ジャングルコロッセウム",
+    "dota_tip_hero_furion_1": "Nature's ProphetがSproutで生やした木もQuelling Bladeで切ったりTangoで食べたりできます。",
+    "DOTACavernCrawl_LegendKey_Title_TI2019": "Tango",
+    "DOTA_ContextualTips_LowHealthTooLong_Text": "体力が少なくなってきたら、TangoやSalveを使うか、泉に戻って死なないようにしましょう。",
+    "DOTA_ContextualTips_TangoShare_Text": "体力が必要な味方にTangoをあげることができます。"
 }
