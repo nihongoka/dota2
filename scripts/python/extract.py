@@ -47,6 +47,12 @@ l10ns = [
     L10nRule('richpresence', False),
 ]
 
+def detect_encoding(filename):
+    with open(filename, 'rb') as f:
+        if b'\xef\xbb\xbf' == f.read(3):
+            return 'utf-8-sig'
+        return 'utf-8'
+
 def main():
     def main_version():
         head = 'ClientVersion='
@@ -92,15 +98,17 @@ def main():
                         json.dump(data, out, indent=4, ensure_ascii=False)
                         print(f'Wrote "{out_name}" done!!')
 
-    with open('addons.txt', 'r') as addons:
-        for addon in addons.readlines():
-            addon = addon.strip()
-            if len(addon) == 0:
-                continue
-            with open(DOTA2_CLIENT+f'game/dota_addons/{addon}/resource/addon_english.txt', 'r', encoding='utf-8') as input:
-                data = vdf.loads(input.read())['lang']['Tokens']
-                os.makedirs(f'addons/{addon}/resource', exist_ok=True)
-                out_name = f'addons/{addon}/resource/addon_english.txt.json'
+    with open('addons.json', 'r') as addons:
+        for addon in json.load(addons):
+            filename = DOTA2_CLIENT + f'game/dota_addons/' + addon['name']
+            with open(filename, encoding='utf-8') as input:
+                data = vdf.loads(input.read())
+                if addon['is_simple']:
+                    data = data[addon['key_name']]
+                else:
+                    data = data['lang']['Tokens']
+                os.makedirs(os.path.dirname('addons/' + addon['name']), exist_ok=True)
+                out_name = 'addons/' + addon['name'] + '.json'
                 with open(out_name, 'w', encoding='utf-8') as out:
                     json.dump(data, out, indent=4, ensure_ascii=False)
                     print(f'Wrote "{out_name}" done!!')
