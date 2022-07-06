@@ -1,2 +1,4 @@
 hero_demo
 aghanim
+tutorial_basics
+npx_2019
