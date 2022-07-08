@@ -4739,7 +4739,7 @@
     "DOTA_Tooltip_ability_oracle_fortunes_end_radius": "範囲:",
     "DOTA_Tooltip_ability_oracle_fortunes_end_minimum_purge_duration": "最小ルート時間:",
     "DOTA_Tooltip_ability_oracle_fortunes_end_maximum_purge_duration": "最大ルート時間:",
-    "DOTA_Tooltip_ability_oracle_fates_edict_Description": "Oracle はターゲットを魅了し、ディスアームと%magic_damage_resistance_pct_tooltip%%% の魔法耐性を与える。敵味方両方し使用可能。",
+    "DOTA_Tooltip_ability_oracle_fates_edict_Description": "Oracle はターゲットを魅了し、ディスアームと%magic_damage_resistance_pct_tooltip%%% の魔法耐性を与える。敵味方両方に使用可能。",
     "DOTA_Tooltip_ability_oracle_purifying_flames_Description": "不純物を燃やし、ターゲットに大きな魔法のダメージを与えてから、時間の経過とともに体力を回復させる。総回復量は初期ダメージを上回る。敵味方両方に使用可能。",
     "DOTA_Tooltip_ability_oracle_purifying_flames_damage": "ダメージ:",
     "DOTA_Tooltip_ability_oracle_purifying_flames_heal_per_second": "秒間回復量:",
