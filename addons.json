@@ -1,15 +1,15 @@
 [
   {
-    "name": "hero_demo\\resource\\addon_english.txt",
+    "name": "hero_demo/resource/addon_english.txt",
     "is_simple": false
   },
   {
-    "name": "tutorial_basics\\panorama\\localization\\addon_english.txt",
+    "name": "tutorial_basics/panorama/localization/addon_english.txt",
     "is_simple": true,
     "key_name": "dota"
   },
   {
-    "name": "npx_2019\\resource\\addon_english.txt",
+    "name": "npx_2019/resource/addon_english.txt",
     "is_simple": false
   }
 ]
