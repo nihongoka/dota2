@@ -1138,7 +1138,7 @@
     "DOTA_Tooltip_ability_shadow_shaman_shackles_total_damage": "総ダメージ/回復量:",
     "DOTA_Tooltip_ability_shadow_shaman_shackles_channel_time": "最大効果時間:",
     "DOTA_Tooltip_ability_shadow_shaman_mass_serpent_ward": "Mass Serpent Ward",
-    "DOTA_Tooltip_ability_shadow_shaman_mass_serpent_ward_Description": "%ward_count% 体のSerpent Wardsを召喚し、敵ユニットと敵建造物を攻撃する。Serpent Wardsはスペル耐性を持つ。",
+    "DOTA_Tooltip_ability_shadow_shaman_mass_serpent_ward_Description": "%ward_count% 体のSerpent Wardを召喚し、敵ユニットと敵建造物を攻撃する。Serpent Wardはスペル耐性を持つ。",
     "DOTA_Tooltip_ability_shadow_shaman_mass_serpent_ward_duration": "効果時間:",
     "DOTA_Tooltip_ability_shadow_shaman_mass_serpent_ward_damage_tooltip": "ダメージ:",
     "DOTA_Tooltip_ability_shadow_shaman_mass_serpent_ward_hits_to_destroy_tooltip": "破壊するまでのヒット数:",
