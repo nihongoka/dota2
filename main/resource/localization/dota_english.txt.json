@@ -36941,5 +36941,6 @@
     "DOTA_FacelessVoidArcana_ProgressHeader": "Damage Under Chrono",
     "DOTA_FacelessVoidArcana_ArcanaProgressDescription_Reward": "<b>Winning this game will score <b>{s:num_points}</b> point towards earning your Battle Pass rewards!",
     "DOTA_FacelessVoidArcana_Label": "Arcana Progress",
-    "DOTA_FacelessVoidArcana_Score": "{s:current_score}/{d:unlock_value}"
+    "DOTA_FacelessVoidArcana_Score": "{s:current_score}/{d:unlock_value}",
+    "DOTA_Profile_Tooltip_LifetimeGames": "{d:lifetime_games} Lifetime Games"
 }
