@@ -13694,5 +13694,11 @@
     "dota_tip_hero_furion_1": "Nature's ProphetがSproutで生やした木もQuelling Bladeで切ったりTangoで食べたりできます。",
     "DOTACavernCrawl_LegendKey_Title_TI2019": "Tango",
     "DOTA_ContextualTips_LowHealthTooLong_Text": "体力が少なくなってきたら、TangoやSalveを使うか、泉に戻って死なないようにしましょう。",
-    "DOTA_ContextualTips_TangoShare_Text": "体力が必要な味方にTangoをあげることができます。"
+    "DOTA_ContextualTips_TangoShare_Text": "体力が必要な味方にTangoをあげることができます。",
+    "DOTA_Popup_PlusStatus_ExpiredExplanation": "{T:s:dota_plus_expiration_date}にあなたのDota Plusサブスクリプションが解除されました。",
+    "DOTA_Popup_PlusStatus_RenewDescription": "サブスクリプションが有効でないため、Dota Plusの機能を利用することはできません。ヒーローレベルの進行度は保持されていますが、サブスクリプションが有効でない間は進行しません。Dota Plusの機能を有効にするには、サブスクリプションを更新してください。",
+    "DOTA_BattlePass_HeroPerformance_Tooltip": "「味方と敵」は、相性の良い味方と悪いカウンターを見分けるのに役立ちます。自分のランクのグローバルデータに基づいて、それらの味方ヒーローと組んだとき、またはそれらの敵ヒーローと戦ったときの勝率が、予想よりどれくらい良いのか悪いのかを知ることができます。",
+    "DOTA_BattlePass_MatchUp_Allies": "味方",
+    "DOTA_BattlePass_MatchUp_Enemies": "敵",
+    "WeekendTourneySetupOnlyLeader": "パーティーリーダーのみバトルカップの登録ができます。"
 }
