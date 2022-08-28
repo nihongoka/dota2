@@ -7410,8 +7410,8 @@
     "DOTA_Tooltip_ability_riki_tricks_of_the_trade_scepter_description": "射程と攻撃回数が増加して味方ヒーローもしくはイリュージョンを対象指定できるようになる。味方を指定した場合、そのヒーローが移動すると攻撃エリアと自身の位置も移動する。各攻撃の対象が1体増える。",
     "DOTA_Tooltip_ability_necrolyte_heartstopper_aura_scepter_description": "Ghost Shroud発動中はHeartstopperのダメージが増加する。",
     "DOTA_Tooltip_ability_necrolyte_death_seeker_Description": "対象の敵や味方に向けて、高速で移動する大きなDeath Pulseを発生させ、対象をエーテル状態にする。対象が敵の場合、魔法耐性を低下させる。着弾後、近くの敵や味方に向かって拡散する。",
-    "DOTA_Tooltip_ability_beastmaster_call_of_the_wild_hawk_shard_description": "Wild Hawkのクールダウンが%bonus_AbilityCooldown%減少し、HawkがDive Bombを習得する。",
-    "DOTA_Tooltip_ability_beastmaster_hawk_dive_Description": "透明状態を解除し、%abilitycastpoint%秒間チャネリングした後、対象の敵に向かって突撃し、ダメージとスタンを与える。このアビリティを使ったHawkは死亡する。",
+    "DOTA_Tooltip_ability_beastmaster_call_of_the_wild_hawk_shard_description": "Wild Hawkのクールダウンが%bonus_AbilityCooldown%減少し、HawkがDive Bombを習得する。オートキャストが有効の場合、Hawkは一番近いユニットに自動的にダイブする。",
+    "DOTA_Tooltip_ability_beastmaster_hawk_dive_Description": "透明状態を解除し、%abilitycastpoint%秒間チャネリングした後、対象の敵に向かって突撃し、ダメージとルートを与える。このアビリティを使ったHawkは死亡する。",
     "DOTA_Tooltip_ability_venomancer_area_poison_Description": "指定地点の周囲%radius%に毒溜まりを生成する。中にいる敵は20%%のスローとPoison Novaと同量のダメージを受け（本来のPoison Novaのダメージと重複する）、範囲内で死んだ敵ヒーローからPlague Wardが発生する。",
     "DOTA_Tooltip_ability_venomancer_poison_nova_scepter_description": "ダメージが増加しクールダウンが短縮される。",
     "DOTA_Tooltip_ability_faceless_void_time_lock_abilitydraft_note": "アビリティドラフト限定でSkull Basherと同時に使ってもバッシュが競合しない。",
@@ -7429,7 +7429,7 @@
     "DOTA_Tooltip_modifier_death_prophet_spirit_siphon_debuff": "Siphonによるアーマー吸収",
     "DOTA_Tooltip_ability_beastmaster_hawk_dive_damage": "ダメージ:",
     "DOTA_Tooltip_ability_beastmaster_hawk_dive": "Dive Bomb",
-    "DOTA_Tooltip_ability_beastmaster_hawk_dive_stun_duration": "スタン時間:",
+    "DOTA_Tooltip_ability_beastmaster_hawk_dive_stun_duration": "ルート時間:",
     "DOTA_Tooltip_ability_slardar_bash_abilitydraft_note": "アビリティドラフト限定でSkull Basherと同時に使ってもバッシュが競合しない。",
     "DOTA_Tooltip_ability_beastmaster_wild_axes_scepter_description": "Wild Axesのクールダウンが無くなり、手元に戻るたびに再使用できるようになる。",
     "DOTA_Tooltip_ability_beastmaster_hawk_dive_abilitycastrange": "射程:",
@@ -10662,5 +10662,6 @@
     "DOTA_Tooltip_ability_enigma_malefice_stun_instances": "回数:",
     "DOTA_Tooltip_ability_enigma_malefice_shard_description": "スタン効果時間が増加し、スタンした対象の隣にEidolonを1体召喚する。これらのEidolonは増殖しない。",
     "DOTA_Tooltip_ability_sniper_headshot_damage": "ダメージ:",
-    "DOTA_Tooltip_ability_sniper_assassinate_shard_description": "Assassinateがメイン対象の後方扇状範囲内にいる敵に%scatter_damage_pct%%%のダメージを与えるようになる。扇状範囲長:%scatter_range%、扇状範囲幅: %scatter_width%。さらに、キャストポイントが%scepter_cast_point%減少する。"
+    "DOTA_Tooltip_ability_sniper_assassinate_shard_description": "Assassinateがメイン対象の後方扇状範囲内にいる敵に%scatter_damage_pct%%%のダメージを与えるようになる。扇状範囲長:%scatter_range%、扇状範囲幅: %scatter_width%。さらに、キャストポイントが%scepter_cast_point%減少する。",
+    "DOTA_Tooltip_ability_beastmaster_drums_of_slom": "Drums Of Slom"
 }
