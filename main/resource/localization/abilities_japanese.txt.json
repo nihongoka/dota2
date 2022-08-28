@@ -7352,7 +7352,7 @@
     "DOTA_Tooltip_ability_rattletrap_jetpack_Description": "ジェットパックを起動し、飛行ユニットになり、上空視界、ボーナス移動速度を得る。発動中は振り向き速度が大幅に減少してディスアーム状態になる。Hookshotを発動すると中断される。",
     "DOTA_Tooltip_ability_shadow_shaman_shackles_shard_description": "Shacklesの射程が%shard_bonus_cast_range%増加し、発動時に%shard_ward_count%体のSerpent Wardが召喚され拘束中の対象を攻撃するようになる。Serpent Wardは%shard_ward_duration%秒間持続する。",
     "DOTA_Tooltip_ability_sniper_concussive_grenade": "Concussive Grenade",
-    "DOTA_Tooltip_ability_sniper_concussive_grenade_Description": "指定した地点にグレネードを発射しダメージを与え、敵と自身をノックバックさせる。ノックバックした敵はスローを受ける。",
+    "DOTA_Tooltip_ability_sniper_concussive_grenade_Description": "指定した地点にグレネードを発射しダメージを与え、敵と自身をノックバックさせる。ノックバックした敵はディスアームとスローを受ける。",
     "DOTA_Tooltip_ability_necrolyte_death_pulse_abilitydraft_note": "<span class=\"ADBlue\">シャード:</span><span class=\"ADWhite\"><b>Death Pulse</b></span>のオートキャストをオンにすることで <span class=\"ADWhite\"><b>Death Seeker</b></span>を放てるようになる。",
     "DOTA_Tooltip_ability_tinker_laser_scepter_description": "レーザーにスモールライト機能を追加する。射程が%scepter_bonus_cast_range%増加し、指定した対象のサイズと最大HPと現在のHPを%scepter_reduction_pct%%%減少させる（この効果はスタックする）。また対象がヒーローの場合、当たったレーザーは対象の周囲%scepter_bounce_radius%以内で最も遠い視界内の敵（ヒーロー優先）に一回跳弾する。",
     "DOTA_Tooltip_ability_tinker_shrink_ray_Description": "敵ユニットのサイズと最大HPを%duration%秒間20%%減少させる。",
@@ -7420,7 +7420,7 @@
     "DOTA_Tooltip_modifier_death_prophet_spirit_siphon_buff": "Siphonによるアーマー吸収",
     "DOTA_Tooltip_modifier_death_prophet_spirit_siphon_debuff_Description": "Spirit Siphonによってアーマーが吸収されている。",
     "DOTA_Tooltip_ability_necrolyte_death_seeker": "Death Seeker",
-    "DOTA_Tooltip_ability_slardar_slithereen_crush_scepter_description": "Slithereen Crushを発動したとき周囲に川と同じ判定の水場を作り、その中にいる間は水上ボーナスを得る。",
+    "DOTA_Tooltip_ability_slardar_slithereen_crush_scepter_description": "Slithereen Crushの水たまり範囲と効果時間が増加する。",
     "DOTA_Tooltip_ability_venomancer_area_poison": "Venomancer セプター",
     "DOTA_Tooltip_ability_venomancer_area_poison_duration": "効果時間:",
     "DOTA_Tooltip_ability_venomancer_area_poison_radius": "範囲:",
@@ -10661,5 +10661,6 @@
     "DOTA_Tooltip_ability_tidehunter_arm_of_the_deep_Description": "おびただしい数の触手を解放し、範囲内の敵にスタンとダメージを与える。触手はRavageの%range_pct%%%の範囲を持ち、%damage_pct%%%のスタンとダメージを与える。",
     "DOTA_Tooltip_ability_enigma_malefice_stun_instances": "回数:",
     "DOTA_Tooltip_ability_enigma_malefice_shard_description": "スタン効果時間が増加し、スタンした対象の隣にEidolonを1体召喚する。これらのEidolonは増殖しない。",
-    "DOTA_Tooltip_ability_sniper_headshot_damage": "ダメージ:"
+    "DOTA_Tooltip_ability_sniper_headshot_damage": "ダメージ:",
+    "DOTA_Tooltip_ability_sniper_assassinate_shard_description": "Assassinateがメイン対象の後方扇状範囲内にいる敵に%scatter_damage_pct%%%のダメージを与えるようになる。扇状範囲長:%scatter_range%、扇状範囲幅: %scatter_width%。さらに、キャストポイントが%scepter_cast_point%減少する。"
 }
