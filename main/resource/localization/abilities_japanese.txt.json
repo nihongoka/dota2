@@ -10785,5 +10785,7 @@
     "DOTA_Tooltip_modifier_centaur_mounted": "Hitch A Ride",
     "DOTA_Tooltip_modifier_centaur_mounted_Description": "スペルのキャストや攻撃は可能だが、移動できず、敵の対象に指定され得る。",
     "DOTA_Tooltip_modifier_magnataur_reverse_polarity_strength": "Reverse Polarity Strength",
-    "DOTA_Tooltip_modifier_magnataur_reverse_polarity_strength_Description": "Strengthが%dMODIFIER_PROPERTY_EXTRA_STRENGTH_BONUS%増加している。"
+    "DOTA_Tooltip_modifier_magnataur_reverse_polarity_strength_Description": "Strengthが%dMODIFIER_PROPERTY_EXTRA_STRENGTH_BONUS%増加している。",
+    "DOTA_Tooltip_modifier_magnataur_horn_toss_slow": "Horn Toss Slow",
+    "DOTA_Tooltip_modifier_magnataur_horn_toss_slow_Description": "移動速度と攻撃速度が%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%減少している。"
 }
