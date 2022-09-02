@@ -13791,5 +13791,18 @@
     "DOTA_TI11BP_Gifting_RewardTitle1": "\"ジーニアス\"",
     "DOTA_TI11BP_Gifting_RewardTitle2": "\"ミューニフィセント\"",
     "DOTA_TI11BP_Gifting_RewardTitle3": "\"バウンティフル\"",
-    "DOTA_EconItemSet_Tooltip_Immortals_TI11_Limited_Tradeability": "The International 12の後に取引可能"
+    "DOTA_EconItemSet_Tooltip_Immortals_TI11_Limited_Tradeability": "The International 12の後に取引可能",
+    "dota_calendar": "カレンダー",
+    "DOTA_BattleReportNav_Calendar": "カレンダー",
+    "DOTA_BattleReportSort_AverageShardPurchaseTime": "平均シャード購入時間",
+    "DOTA_BattleReportSort_AverageScepterPurchaseTime": "平均セプター購入時間",
+    "DOTA_BattleReportSort_GamesPurchasedShard": "シャードを購入した試合数",
+    "DOTA_BattleReportSort_GamesPurchasedScepter": "セプターを購入した試合数",
+    "DOTA_BattleReportSort_ShardPurchaseTime": "シャード購入時間",
+    "DOTA_BattleReportSort_ScepterPurchaseTime": "セプター購入時間",
+    "DOTA_BattleReportSort_ShardPurchaseWinrate": "シャード購入時の勝率",
+    "DOTA_BattleReportSort_ScepterPurchaseWinrate": "セプター購入時の勝率",
+    "DOTACavernCrawl_CustomChallenge_carry_ti2021final": "TI10で大活躍したキャリーヒーローで勝利する",
+    "DOTACavernCrawl_CustomChallenge_support_ti2021final": "TI10で大活躍したサポートヒーローで勝利する",
+    "DOTACavernCrawl_CustomChallenge_utility_ti2021final": "TI10で大活躍したユーティリティヒーローで勝利する"
 }
