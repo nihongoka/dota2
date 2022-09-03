@@ -13710,7 +13710,7 @@
     "DOTA_WeeklyQuest_Week17_Name": "17",
     "DOTA_WeeklyQuest_Week18_Name": "18",
     "DOTA_WeeklyQuest_Week19_Name": "19",
-    "DOTA_WeeklyQuest_GoalPip_Tooltip:p{star_count}": "この週で星を{d:star_count}つ集めると{d:point_reward}バトルパスポイント獲得できます。",
+    "DOTA_WeeklyQuest_GoalPip_Tooltip:p{star_count}": "この週で星を{d:star_count}つ集めると{d:point_reward}バトルポイント獲得できます。",
     "DOTA_International2022_CandyShop_Subtitle": "& トレジャーエンポリウム",
     "DOTA_International2022_CandyShop_h2": "Candyを集めてとってもスイートな商品と交換しましょう。",
     "DOTA_International2022_CandyShop_Bullet1": "バトルパスの報酬で<b>キャンディ袋</b>を集めましょう。",
@@ -13804,5 +13804,10 @@
     "DOTA_BattleReportSort_ScepterPurchaseWinrate": "セプター購入時の勝率",
     "DOTACavernCrawl_CustomChallenge_carry_ti2021final": "TI10で大活躍したキャリーヒーローで勝利する",
     "DOTACavernCrawl_CustomChallenge_support_ti2021final": "TI10で大活躍したサポートヒーローで勝利する",
-    "DOTACavernCrawl_CustomChallenge_utility_ti2021final": "TI10で大活躍したユーティリティヒーローで勝利する"
+    "DOTACavernCrawl_CustomChallenge_utility_ti2021final": "TI10で大活躍したユーティリティヒーローで勝利する",
+    "DOTA_BattlePassPostGame_Progress": "バトルパスプログレス",
+    "DOTA_BattlePassLog_WeeklyQuestReward": "ウィークリークエストリワード",
+    "DOTA_BattlePassLog_MysteryBoxReward": "ウィークリークエストチェストリワード",
+    "DOTA_International2022_WeeklyQuest_MysteryBox_GoalPip_Tooltip": "この週で星を{d:star_count}つ集めるとボーナスウィークバトルチェスト獲得できます！",
+    "DOTA_International2022_WeeklyQuest_PointReward_GoalPip_Tooltip": "この週で星を{d:star_count}つ集めると{d:point_reward}バトルポイント獲得できます。"
 }
