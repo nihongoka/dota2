@@ -7321,7 +7321,6 @@
     "DOTA_Tooltip_ability_ad_shard_grant": "シャードは新しい能力を付与する: <font color=\"#ffffff\"><b>%s1</b></font>",
     "DOTA_Tooltip_modifier_necronomicon_archer_purge_Description": "移動速度が%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%減少している。",
     "DOTA_Tooltip_ability_furion_sprout_shard_description": "Sproutによって発生した木が破壊されたとき、その木があった場所から最大2回までグレータートレントが発生する。グレータートレントは最大2匹までしか同時に存在できない。",
-    "DOTA_Tooltip_ability_furion_sprout_abilitydraft_note": "シャード: グレータートレントはNature's Callもドラフトしている場合にしか発生しない。",
     "DOTA_Tooltip_ability_axe_berserkers_call_scepter_description": "Berserker's CallはBattle Hungerを与えるようになり、クールダウンを減少させる。",
     "DOTA_Tooltip_ability_kunkka_tidal_wave_Description": "背後から津波を召喚し、当たった敵にダメージを与え、一定距離押し流す。押し流されている間、敵は攻撃ができない。",
     "DOTA_Tooltip_ability_rattletrap_jetpack_Description": "ジェットパックを起動し、飛行ユニットになり、上空視界、ボーナス移動速度を得る。発動中は振り向き速度が大幅に減少してディスアーム状態になる。Hookshotを発動すると中断される。",
