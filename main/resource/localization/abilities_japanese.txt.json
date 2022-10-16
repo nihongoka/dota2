@@ -9746,7 +9746,7 @@
     "DOTA_Tooltip_ability_nevermore_requiem_requiem_reduction_mres": "%魔法耐性減少:",
     "DOTA_Tooltip_modifier_nevermore_necromastery_fear": "Necromastery",
     "DOTA_Tooltip_modifier_nevermore_necromastery_fear_Description": "恐怖している。",
-    "DOTA_Tooltip_ability_sven_warcry_shard_description": "Warcryはディスペル不可能になり、近く味方に常にア－マーを付与するようになる。",
+    "DOTA_Tooltip_ability_sven_warcry_shard_description": "Warcryはディスペル不可能になり、近くの味方に常にア－マーを付与するようになる。",
     "DOTA_Tooltip_modifier_sven_warcry_passive": "Warcryオーラ",
     "DOTA_Tooltip_modifier_sven_warcry_passive_Description": "アーマーが%dMODIFIER_PROPERTY_PHYSICAL_ARMOR_BONUS%増加する。",
     "DOTA_Tooltip_ability_drow_ranger_wave_of_silence_bonus_movespeed": "%ボーナス移動速度:",
