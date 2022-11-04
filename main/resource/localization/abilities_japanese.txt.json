@@ -631,7 +631,7 @@
     "DOTA_Tooltip_ability_life_stealer_open_wounds_abilitycastrange": "キャスト範囲:",
     "DOTA_Tooltip_ability_life_stealer_infest_Note0": "Infest効果中も経験値を得ることが出来る。",
     "DOTA_Tooltip_ability_life_stealer_infest_Note1": "Infestで支配されているクリープは移動速度ボーナスを得る。",
-    "DOTA_Tooltip_ability_life_stealer_infest_Note2": "Lifestealerに寄生されているユニットは、Lifestealerと同等の移動速度を得る。",
+    "DOTA_Tooltip_ability_life_stealer_infest_Note2": "レベル2でエンシェントクリープを対象にできるようになる。",
     "DOTA_Tooltip_ability_life_stealer_infest_damage": "ダメージ:",
     "DOTA_Tooltip_ability_life_stealer_infest_radius": "ダメージの及ぶ範囲:",
     "DOTA_Tooltip_ability_life_stealer_infest_self_regen": "%自身の最大HPに応じた回復量:",
