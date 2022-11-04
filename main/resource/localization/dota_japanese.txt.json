@@ -13848,5 +13848,10 @@
     "DOTA_BattlePass2022_CandyPoints_CandyProgress": "次のキャンディ",
     "DOTA_BattlePass2022_CandyPoints_SackedCandies": "袋入りキャンディ",
     "game_mode_event_winter_2022_play": "Diretideをプレイ",
-    "winter2022_game_info_score_candy": "グリーヴィル達がRoshanのキャンディを盗んだ！彼らを攻撃してキャンディを取返し、<b>敵</b>の井戸に投げ込もう。"
+    "winter2022_game_info_score_candy": "グリーヴィル達がRoshanのキャンディを盗んだ！彼らを攻撃してキャンディを取返し、<b>敵</b>の井戸に投げ込もう。",
+    "DOTA_SeasonPass_SecondaryTabHeader_SwagBag": "スワッグバッグ",
+    "DOTA_International2022_SwagBag_Spinner_Title": "スワッグバッグを受け取る",
+    "DOTA_International2022_SwagBag_FailedToClaim": "受け取りに失敗",
+    "DOTA_International2022_SwagBag_FailedToClaim_Error": "未知のエラー (エラー{d:error_code} )",
+    "DOTA_International2022_SwagBag_FailedToClaim_TooBusy": "スワッグショップは現在混み合っています。後で再度試してください。"
 }
