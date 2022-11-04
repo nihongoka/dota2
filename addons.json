@@ -11,5 +11,9 @@
   {
     "name": "npx_2019/resource/addon_english.txt",
     "is_simple": false
+  },
+  {
+    "name": "winter2022/resource/addon_english.txt",
+    "is_simple": false
   }
 ]
