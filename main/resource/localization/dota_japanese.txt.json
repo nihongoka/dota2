@@ -13809,7 +13809,7 @@
     "DOTA_WeeklyQuests_Winter2022_HalfCredit_Tooltip": "このクエストの進捗は、Diretideで行うと半分で計算されます。",
     "DOTA_International2022_OpenShop": "ショップを開く",
     "DOTA_International2022_OpenCandyShop": "キャンディショップを開く",
-    "DOTA_International2022_WeeklyCandy": "ウィークリーキャンディ:",
+    "DOTA_International2022_WeeklyCandy": "ウィークリー:",
     "DOTA_Diretide2022_HowToPlay": "遊び方",
     "winter2022_game_info_body_how_to_play": "グリーヴィルを倒す、キャンディを取る、<b>敵</b>の井戸に入れる。",
     "winter2022_game_info_confirm_how_to_play": "わかった！",
@@ -13858,7 +13858,7 @@
     "DOTA_Sticker_Collection_Leave_Title": "保存されていない作業",
     "Dota_Sticker_Collection_Leave_Text": "まだ列に貼っていないステッカーが{d:sticker_count}枚あります。本当に退出しますか？",
     "DOTA_Sticker_PageDelete_Confirmation_Text": "{d:sticker_count}枚のステッカーが貼られた列を削除しようとしています。 この列を削除すると、貼られているすべてのステッカーが失われます。 選択したステッカーの列を本当に削除しますか？",
-    "DOTA_StickerCollections_Rewards": "• <b>1</b>列完成 = <b>1000</b>BP<br>• <b>5</b>列完成 = <b>3000</b>BP<br>• <b>10</b>列完成 = <b>5000</b>BP<br>• <b>30</b>列完成 rows = <b>7000</b>BP<br>",
+    "DOTA_StickerCollections_Rewards": "• <b>1</b>列完成 = <b>1000</b>BP<br>• <b>5</b>列完成 = <b>3000</b>BP<br>• <b>10</b>列完成 = <b>5000</b>BP<br>• <b>30</b>列完成 = <b>7000</b>BP<br>",
     "DOTA_Sticker_BuyOnMarket": "マーケットで購入",
     "corrupted": "コラプト",
     "exalted": "イグゾルテッド",
@@ -13918,7 +13918,7 @@
     "DOTA_StickerCollections_RowsComplete": "{d:sticker_rows_complete_progress} / {d:stickers_max_completed_rows}  列完成",
     "DOTA_Sticker_TurnPage_Confirmation_Title": "保存されていない作業",
     "DOTA_StickerCollections_Select_NoRows": "列を追加して、ステッカーを貼ろう。",
-    "DOTA_StickerCollections_Select_Rewards": "ステッカーの列を完成されて報酬を集めよう！",
+    "DOTA_StickerCollections_Select_Rewards": "ステッカーの列を完成させて報酬を集めよう！",
     "DOTA_StickerCollections_UnopenedCapsules": "<b>{d:sticker_capsule_count}</b> 未開封のステッカーカプセル",
     "DOTA_StickerCollections_Tutorial_Next": "次",
     "DOTA_StickerCollections_ProgressTooltip": "{d:sticker_rows_complete_progress} / {d:stickers_max_completed_rows}",
@@ -13970,5 +13970,10 @@
     "DOTA_Stickers_Store_ChampionsTitle": "優勝おめでとう<br/>Tundra Esports！",
     "DOTA_Stickers_Store_ChampionsDescription": "今年のチャンピオンステッカーを集めて、The Internationalをお祝いしましょう。",
     "Store_Featured": "注目",
-    "Store_Home": "注目"
+    "Store_Home": "注目",
+    "DOTA_StickerDetails_TalentVoiceLineUngranted": "<b>ゴールドまたはホロステッカーを獲得しよう</b><br/>ゴールドまたはホロステッカーを獲得して列やヒーローに貼ることでアンロックされます。",
+    "DOTA_StickerCollections_Select": "持っているステッカーを貼る列を選択してください。",
+    "DOTA_Sticker_RowPicker_Choose": "チームやタレントを選んで列を作ろう",
+    "DOTA_Sticker_TeamStickersOwned": "持っているチームステッカー",
+    "DOTA_Sticker_IndividualStickersOwned": "持っている個人ステッカー"
 }
