@@ -13997,5 +13997,6 @@
     "DOTA_Collectors_Cache_Vote_TimeRemaining": "投票終了まで後{t:d:t:T:countdown_time}",
     "DOTA_Collectors_Cache_Vote_PageSubtitle": "トレジャーの投票",
     "DOTA_Collectors_Cache_Vote_CreatorsTitle": "クリエイター",
-    "DOTA_TI10_Collectors_Cache_TimeRemaining": "投票終了まで後{t:d:t:T:countdown_time}"
+    "DOTA_TI10_Collectors_Cache_TimeRemaining": "投票終了まで後{t:d:t:T:countdown_time}",
+    "DOTA_ChatWheel_HideLocked": "ロックされているテキストを隠す"
 }
