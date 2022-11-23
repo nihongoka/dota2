@@ -13804,7 +13804,7 @@
     "DOTA_CandyShop_CandyType_3": "ジディーポップス",
     "DOTA_CandyShop_CandyType_4": "レッドモーツイスト",
     "DOTA_CandyShop_CandyType_5": "シルクマイヤーシュガーストリングス",
-    "DOTA_WeeklyQuests_Winter2022_Tooltip": "このクエストはDiretideモードで達成可能です。",
+    "DOTA_WeeklyQuests_Winter2022_Tooltip": "このクエストはDiretideモードでも達成可能です。",
     "DOTA_WeeklyQuests_Winter2022_HalfCredit_Tooltip": "このクエストの進捗は、Diretideで行うと半分で計算されます。",
     "DOTA_International2022_OpenShop": "ショップを開く",
     "DOTA_International2022_OpenCandyShop": "キャンディショップを開く",
@@ -13997,5 +13997,7 @@
     "DOTA_Collectors_Cache_Vote_PageSubtitle": "トレジャーの投票",
     "DOTA_Collectors_Cache_Vote_CreatorsTitle": "クリエイター",
     "DOTA_TI10_Collectors_Cache_TimeRemaining": "投票終了まで後{t:d:t:T:countdown_time}",
-    "DOTA_ChatWheel_HideLocked": "ロックされているテキストを隠す"
+    "DOTA_ChatWheel_HideLocked": "ロックされているテキストを隠す",
+    "DOTA_Trivia_ToggleChat": "トリビアチャットに切り替える",
+    "DOTA_International2022_CollectorsCacheAvailable": "トレジャーを見る"
 }
