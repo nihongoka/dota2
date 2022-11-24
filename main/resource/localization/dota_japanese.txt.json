@@ -14031,7 +14031,7 @@
     "DOTA_StickerSplash_Profile": "プロフィール",
     "DOTA_StickerSplash_Profile_Desc": "コレクションページでお気に入り登録することで、プロフィールにステッカーの列が表示されるようになります。",
     "DOTA_StickerSplash_Hero": "ヒーローをカスタマイズしよう",
-    "DOTA_StickerSplash_Hero_Desc": "好きなヒーローにステッカーを貼って、MVP画面やバーサススクリーンで見せびらかしましょう。",
+    "DOTA_StickerSplash_Hero_Desc": "好きなヒーローにステッカーを貼って、MVP画面やバーサススクリーンで自慢しましょう。",
     "DOTA_StickerSplash_ViewCollection": "コレクションを見る",
     "DOTA_StickerSplash_ViewStash": "スタッシュを見る",
     "DOTA_StickerSplash_ViewProfile": "プロフィールを見る",
@@ -14050,5 +14050,13 @@
     "DOTA_CollectorsCacheAvailable_Title": "2022 コレクターズキャッシュ",
     "DOTA_CollectorsCacheAvailable_SubTitle": "好評発売中！",
     "DOTA_CollectorsCacheAvailable_GoToTreasure": "トレジャーを見る",
-    "DOTA_BattlePass2022_Schedule_CollectorsCacheAvailable_Heading": "コレクターズキャッシュが登場"
+    "DOTA_BattlePass2022_Schedule_CollectorsCacheAvailable_Heading": "コレクターズキャッシュが登場",
+    "DOTA_Sticker_StickerHeroSet_ConfirmationText": "\"{s:item_name_new}\"を{g:dota_hero_name:hero_id}に貼り付けますか？貼り付けたステッカーは保管庫から除外されます。",
+    "DOTA_StickerHero_AssignSticker": "ステッカーを貼る",
+    "DOTA_StickerHero_ReplaceSticker": "ステッカーを貼り変える",
+    "DOTA_StickerCollection_NoStickersForTeam": "<i>{g:dota_team_name:sticker_tray_team_id}</i>のステッカーを持っていません。<b><a href=\"event:DOTAStickerCollectionBuyStickers()\">ストア</a></b>で購入するか、<b><a href=\"event:DOTAStickerCollectionGoToStoreForPage()\">ステッカーカプセル</a></b>から手に入れましょう。",
+    "DOTA_StickerCollection_NoStickersForTalent": "<i>タレント</i>のステッカーを持っていません。<b><a href=\"event:DOTAStickerCollectionBuyStickers()\">ストア</a></b>で購入するか、<b><a href=\"event:DOTAStickerCollectionGoToStoreForPage()\">ステッカーカプセル</a></b>から手に入れましょう。",
+    "DOTA_StickerHero_ChooseHeader": "{g:dota_hero_name:hero_id}に貼るステッカーを選んでください",
+    "DOTA_StickerHero_Description": "お気に入りのプロチーム、選手、配信タレントのステッカーを貼って自慢しよう。",
+    "DOTA_Sticker_StickerHeroSet_ConfirmationTitle": "ヒーローにステッカーを貼りますか？"
 }
