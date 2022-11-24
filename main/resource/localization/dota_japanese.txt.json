@@ -14046,5 +14046,9 @@
     "base": "ベース",
     "DOTA_econ_item_details_dynamic_qualities": "クオリティ:",
     "DOTA_OwnedItemDetails_QualityCount": "4クオリティ",
-    "DOTA_Sticker_QualitySelectionLabel": "クオリティをプレビュー:"
+    "DOTA_Sticker_QualitySelectionLabel": "クオリティをプレビュー:",
+    "DOTA_CollectorsCacheAvailable_Title": "2022 コレクターズキャッシュ",
+    "DOTA_CollectorsCacheAvailable_SubTitle": "好評発売中！",
+    "DOTA_CollectorsCacheAvailable_GoToTreasure": "トレジャーを見る",
+    "DOTA_BattlePass2022_Schedule_CollectorsCacheAvailable_Heading": "コレクターズキャッシュが登場"
 }
