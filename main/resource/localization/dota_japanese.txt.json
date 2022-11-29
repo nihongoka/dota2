@@ -14058,5 +14058,7 @@
     "DOTA_StickerCollection_NoStickersForTalent": "<i>タレント</i>のステッカーを持っていません。<b><a href=\"event:DOTAStickerCollectionBuyStickers()\">ストア</a></b>で購入するか、<b><a href=\"event:DOTAStickerCollectionGoToStoreForPage()\">ステッカーカプセル</a></b>から手に入れましょう。",
     "DOTA_StickerHero_ChooseHeader": "{g:dota_hero_name:hero_id}に貼るステッカーを選んでください",
     "DOTA_StickerHero_Description": "お気に入りのプロチーム、選手、配信タレントのステッカーを貼って自慢しよう。",
-    "DOTA_Sticker_StickerHeroSet_ConfirmationTitle": "ヒーローにステッカーを貼りますか？"
+    "DOTA_Sticker_StickerHeroSet_ConfirmationTitle": "ヒーローにステッカーを貼りますか？",
+    "DOTA_sticker_next_action_description": "ステッカーはコレクションに加えたり、スタッシュで閲覧することができます。",
+    "DOTA_Sticker_Done": "閉じる"
 }
