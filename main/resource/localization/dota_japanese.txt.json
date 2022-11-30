@@ -14072,5 +14072,9 @@
     "DOTA_StickerStash_UnopenedCapsules": "<b>{d:sticker_capsule_count}</b>個の未開封のステッカーカプセルを所有しています。",
     "DOTA_StickerStash_ViewCapsulesButtonLabel": "カプセルを見る",
     "DOTA_StickerStash_UnopenedCapsulesShort": "<b>{d:sticker_capsule_count}</b>個の未開封のステッカーカプセル",
-    "DOTA_CollectorsCacheAvailable_Description": "投票により、今年は<span class='DescriptionEmphasis'>18</span>個のスキンが<span class='DescriptionEmphasis'>コレクターズキャッシュ</span>に選ばれました！"
+    "DOTA_CollectorsCacheAvailable_Description": "投票により、今年は<span class='DescriptionEmphasis'>18</span>個のスキンが<span class='DescriptionEmphasis'>コレクターズキャッシュ</span>に選ばれました！",
+    "DOTA_Plus_Fall2022_Update_Desc": "新シーズンのクエスト、期間限定のトレジャー、更に様々な機能がDota Plusに登場。",
+    "DOTA_PlusSeason_SeasonFall2022_Quests": "2022 秋シーズンクエスト",
+    "DOTA_PlusSeason_SeasonFall2022_Subtitle": "2022年12月1日秋シーズン終了まで。",
+    "DOTA_PlusSeason_SeasonFall2022_TreasureDescription": "2022年12月1日秋シーズン終了までの限定販売。"
 }
