@@ -14076,5 +14076,19 @@
     "DOTA_Plus_Fall2022_Update_Desc": "新シーズンのクエスト、期間限定のトレジャー、更に様々な機能がDota Plusに登場。",
     "DOTA_PlusSeason_SeasonFall2022_Quests": "2022 秋シーズンクエスト",
     "DOTA_PlusSeason_SeasonFall2022_Subtitle": "2022年12月1日秋シーズン終了まで。",
-    "DOTA_PlusSeason_SeasonFall2022_TreasureDescription": "2022年12月1日秋シーズン終了までの限定販売。"
+    "DOTA_PlusSeason_SeasonFall2022_TreasureDescription": "2022年12月1日秋シーズン終了までの限定販売。",
+    "DOTACavernCrawl_FragmentTip:p{fragments}": "{d:fragments}つの欠片を集めて別のスタイルを解放しよう",
+    "DOTACavernCrawl_LegendStyle_Desc_Variant1_TI2020": "6つの欠片を集めて最後のスタイルを解放しよう。",
+    "DOTACavernCrawl_LegendSmallTreasure_Desc_2_TI2022": "125 バトルポイントと 75 Dota Plusシャードを獲得します。",
+    "DOTACavernCrawl_LegendLargeTreasure_Desc_2_TI2022": "1000 バトルポイントと 500 Dota Plusシャードを獲得します。",
+    "DOTACavernCrawl_RewardName_SmallTreasure_2_TI2022": "125 バトルポイントと 75 Dota Plusシャード",
+    "DOTACavernCrawl_RewardName_LargeTreasure_2_TI2022": "1000 バトルポイントと 500 Dota Plusシャード",
+    "DOTACavernCrawl_RewardName_SmallTreasure_2_TI2022_Part1": "125 バトルポイント +",
+    "DOTACavernCrawl_RewardName_SmallTreasure_2_TI2022_Part2": "75 Dota Plus シャード",
+    "DOTACavernCrawl_RewardName_LargeTreasure_2_TI2022_Part1": "1000 バトルポイント +",
+    "DOTACavernCrawl_RewardName_LargeTreasure_2_TI2022_Part2": "500 Dota Plus シャード",
+    "DOTACavernCrawl_RewardName_CarryStyleUnlock_2_TI2022": "Isle of Dragons スタイル2解放の欠片",
+    "DOTACavernCrawl_RewardName_SupportStyleUnlock_2_TI2022": "Whitewind Battlemage スタイル2解放の欠片",
+    "DOTACavernCrawl_RewardName_UtilityStyleUnlock_2_TI2022": "Stonefish Renegade スタイル2解放の欠片",
+    "DOTA_WeeklyQuests_BP_Reward": "{d:point_rewards} BP"
 }
