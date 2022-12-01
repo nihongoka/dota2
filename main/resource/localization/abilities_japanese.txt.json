@@ -9242,7 +9242,6 @@
     "DOTA_Tooltip_ability_vengefulspirit_nether_swap_damage_reduction": "ダメージ減少:",
     "DOTA_Tooltip_ability_vengefulspirit_nether_swap_damage_reduction_duration": "ダメージ減少効果時間:",
     "DOTA_Tooltip_modifier_vengefulspirit_nether_swap_damage_reduction": "Nether Swap",
-    "DOTA_Tooltip_modifier_vengefulspirit_nether_swap_damage_reduction_buff_Description": "受けるダメージが%dMODIFIER_PROPERTY_INCOMING_DAMAGE_PERCENTAGE%%%減少している。",
     "DOTA_Tooltip_ability_witch_doctor_paralyzing_cask_bounce_bonus_damage": "跳ね返りごとの増加ダメージ:",
     "DOTA_Tooltip_ability_earthshaker_fissure_fissure_damage": "ダメージ:",
     "DOTA_Tooltip_ability_earthshaker_aftershock_aftershock_damage": "ダメージ:",
