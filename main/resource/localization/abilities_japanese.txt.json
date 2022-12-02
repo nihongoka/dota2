@@ -4608,7 +4608,7 @@
     "DOTA_Tooltip_ability_techies_focused_detonate_radius": "範囲:",
     "DOTA_Tooltip_ability_techies_remote_mines_self_detonate_Description": "選択している全てのREMOTE MINESを起爆する。",
     "DOTA_Tooltip_ability_techies_minefield_sign_Description": "範囲内の地雷を不可視化する警告サインを設置する。効果時間内に一箇所にのみ設置できる。%lifetime%間持続する。 ",
-    "DOTA_Tooltip_ability_techies_minefield_sign_lifetime": "SIGN持続時間:",
+    "DOTA_Tooltip_ability_techies_minefield_sign_lifetime": "サイン持続時間:",
     "DOTA_Tooltip_ability_techies_minefield_sign_aura_radius": "効果範囲:",
     "DOTA_Tooltip_modifier_techies_land_mines_charge_counter": "Proximity Mineチャージ数",
     "DOTA_Tooltip_modifier_techies_land_mines_charge_counter_Description": "Proximity Mineのチャージがあるときにのみ設置できる。チャージは時間経過とともにゆっくりと回復する。",
@@ -9944,7 +9944,7 @@
     "DOTA_Tooltip_ability_techies_sticky_bomb_explosion_radius": "爆発範囲:",
     "DOTA_Tooltip_ability_techies_sticky_bomb_damage": "ダメージ:",
     "DOTA_Tooltip_ability_techies_reactive_tazer": "Reactive Tazer",
-    "DOTA_Tooltip_ability_techies_reactive_tazer_scepter_description": "Reactive Tazerは味方にキャストでき、爆発時に%scepter_damage%ダメージ与えるようになる。また、効果を受けた味方を攻撃した敵にもダメージを与える。",
+    "DOTA_Tooltip_ability_techies_reactive_tazer_scepter_description": "Reactive Tazerは味方にキャストでき、爆発時にダメージ与えるようになる。また、効果を受けた味方を攻撃した敵にもダメージを与える。",
     "DOTA_Tooltip_ability_techies_reactive_tazer_duration": "バフ効果時間:",
     "DOTA_Tooltip_ability_techies_reactive_tazer_stun_radius": "爆発範囲:",
     "DOTA_Tooltip_ability_techies_reactive_tazer_disarm_duration": "ディスアーム効果時間:",
@@ -11048,5 +11048,6 @@
     "DOTA_Tooltip_modifier_frostbitten_golem_time_warp_aura_bonus_Description": "クールダウンが%dMODIFIER_PROPERTY_COOLDOWN_PERCENTAGE%%%減少している。",
     "DOTA_Tooltip_modifier_item_revenants_brooch_counter": "Revenant's Brooch",
     "DOTA_Tooltip_modifier_alchemist_unstable_concoction": "Unstable Concoction",
-    "DOTA_Tooltip_modifier_alchemist_unstable_concoction_Description": "調合中！移動速度が%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%増加している。"
+    "DOTA_Tooltip_modifier_alchemist_unstable_concoction_Description": "調合中！移動速度が%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%増加している。",
+    "DOTA_Tooltip_ability_techies_reactive_tazer_scepter_damage": "ダメージ:"
 }
