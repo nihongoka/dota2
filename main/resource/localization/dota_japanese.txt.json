@@ -14099,5 +14099,6 @@
     "DOTA_CandyShop_Error_NotAllowed": "できません",
     "DOTA_CandyShop_Error_NotEnoughSpace": "インベントリのスペースがありません",
     "DOTA_CandyShop_Error_NotEnoughBags": "バッグが足りません",
-    "DOTA_CandyShop_Error_InvalidRecipe": "レシピが無効です"
+    "DOTA_CandyShop_Error_InvalidRecipe": "レシピが無効です",
+    "map_effect": "マップエフェクト"
 }
