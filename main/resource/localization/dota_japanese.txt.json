@@ -14100,5 +14100,9 @@
     "DOTA_CandyShop_Error_NotEnoughSpace": "インベントリのスペースがありません",
     "DOTA_CandyShop_Error_NotEnoughBags": "バッグが足りません",
     "DOTA_CandyShop_Error_InvalidRecipe": "レシピが無効です",
-    "map_effect": "マップエフェクト"
+    "map_effect": "マップエフェクト",
+    "Store_Taunts": "挑発",
+    "DOTA_Settings_Tooltip_Force_Right_Click_Attack_0": "右クリックで味方ユニットを追従しようとします。",
+    "LoadoutSlot_Taunt_Crystal_Maiden_Persona": "挑発 (ペルソナ)",
+    "DOTA_Settings_Tooltip_Force_Right_Click_Attack_2": "右クリックで味方ユニットを可能であればディナイ、そうでなければ追従しようとします。"
 }
