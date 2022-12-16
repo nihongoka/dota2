@@ -14109,5 +14109,13 @@
     "DOTA_International2022_MysteryBox_RewardDescriptionLabelFinal": "あなたの報酬",
     "UnlockEmoticons": "絵文字をアンロック",
     "DOTA_Emoticon_Unlock_Confirm": "絵文字パックを消費して以下の絵文字をあなたのアカウントに適用しますか？",
-    "DOTA_UseItem_EmoticonUnlock_Complete": "絵文字がアンロックされました！"
+    "DOTA_UseItem_EmoticonUnlock_Complete": "絵文字がアンロックされました！",
+    "DOTA_BattlePass2022_Schedule_TIPointsSale_Heading": "バンドルセール！",
+    "DOTA_BattlePass2022_Schedule_TIPointsSale_SubTitle": "The International 2022",
+    "DOTA_BattlePass2022_Schedule_TIPointsSale_ActionLabel": "購入 {s:item_price}",
+    "DOTA_BattlePass2022_Schedule_TIPointsSale_2_Heading": "バンドルセール！",
+    "DOTA_BattlePass2022_Schedule_TIPointsSale_2_SubTitle": "The Diretide 2022",
+    "DOTA_BattlePass2022_Schedule_TIPointsSale_2_Description": "<b>最後のセール、75%お得！<br/>12月15日 - 1月12日まで購入可能</b><br/>- 120 Battle Pass levels<br/>- 9 Immortal I Treasures<br/>- 6 Immortal II Treasures<br/>- 6 Collection Treasures<br/>- 6 Ageless Heirlooms Treasures",
+    "DOTA_BattlePass2022_Schedule_TIPointsSale_2_ActionLabel": "購入 {s:item_price}",
+    "DOTA_SplashAd_TI10_Weekend_Sale_Purchase_Status:p{max_allowed_count}": "{d:purchased_count} / {d:max_allowed_count} バンドル購入済み"
 }
