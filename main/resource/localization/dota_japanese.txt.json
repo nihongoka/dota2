@@ -14117,5 +14117,22 @@
     "DOTA_BattlePass2022_Schedule_TIPointsSale_2_SubTitle": "The Diretide 2022",
     "DOTA_BattlePass2022_Schedule_TIPointsSale_2_Description": "<b>最後のセール、75%お得！<br/>12月15日 - 1月12日まで購入可能</b><br/>- 120 Battle Pass levels<br/>- 9 Immortal I Treasures<br/>- 6 Immortal II Treasures<br/>- 6 Collection Treasures<br/>- 6 Ageless Heirlooms Treasures",
     "DOTA_BattlePass2022_Schedule_TIPointsSale_2_ActionLabel": "購入 {s:item_price}",
-    "DOTA_SplashAd_TI10_Weekend_Sale_Purchase_Status:p{max_allowed_count}": "{d:purchased_count} / {d:max_allowed_count} バンドル購入済み"
+    "DOTA_SplashAd_TI10_Weekend_Sale_Purchase_Status:p{max_allowed_count}": "{d:purchased_count} / {d:max_allowed_count} バンドル購入済み",
+    "DOTA_Chat_Ping_Msg_Invisible": "透明ユニットがここにいる！<img class=\"ChatWheelIcon\" src=\"file://{images}/pings/ping_world_invisible.psd\" /> (%s1)",
+    "dota_settings_pingwheel_standard_ping": "通常時ピン",
+    "dota_settings_pingwheel_alternate_ping": "Alt時ピン",
+    "dota_settings_pingwheel_alt_ping": "Altピン",
+    "DOTA_SpecialThanks_Title": "スペシャルサンクス",
+    "DOTA_SpecialThanks": "Valveは、Dotaコミュニティ、およびDotaの起源であるWarcraft III®コミュニティをサポートしてくれているBlizzardの友人たちに感謝します。",
+    "DOTA_turbo_WEAKER_TOWERS": "• 弱いタワー",
+    "DOTA_turbo_FASTER_RESPAWNS": "• 素早いリスポーン",
+    "DOTA_turbo_MORE_GOLD": "• より多くのゴールド",
+    "DOTA_turbo_MORE_XP": "• より多くの経験値",
+    "DOTA_turbo_SIMPLER_COURIERS": "• 超特急のクーリエ",
+    "DOTA_Chat_Ping_Msg_Stack": "クリープをスタックして<img class=\"ChatWheelIcon\" src=\"file://{images}/pings/ping_world_stack.psd\" /> (%s1)",
+    "DOTA_Chat_Ping_Msg_Pull": "クリープをプルして<img class=\"ChatWheelIcon\" src=\"file://{images}/pings/ping_world_pull.psd\" /> (%s1)",
+    "DOTA_Chat_Ping_Msg_Heal": "回復して！<img class=\"ChatWheelIcon\" src=\"file://{images}/pings/ping_world_heal.psd\" />",
+    "DOTA_Chat_Ping_Msg_Bombs": "ここに爆弾がある！<img class=\"ChatWheelIcon\" src=\"file://{images}/pings/ping_world_bomb.psd\" /> (%s1)",
+    "DOTA_Chat_Ping_Msg_Teehee": "私に気づいて！<img class=\"ChatWheelIcon\" src=\"file://{images}/pings/ping_world_teehee.psd\" />",
+    "DOTA_Chat_Ping_Msg_Poop": "ぷり！<img class=\"ChatWheelIcon\" src=\"file://{images}/pings/ping_world_poop.psd\" />"
 }
