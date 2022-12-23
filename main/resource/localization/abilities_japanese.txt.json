@@ -6891,7 +6891,7 @@
     "DOTA_Tooltip_modifier_mars_arena_of_blood_buff_Description": "+%dMODIFIER_PROPERTY_HEALTH_REGEN_CONSTANT%体力自然回復",
     "DOTA_Tooltip_ability_special_bonus_unique_mars_spear_stun_duration": "+{s:value}秒Spear of Marsスタン",
     "DOTA_Tooltip_ability_special_bonus_unique_mars_spear_bonus_damage": "+{s:value} Spear Of Mars ダメージ",
-    "DOTA_Tooltip_ability_special_bonus_unique_mars_arena_of_blood_hp_regen": "Arena Of Bloodは味方に{s:value}HP回復を提供する",
+    "DOTA_Tooltip_ability_special_bonus_unique_mars_arena_of_blood_hp_regen": "Arena Of Bloodが味方に{s:value}HP自然回復を与える",
     "DOTA_Tooltip_ability_special_bonus_unique_mars_gods_rebuke_extra_crit": "God's Rebuke +{s:bonus_crit_mult}% クリティカル",
     "DOTA_Tooltip_ability_special_bonus_unique_mars_spear_cooldown": "-{s:value}秒 Spear クールダウン",
     "DOTA_Tooltip_ability_mars_arena_of_blood_Description": "短い準備期間のあと、Marsは不死の戦士であるAsh Legionが並ぶアリーナを召喚し、敵の攻撃と移動を阻害させる。アリーナの内側に近づいた敵ヒーローは槍で押し返され、ダメージとノックバックを受ける。",
