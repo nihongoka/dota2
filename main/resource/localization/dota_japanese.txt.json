@@ -14038,7 +14038,7 @@
     "DOTA_2022Diretide_CollectorsCache_Treasure_1": "1トレジャー",
     "DOTA_2022Diretide_CollectorsCache_Treasure_2": "7トレジャー",
     "DOTA_2022Diretide_CollectorsCache_Treasure_3": "14トレジャー",
-    "DOTA_2022Diretide_CollectorsCache_Disclaimer": "キャッシュアイテムは12月18日まで購入することができます。",
+    "DOTA_2022Diretide_CollectorsCache_Disclaimer": "キャッシュアイテムは1月12日まで購入することができます。",
     "DOTA_2022Diretide_CollectorsCache_SubText": "トレジャーを開封して<span class=\"levels\">36バトルパスレベル</span>獲得しよう",
     "DOTA_2022Diretide_CollectorsCache_HeaderText": "36バトルパスレベル獲得しよう",
     "DOTA_LaneNameNone": "ベース",
@@ -14133,5 +14133,6 @@
     "DOTA_Chat_Ping_Msg_Heal": "回復して！<img class=\"ChatWheelIcon\" src=\"file://{images}/pings/ping_world_heal.psd\" />",
     "DOTA_Chat_Ping_Msg_Bombs": "ここに爆弾がある！<img class=\"ChatWheelIcon\" src=\"file://{images}/pings/ping_world_bomb.psd\" /> (%s1)",
     "DOTA_Chat_Ping_Msg_Teehee": "私に気づいて！<img class=\"ChatWheelIcon\" src=\"file://{images}/pings/ping_world_teehee.psd\" />",
-    "DOTA_Chat_Ping_Msg_Poop": "ぷり！<img class=\"ChatWheelIcon\" src=\"file://{images}/pings/ping_world_poop.psd\" />"
+    "DOTA_Chat_Ping_Msg_Poop": "ぷり！<img class=\"ChatWheelIcon\" src=\"file://{images}/pings/ping_world_poop.psd\" />",
+    "DOTA_BattlePass2022_Schedule_CollectorsCache2Available_Heading": "コレクターズキャッシュ2が登場"
 }
