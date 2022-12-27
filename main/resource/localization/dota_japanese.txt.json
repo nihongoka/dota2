@@ -14134,5 +14134,6 @@
     "DOTA_Chat_Ping_Msg_Bombs": "ここに爆弾がある！<img class=\"ChatWheelIcon\" src=\"file://{images}/pings/ping_world_bomb.psd\" /> (%s1)",
     "DOTA_Chat_Ping_Msg_Teehee": "私に気づいて！<img class=\"ChatWheelIcon\" src=\"file://{images}/pings/ping_world_teehee.psd\" />",
     "DOTA_Chat_Ping_Msg_Poop": "ぷり！<img class=\"ChatWheelIcon\" src=\"file://{images}/pings/ping_world_poop.psd\" />",
-    "DOTA_BattlePass2022_Schedule_CollectorsCache2Available_Heading": "コレクターズキャッシュ2が登場"
+    "DOTA_BattlePass2022_Schedule_CollectorsCache2Available_Heading": "コレクターズキャッシュ2が登場",
+    "DOTA_Ability_Movie_Label": "アビリティエフェクト"
 }
