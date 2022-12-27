@@ -14135,5 +14135,13 @@
     "DOTA_Chat_Ping_Msg_Teehee": "私に気づいて！<img class=\"ChatWheelIcon\" src=\"file://{images}/pings/ping_world_teehee.psd\" />",
     "DOTA_Chat_Ping_Msg_Poop": "ぷり！<img class=\"ChatWheelIcon\" src=\"file://{images}/pings/ping_world_poop.psd\" />",
     "DOTA_BattlePass2022_Schedule_CollectorsCache2Available_Heading": "コレクターズキャッシュ2が登場",
-    "DOTA_Ability_Movie_Label": "アビリティエフェクト"
+    "DOTA_Ability_Movie_Label": "アビリティエフェクト",
+    "DOTA_Socketing_Stomp_Title": "ジェムを置き換えますか？",
+    "DOTA_Socketing_Stomp_Body": "ジェムを交換すると、ソケット内にあったジェムは破壊されます。本当に交換しますか？",
+    "DOTA_AddSocket_Title": "ソケットを追加中",
+    "DOTA_AddSocket_Text": "アイテムにソケットを追加しています...",
+    "DOTA_AddGemToSocket_Title": "ジェムをソケットに追加中",
+    "DOTA_AddGemToSocket_Text": "ジェムをアイテムのソケットに追加しています...",
+    "DOTA_AddGemToSocket_Succeeded": "ジェムを追加しました。",
+    "DOTA_AddGemToSocket_Failed": "ジェムをアイテムソケットに追加する際にエラーが発生しました！"
 }
