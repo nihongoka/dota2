@@ -14143,5 +14143,10 @@
     "DOTA_AddGemToSocket_Title": "ジェムをソケットに追加中",
     "DOTA_AddGemToSocket_Text": "ジェムをアイテムのソケットに追加しています...",
     "DOTA_AddGemToSocket_Succeeded": "ジェムを追加しました。",
-    "DOTA_AddGemToSocket_Failed": "ジェムをアイテムソケットに追加する際にエラーが発生しました！"
+    "DOTA_AddGemToSocket_Failed": "ジェムをアイテムソケットに追加する際にエラーが発生しました！",
+    "DOTA_BattlePass2022_Schedule_MoreActiveEventsUp": "上に +{d:num_more_active_events_up}イベント",
+    "DOTA_BattlePass2022_Schedule_MoreActiveEventsDown": "下に +{d:num_more_active_events_down}イベント",
+    "npc_dota_creep_neutral": "中立クリープ",
+    "npc_dota_neutral_creep": "中立クリープ",
+    "DOTA_PatchNotes_NeutralCreepsSection": "中立クリープの変更"
 }
