@@ -14144,9 +14144,20 @@
     "DOTA_AddGemToSocket_Text": "ジェムをアイテムのソケットに追加しています...",
     "DOTA_AddGemToSocket_Succeeded": "ジェムを追加しました。",
     "DOTA_AddGemToSocket_Failed": "ジェムをアイテムソケットに追加する際にエラーが発生しました！",
-    "DOTA_BattlePass2022_Schedule_MoreActiveEventsUp": "上に +{d:num_more_active_events_up}イベント",
-    "DOTA_BattlePass2022_Schedule_MoreActiveEventsDown": "下に +{d:num_more_active_events_down}イベント",
+    "DOTA_BattlePass2022_Schedule_MoreActiveEventsUp": "上に{d:num_more_active_events_up}つのイベント",
+    "DOTA_BattlePass2022_Schedule_MoreActiveEventsDown": "下に{d:num_more_active_events_down}つのイベント",
     "npc_dota_creep_neutral": "中立クリープ",
     "npc_dota_neutral_creep": "中立クリープ",
-    "DOTA_PatchNotes_NeutralCreepsSection": "中立クリープの変更"
+    "DOTA_PatchNotes_NeutralCreepsSection": "中立クリープの変更",
+    "DOTA_PlusSeason_SeasonWinter2022_Name": "2022年冬シーズン",
+    "DOTA_PlusSeason_SeasonWinter2022_Quests": "2022 冬シーズンクエスト",
+    "DOTA_PlusSeason_SeasonWinter2022_TreasureDescription": "2023年3月1日冬シーズン終了までの限定販売。",
+    "DOTA_Plus_Winter2022_Update_Title": "2022年冬シーズンアップデート",
+    "DOTA_Plus_Winter2022_Update_Desc": "新しいシーズンクエスト、期間限定のトレジャーなどがDota Plusに登場しました。",
+    "DOTA_PlusSeason_SeasonSummer2022_Name": "2022年夏シーズン",
+    "DOTA_PlusSeason_SeasonFall2022_Name": "2022年秋シーズン",
+    "DOTA_PlusSeason_SeasonWinter2022_Subtitle": "2023年3月1日冬シーズン終了まで。",
+    "DOTA_MMR_Recalibration_CountdownLabel": "MMRリキャリブレーションが有効になるまで{t:d:t:recalibration_countdown_time}",
+    "DOTA_Plus_Summer2022_Update_Title": "2022年夏シーズンアップデート",
+    "DOTA_Plus_Fall2022_Update_Title": "2022年秋シーズンアップデート"
 }
