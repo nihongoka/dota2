@@ -6191,7 +6191,7 @@
     "DOTA_PlusWelcome_PickSuggestedHero_Name": "敵と味方のおすすめヒーローを選ぶ",
     "DOTA_PlusWelcome_Title": "ウェルカムクエスト",
     "DOTA_PlusWelcome_Part3": "パート3",
-    "DOTA_PlusWelcome_Subtitle": "Dota Plusの特徴を学んで最初のシャードを獲得しよう。",
+    "DOTA_PlusWelcome_Subtitle": "Dota Plusの機能を学んで最初のシャードを獲得しよう。",
     "DOTA_PlusWelcome_Description": "Dota Plusを探索して、クエストをクリアすることで{g:dota_shards_value:total_reward}を獲得しよう。",
     "DOTA_PlusWelcome_ClaimFailed": "報酬の受け取りに失敗しました。再度お試しください。(エラーコード: {d:error_code})",
     "DOTA_PlusWelcome_Finished_Title": "おめでとうございます",
