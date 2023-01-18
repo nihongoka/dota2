@@ -14181,5 +14181,14 @@
     "DOTA_DPCTeams_RegistrationPeriod7": "冬季ツアー",
     "DOTA_DPCTeams_SeasonPeriod_Event34_Name": "冬季ツアー",
     "DOTAStoreSticker_DescriptionBody": "The Internationalで活躍した好きなプロプレイヤーやチームのステッカーを集めよう。売上の50%はプレイヤー、チーム、タレントに直接支払われます。",
-    "DOTA_Armory_Category_StickerCapsules": "ステッカーカプセル"
+    "DOTA_Armory_Category_StickerCapsules": "ステッカーカプセル",
+    "dota_match_result_won": "勝利",
+    "DOTA_BattleCup_Loading": "ロード中",
+    "dota_match_result_lost": "敗北",
+    "dota_match_result_none": "未確定",
+    "dota_social_feed_comments_failed": "コメントの読み込みに失敗...",
+    "DOTA_LoadingPlayerUnknown": "-",
+    "DOTA_LoadingBanPhase": "バンフェーズ",
+    "LoadingScreenTimer": "{t:d:countdown_timer_seconds}",
+    "HeroSelectionTimer": "{i:timer_seconds}"
 }
