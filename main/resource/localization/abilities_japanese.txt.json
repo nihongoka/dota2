@@ -9761,7 +9761,7 @@
     "DOTA_Tooltip_modifier_muerta_the_calling_aura_slow": "The Calling",
     "DOTA_Tooltip_modifier_muerta_the_calling_aura_slow_Description": "移動速度が%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%、攻撃速度が%dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%減少している。",
     "DOTA_Tooltip_Ability_muerta_pierce_the_veil": "Pierce the Veil",
-    "DOTA_Tooltip_Ability_muerta_pierce_the_veil_Description": "変身して、物理攻撃に対して耐性を持つようになり、通常攻撃が魔法ダメージとして与えるようになる。また、ユニットをすり抜けられるようになり、ボーナス攻撃速度を得る。<br><br>エーテル状態のユニットにダメージを与えられるようになるが、スペル耐性のユニットにはダメージを与えられなくなる。<br><br>ディスペルタイプ: 基本ディスペル",
+    "DOTA_Tooltip_Ability_muerta_pierce_the_veil_Description": "変身して、物理攻撃に対して耐性を持つようになり、通常攻撃が魔法ダメージとして与えるようになる。また、ユニットをすり抜けられるようになり、ボーナス攻撃力を得る。<br><br>エーテル状態のユニットにダメージを与えられるようになるが、スペル耐性のユニットにはダメージを与えられなくなる。<br><br>ディスペルタイプ: 基本ディスペル",
     "DOTA_Tooltip_Ability_muerta_pierce_the_veil_Lore": "Muertaは肉体を脱ぎ捨て、魂のベールをまとい、呪われた怒りで敵を狩り尽くすのだ。",
     "DOTA_Tooltip_Ability_muerta_pierce_the_veil_transform_duration": "変身にかかる時間:",
     "DOTA_Tooltip_Ability_muerta_pierce_the_veil_duration": "効果時間:",
