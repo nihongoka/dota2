@@ -6988,7 +6988,7 @@
     "DOTA_Tooltip_ability_dragon_knight_elder_dragon_form_abilitydraft_note": "シャード: Grants Fireball",
     "DOTA_Tooltip_ability_dragon_knight_fireball": "Fireball",
     "DOTA_Tooltip_ability_dragon_knight_fireball_Description": "炎の海を生み出し、敵に持続ダメージを与える。近接状態の時はキャスト範囲が減少する。",
-    "DOTA_Tooltip_ability_sven_storm_bolt_scepter_description": "キャスト範囲を広げ、 Storm Hammerと共にSvenが移動するようになり、対象に基本ディスペルを与えるようになる。オートキャストが有効の場合、Svenはスキル使用時に移動しない。",
+    "DOTA_Tooltip_ability_sven_storm_bolt_scepter_description": "キャスト範囲を広げ、 Storm Hammerと共にSvenが移動するようになり、対象に基本ディスペルを与えるようになる。また、無敵のユニットにもキャストできるようになる。オートキャストが有効の場合、Svenはスキル使用時に移動しない。",
     "DOTA_Tooltip_ability_special_bonus_unique_sven_5": "+{s:value}秒 Warcry 効果時間",
     "DOTA_Tooltip_ability_special_bonus_unique_sven_6": "+{s:value}% Warcry 移動速度",
     "DOTA_Tooltip_ability_skeleton_king_vampiric_aura_Note1": "他のライフスティールの効果とスタックする。",
