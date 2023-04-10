@@ -7898,6 +7898,7 @@
     "DOTA_Treasure_Chests": "宝箱",
     "DOTA_Treasure_KeysOwned:p{keys_owned_count}": "鍵 {d:keys_owned_count} 個所有",
     "DOTA_Treasure_MarketPrice": "マーケット",
+    "DOTA_Treasure_MarketPriceBuy": "マーケットで購入する",
     "DOTA_Treasure_ShowHeroNames": "ヒーロー名を表示する",
     "DOTA_Treasure_ViewCrateTier": "ティア:",
     "DOTA_Treasure_BuyItem": "購入する",
