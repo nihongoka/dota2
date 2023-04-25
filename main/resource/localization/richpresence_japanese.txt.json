@@ -6,6 +6,8 @@
     "#DOTA_RP_PLAYING_EVENT_MATCH": "{%param0%}をプレイ中",
     "#DOTA_RP_INIT": "メインメニュー",
     "#DOTA_RP_IDLE": "メインメニュー(アイドル)",
+    "#DOTA_RP_CUSTOM_GAME_SETUP": "{%param0%}: アーケードチームセレクト",
+    "#DOTA_RP_PLAYER_DRAFT": "{%param0%}: イモータルドラフト",
     "#DOTA_RP_COACHING": "{%param0%}: コーチ",
     "#DOTA_RP_HERO_SELECTION": "{%param0%}: ヒーロー選択",
     "#DOTA_RP_WAIT_FOR_MAP_TO_LOAD": "{%param0%}: ゲームをローディング中",
