@@ -9674,7 +9674,7 @@
     "DOTA_Tooltip_modifier_broodmother_silken_bola": "Silken Bola",
     "DOTA_Tooltip_ability_abyssal_underlord_dark_portal_duration": "効果時間:",
     "DOTA_Tooltip_ability_abyssal_underlord_dark_portal_Lore": "彼らは警告なしにやってきて、かつて王国が栄えた場所に火と血を残す。",
-    "DOTA_Tooltip_ability_abyssal_underlord_dark_portal_Description": "自身の隣と指定した場所に、2つのポータルを生成する。ヒーローはポータルを%warp_channel_duration%秒間チャネリングすることで反対側へテレポートすることができる。ポータルを通過した味方は一時的にダメージ軽減を得て、移動速度が上昇する。2つのポータルは距離%minimum_distance%以上離れている必要がある。<br><br>ダブルクリックすることで自陣の泉の前へのゲートを生成する。",
+    "DOTA_Tooltip_ability_abyssal_underlord_dark_portal_Description": "自身の隣と指定した場所に、2つのポータルを生成する。ヒーローはポータルを%warp_channel_duration%秒間チャネリングすることで反対側へテレポートすることができる。ポータルを通過した味方は一時的にダメージ軽減を得て、移動速度が上昇する。2つのポータルは距離%minimum_distance%以上離れている必要がある。<br><br>ダブルクリックすることで自陣の泉の前へのポータルを生成する。",
     "DOTA_Tooltip_ability_abyssal_underlord_dark_portal_channel_time": "チャネリング時間:",
     "DOTA_Tooltip_ability_pangolier_shield_crash_slow": "%移動速度減少:",
     "DOTA_Tooltip_ability_pangolier_shield_crash_slow_duration": "速度減少効果時間:",
