@@ -1786,7 +1786,7 @@
     "npc_dota_hero_muerta_hype": "Muerta is a master of death who stalks the lands of life, corralling targets with <b>fearsome trickshots</b> and <b>summoning revenants</b> to smother her foes. Always ready to <b>pick off unwary targets</b> with her spare gunhand, Muerta is at her most menacing when she <b>crosses the veil of the dead</b> to strike her enemies with the ethereal fury of the damned.",
     "random": "Random",
     "repick": "REPICK",
-    "DOTA_Hud_Pregame_Random_Tooltip": "Randomly picks from a pool of heroes you frequently play. Grants a free Faerie Fire and Mango.",
+    "DOTA_Hud_Pregame_Random_Tooltip": "Randomly picks from a pool of heroes you frequently play. In some game modes, grants a free Faerie Fire and Mango.",
     "ent_dota_halloffame": "Aegis of Champions",
     "ent_dota_promo": "",
     "npc_dota_creep": "Creep",
