@@ -10425,7 +10425,7 @@
     "DOTA_tooltip_treasure_market_soldout": "このアイテムは現在マーケットに出品されていません。",
     "DOTA_ChallengeDesc_MiranaArrowStarstormDamage_Sub2": "<font color='#ffffff'>Starstorm</font>で敵ヒーローに<font color='#ffffff'>%s2</font>魔法ダメージを与える。",
     "DOTA_ChallengeDesc_PickupArcaneRunes": "<font color='#ffffff'>%s1</font>回 (内<font color='#ffffff'>%s2</font>回はアルケーン) ルーンを拾う。",
-    "DOTA_Hud_Pregame_Random_Tooltip": "あなたがよくプレイするヒーロープールからランダムにピックします。ボーナスとしてFaerie FireとMangoを獲得します。",
+    "DOTA_Hud_Pregame_Random_Tooltip": "あなたがよくプレイするヒーロープールからランダムにピックします。いくつかのモードでは、ボーナスとしてFaerie FireとMangoを獲得します。",
     "DOTA_ChallengeDesc_KillCountByTime": "試合時間が<font color='#ffffff'>%s2</font>になる前に敵ヒーローを<font color='#ffffff'>%s1</font>体キルする。",
     "DOTA_ChallengeDesc_AssistsByTime": "試合時間が<font color='#ffffff'>%s2</font>になる前に<font color='#ffffff'>%s1</font>アシスト取る。",
     "DOTA_ChallengeDesc_DenyCreepsMidlane": "試合時間が<font color='#ffffff'>%s2</font>になる前にミッドレーンでクリープを<font color='#ffffff'>%s1</font>体ディナイする。",
