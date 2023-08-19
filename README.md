@@ -12,7 +12,7 @@ Dota2というゲームの非公式の日本語化modです
 
 ダウンロード場所はDiscordにお引越ししました。  
 
-https://dota2.nihongoka.games/ から参加してください。
+https://discord.gg/kPVSKVCJsH から参加してください。
 
 (`game`フォルダの中に`dota_korean`,`dota_russian`などのように`dota_japanese`があれば正しい位置に展開できてます。)
 
