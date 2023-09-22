@@ -7781,7 +7781,7 @@
     "DOTA_Tooltip_ability_tinker_shrink_ray_slow": "%移動速度減少:",
     "DOTA_Tooltip_ability_kunkka_tidal_wave": "Tidal Wave",
     "DOTA_Tooltip_ability_riki_tricks_of_the_trade_scepter_description": "射程と攻撃回数が増加して味方ヒーローもしくはイリュージョンを対象指定できるようになる。味方を指定した場合、そのヒーローが移動すると攻撃エリアと自身の位置も移動する。各攻撃の対象が1体増える。",
-    "DOTA_Tooltip_ability_necrolyte_heartstopper_aura_scepter_description": "Heartstopper AuraのHealth Decayは、現在のHP自然回復の%heal_regen_to_damage%%%分増加している。",
+    "DOTA_Tooltip_ability_necrolyte_heartstopper_aura_scepter_description": "Heartstopper AuraのHealth Decayは、現在のHP自然回復の%heal_regen_to_damage%%%分増加する。",
     "DOTA_Tooltip_ability_necrolyte_death_seeker_Description": "指定した対象にDeath Pulseとなって飛んでいく。到達地点からはさらにDeath Pulseが敵や味方に広がっていく。",
     "DOTA_Tooltip_ability_beastmaster_call_of_the_wild_hawk_shard_description": "Hawkのクールダウンが%bonus_AbilityCooldown%秒減少し、Hawkの召喚数が増加する。",
     "DOTA_Tooltip_ability_beastmaster_hawk_dive_Description": "対象の敵に向かって飛び込み、ダメージとルートを与える。",
