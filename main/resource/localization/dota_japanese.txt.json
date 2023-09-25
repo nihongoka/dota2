@@ -6874,6 +6874,7 @@
     "DOTA_MatchRewards_GuildChallenge": "チャレンジ",
     "DOTA_SimilarHeroes": "似ているヒーロー:",
     "DOTA_practice_vs_bots_team_random": "ランダム",
+    "DOTA_BotScripting_Subscribe": "入会する",
     "DOTA_HUD_Charms_CurrentStreak": "連続成功回数: {d:current_streak}",
     "DOTA_DPCScheduleDivision2": "DIV II",
     "DOTA_PlusPostGame_VictoryPrediction": "勝利の予言成功",
