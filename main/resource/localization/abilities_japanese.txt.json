@@ -11443,7 +11443,7 @@
     "DOTA_Tooltip_ability_special_bonus_unique_sniper_grenade_range": "+{s:bonus_AbilityCastRange} Concussive Grenade キャスト範囲",
     "DOTA_Tooltip_ability_special_bonus_unique_sniper_grenade_self_push": "Concussive GrenadeはSniperを後ろに飛ばす",
     "DOTA_Tooltip_ability_special_bonus_unique_sniper_headshot_damage": "+{s:bonus_damage} Headshot ダメージ",
-    "DOTA_Tooltip_ability_special_bonus_unique_magnus_reverse_polarity_stats": "Reverse Polarityを当てたヒーローごとに全属性 +{s:bonus_strength_per_stack}",
+    "DOTA_Tooltip_ability_special_bonus_unique_magnus_reverse_polarity_stats": "Reverse Polarityを当てたヒーローごとに全属性 +{s:bonus_stats_per_stack}",
     "DOTA_Tooltip_ability_special_bonus_unique_magnus_reverse_polarity_stats_Description": "ボーナス属性は{s:bonus_stat_buff_duration}秒間持続する。",
     "DOTA_Tooltip_ability_special_bonus_unique_earth_spirit_8": "+{s:bonus_damage_duration}% Magnetize 秒間ダメージ/効果時間",
     "DOTA_Tooltip_ability_special_bonus_unique_earth_spirit_rolling_boulder_cooldown": "-{s:bonus_AbilityCooldown} Rolling Boulder クールダウン",
