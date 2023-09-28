@@ -11091,7 +11091,7 @@
     "DOTA_Tooltip_ability_hoodwink_sharpshooter_release_Lore": "発射！",
     "DOTA_Tooltip_modifier_bane_enfeeble_effect_Description": "攻撃力が%dMODIFIER_PROPERTY_DAMAGEOUTGOING_PERCENTAGE%%%、キャスト範囲が%dMODIFIER_PROPERTY_CAST_RANGE_BONUS_PERCENTAGE%%%、減少している。",
     "DOTA_Tooltip_modifier_ceremonial_robe_aura": "Ceremonialオーラ",
-    "DOTA_Tooltip_modifier_ceremonial_robe_aura_Description": "異常耐性が%dMODIFIER_PROPERTY_STATUS_RESISTANCE_STACKING%%%、魔法耐性が %dMODIFIER_PROPERTY_MAGICAL_RESISTANCE_BONUS%%%減少しており、毎秒ピュアダメージを受けている。",
+    "DOTA_Tooltip_modifier_ceremonial_robe_aura_Description": "異常耐性が%dMODIFIER_PROPERTY_STATUS_RESISTANCE_STACKING%%%、魔法耐性が%dMODIFIER_PROPERTY_MAGICAL_RESISTANCE_BONUS%%%減少しており、毎秒ピュアダメージを受けている。",
     "DOTA_Tooltip_ability_item_mask_of_madness_lifesteal_percent": "%+$lifesteal",
     "DOTA_Tooltip_ability_item_satanic_lifesteal_percent": "%+$lifesteal",
     "DOTA_Tooltip_ability_item_spell_prism_bonus_cooldown": "%+$cooldown_reduction",
