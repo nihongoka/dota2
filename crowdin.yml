@@ -1,0 +1,3 @@
+files:
+  - source: /main/**/*_english.txt.json
+    translation: /main/**/*_%language%.txt.json
