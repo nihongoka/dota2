@@ -1,4 +1,0 @@
-files:
-  - source: /**/*_english.txt.json
-    translation: /**/%file_name%_%language%.txt.json
-    translation_replace: {"_english.txt": ""}
