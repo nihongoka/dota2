@@ -1,3 +1,4 @@
 files:
-  - source: /main/**/*_english.txt.json
-    translation: /main/**/*_%language%.txt.json
+  - source: /**/*_english.txt.json
+    translation: /**/%file_name%_%language%.txt.json
+    translation_replace: {"_english.txt": ""}
