@@ -38878,7 +38878,7 @@
     "DOTA_Fantasy23_PeriodName0": "Group Stage",
     "DOTA_Fantasy23_PeriodName1": "Playoffs",
     "DOTA_Fantasy23_PeriodName2": "The International",
-    "DOTA_Compendium2023_RoadToLabel": "Road To",
+    "DOTA_Compendium2023_BGTitle_GroupStage": "<span class='RoadToLabel'>Road To</span><br><span class='TheInternationalLabel'>The International</span>",
     "DOTA_CompendiumLevel": "Compendium Level",
     "DOTA_ViewCompendium": "View Compendium",
     "DOTA_GiftACompendium": "Gift a Compendium",
