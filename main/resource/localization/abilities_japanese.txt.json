@@ -181,7 +181,8 @@
     "DOTA_Tooltip_modifier_lina_super_charged": "Supercharged",
     "DOTA_Tooltip_modifier_lina_super_charged_Description": "Fiery Soulのスタック数が増加している。",
     "DOTA_Tooltip_ability_lina_laguna_blade_Note0": "Laguna Bladeは、スキルを使用した後ダメージを与える前に%damage_delay%の遅延を持ち、特定のアビリティでダメージを回避することができる。",
-    "DOTA_Tooltip_ability_lina_laguna_blade_damage": "ダメージ:",    "DOTA_Tooltip_ability_lina_laguna_blade_supercharge_duration": "スーパーチャージ効果時間:",
+    "DOTA_Tooltip_ability_lina_laguna_blade_damage": "ダメージ:",
+    "DOTA_Tooltip_ability_lina_laguna_blade_supercharge_duration": "スーパーチャージ効果時間:",
     "DOTA_Tooltip_modifier_lina_fiery_soul_Description": "攻撃速度が%dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%増加、移動速度が%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%増加している。",
     "DOTA_Tooltip_ability_lina_light_strike_array_light_strike_array_stun_duration": "スタン時間:",
     "DOTA_Tooltip_ability_lina_fiery_soul_Description": "Linaがスキルを敵に当てる度に攻撃と移動速度のボーナスを付与する。この効果は重複する。持続時間は%fiery_soul_stack_duration%秒。",
@@ -2279,7 +2280,8 @@
     "DOTA_Tooltip_modifier_tusk_frozen_sigil_aura_Description": "敵の攻撃速度と移動速度を低下させている。",
     "DOTA_Tooltip_modifier_tusk_walrus_punch": "Walrus Punch",
     "DOTA_Tooltip_modifier_tusk_tag_team_attack_slow": "Tag Team",
-    "DOTA_Tooltip_modifier_tusk_tag_team_attack_slow_Description": "攻撃速度が%dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%減少している。","DOTA_Tooltip_modifier_tusk_walrus_punch_Description": "次の標的がパンチを食らう!",
+    "DOTA_Tooltip_modifier_tusk_tag_team_attack_slow_Description": "攻撃速度が%dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%減少している。",
+    "DOTA_Tooltip_modifier_tusk_walrus_punch_Description": "次の標的がパンチを食らう!",
     "DOTA_Tooltip_modifier_tusk_walrus_punch_slow": "パンチを食らった",
     "DOTA_Tooltip_modifier_tusk_walrus_punch_slow_Description": "移動速度が%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%低下している。",
     "DOTA_Tooltip_modifier_tusk_walrus_punch_air_time": "POW!",
@@ -11822,5 +11824,6 @@
     "DOTA_Tooltip_modifier_item_royale_with_cheese": "Savory Shield",
     "DOTA_Tooltip_Ability_item_royale_with_cheese_Description": "<h1>使用: Scrumptious</h1>試してみて！",
     "DOTA_Tooltip_Ability_item_royale_with_cheese": "Block of Cheese",
-    "DOTA_Tooltip_ability_item_royale_with_cheese_Lore": "First there was the Belt of Strength. Then there were the Boots of Travel. Now, at long last, the Block of Cheese."
+    "DOTA_Tooltip_ability_item_royale_with_cheese_Lore": "First there was the Belt of Strength. Then there were the Boots of Travel. Now, at long last, the Block of Cheese.",
+    "DOTA_Tooltip_ability_phantom_assassin_blur_fade_duration": "バッファ秒数:"
 }
