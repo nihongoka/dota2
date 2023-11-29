@@ -5650,7 +5650,7 @@
     "DOTA_Tooltip_ability_invoker_quas_Note1": "スペルライフスティールはキャスト時に計算されるため、キャスト後にインスタンスを変えても効果はない。",
     "DOTA_Tooltip_ability_invoker_quas_spell_lifesteal": "%インスタンス毎スペルライフスティール:",
     "DOTA_Tooltip_ability_invoker_quas_Description": "氷のエレメントの操作が可能になる。レベル毎に %strength_bonus% Strengthを獲得する。各<font color='#7998b5'>Quas</font>インスタンスはスペルライフスティールを増加させる。",
-    "DOTA_Tooltip_ability_invoker_wex_Description": "嵐のエレメントの操作が可能になる。レベル毎に %agility_bonus%Agilityを獲得する。 各<font color='#d671a9'>Wex</font> インスタンスは移動速度を増加させ、クールダウンを減少させる。",
+    "DOTA_Tooltip_ability_invoker_wex_Description": "嵐のエレメントの操作が可能になる。レベル毎に %agility_bonus% Agilityを獲得する。 各<font color='#d671a9'>Wex</font> インスタンスは移動速度を増加させ、クールダウンを減少させる。",
     "DOTA_Tooltip_ability_invoker_exort_Description": "炎のエレメントの操作が可能になる。レベル毎に %intelligence_bonus% Intelligenceを獲得する。 各<font color='#cabe68'>Exort</font>インスタンスはスペル増幅を増加させる。",
     "DOTA_Tooltip_ability_invoker_empty1_Description": "Invokeをキャストすることでスロットを、現在アクティブなInvokerの<font color='#7998b5'>Quas</font>、<font color='#d671a9'>Wex</font>、<font color='#cabe68'>Exort</font>に基づいた10個のスペルのうちの1個に置き換える。",
     "DOTA_Tooltip_ability_invoker_empty2_Description": "Invokeをキャストすることでスロットを、現在アクティブなInvokerの<font color='#7998b5'>Quas</font>、<font color='#d671a9'>Wex</font>、<font color='#cabe68'>Exort</font>に基づいた10個のスペルのうちの1個に置き換える。",
