@@ -44,6 +44,9 @@ jobs:
           DOTA2_CLIENT: C:/dota2/
         run: python ./scripts/python/extract.py
 
+      - name: Remove unused strings
+        run: python ./scripts/python/remove_unused.py
+
       - name: Commit and Push
         run: |
           git config user.name "Nihongoka Bot"
