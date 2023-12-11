@@ -14,13 +14,13 @@ jobs:
       new_version: ${{ steps.new_version.outputs.version }}
       current_version: ${{ steps.current_version.outputs.version }}
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
         with:
           ref: 'master'
       - id: new_version
-        run: echo "::set-output name=version::`curl \"https://api.steampowered.com/IGCVersion_570/GetClientVersion/v1/?key=${{ secrets.STEAM_API_KEY }}\" | jq .result.active_version`"
+        run: echo "version=`curl \"https://api.steampowered.com/IGCVersion_570/GetClientVersion/v1/?key=${{ secrets.STEAM_API_KEY }}\" | jq .result.active_version`" >> $GITHUB_OUTPUT
       - id: current_version
-        run: echo "::set-output name=version::`cat version`"
+        run: echo "version=`cat version`" >> $GITHUB_OUTPUT
 
   build:
     name: Fetch and build new source strings
