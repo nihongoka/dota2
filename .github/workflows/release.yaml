@@ -18,7 +18,7 @@ jobs:
         with:
           ref: 'master'
 
-      - uses: actions/setup-python@v2
+      - uses: actions/setup-python@v4
 
       - name: Install packages
         run: pip install vpk
