@@ -11657,5 +11657,20 @@
     "DOTA_Tooltip_ability_phantom_assassin_blur_fade_duration": "バッファ秒数:",
     "dota_ability_variable_attack_pct": "基本攻撃速度の割合",
     "DOTA_Tooltip_modifier_royal_jelly_regen": "Royal Jelly",
-    "DOTA_Tooltip_modifier_royal_jelly_regen_Description": "%fMODIFIER_PROPERTY_HEALTH_REGEN_CONSTANT%のHP自然回復効果と%fMODIFIER_PROPERTY_MANA_REGEN_CONSTANT%のマナ自然回復効果を受けている。"
+    "DOTA_Tooltip_modifier_royal_jelly_regen_Description": "%fMODIFIER_PROPERTY_HEALTH_REGEN_CONSTANT%のHP自然回復効果と%fMODIFIER_PROPERTY_MANA_REGEN_CONSTANT%のマナ自然回復効果を受けている。",
+    "DOTA_Tooltip_ability_windrunner_powershot_slow": "%スロー:",
+    "DOTA_Tooltip_ability_vengefulspirit_wave_of_terror_damage": "ダメージ:",
+    "DOTA_Tooltip_ability_juggernaut_blade_fury_blade_fury_damage_per_tick": "ティックダメージ:",
+    "DOTA_Tooltip_ability_nevermore_requiem_abilitydraft_note": "<span class=\"ADWarning\">ダメージを与えるには<b>Necromastery</b>をドラフトする必要がある。</span>",
+    "DOTA_Tooltip_ability_zuus_thundergods_wrath_abilitydraft_note": "<span class=\"ADWarning\">Numbusでダメージを与えるには<b>Lightning Bolt</b>をドラフトする必要がある。</span>",
+    "DOTA_Tooltip_ability_tiny_tree_grab_abilitydraft_note": "<span class=\"ADBlue\">セプター:</span> <span class=\"ADWhite\"><b>Tree Volley</b></span>は<span class=\"ADWhite\"><b>Tree Grab</b></span>のオートキャストをオンにすることで使用可能。",
+    "DOTA_Tooltip_ability_windrunner_powershot_slow_duration": "スロー効果時間:",
+    "DOTA_Tooltip_modifier_windrunner_powershot_slow": "Powershot",
+    "DOTA_Tooltip_modifier_windrunner_powershot_slow_Description": "移動速度が%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%下がっている。",
+    "DOTA_Tooltip_ability_leshrac_lightning_storm_movespeed_slow": "%移動速度スロー:",
+    "DOTA_Tooltip_ability_leshrac_lightning_storm_attackspeed_slow": "攻撃速度スロー:",
+    "DOTA_Tooltip_ability_skeleton_king_reincarnation_AbilityCooldown": "クールダウン:",
+    "DOTA_Tooltip_ability_axe_culling_blade_armor_bonus": "アーマーボーナス:",
+    "DOTA_Tooltip_ability_kunkka_torrent_abilitydraft_note": "<span class=\"ADBlue\">セプター: </span><span class=\"ADWhite\"><b>Torrent Storm</b></span>は<span class=\"ADWhite\"><b>Torrent</b></span>のオートキャストをオンにすることで使用可能。",
+    "DOTA_Tooltip_ability_tiny_toss_tree_shard_Description": "投げた木のダメージが%bonus_bonus_damage%上昇する。"
 }
