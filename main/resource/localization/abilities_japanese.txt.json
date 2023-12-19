@@ -3322,7 +3322,6 @@
     "DOTA_Tooltip_ability_faceless_void_time_walk_Note0": "Time Walk中のFaceless Voidは無敵である。",
     "DOTA_Tooltip_ability_faceless_void_time_dilation_Description": "Faceless Voidは近くの敵に%duration%秒間、時間膨張フィールドを付与し、クールダウンを延長する。延長したクールダウンごとに%slow%%%の移動速度、攻撃速度減少と秒間ダメージを与える。Chronosphere内ではデバフ効果時間が減少しない。",
     "DOTA_Tooltip_ability_faceless_void_chronosphere_Description": "範囲内の全てのユニットを閉じ込める時空の水膨れを発生させ、その内部を高速で移動できる。 Faceless Voidと彼がコントロールするユニットのみが影響を受けない。さらに、範囲内に閉じ込められているユニットのすべてのアビリティとアイテムのクールダウンを凍結させる。すべての内部では不可視ユニットは看破される。",
-    "DOTA_Tooltip_modifier_faceless_void_time_dilation_Description": "移動速度%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%減少、攻撃速度%dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%減少。",
     "DOTA_Tooltip_ability_death_prophet_carrion_swarm_Note0": "距離1110までのユニットに命中させることができる。",
     "DOTA_Tooltip_ability_death_prophet_spirit_siphon_Description": "Death Prophetと敵ユニットの間に魂のリンクを作り出し、体力を奪う。",
     "DOTA_Tooltip_ability_death_prophet_exorcism_Description": "悪霊を解き放ち、近くの敵ユニットや建造物の生命力を奪う。一度攻撃した悪霊は、一度自身の元に戻らないと再び攻撃できない。スペル終了時、自身は与えたダメージに比例して回復する。建造物に対しては50%%のダメージを与える。 %abilityduration%秒続く。<br/>また、パッシブで移動速度が増加する。",
