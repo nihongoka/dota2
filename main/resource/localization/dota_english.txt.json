@@ -22885,6 +22885,7 @@
     "DOTA_Treasure_Set": "Set",
     "DOTA_Treasure_AndArcana": "+ Arcana",
     "DOTA_Treasure_AndPersona": "+ Persona",
+    "DOTA_Treasure_ArcanaPersonaLabel": "{s:arcana_persona_unit_name} {s:arcana_persona_label}",
     "DOTA_AASystem_Green": "Accumulated online game time: {s:playtime}. You are currently playing within healthy time-limits. Enjoy the game!",
     "DOTA_AASystem_Yellow": "Accumulated online game time: {s:playtime}. You have exceeded healthy game time limits. Please take care to rest!",
     "DOTA_AASystem_Red": "Accumulated online game time: {s:playtime}. You have exceeded healthy game time limits. It is recommended that you sign offline and rest!",
