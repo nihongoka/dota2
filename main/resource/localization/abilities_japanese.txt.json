@@ -4013,7 +4013,7 @@
     "DOTA_Tooltip_ability_special_bonus_unique_visage_3_Description": "2つ目のSoul Assumptionはキャスト範囲内の敵にランダムで当たり、ヒーローが優先される。",
     "DOTA_Tooltip_ability_special_bonus_unique_rubick_5": "+{s:value}%盗んだスペルに対して威力増幅",
     "DOTA_Tooltip_ability_special_bonus_unique_dark_seer_4_Description": "二つ目のWall of Replicaは一つ目の {s:value}後ろに設置される。イリュージョンはそれぞれの壁に対して発生する。",
-    "DOTA_Tooltip_ability_special_bonus_unique_dazzle_3": "+{s:value} Poison Touch 秒間ダメージ",
+    "DOTA_Tooltip_ability_special_bonus_unique_dazzle_3": "+{s:bonus_damage} Poison Touch 秒間ダメージ",
     "DOTA_Tooltip_ability_special_bonus_unique_shadow_shaman_4": "+{s:value} Serpent Wardsのダメージ",
     "DOTA_Tooltip_ability_special_bonus_unique_warlock_3": "+{s:bonus_spell_aoe}範囲 Shadow Word 範囲化",
     "DOTA_Tooltip_ability_special_bonus_unique_furion_3": "Teleportation クールダウン0秒",
