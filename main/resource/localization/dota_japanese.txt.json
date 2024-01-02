@@ -16334,7 +16334,7 @@
     "DOTA_Showcase_PendingApproval_Tooltip": "このショーケースはモデレーションキューに入っており、他プレイヤーに公開するには承認される必要があります。",
     "DOTA_All_Rewards": "すべての報酬",
     "DOTA_Treasure_ItemsOwned:p{selected_item_owned_count}": "{d:selected_item_owned_count} 所有中",
-    "DOTA_Treasure_TradeUpDescription:p{tradeup_item_count}": "<b>{d:tradeup_item_count}</b>つのセットと1つ上のティアのセット1つと交換することができます。",
+    "DOTA_Treasure_TradeUpDescription:p{tradeup_item_count}": "セットを<b>{d:tradeup_item_count}</b>つ集めると、1つ上のティアのセット1つと交換することができます。",
     "DOTA_Treasure_Unusual_Description": "このアイテムには{s:unusual_effect_name}パーティクルがかかっています",
     "DOTA_Treasure_BaseSetUnusual_Description": "フルセットに加えてアンユージュアルアイテムも獲得しました",
     "DOTA_Treasure_Set": "セット",
@@ -16364,5 +16364,7 @@
     "DOTA_Showcase_ItemType_Creep": "クリープ",
     "DOTA_Showcase_PendingApproval": "承認待ち...",
     "DOTA_Showcase_Approved": "承認済み",
-    "DOTA_Showcase_Default_Animation": "デフォルト"
+    "DOTA_Showcase_Default_Animation": "デフォルト",
+    "DOTA_Frostivus_Tip": "賞賛",
+    "DOTA_Frostivus_TipNotification": "ナイスプレイ"
 }
