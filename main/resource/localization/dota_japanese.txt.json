@@ -7068,7 +7068,7 @@
     "DOTA_HUD_Shrine_Killed": "{s:killer}{s:killed_icon}{s:shrine_name}{s:gold}",
     "DOTA_Glossary_Advanced_PullingStacking": "プルとスタック",
     "DOTA_ChallengeDesc_SlowDuration": "合計<font color='#ffffff'>%s1</font>秒敵ヒーローに<font color='#ffffff'>移動速度低下</font>を与える。",
-    "DOTA_Chat_Commend_Toast": "{s:commender}があなたを称賛しました！",
+    "DOTA_Chat_Commend_Toast": "{s:commender} ({s:commender_hero}) があなたを称賛しました！",
     "DOTA_Hud_ChannelBar": "詠唱中 {s:seconds_left}",
     "DOTA_Channel_Bar_Time": "詠唱中 %s1",
     "DOTA_Custom_Game_Downloading": "ダウンロード中...",
@@ -7414,7 +7414,7 @@
     "DOTA_VoiceTextBanned_Notify_Players": "1人または複数のプレイヤーが悪質なコミュニケーションにより、デフォルトでミュートされています。スコアボードでミュートを解除することができます。",
     "DOTA_VoiceTextBanned_Reports": "あなたのアカウントは迷惑行為としてフラグが立てられ、すべてのプレイヤーに対してデフォルトでミュートされるようになりました。残り時間: %s1 時間",
     "DOTA_VoiceTextBanned_Reports_Avoid_Overflow": "あなたのアカウントは迷惑行為としてフラグが立てられ、すべてのプレイヤーに対してデフォルトでミュートされるようになりました。",
-    "DOTA_VoiceTextBanned_BehaviorScore": "あなたのコミュニケーションスコアが%s1を下回ったため、チャット権限が一時的に剥奪されました。",
+    "DOTA_VoiceTextBanned_BehaviorScore": "あなたのコミュニケーションスコアが%s1を下回っているか、このゲーム中、チャット権限が一時的に剥奪されました。",
     "DOTA_VoiceTextBanned_Disruptive": "あなたは、他のプレイヤーよりも遥かに高い割合で、悪質なコミュニケーションとしてコミュニティから通報されています。他のプレイヤーを思いやり、ポジティブでいるようにしましょう。",
     "DOTA_PublicTextBanned_Reports": "あなたの声は誰にも届きません。あなたのアカウントは迷惑行為としてフラグが立てられ、パブリックチャットの権限が一時的に剥奪されています。残り時間: %s1 時間",
     "DOTA_PublicTextBanned_Reports_Avoid_Overflow": "あなたの声は誰にも届きません。あなたのアカウントは迷惑行為としてフラグが立てられ、パブリックチャットの権限は一時的に剥奪されました。",
@@ -16366,5 +16366,9 @@
     "DOTA_Showcase_Approved": "承認済み",
     "DOTA_Showcase_Default_Animation": "デフォルト",
     "DOTA_Frostivus_Tip": "賞賛",
-    "DOTA_Frostivus_TipNotification": "ナイスプレイ"
+    "DOTA_Frostivus_TipNotification": "ナイスプレイ",
+    "DOTA_PlayerBehaviorSummary_Tooltip_Communication_MapDrawing": "マップへの書き込み",
+    "DOTA_PlayerBehavior_Restricion_CommType15": "コミュニケーションスコアが低いため、マップへの書き込みができません。",
+    "Notification_AccountSharingBan": "アカウントの共有または複数のアカウントでプレーしたため、あなたのアカウントは永久にバンされています。",
+    "DOTA_Frostivus_2023_EventTile_FinalRewards": "Frostivusが終了しました。シーズンが終わる前に、報酬を受け取りましょう。"
 }
