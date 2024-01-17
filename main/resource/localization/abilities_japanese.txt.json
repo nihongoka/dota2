@@ -3195,7 +3195,7 @@
     "DOTA_Tooltip_modifier_viper_corrosive_skin_slow_Description": "攻撃速度が%dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%減少し、秒間ダメージを受けている。",
     "DOTA_Tooltip_modifier_viper_viper_strike_slow": "Viper Strike Slow",
     "DOTA_Tooltip_modifier_viper_nethertoxin": "Nethertoxin",
-    "DOTA_Tooltip_modifier_viper_nethertoxin_Description": "パッシブ効果が機能しておらず、時間とともにダメージが増加する。攻撃速度が%dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%減少している。",
+    "DOTA_Tooltip_modifier_viper_nethertoxin_Description": "時間とともにダメージが増加する。攻撃速度が%dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%減少している。",
     "DOTA_Tooltip_ability_viper_nethertoxin_Description": "Viperは対象範囲にNethertoxinを吐き出す。範囲内にいる敵は時間経過で増幅する継続ダメージを受け、攻撃速度が減少する。",
     "DOTA_Tooltip_ability_viper_viper_strike_Description": "強力な毒で移動速度と攻撃速度を減少させて、持続ダメージとパッシブ無効を与える。  スロー効果は時間が経つにつれ減少していく。",
     "DOTA_Tooltip_modifier_viper_poison_attack_slow_Description": "移動速度が%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%、魔法耐性が%dMODIFIER_PROPERTY_MAGICAL_RESISTANCE_BONUS%%%減少していて、毎秒ダメージを受けている。",
@@ -8044,7 +8044,7 @@
     "DOTA_Tooltip_ability_elder_titan_echo_stomp_abilitydraft_note": "Echo Stompは、Astral Spiritが召喚されているかどうかに関わらず、物理ダメージと魔法ダメージの両方を与える。",
     "DOTA_Tooltip_ability_item_mage_slayer_Description": "<h1>パッシブ: Mage Slayer</h1>敵を攻撃したとき、毎秒%dps%のダメージと%duration%秒間対象のスペルダメージを%spell_amp_debuff%%% 減少させるデバフを与える。",
     "DOTA_Tooltip_ability_item_mage_slayer_bonus_damage": "+$damage",
-    "DOTA_Tooltip_modifier_item_mage_slayer_debuff_Description": "与えるスペルダメージが35%%減少している。",
+    "DOTA_Tooltip_modifier_item_mage_slayer_debuff_Description": "与えるスペルダメージが40%%減少し、持続ダメージを受けている。",
     "DOTA_Tooltip_modifier_bloodthorn_debuff": "Bloodthorn",
     "DOTA_Tooltip_Ability_item_echo_sabre_Description": "<h1>パッシブ: Echo Strike</h1>近接攻撃を高速で2回攻撃することができる。2回攻撃のとき、%movement_slow%%%の移動速度減少を%slow_duration% 秒間与える。",
     "DOTA_Tooltip_modifier_echo_sabre_debuff": "Echo Sabre Slow",
@@ -10279,7 +10279,7 @@
     "DOTA_Tooltip_ability_shadow_shaman_mass_serpent_ward_hits_to_destroy_tooltip_creeps": "破壊するまでのヒット数(クリープ):",
     "DOTA_Tooltip_ability_item_wraith_pact_Description": "<h1>アクティブ: Wraith's Reprisal</h1>%abilityduration%秒間、移動可能なトーテムを召喚し、範囲%pact_aura_radius%内のすべての敵の物理ダメージを%damage_penalty_aura%%%減少させ、毎秒%aura_dps%ダメージ与える。<br><br>トーテムは周囲にVladmir's Auraを与える。トーテムは4回攻撃することで破壊される。クリープのトーテムへの攻撃は半分で計算される。\n\n<h1>パッシブ: Vladmir's Aura</h1>%lifesteal_aura%%%ライフスティールと、 %damage_aura%%% ボーナスダメージ、%mana_regen_aura% マナ自動回復効果を近くの味方に付与する。クリープに対してはライフスティールが%creep_lifesteal_reduction_pct%%%減少する。<br><br>効果範囲: %aura_radius%",
     "DOTA_Tooltip_modifier_item_wraith_pact_death_aura_Description": "与えるダメージが%dMODIFIER_PROPERTY_TOTALDAMAGEOUTGOING_PERCENTAGE%%%減少している。毎秒%dMODIFIER_PROPERTY_TOOLTIP%ダメージ受けている。",
-    "DOTA_Tooltip_ability_item_revenants_brooch_Description": "<h1>アクティブ: Phantom Province</h1>有効な間、通常攻撃は%manacost_per_hit%マナを対価として、魔法ダメージになる。",
+    "DOTA_Tooltip_ability_item_revenants_brooch_Description": "<h1>アクティブ: Phantom Province</h1>有効な間、通常攻撃は%manacost_per_hit%マナを対価として、魔法ダメージなり、エーテル状態の敵を攻撃できるようになる。",
     "DOTA_Tooltip_ability_tinker_warp_grenade_Description": "敵にフレアを発射しダメージを与え、後ろにテレポートさせ、ルートし、%debuff_duration%秒間キャスト、攻撃範囲を減少させる。",
     "DOTA_Tooltip_modifier_tinker_warp_grenade": "Warp Flare",
     "DOTA_Tooltip_ability_item_boots_of_bearing_Description": "<h1>アクティブ: Endurance</h1>%duration%秒間、近くの味方に+%bonus_attack_speed_pct%ボーナス攻撃速度と+%bonus_movement_speed_pct%%%ボーナス移動速度を付与する。最初の%bonus_ms_duration%秒間は味方にスローに対する耐性を与える。<br><br>効果範囲: %radius% \n\n<h1>パッシブ: Swiftness Aura</h1>味方に%aura_movement_speed%移動速度を与える。<br><br>範囲: %radius%",
@@ -11868,5 +11868,6 @@
     "DOTA_Tooltip_Ability_item_recipe_arcane_boots": "Arcane Boots レシピ",
     "DOTA_Tooltip_Ability_item_recipe_skadi": "Eye of Skadi レシピ",
     "DOTA_Tooltip_Ability_item_recipe_phylactery": "Phylactery レシピ",
-    "DOTA_Tooltip_Ability_item_recipe_angels_demise": "Khanda レシピ"
+    "DOTA_Tooltip_Ability_item_recipe_angels_demise": "Khanda レシピ",
+    "DOTA_Tooltip_ability_legion_commander_overwhelming_odds_duel_radius_bonus": "デュエル中のボーナス範囲:"
 }
