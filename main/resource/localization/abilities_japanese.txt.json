@@ -2469,7 +2469,7 @@
     "DOTA_Tooltip_ability_elder_titan_natural_order_spirit_Description": "全ての元素を基礎レベルまで退化させ、敵ユニットの基本アーマーと魔法耐性を減少させる。アーマー減少の効果は自身の周りに発生しており、魔法耐性減少の効果はAstral Spiritの周りに発生する。",
     "DOTA_Tooltip_modifier_elder_titan_ancestral_spirit_buff_Description": "%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%のボーナス移動速度、<br>%dMODIFIER_PROPERTY_PHYSICAL_ARMOR_BONUS%のボーナスアーマー、<br>%dMODIFIER_PROPERTY_PREATTACK_BONUS_DAMAGE%のボーナスダメージを付与されている。",
     "DOTA_Tooltip_modifier_elder_titan_earth_splitter_scepter_Description": "%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%の移動速度低下と攻撃不可状態を受けている。",
-    "DOTA_Tooltip_ability_legion_commander_overwhelming_odds_Description": "ユニットまたはヒーローの数に応じたダメージを与える、ボーナス攻撃速度を得る。 イリュージョンや召喚されたユニットに対しては、それらの現在HPに応じた量のボーナスダメージを与える。デュエル中にキャスト可能。",
+    "DOTA_Tooltip_ability_legion_commander_overwhelming_odds_Description": "ユニットまたはヒーローの数に応じたダメージを与え、ボーナス攻撃速度を得る。 イリュージョンや召喚されたユニットに対しては、それらの現在HPに応じた量のボーナスダメージを与える。Duel中にキャスト可能。",
     "DOTA_Tooltip_ability_legion_commander_moment_of_courage_Description": "攻撃を受けた際、一定の確率で即座にライフスティールを伴うカウンターを行う。",
     "DOTA_Tooltip_ability_legion_commander_moment_of_courage_hp_leech_percent": "%ライフスティール量:",
     "DOTA_Tooltip_ability_legion_commander_duel_Description": "Legion Commanderと対象となった敵ヒーローは強制的に短い時間互いを攻撃しあう。 両者ともにアイテムやアビリティを使用することはできないが、例外としてLigion CommanderのみはOverwhelming Oddsをキャストすることができる。どちらか一方がその効果時間中に死亡した場合、勝ったヒーローは永続的にボーナスダメージを得る。",
