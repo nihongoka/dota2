@@ -11826,7 +11826,7 @@
     "DOTA_Tooltip_ability_item_butterfly_bonus_attack_speed_pct": "%+$attack_pct",
     "DOTA_Tooltip_Ability_item_angels_demise_Description": "<h1>パッシブ: Empower Spell</h1> 次に敵にキャストする対象指定アビリティは、 対象に追加で %bonus_spell_damage%+装備者の攻撃力の%spell_crit_multiplier%%%ボーナスダメージを与え、%slow_duration%秒間%slow%%%移動速度減少を与える。\n\n<h1>パッシブ: Critical Strike</h1>攻撃の際 %crit_chance%%% の確率で %crit_multiplier%%% のダメージを与える。",
     "DOTA_Tooltip_modifier_item_angels_demise_slow_Description": "%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%移動速度が下がっている。",
-    "DOTA_Tooltip_ability_item_safety_bubble_Description": "<h1>パッシブ: Bubbled Up</h1> 装備したヒーローは%shield%のHPバリアを得る。このバリアは%restore_time%秒ダメージを受けずにいると復活する。",
+    "DOTA_Tooltip_ability_item_safety_bubble_Description": "<h1>パッシブ: Bubbled Up</h1> 装備したヒーローは敵のダメージに対して%shield%のHPバリアを得る。このバリアは%restore_time%秒ダメージを受けずにいると復活する。自傷ダメージはバリアを通過する。",
     "DOTA_Tooltip_ability_item_whisper_of_the_dread_Description": "<h1>パッシブ: Tunnel Vision</h1> 装備したヒーローは昼の視界が%vision_penalty%%%減少するが、%bonus_spell_damage%%%のスペルダメージ増加を得る。",
     "DOTA_Tooltip_ability_item_nemesis_curse_Description": "<h1>パッシブ: Glass Cannon</h1> 装備したヒーローが受ける全てのダメージを%debuff_self%%%増加させる。\n<h1>パッシブ: Glassify</h1> 敵ヒーローを攻撃した時、装備したヒーローから受ける全てのダメージを%debuff_enemy%%%増加させるデバフを%debuff_enemy_duration%秒付与する。Glassifyのデバフは同時に1つしか受けることができない。 ",
     "Dota_Tooltip_ability_item_light_collector_Description": "<h1>アクティブ: Lightbreak </h1> まばゆい光を放ち、自分の周囲%tree_destruction_radius%にあるすべての木を破壊する。 \n\n<h1>パッシブ: Unclouded </h1> 装備者の、昼の間はHP自然回復、夜の間はマナ自然回復が増える。この効果は自分の周囲%radius%に木がある場合、半減する。",
