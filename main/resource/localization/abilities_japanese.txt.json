@@ -3626,7 +3626,7 @@
     "DOTA_Tooltip_ability_dragon_knight_dragon_blood": "Dragon Blood",
     "DOTA_Tooltip_ability_dragon_knight_elder_dragon_form": "Elder Dragon Form",
     "DOTA_Tooltip_ability_ogre_magi_dumb_luck": "Dumb Luck",
-    "DOTA_Tooltip_ability_ogre_magi_dumb_luck_description": "最大Intelligenceが0である代わりに、Strengthからマナとマナ自然回復を得る。また、20Strength得るごとにMulticastの確率が1%ずつ増加する。",
+    "DOTA_Tooltip_ability_ogre_magi_dumb_luck_description": "最大Intelligenceが0になる代わりに、Strengthからマナとマナ自然回復を得る。また、20Strength得るごとにMulticastの確率が1%ずつ増加する。",
     "DOTA_Tooltip_ability_ogre_magi_dumb_luck_mana_per_str": "Strength毎最大マナ増加:",
     "DOTA_Tooltip_ability_ogre_magi_dumb_luck_mana_regen_per_str": "Strength毎マナ自然回復増加:",
     "DOTA_Tooltip_ability_ogre_magi_fireblast_Note0": "Multicast発動時、Fireblastは同じ対象に%multicast_delay%秒間隔で発動する。",
@@ -11869,5 +11869,18 @@
     "DOTA_Tooltip_Ability_item_recipe_phylactery": "Phylactery レシピ",
     "DOTA_Tooltip_Ability_item_recipe_angels_demise": "Khanda レシピ",
     "DOTA_Tooltip_ability_legion_commander_overwhelming_odds_duel_radius_bonus": "デュエル中のボーナス範囲:",
-    "dota_ability_variable_damage_universal_hero": "ダメージ (Universalヒーロー)"
+    "dota_ability_variable_damage_universal_hero": "ダメージ (Universalヒーロー)",
+    "DOTA_Tooltip_Ability_antimage_counterspell_abilitydraft_note": "<span class=\"ADBlue\">シャード:</span> オートキャストにすることで、<span class=\"ADWhite\"><b>Counterspell</b></span>を<span class=\"ADWhite\"><b>Counterspell Ally</b></span>に切り替える。",
+    "DOTA_Tooltip_ability_crystal_maiden_frostbite_abilitydraft_note": "<span class=\"ADBlue\">シャード:</span> オートキャストにすることで、<span class=\"ADWhite\"><b>Frostbite</b></span>を<span class=\"ADWhite\"><b>Crystal Clone</b></span>に切り替える。",
+    "DOTA_Tooltip_ability_zuus_arc_lightning_abilitydraft_note": "<span class=\"ADBlue\">シャード:</span> オートキャストにすることで、<span class=\"ADWhite\"><b>Arc Lightning</b></span>を<span class=\"ADWhite\"><b>Lightning Hands</b></span> に切り替える。",
+    "DOTA_Tooltip_ability_venomancer_noxious_plague_abilitydraft_note": "<span class=\"ADBlue\">セプター:</span> セプター取得時、<span class=\"ADWhite\"><b>Poison Nova</b></span>はパネルに表示されないが、クールダウンが終了していれば、バフアイコンに表示される。",
+    "DOTA_Tooltip_ability_dragon_knight_dragon_tail_damage": "ダメージ:",
+    "DOTA_Tooltip_ability_bounty_hunter_wind_walk_abilitydraft_note": "<span class=\"ADBlue\">シャード:</span> オートキャストにすることで、<span class=\"ADWhite\"><b>Shadow Walk</b></span>を<span class=\"ADWhite\"><b>Friendly Shadow</b></span>に切り替える。",
+    "DOTA_Tooltip_ability_invoker_emp_ad_shard_description": "EMPで流出されたマナに応じてダメージを与え、敵ユニットを秒間%shard_drag_speed%ユニット中心に引き寄せるようになる。",
+    "DOTA_Tooltip_ability_ogre_magi_fireblast_abilitydraft_note": "<span class=\"ADBlue\">シャード:</span> オートキャストにすることで、<span class=\"ADWhite\"><b>Fireblast</b></span>を<span class=\"ADWhite\"><b>Unrefined Fireblast</b></span>に切り替える。",
+    "DOTA_Tooltip_ability_techies_land_mines_abilitydraft_note": "Minefield Signアビリティも得る。",
+    "DOTA_Tooltip_modifier_venomancer_poison_nova_intrinsic": "Poison Nova",
+    "DOTA_Tooltip_modifier_venomancer_poison_nova_intrinsic_Description": "次Venomancerが死ぬか、Venomous Galeの効果が早く終了した場合、Poison Novaが発動する。",
+    "DOTA_Tooltip_modifier_ogre_magi_dumb_luck": "Dumb Luck",
+    "DOTA_Tooltip_modifier_ogre_magi_dumb_luck_Description": "最大Intelligenceが0になる代わりに、Strengthからマナとマナ自然回復を得る。"
 }
