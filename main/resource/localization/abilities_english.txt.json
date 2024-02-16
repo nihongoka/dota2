@@ -11133,6 +11133,8 @@
     "DOTA_Tooltip_ability_item_eternal_shroud_bonus_strength": "+$str",
     "DOTA_Tooltip_ability_item_eternal_shroud_bonus_armor": "+$armor",
     "DOTA_Tooltip_ability_item_eternal_shroud_bonus_health": "+$health",
+    "DOTA_Tooltip_modifier_item_eternal_shroud": "Eternal Endurance",
+    "DOTA_Tooltip_modifier_item_eternal_shroud_Description": "Increased magic resistance.",
     "DOTA_Tooltip_modifier_item_eternal_shroud_aura": "Shroud Aura",
     "DOTA_Tooltip_modifier_item_eternal_shroud_aura_Description": "Increasing mana regeneration and spell lifesteal",
     "DOTA_Tooltip_modifier_item_eternal_shroud_barrier": "Shroud",
