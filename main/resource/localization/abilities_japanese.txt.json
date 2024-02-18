@@ -6056,7 +6056,7 @@
     "DOTA_Tooltip_ability_special_bonus_unique_spirit_breaker_2": "-{s:value}秒Bulldozeクールダウン",
     "DOTA_Tooltip_ability_special_bonus_unique_spirit_breaker_3": "+{s:value}% Greater Bash ダメージ",
     "DOTA_Tooltip_ability_special_bonus_unique_storm_spirit": "+{s:bonus_AbilityDuration}秒 Electric Vortex効果時間",
-    "DOTA_Tooltip_ability_alchemist_chemical_rage_abilitydraft_note": "アビリティドラフトではChemical RageのAghanim's ScepterはGreevil's Greedに移動した。Aghanim's Scepterを入手してもChemical Rageはボーナスを<b>得ない</b>。",
+    "DOTA_Tooltip_ability_alchemist_chemical_rage_abilitydraft_note": "Greevil's Greed も獲得する。",
     "DOTA_Tooltip_ability_item_basher_abilitydraft_note": "Spirit Breaker・Faceless Void・Slardarはバッシュを発動<b>できる</b>。ただし、Time Lockをドラフトした場合バッシュは発動しなくなる。",
     "DOTA_Tooltip_modifier_dragonknight_breathefire_reduction": "Breathe Fire",
     "DOTA_Tooltip_modifier_dark_seer_wall_of_replica": "Wall of Replica",
@@ -11882,5 +11882,6 @@
     "DOTA_Tooltip_modifier_venomancer_poison_nova_intrinsic": "Poison Nova",
     "DOTA_Tooltip_modifier_venomancer_poison_nova_intrinsic_Description": "次Venomancerが死ぬか、Venomous Galeの効果が早く終了した場合、Poison Novaが発動する。",
     "DOTA_Tooltip_modifier_ogre_magi_dumb_luck": "Dumb Luck",
-    "DOTA_Tooltip_modifier_ogre_magi_dumb_luck_Description": "最大Intelligenceが0になる代わりに、Strengthからマナとマナ自然回復を得る。"
+    "DOTA_Tooltip_modifier_ogre_magi_dumb_luck_Description": "最大Intelligenceが0になる代わりに、Strengthからマナとマナ自然回復を得る。",
+    "DOTA_Tooltip_modifier_item_eternal_shroud": "Eternal Endurance"
 }
