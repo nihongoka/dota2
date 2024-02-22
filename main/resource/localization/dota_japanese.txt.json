@@ -16489,5 +16489,10 @@
     "KillEaterEvent_HurlBoulderStuns": "Hurl Boulder スタン数",
     "KillEaterEvent_VeilsLeadingToKills": "キルに繋がったVeil",
     "KillEaterEvent_DustLeadingToKills": "キルに繋がったDust",
-    "KillEaterEvent_SlowsLeadingToKills": "キルに繋がったスロー"
+    "KillEaterEvent_SlowsLeadingToKills": "キルに繋がったスロー",
+    "DOTA_Collection_QualityFilterLabel": "クオリティ:",
+    "DOTA_Collection_TypeFilterLabel": "タイプ:",
+    "DOTA_tooltip_econ_item_quality_label": "クオリティ: ",
+    "DOTA_tooltip_econ_item_quality": "{s:item_quality}",
+    "DOTA_tooltip_econ_item_unusual_effect_details": " - {s:unusual_effect_details}"
 }
