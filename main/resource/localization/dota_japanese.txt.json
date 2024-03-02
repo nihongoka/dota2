@@ -16494,5 +16494,17 @@
     "DOTA_Collection_TypeFilterLabel": "タイプ:",
     "DOTA_tooltip_econ_item_quality_label": "クオリティ: ",
     "DOTA_tooltip_econ_item_quality": "{s:item_quality}",
-    "DOTA_tooltip_econ_item_unusual_effect_details": " - {s:unusual_effect_details}"
+    "DOTA_tooltip_econ_item_unusual_effect_details": " - {s:unusual_effect_details}",
+    "WeekendTourneyStatus_Open": "<b>エントリー受付中</b><br/> {s:weekend_tourney_selected_division_name}ディビジョンバトルカップ<br/>開始まであと{s:weekendtourney_duration_until_window_close}",
+    "ranked_mmr_locked_explain_2": "ロールを選択し、ゲームに勝利してランクを上げていく競争的なモード。ランクごとのメダルがプロフィールに表示されます。",
+    "ranked_phone_status_steam_label": "ランクマッチに参加するためにはDotaアカウントに連携した電話番号の登録が必要です。",
+    "WeekendTourneyDivisionStatus_IsNowOpen": "エントリー受付中！",
+    "WeekendTourneyStatus_StartingTimeRemaining": "{s:weekendtourney_duration_until_window_open}で受付開始",
+    "ranked_mmr_unlock_explain:p{ranked_required_play_time_hrs_for_unlock}": "ランクマッチ以外の試合を{i:ranked_required_play_time_hrs_for_unlock}時間プレイすると解放",
+    "ranked_mmr_locked_explain_1": "ランクマッチメイキング:",
+    "ranked_phone_status_none_button": "電話番号の管理へ",
+    "ranked_phone_status_steam_button": "Dotaに電話番号を連携する",
+    "ranked_phone_status_none_label": "ランクマッチメイキングに参加するためには、Steamに連携している電話番号の登録が必要です。",
+    "ranked_mmr_lock_progress": "{s:mmr_unlock_progress} 時間プレイ中",
+    "ranked_phone_anchor_result_header": "電話番号の連携"
 }
