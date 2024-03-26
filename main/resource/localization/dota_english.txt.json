@@ -3617,7 +3617,7 @@
     "DOTA_Hero_Selection_AllDraft_TeammateRandomed_Panorama": "{g:dota_player_name:nh:hero_selection_player_id} has randomed and is deciding to keep or reroll.",
     "DOTA_Hero_Selection_AllDraft_YouPicking_LosingGold": "Your team is losing gold until someone picks a hero!",
     "DOTA_Hero_Selection_AllDraft_TheyPicking_LosingGold": "Enemy team is losing gold until someone picks a hero!",
-    "DOTA_Hero_Selection_Ban_Roster": "Choose 4 heros that you would like to ban during your matches. At least one of these heroes is guaranteed to be banned. <br><br>Hero bans apply only to All Pick matches. ",
+    "DOTA_Hero_Selection_Ban_Roster": "Choose 4 heroes that you would like to ban during your matches. At least one of these heroes is guaranteed to be banned. <br><br>Hero bans apply only to All Pick matches. ",
     "DOTA_Hero_Selection_AllPick_BanPhase_Label": "Ban Phase",
     "DOTA_Hero_Selection_AllPick_Banning_Nominate": "Nominate one hero to ban",
     "DOTA_Hero_Selection_AllPick_Banning_Nominated": "Waiting on Others",
