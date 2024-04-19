@@ -14490,7 +14490,6 @@
     "DOTA_CandyShop_PurchaseErrorTitle": "交換失敗",
     "DOTA_CandyShop_OpenBagErrorTitle": "バッグ開封に失敗",
     "DOTA_CandyShop_AvailableRolls": "利用可能なリロール数:",
-    "DOTA_CandyShop_MaxRolls": "1週間で最大10ロール",
     "DOTA_CandyShop_EmptyInventory": "キャンディインベントリが空です。",
     "DOTA_CandyShop_RerollItems": "アイテムをリロール",
     "DOTA_CandyShop_RerollErrorTitle": "リロール失敗",
