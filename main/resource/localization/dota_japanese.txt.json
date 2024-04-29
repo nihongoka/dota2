@@ -17073,5 +17073,12 @@
     "DOTA_TrophyName_Crownfall_Act3": "クラウンフォール Act 3 コンプリート",
     "DOTA_TrophyName_Crownfall_Act4": "クラウンフォール Act 4 コンプリート",
     "DOTA_TrophyDesc_Crownfall_Act4": "メインストーリーをクリアするとレベル1、すべてのサイドクエストをクリアするとレベル2。",
-    "DOTA_TrophyName_Crownfall_Master": "クラウンフォールマスター"
+    "DOTA_TrophyName_Crownfall_Master": "クラウンフォールマスター",
+    "DOTA_TrophyUnits_BattlePoints:p": "%s1 バトルポイント",
+    "DOTA_TrophyPlusProfileXP:p{trophy_xp}": "+{d:trophy_xp} トロフィーポイント",
+    "DOTA_TrophyUnits_Points_Singular": "%s1 ポイント",
+    "DOTA_TrophyUnits_Points_Plural": "%s1 ポイント",
+    "DOTA_TrophyUnits_Points:p": "%s1 ポイント",
+    "DOTA_TrophyUnits_BattlePoints_Singular": "%s1 バトルポイント",
+    "DOTA_TrophyUnits_BattlePoints_Plural": "%s1 バトルポイント"
 }
