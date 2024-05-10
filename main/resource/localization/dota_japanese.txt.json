@@ -17104,5 +17104,6 @@
     "dota_settings_overlay_map_inputmode_always": "常に行う",
     "dota_settings_overlay_map_inputkey": "オーバーレイマップへのキー入力",
     "showcase_decoration": "ショーケースの装飾",
-    "DOTA_tooltip_econ_item_candy_shop_restriction": "{s:candy_shop_name}で獲得"
+    "DOTA_tooltip_econ_item_candy_shop_restriction": "{s:candy_shop_name}で獲得",
+    "DOTA_AdvancedProfileStatsBanner_Subscribe": "加入する"
 }
