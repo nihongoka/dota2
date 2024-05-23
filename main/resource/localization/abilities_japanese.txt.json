@@ -11709,5 +11709,18 @@
     "DOTA_Tooltip_ability_lion_to_hell_and_back_Description": "リスポーン後%duration%秒間、%debuff_amp%%%のデバフ持続時間増加と%spell_amp%%%のスペル増幅を得る。",
     "DOTA_Tooltip_modifier_lion_finger_punch": "Fist of Death",
     "DOTA_Tooltip_modifier_lion_to_hell_and_back_buff": "Back From Hell",
-    "DOTA_Tooltip_modifier_lion_to_hell_and_back_buff_Description": "%dMODIFIER_PROPERTY_STATUS_RESISTANCE_CASTER%%%デバフ効果時間増加、%dMODIFIER_PROPERTY_SPELL_AMPLIFY_PERCENTAGE%%%スペル増幅を得ている。"
+    "DOTA_Tooltip_modifier_lion_to_hell_and_back_buff_Description": "%dMODIFIER_PROPERTY_STATUS_RESISTANCE_CASTER%%%デバフ効果時間増加、%dMODIFIER_PROPERTY_SPELL_AMPLIFY_PERCENTAGE%%%スペル増幅を得ている。",
+    "DOTA_Tooltip_Facet_furion_ironwood_treant_Note0": "Reinforcedユニットは、ほかのReinforcedユニットや建造物に対し多くダメージを与え、ほかのユニットから受けるダメージが少なくなる。",
+    "DOTA_Tooltip_ability_furion_spirit_of_the_forest_facet_furion_ironwood_treant": "Treantの各種属性に倍率がつく。",
+    "DOTA_Tooltip_ability_furion_spirit_of_the_forest_multiplier": "倍率:",
+    "DOTA_Tooltip_modifier_furion_spirit_of_the_forest": "Spirit of the Forest",
+    "DOTA_Tooltip_modifier_furion_spirit_of_the_forest_Description": "周囲の木により基礎ダメージが%dMODIFIER_PROPERTY_BASEDAMAGEOUTGOING_PERCENTAGE%%%増加している。",
+    "DOTA_Tooltip_Facet_furion_ironwood_treant": "Ironwood Treant",
+    "DOTA_Tooltip_Facet_furion_ironwood_treant_Description": "Nature's Callは最大で{s:bonus_max_treants}体のTreantしか召喚されず、体力、ダメージが増加し、Reinforcedユニットとなる。",
+    "DOTA_Tooltip_Facet_furion_soothing_saplings": "Soothing Saplings",
+    "DOTA_Tooltip_Facet_furion_soothing_saplings_Description": "Sproutの中や近くにいる味方に回復を与える。",
+    "DOTA_Tooltip_modifier_furion_sprout_healing": "Soothing Saplings",
+    "DOTA_Tooltip_modifier_furion_sprout_healing_Description": "時間経過で回復中。",
+    "DOTA_Tooltip_modifier_furion_teleport_shield": "Teleportation",
+    "DOTA_Tooltip_modifier_furion_teleport_shield_Description": "%dMODIFIER_PROPERTY_INCOMING_DAMAGE_CONSTANT%のダメージを吸収している。"
 }
