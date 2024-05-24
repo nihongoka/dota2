@@ -11745,5 +11745,9 @@
     "DOTA_Tooltip_modifier_lina_crit_debuff_Description": "Linaの攻撃がこのユニットにクリティカルを与える。",
     "DOTA_Tooltip_ability_vengefulspirit_retribution_Description": "敵ヒーローがVengeful Spiritをキルした場合、そのヒーローは死亡するまで、Vengeful Spiritから追加で%bonus_damage%%%ダメージ受けるデバフを受ける。",
     "DOTA_Tooltip_ability_witch_doctor_death_ward_facet_witch_doctor_cleft_death": "Death Wardが同時に%initial_target_count%体に攻撃するが、ダメージが減少する。",
-    "DOTA_Tooltip_ability_witch_doctor_gris_gris_Description": "ドロップしたりバックパックに入れたりできないGris-Grisというアイテムを所持している。持ち主が死亡すると、死亡によって失われたゴールドの%death_gold_lost_reduction_pct_tooltip%%%がアイテムに加算され、アイテムを消費すると払い戻される。Gris-Grisの価値は%gold_tick_interval_tooltip%秒ごとに1ずつ増加する。<br><br> 右クリックでアイテムを消費し、消費すると永久に消去される。"
+    "DOTA_Tooltip_ability_witch_doctor_gris_gris_Description": "ドロップしたりバックパックに入れたりできないGris-Grisというアイテムを所持している。持ち主が死亡すると、死亡によって失われたゴールドの%death_gold_lost_reduction_pct_tooltip%%%がアイテムに加算され、アイテムを消費すると払い戻される。Gris-Grisの価値は%gold_tick_interval_tooltip%秒ごとに1ずつ増加する。<br><br> 右クリックでアイテムを消費し、消費すると永久に消去される。",
+    "DOTA_Tooltip_ability_juggernaut_bladeform_Description": "Juggernautはダメージを受けていない限り、Agilityと移動速度を得る。",
+    "DOTA_Tooltip_ability_pudge_meat_hook_Facet_pudge_flayers_hook": "Meat Hookは引き寄せた距離に応じてボーナスダメージを得るが、基本ダメージは減少する。",
+    "DOTA_Tooltip_ability_sandking_sand_storm_Facet_sand_king_sandshroud": "Sand Stormの範囲が広がり、Sand Kingはその中にいる間、透明状態になる。",
+    "DOTA_Tooltip_ability_sandking_sand_storm_Facet_sand_king_dust_devil": "Sand StormはSand Kingの移動速度の%sand_storm_move_speed_pct%%の速度でSand Kingに追従する。Burrowstrikeをキャスト時、Sand Stormはキャストされた位置に移動する。"
 }
