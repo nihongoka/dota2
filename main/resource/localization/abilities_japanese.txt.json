@@ -11670,7 +11670,7 @@
     "DOTA_Tooltip_modifier_nevermore_frenzy_Description_facet_nevermore_fast_food": "攻撃速度が%dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%、キャスト速度が%dMODIFIER_PROPERTY_CASTTIME_PERCENTAGE%%%増加している。",
     "DOTA_Tooltip_modifier_life_stealer_unfettered_Description": "%dMODIFIER_PROPERTY_STATUS_RESISTANCE_STACKING%%%異常耐性、%dMODIFIER_PROPERTY_MAGICAL_RESISTANCE_BONUS%%%魔法耐性を得ている。",
     "DOTA_Tooltip_ability_furion_spirit_of_the_forest": "Spirit of the Forest",
-    "DOTA_Tooltip_ability_furion_spirit_of_the_forest_Description": "範囲%radius%以内の木1本、範囲%radius_treant%以内のトレント1体につき%damage_per_tree_pct%%%の基本攻撃力を獲得する。",
+    "DOTA_Tooltip_ability_furion_spirit_of_the_forest_Description": "範囲%radius%以内の木1本、範囲%radius_treant%以内のトレント1体につき%damage_per_tree_pct%%%の攻撃力を獲得する。",
     "DOTA_Tooltip_Facet_lion_fist_of_death_Description": "Finger of Deathキャスト後、近接攻撃となり、強力なクリーブを得る。",
     "DOTA_Tooltip_modifier_lion_finger_punch_Description": "攻撃力が%dMODIFIER_PROPERTY_PREATTACK_BONUS_DAMAGE%増加し、近接ユニットになっている。",
     "DOTA_Tooltip_Facet_lina_supercharge": "Thermal Runaway",
@@ -11722,5 +11722,12 @@
     "DOTA_Tooltip_modifier_furion_sprout_healing": "Soothing Saplings",
     "DOTA_Tooltip_modifier_furion_sprout_healing_Description": "時間経過で回復中。",
     "DOTA_Tooltip_modifier_furion_teleport_shield": "Teleportation",
-    "DOTA_Tooltip_modifier_furion_teleport_shield_Description": "%dMODIFIER_PROPERTY_INCOMING_DAMAGE_CONSTANT%のダメージを吸収している。"
+    "DOTA_Tooltip_modifier_furion_teleport_shield_Description": "%dMODIFIER_PROPERTY_INCOMING_DAMAGE_CONSTANT%のダメージを吸収している。",
+    "DOTA_Tooltip_ability_windrunner_focusfire_Facet_windrunner_whirlwind": "Focus Fireが対象を必要としなくなり、攻撃範囲内のランダムな敵に攻撃するようになる。1秒間の攻撃回数が決まっており、同じ敵には4回までしか攻撃しない。ヒーローを優先する。",
+    "DOTA_Tooltip_Facet_vengefulspirit_avenging_missile": "Avenging Missile",
+    "DOTA_Tooltip_ability_windrunner_focusfire_attacks_per_second": "秒間攻撃回数:",
+    "DOTA_Tooltip_ability_windrunner_focusfire_bonus_range": "ボーナス攻撃範囲:",
+    "DOTA_Tooltip_ability_windrunner_windrun_Facet_windrunner_tailwind": "Windrunが周囲の味方に追加の移動速度ボーナスを与える。",
+    "DOTA_Tooltip_ability_vengefulspirit_magic_missile_Facet_vengefulspirit_avenging_missile": "Magic Missleが、敵がキルしたクリープ数毎に%bonus_damage_per_lasthit%ボーナスダメージ与える。",
+    "DOTA_Tooltip_ability_vengefulspirit_soul_strike": "Soul Strike"
 }
