@@ -581,7 +581,6 @@
     "DOTA_Tooltip_modifier_morphling_replicate_manager_Description": "Morphlingが自身の姿に戻るまでの時間。",
     "DOTA_Tooltip_ability_special_bonus_unique_morphling_3": "+{s:value} マルチショット Adaptive Strike",
     "DOTA_Tooltip_ability_special_bonus_unique_morphling_4": "Waveformは敵を攻撃する",
-    "DOTA_Tooltip_ability_special_bonus_unique_morphling_4_Description": "Waveformが命中した敵に追加攻撃を行う。",
     "DOTA_Tooltip_ability_special_bonus_unique_morphling_6": "{s:bonus_AbilityCharges} Waveform チャージ",
     "DOTA_Tooltip_ability_special_bonus_unique_morphling_7": "-{s:value}秒 Adaptive Strike クールダウン",
     "DOTA_Tooltip_ability_special_bonus_unique_morphling_8": "+{s:value}秒 Morph効果時間",
