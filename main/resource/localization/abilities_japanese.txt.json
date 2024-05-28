@@ -11921,5 +11921,9 @@
     "DOTA_Tooltip_modifier_axe_one_man_army": "One Man Army",
     "DOTA_Tooltip_modifier_axe_one_man_army_Description": "Axeは単独で行動しているので彼のアーマーから割合で%dMODIFIER_PROPERTY_STATS_STRENGTH_BONUS%Strengthを得ている。",
     "DOTA_Tooltip_ability_axe_coat_of_blood": "Coat of Blood",
-    "DOTA_Tooltip_modifier_axe_coat_of_blood": "Coat of Blood"
+    "DOTA_Tooltip_modifier_axe_coat_of_blood": "Coat of Blood",
+    "DOTA_Tooltip_ability_phantom_lancer_juxtapose_facet_phantom_lancer_divergence": "Juxtaposeのイリュージョンは周囲のユニットの近くにスポーンし、多くダメージを与えるが、操作はできなくなる。",
+    "DOTA_Tooltip_ability_phantom_lancer_juxtapose_new_target_radius": "探索範囲:",
+    "DOTA_Tooltip_ability_phantom_lancer_doppelwalk_facet_phantom_lancer_convergence": "Phantom Lancerが失った体力%hp_missing_per_extra_illusion_pct%%%毎に1体多くイリュージョンをスポーンする。",
+    "DOTA_Tooltip_Facet_phantom_lancer_convergence": "Convergence"
 }
