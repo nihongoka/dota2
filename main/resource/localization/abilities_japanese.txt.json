@@ -11925,5 +11925,7 @@
     "DOTA_Tooltip_ability_phantom_lancer_juxtapose_facet_phantom_lancer_divergence": "Juxtaposeのイリュージョンは周囲のユニットの近くにスポーンし、多くダメージを与えるが、操作はできなくなる。",
     "DOTA_Tooltip_ability_phantom_lancer_juxtapose_new_target_radius": "探索範囲:",
     "DOTA_Tooltip_ability_phantom_lancer_doppelwalk_facet_phantom_lancer_convergence": "Phantom Lancerが失った体力%hp_missing_per_extra_illusion_pct%%%毎に1体多くイリュージョンをスポーンする。",
-    "DOTA_Tooltip_Facet_phantom_lancer_convergence": "Convergence"
+    "DOTA_Tooltip_Facet_phantom_lancer_convergence": "Convergence",
+    "DOTA_Tooltip_Facet_phantom_lancer_convergence_Description": "Phantom Lancerの現在の体力に応じて、Doppelgangerが追加のイリュージョンをスポーンさせる。",
+    "DOTA_Tooltip_Facet_phantom_lancer_divergence": "Divergence"
 }
