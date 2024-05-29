@@ -11938,5 +11938,15 @@
     "DOTA_Tooltip_ability_razor_storm_surge_strike_search_radius": "攻撃伝搬範囲:",
     "DOTA_Tooltip_ability_razor_storm_surge_strike_internal_cd": "クールダウン:",
     "DOTA_Tooltip_modifier_razor_storm_surge_slow": "Storm Surge",
-    "DOTA_Tooltip_modifier_razor_storm_surge_slow_Description": "移動速度が%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%減少している。"
+    "DOTA_Tooltip_modifier_razor_storm_surge_slow_Description": "移動速度が%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%減少している。",
+    "DOTA_Tooltip_ability_razor_storm_surge_strike_target_count": "ヒット数:",
+    "DOTA_Tooltip_Facet_razor_thunderhead": "Thunderhead",
+    "DOTA_Tooltip_Facet_razor_thunderhead_Description": "Eye of the Stormが有効な間、Eye of the Stormの範囲内の全てのユニットにStorm Surgeが命中する。",
+    "DOTA_Tooltip_Ability_razor_dynamo": "Dynamo",
+    "DOTA_Tooltip_Ability_razor_dynamo_Description": "Razorは攻撃ダメージ%spell_amp_damage_divisor%毎に%spell_amp_mult%%%のスペル増幅を得る。",
+    "DOTA_Tooltip_Ability_razor_dynamo_spell_amp_per_bonus_attack_damage": "%ダメージ毎のスペル増幅:",
+    "DOTA_Tooltip_modifier_razor_dynamo": "Dynamo",
+    "DOTA_Tooltip_modifier_razor_dynamo_Description": "%fMODIFIER_PROPERTY_SPELL_AMPLIFY_PERCENTAGE%%%のスペル増幅をダメージから得ている。",
+    "DOTA_Tooltip_Ability_razor_unstable_current": "Unstable Current",
+    "DOTA_Tooltip_Ability_razor_unstable_current_Description": "Razorの移動速度はヒーローレベル毎にパッシブで%movespeed_per_level_pct%%%上昇する。"
 }
