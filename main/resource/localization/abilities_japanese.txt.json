@@ -11727,7 +11727,7 @@
     "DOTA_Tooltip_ability_windrunner_focusfire_attacks_per_second": "秒間攻撃回数:",
     "DOTA_Tooltip_ability_windrunner_focusfire_bonus_range": "ボーナス攻撃範囲:",
     "DOTA_Tooltip_ability_windrunner_windrun_Facet_windrunner_tailwind": "Windrunが周囲の味方に追加の移動速度ボーナスを与える。",
-    "DOTA_Tooltip_ability_vengefulspirit_magic_missile_Facet_vengefulspirit_avenging_missile": "Magic Missleが、敵がキルしたクリープ数毎に%bonus_damage_per_lasthit%ボーナスダメージ与える。",
+    "DOTA_Tooltip_ability_vengefulspirit_magic_missile_Facet_vengefulspirit_avenging_missile": "Magic Missileが、敵がキルしたクリープ数毎に%bonus_damage_per_lasthit%ボーナスダメージ与える。",
     "DOTA_Tooltip_ability_vengefulspirit_soul_strike": "Soul Strike",
     "DOTA_Tooltip_modifier_lina_crit_debuff": "Critically Marked",
     "DOTA_Tooltip_ability_vengefulspirit_soul_strike_Description": "Vengeful Spiritの遠距離攻撃は近接攻撃として振る舞う。",
@@ -11927,5 +11927,16 @@
     "DOTA_Tooltip_ability_phantom_lancer_doppelwalk_facet_phantom_lancer_convergence": "Phantom Lancerが失った体力%hp_missing_per_extra_illusion_pct%%%毎に1体多くイリュージョンをスポーンする。",
     "DOTA_Tooltip_Facet_phantom_lancer_convergence": "Convergence",
     "DOTA_Tooltip_Facet_phantom_lancer_convergence_Description": "Phantom Lancerの現在の体力に応じて、Doppelgangerが追加のイリュージョンをスポーンさせる。",
-    "DOTA_Tooltip_Facet_phantom_lancer_divergence": "Divergence"
+    "DOTA_Tooltip_Facet_phantom_lancer_divergence": "Divergence",
+    "DOTA_Tooltip_ability_razor_storm_surge": "Storm Surge",
+    "DOTA_Tooltip_ability_razor_storm_surge_Description": "攻撃または対象指定スペルキャスト時、攻撃者のユニットタイプを優先して、対象とその周囲の敵にダメージと移動速度減少を与える電撃を放つことがある。",
+    "DOTA_Tooltip_ability_razor_storm_surge_facet_razor_thunderhead": "Eye of the Storm発動中は、確率が%eye_of_the_storm_chance_multiplier%倍になり、Eye of the Stormの範囲内にいる全ての敵を攻撃する。同じ敵を2回攻撃することはない。",
+    "DOTA_Tooltip_ability_razor_storm_surge_strike_pct_chance": "%発動確率:",
+    "DOTA_Tooltip_ability_razor_storm_surge_strike_damage": "攻撃する対象数:",
+    "DOTA_Tooltip_ability_razor_storm_surge_strike_move_slow_pct": "%移動速度減少:",
+    "DOTA_Tooltip_ability_razor_storm_surge_strike_slow_duration": "速度減少効果時間:",
+    "DOTA_Tooltip_ability_razor_storm_surge_strike_search_radius": "攻撃伝搬範囲:",
+    "DOTA_Tooltip_ability_razor_storm_surge_strike_internal_cd": "クールダウン:",
+    "DOTA_Tooltip_modifier_razor_storm_surge_slow": "Storm Surge",
+    "DOTA_Tooltip_modifier_razor_storm_surge_slow_Description": "移動速度が%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%減少している。"
 }
