@@ -2856,7 +2856,7 @@
     "DOTA_Tooltip_ability_dazzle_shadow_wave_damage": "ダメージ:",
     "DOTA_Tooltip_modifier_dazzle_bad_juju_manacost": "Bad Juju",
     "DOTA_Tooltip_modifier_dazzle_bad_juju_manacost_Description": "Bad Jujuのコストが増加している。",
-    "DOTA_Tooltip_ability_rattletrap_power_cogs_Description": "Clockwerkの周りにエネルギーを与えられた歯車のバリアを形成し、近くにいる全てのユニットを閉じ込める。歯車の中にいる味方は魔法バリアを得る。歯車の外側に触れた敵はノックバックされ、体力とマナを失う。燃焼したマナの%mana_burn_as_damage_pct%%%だけダメージが増加する。<br><br>1度衝撃を与えた歯車は判定がなくなる。 歯車は敵の攻撃によって破壊されるが、Clockwerk自身は1回の攻撃で破壊できる。",
+    "DOTA_Tooltip_ability_rattletrap_power_cogs_Description": "Clockwerkの周りにエネルギーを与えられた歯車を配置し、近くにいる全てのユニットを閉じ込める。歯車の外側に触れた敵はノックバックされ、体力とマナを失う。歯車は一度このノックバックを発動すると効力を失う。燃焼したマナの%mana_burn_as_damage_pct%%%だけダメージが増加する。<br><br> 歯車は敵の攻撃によって破壊されるが、Clockwerkは攻撃することで歯車を%projectile_distance%の距離吹き飛ばすことができる。",
     "DOTA_Tooltip_ability_rattletrap_hookshot_Description": "指定した場所にグラップリングデバイスをすばやく発射する。ユニットに当たった場合、Clockwerkは対象に向かって発射され、対象の範囲%stun_radius%内にスタンとダメージを与える。途中でClockwerkと衝突した敵はダメージとスタンを受ける。",
     "DOTA_Tooltip_modifier_rattletrap_cog_push_Description": "歯車に押されている。",
     "DOTA_Tooltip_ability_lich_frost_shield_Description": "対象に魔法のFrost Shieldを与え、敵からのダメージを減少する。シールドが有効な間、近くの敵ユニットに%interval%秒ごとにダメージを与え、スローをかける。",
@@ -12062,5 +12062,14 @@
     "DOTA_Tooltip_modifier_dazzle_innate_weave_armor": "Weave",
     "DOTA_Tooltip_modifier_dazzle_innate_weave_armor_Description": "アーマーが%fMODIFIER_PROPERTY_PHYSICAL_ARMOR_BONUS%低下している。",
     "DOTA_Tooltip_modifier_dazzle_innate_weave_armor_counter": "Weave",
-    "DOTA_Tooltip_modifier_dazzle_innate_weave_armor_counter_Description": "アーマーが%dMODIFIER_PROPERTY_TOOLTIP%変動している。"
+    "DOTA_Tooltip_modifier_dazzle_innate_weave_armor_counter_Description": "アーマーが%dMODIFIER_PROPERTY_TOOLTIP%変動している。",
+    "DOTA_Tooltip_Facet_rattletrap_hookup": "Hookup",
+    "DOTA_Tooltip_ability_rattletrap_armor_power_Description": "Clockwerkの攻撃ダメージはアーマーが1上がるたびに%damage_per_armor%%%上昇する。",
+    "DOTA_Tooltip_ability_rattletrap_power_cogs_Facet_rattletrap_expanded_armature": "Power Cogsの配置が広くなる。",
+    "DOTA_Tooltip_Facet_rattletrap_expanded_armature": "Expanded Armature",
+    "DOTA_Tooltip_ability_rattletrap_power_cogs_cogs_radius": "配置半径:",
+    "DOTA_Tooltip_ability_rattletrap_hookshot_Facet_rattletrap_hookup": "味方に命中した時、Hookshotはより広いダメージ判定を持ち、クールダウンが割合で還元される。",
+    "DOTA_Tooltip_ability_rattletrap_hookshot_cooldown_refund_ally": "%味方命中時クールダウン還元:",
+    "DOTA_Tooltip_ability_rattletrap_hookshot_stun_radius_ally": "味方命中時スタン範囲:",
+    "DOTA_Tooltip_ability_rattletrap_armor_power": "Armor Power"
 }
