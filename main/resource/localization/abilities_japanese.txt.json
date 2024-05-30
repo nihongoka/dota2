@@ -1761,7 +1761,6 @@
     "DOTA_Tooltip_ability_phantom_assassin_phantom_strike_Description": "ユニットの場所にテレポートし、もしその対象が敵ユニットであり、その対象を攻撃中の場合にボーナス攻撃速度を得る。",
     "DOTA_Tooltip_ability_phantom_assassin_coup_de_grace_Description": "自身の戦闘能力を高め、攻撃するたび、一定確率でDeadly Focusスタックを得る。Deadly Focusスタックを消費することで、クリティカルが発生する。Stifling Daggerで攻撃した際も、一定確率でDeadly Focusスタックを得る。",
     "DOTA_Tooltip_modifier_phantom_assassin_phantom_strike_Description": "攻撃速度が %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%増加し、ボーナスライフスティールを得ている。",
-    "DOTA_Tooltip_ability_skeleton_king_hellfire_blast_Note0": "Waith KingがSkeltonを召喚している場合、SkeltonはWraithfire Blastの対象となったユニットを攻撃し始める。",
     "DOTA_Tooltip_ability_phantom_assassin_stifling_dagger_move_slow": "%移動速度減少:",
     "DOTA_Tooltip_ability_ancient_apparition_chilling_touch_damage": "ダメージ:",
     "DOTA_Tooltip_ability_dark_willow_shadow_realm_damage": "最大ダメージ:",

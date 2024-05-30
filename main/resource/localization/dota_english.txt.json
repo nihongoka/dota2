@@ -40508,6 +40508,8 @@
     "DOTA_Crownfall_Encounter_SecretAdmirer_GiftFailed": "Gift Sending Failed",
     "DOTA_Crownfall_Encounter_SecretAdmirer_GiftSent_Title": "Gift Sent",
     "DOTA_Crownfall_Encounter_SecretAdmirer_GiftSent_Description": "Your friend will receive your gift shortly!",
+    "DOTA_Crownfall_Encounter_SecretAdmirer_SelectTokenAndFriend": "Select a token and a friend",
+    "DOTA_Crownfall_Encounter_SecretAdmirer_Friend": "Friend",
     "DOTA_Crownfall_OverworldMap_Act2_SecretAdmirerSign": "You have mail!",
     "DOTA_Crownfall_PostGame_ScrapEarned": "Scrap Earned:",
     "DOTA_Crownfall_Encounter_TokenTrader_TradeSixScrapTitle": "Trade <b>6 {s:scrap_name}</b> tokens",
