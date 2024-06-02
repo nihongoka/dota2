@@ -17120,5 +17120,21 @@
     "dota_accept_match_subtitle": "{s:subtitle}",
     "dota_accept_match_accept_low_pri": "低優先マッチを承認する",
     "dota_accept_match_accept_button": "{s:accept}",
-    "dota_finding_match_accept_count": "承認した試合: {s:match_num_accepted} / {s:match_num_total}"
+    "dota_finding_match_accept_count": "承認した試合: {s:match_num_accepted} / {s:match_num_total}",
+    "dota_chatwheel_header_international2018_casters_desc": "これらのメッセージはThe International 2018 Battle Passの所有者のみ読むことが出来ます。",
+    "dota_chatwheel_header_international2018_sprays": "The International 2018 - スプレー",
+    "DOTA_Hero_Selection_WaitingForPlayer": "プレイヤーを待っています...",
+    "DOTA_Hero_Selection_RD_Next": "次があなたがピックする番！",
+    "DOTA_Hero_Selection_RD_Soon": "もうすぐあなたがピックする番。",
+    "DOTA_Hotkeys_Tooltip_ChatVoice": "マイクを使用しボイスチャットでコミュニケーションをとる。",
+    "DOTAUI_Fullscreen": "フルスクリーン",
+    "DOTAUI_Window": "ウィンドウ",
+    "DOTAUI_BorderlessWindow": "ボーダーレスウィンドウ",
+    "DOTA_Welcome": "DotAへようこそ",
+    "DOTA_Facet_Ping": "%s1 %s2はヒーローファセットを持っています %s3%s4",
+    "DOTA_Innate_Ping": "%s1 %s2は天性アビリティを持っている %s3",
+    "DOTA_Modifier_Alert_Oracle_Rune_Prediction": "予言通り、%s2ルーンが%s3。Oracleが%s5パワールーンがここにあると予言する%s4",
+    "DOTA_Modifier_Alert_Oracle_Rune_Prediction_FirstSpawn": "Oracleがいつものように、最初のルーンがバウンティールーン、その後は２度もウォータールーンであることを予言する。",
+    "DOTA_Modifier_Alert_Oracle_Rune_Top": "トップ",
+    "DOTA_Modifier_Alert_Oracle_Rune_Bottom": "ボトム"
 }
