@@ -12573,5 +12573,10 @@
     "DOTA_Tooltip_modifier_shukuchi_slow": "Skitterstep",
     "DOTA_Tooltip_modifier_shukuchi_slow_Description": "移動速度が%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%減少している。",
     "DOTA_Tooltip_ability_jakiro_liquid_fire_shard_Description": "Liquid Fireが敵ユニットの最大体力の%pct_health_damage%%%に相当するダメージを毎秒与えるようになる。このダメージは建造物には適用されない。",
-    "DOTA_Tooltip_ability_jakiro_liquid_ice_bonus_instance_damage_from_other_abilities": "ボーナスダメージ:"
+    "DOTA_Tooltip_ability_jakiro_liquid_ice_bonus_instance_damage_from_other_abilities": "ボーナスダメージ:",
+    "DOTA_Tooltip_ability_jakiro_double_trouble_Description": "Jakiroはそれぞれの頭から攻撃を繰り出すが、それぞれが与えるダメージは%attack_damage_reduction%%%少なくなる。",
+    "DOTA_Tooltip_Facet_batrider_arsonist_Description": "Sticky Napalmは構造物にダメージを与える。",
+    "DOTA_Tooltip_ability_batrider_sticky_napalm_Facet_batrider_arsonist": "Sticky Napalmは構造物にダメージを与える。",
+    "DOTA_Tooltip_ability_batrider_stoked_Description": "Batriderは敵を移動させる際に移動速度とスペル増幅を得る。",
+    "DOTA_Tooltip_ability_batrider_flaming_lasso_shard_Description": "Flaming Lassoが自身をディスアームしなくなる。"
 }
