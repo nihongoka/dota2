@@ -12918,5 +12918,17 @@
     "DOTA_Tooltip_Facet_primal_beast_romp_n_stomp_Description": "Trampleがボーナス移動速度と、発動時にわずかな味方に対する移動速度オーラを与える。",
     "DOTA_Tooltip_ability_special_bonus_unique_muerta_calling_hp_regen": "The Calling内で +{s:bonus_hp_regen_pct}% 最大HPに対する回復",
     "DOTA_Tooltip_ability_muerta_the_calling_Facet_muerta_dance_of_the_dead": "The Calling内でヒーローを死亡した場合、効果時間を延長し、新しい亡霊を召喚し、範囲を%kill_radius_expansion%拡張する。",
-    "DOTA_Tooltip_ability_abyssal_underling_archer_purge_Description": "敵の有用なバフを除去し、移動速度を減少させる。\n\nディスペルタイプ: 基本ディスペル"
+    "DOTA_Tooltip_ability_abyssal_underling_archer_purge_Description": "敵の有用なバフを除去し、移動速度を減少させる。\n\nディスペルタイプ: 基本ディスペル",
+    "DOTA_Tooltip_ability_muerta_ofrenda": "Ofrenda",
+    "DOTA_Tooltip_Facet_muerta_ofrenda_Description": "マップ上にOfrendaを設置して、泉の代わりに設置地点からリスポーンすることができる。",
+    "DOTA_Tooltip_modifier_muerta_ofrenda_intrinsic": "Ofrenda",
+    "DOTA_Tooltip_modifier_muerta_ofrenda_intrinsic_Description": "神聖な祭壇を置いた。",
+    "DOTA_Tooltip_ability_muerta_ofrenda_destroy": "Destroy Ofrenda",
+    "DOTA_Tooltip_ability_muerta_ofrenda_destroy_Description": "このOfrendaを破壊し、泉からリスポ―ンするようにする。",
+    "DOTA_Tooltip_Ability_muerta_supernatural": "Supernatural",
+    "DOTA_Tooltip_Ability_muerta_supernatural_Description": "エーテル状態のとき攻撃でき、またエーテル状態の対象を攻撃できる。エーテル状態の対象への攻撃はすべて魔法ダメージとして与えられる。",
+    "DOTA_Tooltip_ability_item_muertas_gun_Note0": "恐怖を受けている敵は、ユニットをすり抜け、スローを受けない。",
+    "DOTA_Tooltip_ability_item_muertas_gun_Note1": "跳弾の距離はDead Shotの射程距離 × %ricochet_distance_multiplier%。",
+    "DOTA_Tooltip_ability_muerta_ofrenda_Description": "指定地点に神聖な祭壇Ofrendaを設置する。Ofrendaからのリスポーン時、%pierce_the_veil_duration_pct%%%の効果時間を持つPierce The Veilを得て、Ofrendaを破壊して、クールダウン状態となる。<br><br>Ofrendaを選択し、自身を破壊させることができる。Ofrendaは同時に1つしか存在できない。",
+    "DOTA_Tooltip_Ability_item_muertas_gun_Description": "<h1>アクティブ: Dead Shot</h1> 敵ユニットや木に向かって霊体のような弾丸を発射する。命中時%damage%ダメージ、%impact_slow_duration%秒間の%impact_slow_percent%%%スローを与え、その後指定方向に跳ね返る。跳弾は通過したすべてのユニットにダメージを与え、ヒーローに当たると停止する。跳弾に当たったヒーローは、撃たれた方向に%ricochet_fear_duration%秒間の恐怖を受ける。"
 }
