@@ -12956,5 +12956,21 @@
     "DOTA_Tooltip_ability_brewmaster_cinder_brew_projectile_speed": "樽速度:",
     "DOTA_Tooltip_Facet_brewmaster_roll_out_the_barrel": "Roll Out the Barrel",
     "DOTA_Tooltip_Facet_brewmaster_roll_out_the_barrel_Description": "敵に樽を投げつけるようになり、ダメージを与え、Cider Brewの効果も与えるようになる。",
-    "DOTA_Tooltip_Facet_brewmaster_drunken_master_Description": "酒につかると、Brewmasterの移動速度が変化するようになり、{s:bonus_min_movement}%遅くなったり{s:bonus_max_movement}%早くなったりが交互に発生する。"
+    "DOTA_Tooltip_Facet_brewmaster_drunken_master_Description": "酒につかると、Brewmasterの移動速度が変化するようになり、{s:bonus_min_movement}%遅くなったり{s:bonus_max_movement}%早くなったりが交互に発生する。",
+    "DOTA_Tooltip_ability_shadow_demon_disseminate_Facet_shadow_demon_promulgate": "対象が敵だった場合、体力の%health_lost%%%を失い、効果が解除されたときにその半分が元に戻る。対象が味方だった場合、代わりにその分の体力を増加させる。",
+    "DOTA_Tooltip_modifier_shadow_demon_menace_crushed": "Menace",
+    "DOTA_Tooltip_modifier_shadow_demon_menace_crushed_Description": "%dMODIFIER_PROPERTY_INCOMING_DAMAGE_PERCENTAGE%%%多くダメージを受けている。",
+    "DOTA_Tooltip_modifier_shadow_demon_disseminate_hploss": "Promulgate",
+    "DOTA_Tooltip_modifier_shadow_demon_disseminate_hploss_Description": "Shadow Demonによって一時的に体力を変化されている。",
+    "DOTA_Tooltip_ability_shadow_demon_shadow_servant": "Shadow Servant",
+    "DOTA_Tooltip_ability_shadow_demon_shadow_servant_Description": "Shadow Demonは周囲でヒーローが死ぬとそのイリュージョンを作り出す。",
+    "DOTA_Tooltip_ability_shadow_demon_shadow_servant_Note0": "Shadow Demonによってキルされた場合、距離に関係なくイリュージョンを作り出す。",
+    "DOTA_Tooltip_ability_shadow_demon_shadow_servant_Note1": "敵ヒーローがリスポーンするかShadow Daemonが死ぬとイリュージョンは消える。",
+    "DOTA_Tooltip_ability_shadow_demon_shadow_servant_illusion_outgoing_damage_tooltip": "%イリュージョン与ダメージ:",
+    "DOTA_Tooltip_ability_shadow_demon_shadow_servant_illusion_incoming_damage_tooltip": "イリュージョン受ダメージ:",
+    "DOTA_Tooltip_ability_shadow_demon_menace_Description": "Shadow Demonが敵に攻撃すると、スタックする%stack%%%のダメージ増幅デバフを%duration%秒与える。",
+    "DOTA_Tooltip_Facet_shadow_demon_promulgate": "Promulgate",
+    "DOTA_Tooltip_Facet_shadow_demon_promulgate_Description": "Disseminateは効果中に相手の体力の一定割合を即座に削る。",
+    "DOTA_Tooltip_ability_shadow_demon_menace": "Menace",
+    "DOTA_Tooltip_ability_shadow_demon_shadow_servant_radius": "範囲:"
 }
