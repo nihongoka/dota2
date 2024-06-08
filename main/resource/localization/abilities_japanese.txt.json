@@ -6180,7 +6180,7 @@
     "DOTA_Tooltip_ability_brewmaster_drunken_haze_miss_chance": "%ミス確率:",
     "DOTA_Tooltip_ability_brewmaster_cinder_brew": "Cinder Brew",
     "DOTA_Tooltip_ability_brewmaster_drunken_haze_Description": "対象をアルコールまみれにし、移動速度を減少させて、攻撃をミスする確率を作る。",
-    "DOTA_Tooltip_ability_brewmaster_cinder_brew_Description": "自身と地点をアルコールでビチャビチャにし、敵ユニットの移動速度を遅くしてスペルのダメージを受けると発火するようにする。敵が発火すると%extra_duration%秒効果時間が延長される。自身がアルコールに浸っているとき、Drunken Brawlerのスタンスが強化される。魔法ダメージを受けたり与えたりすると、Brewed Upの効果時間が延長される。",
+    "DOTA_Tooltip_ability_brewmaster_cinder_brew_Description": "自身と地点をアルコールでビチャビチャにし、敵ユニットの移動速度を遅くして魔法かピュアのダメージを受けると発火するようにする。敵が発火すると%extra_duration%秒効果時間が延長される。自身がアルコールに浸っているとき、Drunken Brawlerのスタンスが強化される。魔法ダメージを受けたり与えたりすると、Brewed Upの効果時間が延長される。",
     "DOTA_Tooltip_ability_brewmaster_cinder_brew_duration": "効果時間:",
     "DOTA_Tooltip_ability_brewmaster_cinder_brew_movement_slow": "%移動速度減少:",
     "DOTA_Tooltip_ability_brewmaster_drunken_brawler": "Drunken Brawler",
@@ -10839,7 +10839,7 @@
     "DOTA_Tooltip_modifier_techies_reactive_tazer_disarmed_Description": "Reactive Tazerによってディスアームを受けている",
     "DOTA_Tooltip_ability_monkey_king_boundless_strike_shard_Description": "Boundless Strikeのオートキャストが有効の場合、Boundless Strikeで叩いた地点に飛び移るようになり、着地時に最大チャネル時の%spring_channel_pct%%%の威力のPrimal Springを適用する。",
     "DOTA_Tooltip_modifier_spirit_breaker_planar_pocket_Description": "Spirit Breakerは敵の対象指定アビリティの対象を1度だけ自身にする。",
-    "DOTA_Tooltip_ability_brewmaster_primal_companion_Description": "現在のDrunken Brawlerのスタンスに応じたBrewlingを生成する。BrewlingはBrewmasterから距離%disable_distance%以上離れると、%movement_slow_when_out_of_range%%%の移動速度減少とサイレンスを受ける。Brewlingのクールダウンは通常より%cooldown_penalty_pct%%%だけ長い。<br><br>また、Brewlingが敵ヒーローまたは敵ヒーローのコントロール下にあるユニットに攻撃されている場合、%cooldown_on_take_damage%秒間新しいBrewlingを生成できなくなる。もし、Brewlingが死亡した場合、クールダウンは%cooldown_on_death%となる。<br><br>Brewlingは同時に1体しか生成できない。もし、Primal Splitを使用した場合、既存のBrewlingは消滅する。",
+    "DOTA_Tooltip_ability_brewmaster_primal_companion_Description": "現在のDrunken Brawlerのスタンスに応じたBrewlingを生成する。<br><br>また、Brewlingが敵ヒーローまたは敵ヒーローのコントロール下にあるユニットに攻撃されている場合、%cooldown_on_take_damage%秒間新しいBrewlingを生成できなくなる。もし、Brewlingが死亡した場合、クールダウンは%cooldown_on_death%となる。<br><br>Brewlingは同時に1体しか生成できない。もし、Primal Splitを使用した場合、既存のBrewlingは消滅する。",
     "DOTA_Tooltip_ability_broodmother_insatiable_hunger_shard_Description": "効果時間が増加する。効果中、ボーナスダメージが%shard_damage_tick_interval%秒毎に%shard_damage_per_tick%%%増加していくようになる。",
     "DOTA_Tooltip_ability_broodmother_insatiable_hunger_shard_spiderling_duration": "Spiderling 効果時間:",
     "DOTA_Tooltip_ability_broodmother_insatiable_hunger_shard_creep_pct": "%クリープへの伝染確率:",
@@ -12947,5 +12947,14 @@
     "DOTA_Tooltip_Facet_untenable_form": "Wildskin",
     "DOTA_Tooltip_Facet_untenable_form_Description": "True Form体力、アーマーボーナスが{s:bonus_bonus_armor}%増加しているが、効果時間が{s:bonus_duration}秒減少している。",
     "DOTA_Tooltip_Facet_lone_druid_unbearable": "Unbearable",
-    "DOTA_Tooltip_Facet_lone_druid_unbearable_Description": "True FormによってLone Druidの代わりにSpirit Bearが変身する。"
+    "DOTA_Tooltip_Facet_lone_druid_unbearable_Description": "True FormによってLone Druidの代わりにSpirit Bearが変身する。",
+    "DOTA_Tooltip_ability_brewmaster_cinder_brew_total_ignite_damage": "燃焼合計ダメージ:",
+    "DOTA_Tooltip_ability_brewmaster_cinder_brew_radius": "範囲:",
+    "DOTA_Tooltip_ability_brewmaster_cinder_brew_barrel_impact_damage": "樽爆発ダメージ:",
+    "DOTA_Tooltip_Facet_brewmaster_drunken_master": "Drunken Master",
+    "DOTA_Tooltip_ability_brewmaster_cinder_brew_Facet_brewmaster_roll_out_the_barrel": "Cinder Brewはエール入りの樽を転がすスキルとなり、道中の敵もびしょぬれにし、最終的に爆発する。",
+    "DOTA_Tooltip_ability_brewmaster_cinder_brew_projectile_speed": "樽速度:",
+    "DOTA_Tooltip_Facet_brewmaster_roll_out_the_barrel": "Roll Out the Barrel",
+    "DOTA_Tooltip_Facet_brewmaster_roll_out_the_barrel_Description": "敵に樽を投げつけるようになり、ダメージを与え、Cider Brewの効果も与えるようになる。",
+    "DOTA_Tooltip_Facet_brewmaster_drunken_master_Description": "酒につかると、Brewmasterの移動速度が変化するようになり、{s:bonus_min_movement}%遅くなったり{s:bonus_max_movement}%早くなったりが交互に発生する。"
 }
