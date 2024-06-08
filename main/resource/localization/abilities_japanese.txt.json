@@ -12972,5 +12972,8 @@
     "DOTA_Tooltip_Facet_shadow_demon_promulgate": "Promulgate",
     "DOTA_Tooltip_Facet_shadow_demon_promulgate_Description": "Disseminateは効果中に相手の体力の一定割合を即座に削る。",
     "DOTA_Tooltip_ability_shadow_demon_menace": "Menace",
-    "DOTA_Tooltip_ability_shadow_demon_shadow_servant_radius": "範囲:"
+    "DOTA_Tooltip_ability_shadow_demon_shadow_servant_radius": "範囲:",
+    "DOTA_Tooltip_ability_undying_soul_rip_Facet_undying_ripped": "Soul Ripを味方に使うと、UndyingのStrengthの割合分、その味方のStrengthが増加する。",
+    "DOTA_Tooltip_Facet_treant_sapling_Description": "Leech Seedは地面を対象にして木を植えることができる。",
+    "DOTA_Tooltip_ability_treant_leech_seed_Facet_treant_sapling": "Leech Seedは地面を対象とし、効果時間の間、味方を回復し効果範囲内の全ての敵にダメージを与える木を植えることができる。クリープへのダメージは%creep_damage_reduction_pct%%減少する。木は切り倒されてもすぐにまた成長する。"
 }
