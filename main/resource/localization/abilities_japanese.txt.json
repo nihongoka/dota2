@@ -13122,7 +13122,7 @@
     "DOTA_Tooltip_ability_undying_soul_rip_strength_share_percent": "%STR増加:",
     "DOTA_Tooltip_ability_undying_soul_rip_strength_share_duration": "効果時間:",
     "DOTA_Tooltip_ability_meepo_divided_we_stand_tooltip_magic_resist": "%ボーナス魔法耐性:",
-    "DOTA_Tooltip_ability_rubick_might_and_magus_Description": "1%のスペル増幅を得る毎にRubickの攻撃ダメージが%bonus_damage_pct_tooltip%%%、魔法耐性が%magic_resist_pct_tooltip%%%増加する。",
+    "DOTA_Tooltip_ability_rubick_might_and_magus_Description": "1%%のスペル増幅を得る毎にRubickの攻撃ダメージが%bonus_damage_pct_tooltip%%%、魔法耐性が%magic_resist_pct_tooltip%%%増加する。",
     "DOTA_Tooltip_Facet_rubick_frugal_filch": "Frugal Filch",
     "DOTA_Tooltip_Facet_rubick_arcane_accumulation": "Arcane Accumulation",
     "DOTA_Tooltip_Facet_undying_ripped": "Ripped",
