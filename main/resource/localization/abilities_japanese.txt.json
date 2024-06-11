@@ -13369,7 +13369,7 @@
     "DOTA_Tooltip_ability_pangolier_fortune_favors_the_bold_Description": "近くにいる敵のランダムな効果がPangolierに発生する確率が減少する。",
     "DOTA_Tooltip_Facet_pangolier_thunderbolt_Description": "Rolling Thunderの移動速度とターン速度が増加するが、持続時間が減少する。",
     "DOTA_Tooltip_ability_dark_willow_bramble_maze_Facet_dark_willow_thorny_thicket": "追加の茨を生成する。これらの茨は%extra_brambles_placement_duration%s持続する。",
-    "DOTA_Tooltip_ability_dark_willow_shadow_realm_Facet_dark_willow_throwing_shade": "Shadow Realmの効果中、Dark Willowは半径%aura_radius%のオーラを放ち、効果範囲内の敵に対して与えるダメージを%aura_damage_pct%%まで増加させる。ダメージはShadow Realmの効果が持続している時間によって変化する。",
+    "DOTA_Tooltip_ability_dark_willow_shadow_realm_Facet_dark_willow_throwing_shade": "Shadow Realmの効果中、Dark Willowは半径%aura_radius%のオーラを放ち、効果範囲内の敵に対して与えるダメージを%aura_damage_pct%%増加させる。ダメージはShadow Realmの効果が持続している時間によって変化する。",
     "DOTA_Tooltip_ability_dark_willow_pixie_dust_Description": "スキルによってDark Willowが対象指定不可状態になるたび、その状態の間%HP_regen%%HP自然回復と%mana_regen_amp%%マナ自然回復を得る。",
     "DOTA_Tooltip_Facet_dark_willow_throwing_shade_Description": "Dark WillowはShadow Realmにいるとき、周囲のヒーローにより多くのダメージを与える。"
 }
