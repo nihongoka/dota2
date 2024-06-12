@@ -10836,7 +10836,7 @@
     "DOTA_Tooltip_ability_broodmother_spin_web_bonus_turn_rate": "振り向き速度ボーナス:",
     "DOTA_Tooltip_modifier_techies_reactive_tazer_disarmed": "Tazered",
     "DOTA_Tooltip_modifier_techies_reactive_tazer_disarmed_Description": "Reactive Tazerによってディスアームを受けている",
-    "DOTA_Tooltip_ability_monkey_king_boundless_strike_shard_Description": "Boundless Strikeのオートキャストが有効の場合、Boundless Strikeで叩いた地点に飛び移るようになり、着地時に最大チャネル時の%spring_channel_pct%%%の威力のPrimal Springを適用する。",
+    "DOTA_Tooltip_ability_monkey_king_boundless_strike_shard_Description": "Boundless StrikeのPrimal Springを最大時間チャネリングしたときの%spring_channel_pct%%%の威力の",
     "DOTA_Tooltip_modifier_spirit_breaker_planar_pocket_Description": "Spirit Breakerは敵の対象指定アビリティの対象を1度だけ自身にする。",
     "DOTA_Tooltip_ability_brewmaster_primal_companion_Description": "現在のDrunken Brawlerのスタンスに応じたBrewlingを生成する。<br><br>また、Brewlingが敵ヒーローまたは敵ヒーローのコントロール下にあるユニットに攻撃されている場合、%cooldown_on_take_damage%秒間新しいBrewlingを生成できなくなる。もし、Brewlingが死亡した場合、クールダウンは%cooldown_on_death%となる。<br><br>Brewlingは同時に1体しか生成できない。もし、Primal Splitを使用した場合、既存のBrewlingは消滅する。",
     "DOTA_Tooltip_ability_broodmother_insatiable_hunger_shard_Description": "効果時間が増加する。効果中、ボーナスダメージが%shard_damage_tick_interval%秒毎に%shard_damage_per_tick%%%増加していくようになる。",
