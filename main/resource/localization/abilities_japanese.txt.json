@@ -4253,7 +4253,7 @@
     "DOTA_Tooltip_ability_oracle_fates_edict_duration": "効果時間:",
     "DOTA_Tooltip_ability_oracle_false_promise_Description": "効果が切れるまで、回復あるいは受けるダメージを保留することで一時的に味方の運命を変える。保留された回復量は増幅される。ほとんどのデバフとディスエーブルをキャスト時に取り除く。\n\nディスペルタイプ: 強化ディスペル",
     "DOTA_Tooltip_ability_oracle_false_promise_duration": "持続時間:",
-    "DOTA_Tooltip_ability_monkey_king_boundless_strike_Description": "如意棒を巨大化させて地面を叩きつけ、直線上にいる敵をスタンさせてダメージを与える。攻撃に基づいてクリティカルヒットを与える。トゥルーストライクを与える。",
+    "DOTA_Tooltip_ability_monkey_king_boundless_strike_Description": "如意棒を巨大化させて地面を叩きつけ、直線上にいる敵をスタンさせてボーナスダメージ付きの攻撃のクリティカルダメージを与える。この攻撃はトゥルーストライクとなる。",
     "DOTA_Tooltip_ability_monkey_king_boundless_strike_strike_cast_range": "射程距離:",
     "DOTA_Tooltip_ability_monkey_king_boundless_strike_stun_duration": "スタン持続時間:",
     "DOTA_Tooltip_ability_monkey_king_boundless_strike_strike_crit_mult": "%クリティカル ダメージ:",
@@ -13370,5 +13370,6 @@
     "DOTA_Tooltip_ability_dark_willow_bramble_maze_Facet_dark_willow_thorny_thicket": "追加の茨を生成する。これらの茨は%extra_brambles_placement_duration%s持続する。",
     "DOTA_Tooltip_ability_dark_willow_shadow_realm_Facet_dark_willow_throwing_shade": "Shadow Realmの効果中、Dark Willowは半径%aura_radius%のオーラを放ち、効果範囲内の敵に対して与えるダメージを%aura_damage_pct%%%増加させる。ダメージはShadow Realmの効果が持続している時間によって変化する。",
     "DOTA_Tooltip_ability_dark_willow_pixie_dust_Description": "スキルによってDark Willowが対象指定不可状態になるたび、その状態の間%HP_regen%%HP自然回復と%mana_regen_amp%%マナ自然回復を得る。",
-    "DOTA_Tooltip_Facet_dark_willow_throwing_shade_Description": "Dark WillowはShadow Realmにいるとき、周囲のヒーローにより多くのダメージを与える。"
+    "DOTA_Tooltip_Facet_dark_willow_throwing_shade_Description": "Dark WillowはShadow Realmにいるとき、周囲のヒーローにより多くのダメージを与える。",
+    "DOTA_Tooltip_ability_monkey_king_tree_dance_Facet_monkey_king_simian_stride": "Monkey Kingの体力が%no_cooldown_hp_threshold%%%以上の時、Tree Danceのクールダウンは無くなる。"
 }
