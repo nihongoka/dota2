@@ -384,7 +384,6 @@
     "DOTA_Tooltip_ability_special_bonus_unique_drow_ranger_3": "+{s:bonus_chance}% Marksmanship 確率",
     "DOTA_Tooltip_ability_earthshaker_fissure": "Fissure",
     "DOTA_Tooltip_ability_earthshaker_fissure_Description": "強大なトーテムで地面を叩いて、直線上の敵ユニットにスタンとダメージを与え、通行不能な岩の壁を作り出す。",
-    "DOTA_Tooltip_ability_earthshaker_fissure_fissure_range": "FISSURE距離:",
     "DOTA_Tooltip_ability_earthshaker_fissure_fissure_duration": "FISSURE効果時間:",
     "DOTA_Tooltip_ability_earthshaker_fissure_stun_duration": "スタン時間:",
     "DOTA_Tooltip_ability_earthshaker_fissure_Note0": "クリープはFissureが消えるのを待つ。避けて歩こうとはしない。",
