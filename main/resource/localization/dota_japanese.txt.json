@@ -16373,7 +16373,7 @@
     "Attrib_ExpirationDate_Transform": "このアイテムは %s1 に変化します。",
     "DOTAUI_FullscreenHero": "フルスクリーンで表示",
     "DOTA_ToolTip_Disabled_By_Root": "ルート中はキャストできない。",
-    "DOTA_ToolTip_Affected_By_AoE_Increase": "このアビリティのいくつかの数値は範囲ボーナスの影響を受ける。",
+    "DOTA_ToolTip_Affected_By_AoE_Increase": "このアビリティのいくつかの数値はAoEボーナスの影響を受ける。",
     "dota_settings_minimap_heroes": "アイコン",
     "dota_settings_minimap_alt_heroes": "Alt時のアイコン",
     "dota_settings_minimap_heroes_icon_with_arrow": "ヒーローと矢印",
