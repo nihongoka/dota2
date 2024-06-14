@@ -13516,5 +13516,7 @@
     "DOTA_Tooltip_ability_special_bonus_unique_medusa_stone_gaze_cooldown": "-{s:bonus_AbilityCooldown}% Stone Gazeクールダウン/マナコスト",
     "DOTA_Tooltip_ability_special_bonus_unique_sniper_take_aim_armor": "+{s:bonus_bonus_armor} Take Aimアーマー",
     "DOTA_Tooltip_ability_special_bonus_unique_naga_siren_2_facet_naga_siren_active_riptide": "+{s:bonus_damage}% Delugeダメージ",
-    "DOTA_Tooltip_ability_warlock_golem_permanent_immolation_healboost": ""
+    "DOTA_Tooltip_ability_warlock_golem_permanent_immolation_healboost": "",
+    "DOTA_Tooltip_ability_item_spirit_vessel_lore": "神によって鍛造され、他者の魂を捕らえる。",
+    "DOTA_Tooltip_ability_item_kaya_lore": "高名な魔術師の杖で、何千年もの昔から行方がわからなくなっていた。"
 }
