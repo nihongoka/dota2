@@ -84,5 +84,10 @@
     "SpawnAlly_Msg": "味方をスポーンさせた",
     "ChooseHero_Button": "ヒーロースポーン",
     "SpawnDummyTarget_Msg": "ダミーターゲットをスポーンさせた",
-    "SpawnAllyHero_Button": "味方"
+    "SpawnAllyHero_Button": "味方",
+    "SpeedDecrement_Tooltip": "速度減少",
+    "ToggleScepter_Tooltip": "選択したヒーローのセプターを切り替え",
+    "SpeedReset_Tooltip": "通常の速度に戻す",
+    "SpeedIncrement_Tooltip": "速度増加",
+    "Arcana_Hero_Demo_Special_Venge": "ノート: Queen Imperia's voice packはCrownfallのネタバレ防止のため、無効になっています。"
 }
