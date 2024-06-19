@@ -12421,7 +12421,7 @@
     "DOTA_Tooltip_modifier_dark_seer_mental_fortitude": "Mental Fortitude",
     "DOTA_Tooltip_modifier_dark_seer_mental_fortitude_Description": "Intelligenceが%dMODIFIER_PROPERTY_STATS_INTELLECT_BONUS%増加している。",
     "DOTA_Tooltip_ability_dark_seer_quick_wit_Description": "Dark SeerはIntelligenceからも攻撃速度が増加する。",
-    "DOTA_Tooltip_ability_dark_seer_quick_wit_Note0": "Dark SeerはIntelligenceが1増える毎にから%int_to_atkspd%の攻撃速度を得る。",
+    "DOTA_Tooltip_ability_dark_seer_quick_wit_Note0": "Dark SeerはIntelligenceが1増える毎に、%int_to_atkspd%の攻撃速度を得る。",
     "DOTA_Tooltip_ability_dark_seer_heart_of_battle": "Heart of Battle",
     "DOTA_Tooltip_ability_dark_seer_heart_of_battle_Description": "Dark Seerは近くにほかのヒーローがいる場合移動速度が上がる。",
     "DOTA_Tooltip_ability_dark_seer_heart_of_battle_Note0": "Dark Seerの移動速度は周囲%radius%に別のヒーローがいる場合、%movement_speed_pct%%%増加する。基礎移動速度は減少する。",
