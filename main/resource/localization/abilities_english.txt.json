@@ -4851,6 +4851,8 @@
     "DOTA_Tooltip_modifier_spectre_desolate_Description": "Taking bonus damage from Spectre.",
     "DOTA_Tooltip_modifier_spectre_desolate_blind": "Vision Reduced",
     "DOTA_Tooltip_modifier_spectre_desolate_blind_Description": "Vision reduced by Desolate",
+    "DOTA_Tooltip_modifier_spectre_dispersion_boost": "Dispersion",
+    "DOTA_Tooltip_modifier_spectre_dispersion_boost_Description": "Absorbing and reflecting more damage.",
     "DOTA_Tooltip_ability_doom_bringer_devour": "Devour",
     "DOTA_Tooltip_ability_doom_bringer_devour_Description": "Consumes an enemy or neutral creep, acquiring any special abilities that it possessed. If alt-cast is deactivated, Doom will not acquire the creep's abilities. Duration is equal to the cooldown.",
     "DOTA_Tooltip_ability_doom_bringer_devour_Facet_doom_bringer_gluttony": "Devour now has %AbilityCharges% charges and stolen creep abilities are upgraded by one level.",
