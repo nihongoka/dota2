@@ -12086,7 +12086,7 @@
     "DOTA_Tooltip_ability_enigma_gravity_well": "Gravity Well",
     "DOTA_Tooltip_Facet_tidehunter_sizescale07": "Seahorse Eater",
     "DOTA_Tooltip_modifier_enigma_gravity_well": "Gravity Well",
-    "DOTA_Tooltip_ability_enigma_gravity_well_Description": "Enigmaの周囲%max_dist%にいる味方は最大%damage_reduction%%%のダメージ軽減を得る。この効果は最大距離だと0%で、味方が%min_dist%まで近づけば効果が最大になる。この効果はEnigma自身は影響を受けない。",
+    "DOTA_Tooltip_ability_enigma_gravity_well_Description": "Enigmaの周囲%max_dist%にいる味方は最大%damage_reduction%%%のダメージ軽減を得る。この効果は最大距離だと0%%で、味方が%min_dist%まで近づけば効果が最大になる。この効果はEnigma自身は影響を受けない。",
     "DOTA_Tooltip_ability_tidehunter_kraken_shell_Facet_tidehunter_kraken_swell": "Anchor Smashの効果を受けた敵ヒーローが死亡した場合、Kraken Shellのダメージブロックが永続的に強化される。",
     "DOTA_Tooltip_ability_tidehunter_blubber": "Blubber",
     "DOTA_Tooltip_ability_tidehunter_blubber_Description": "Tiderhunterは%damage_cleanse%ダメージ受けるたびにネガティブなステータス効果を取り除く。パージ不可能でない限りほとんどのデバフを取り除く。\n\nディスペルタイプ: 強化ディスペル",
@@ -13518,5 +13518,8 @@
     "DOTA_Tooltip_ability_special_bonus_unique_naga_siren_2_facet_naga_siren_active_riptide": "+{s:bonus_damage}% Delugeダメージ",
     "DOTA_Tooltip_ability_warlock_golem_permanent_immolation_healboost": "",
     "DOTA_Tooltip_ability_item_spirit_vessel_lore": "神によって鍛造され、他者の魂を捕らえる。",
-    "DOTA_Tooltip_ability_item_kaya_lore": "高名な魔術師の杖で、何千年もの昔から行方がわからなくなっていた。"
+    "DOTA_Tooltip_ability_item_kaya_lore": "高名な魔術師の杖で、何千年もの昔から行方がわからなくなっていた。",
+    "DOTA_Tooltip_modifier_spectre_dispersion_boost": "Dispersion",
+    "DOTA_Tooltip_modifier_spectre_dispersion_boost_Description": "より多くのダメージを吸収し、反射している。",
+    "DOTA_Tooltip_Ability_item_recipe_rapier": "Divine Rapierレシピ"
 }
