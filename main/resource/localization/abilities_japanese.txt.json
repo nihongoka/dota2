@@ -12525,8 +12525,6 @@
     "DOTA_Tooltip_ability_night_stalker_void_Facet_night_stalker_blinding_void": "Voidの効果を受けた敵は味方と視界を共有しない。影響を受けた敵は味方から見えない時に毎秒ダメージを受ける。",
     "DOTA_Tooltip_ability_night_stalker_void_invisible_damage_pers": "孤立時秒間ダメージ:",
     "DOTA_Tooltip_ability_night_stalker_void_vision_penalty": "視界減少:",
-    "DOTA_Tooltip_ability_night_stalker_crippling_fear_mana_pers_day": "%昼マナコスト:",
-    "DOTA_Tooltip_ability_night_stalker_crippling_fear_mana_pers_night": "%夜マナコスト:",
     "DOTA_Tooltip_ability_night_stalker_heart_of_darkness": "Heart of Darkness",
     "DOTA_Tooltip_ability_broodmother_spawn_spiderlings_movement_speed": "%スロー:",
     "DOTA_Tooltip_ability_broodmother_spin_web_degen": "%敵体力自然回復減少:",
