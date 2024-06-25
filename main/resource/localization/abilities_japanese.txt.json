@@ -7309,8 +7309,6 @@
     "DOTA_Tooltip_ability_special_bonus_unique_drow_ranger_7": "-{s:bonus_AbilityCooldown}秒 Gust クールダウン",
     "DOTA_Tooltip_ability_pudge_rot_scepter_description": "範囲とダメージが増加し、敵の体力自然回復を減少させるようになる。",
     "DOTA_Tooltip_ability_pudge_dismember_shard_description": "クールダウンを減少させ、味方を指定することで飲み込み、体力を毎秒割合で回復させる。味方に使用する場合、キャスト範囲が伸びる。",
-    "DOTA_Tooltip_ability_pudge_rot_scepter_rot_damage_bonus": "ボーナスダメージ:",
-    "DOTA_Tooltip_ability_pudge_rot_scepter_rot_radius_bonus": "ボーナス範囲:",
     "DOTA_Tooltip_ability_nevermore_requiem_scepter_description": "クールダウンが減少し、Requiem of Souls使用時に魂が戻ってくるようになる。戻ってくる魂はダメージが減少しているが、ダメージを与えた分だけShadow Fiendを回復させる。",
     "DOTA_Tooltip_ability_monkey_king_wukongs_command_scepter_description": "一定の間隔でMonkey Kingの近くに分身を作成する。不可視状態のときや木の上にいるとき、分身は作成されない。Monkey Kingが近くにいるときだけ分身は建造物を攻撃する。分身がJingu Masteryのスタックを独立して増やすようになる。",
     "DOTA_Tooltip_Ability_item_trickster_cloak": "Trickster Cloak",
