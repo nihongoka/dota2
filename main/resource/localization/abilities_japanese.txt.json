@@ -12495,7 +12495,7 @@
     "DOTA_Tooltip_Facet_shadow_shaman_massive_serpent_ward_Description": "{s:bonus_mega_ward_multiplier_tooltip}倍のダメージと多くの落とすゴールド、{s:bonus_mega_ward_health_tooltip}倍の体力を持つ、強大な1体のSerpent Wardを召喚するようになる。",
     "DOTA_Tooltip_Facet_riki_contract_killer_Description": "Rikiはキルやアシストでボーナス経験値を得る。",
     "DOTA_Tooltip_Facet_tinker_repair_bots_Description": "March of the Machinesはスタックしない一時的な回復を味方ヒーローに与える。",
-    "DOTA_Tooltip_Facet_tinker_translocator_Description": "Tinker自身に張られたDefense Matrixが完全になくなったとき、Tinkerは前方のランダムな場所にブリンクする。<br><br>ディスペルタイプ: 強化ディスペル",
+    "DOTA_Tooltip_Facet_tinker_translocator_Description": "Tinker自身に張られたDefense Matrixが完全になくなったとき、Tinkerは前方のランダムな場所にブリンクする。<br><br>ディスペルタイプ: 基本ディスペル",
     "DOTA_Tooltip_Facet_sniper_ghillie_suit_Description": "Take Aimが有効な間、Sniperは攻撃しても敵の視界に映らない。",
     "DOTA_Tooltip_Facet_sniper_scattershot_Description": "Shrapnelのスローとダメージは増加するが、効果時間は短くなる。",
     "DOTA_Tooltip_Facet_necrolyte_profane_potency_Description": "SadistはNecrophosのアビリティやアイテムの範囲もキル毎に増やす。",
