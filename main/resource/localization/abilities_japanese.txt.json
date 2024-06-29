@@ -6452,7 +6452,7 @@
     "DOTA_Tooltip_ability_arc_warden_tempest_double_Description": "分かたれた自らのかけらで一時的に体を構築し、もう1人のArc Wardenを作り出す。クローンはほとんどの消耗品と死亡時に落とすアイテムを除き、本体が持っている全てのアイテムとTempest Double仕様のスペルを使える。本体がアイテムやスペルを使用してもクローンの持つ同じものはクールダウン状態にならず、逆の場合もまた同じ。<br><br>敵によってクローンがキルされた場合、敵はゴールドと経験値を獲得し、このアビリティはクールダウン状態になる。<br><br>Tempest DoubleはArc Wardenから離れすぎると自我を失い、受けるダメージが増加する。",
     "DOTA_Tooltip_modifier_arc_warden_magnetic_field_attack_speed_Description": "攻撃速度が%dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%増加し、磁場の外の敵からの通常攻撃に対して100%%回避を得る。",
     "DOTA_Tooltip_ability_dark_willow_cursed_crown_Description": "指定した対象に太古の妖精の呪いをかける。発動からしばらく後、対象とその周囲の敵はスタンする。",
-    "DOTA_Tooltip_ability_dark_willow_bedlam_Description": "ペットの妖精を味方の周囲に放ち、周囲の敵を素早く攻撃させる。<br>Terrorizeを使った後は放った妖精が戻ってくるまでBedlamを発動できない。",
+    "DOTA_Tooltip_ability_dark_willow_bedlam_Description": "ペットの妖精を自身の周囲に放ち、周囲の敵を素早く攻撃させる。<br>Terrorizeを使った後は放った妖精が戻ってくるまでBedlamを発動できない。",
     "DOTA_Tooltip_ability_earth_spirit_geomagnetic_grip_rock_damage": "衝突ダメージ:",
     "DOTA_Tooltip_ability_earth_spirit_geomagnetic_grip_pull_units_per_second_heroes": "石化ヒーロー引き寄せ速度:",
     "DOTA_Tooltip_ability_earth_spirit_stone_caller": "Stone Remnant",
