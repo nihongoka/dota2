@@ -3362,7 +3362,7 @@
     "DOTA_Tooltip_ability_special_bonus_unique_ursa": "+{s:bonus_damage_per_stack} Fury Swipesダメージ",
     "DOTA_Tooltip_ability_special_bonus_unique_ursa_2": "+{s:bonus_shock_radius} Earthshock 範囲",
     "DOTA_Tooltip_ability_special_bonus_unique_ursa_3": "Earthshockは{s:bonus_AbilityCharges}チャージ持つ",
-    "DOTA_Tooltip_ability_special_bonus_unique_ursa_4": "+{s:value}秒 Fury Swipesリセット時間",
+    "DOTA_Tooltip_ability_special_bonus_unique_ursa_4": "+{s:bonus_bonus_reset_time}秒 Fury Swipesリセット時間",
     "DOTA_Tooltip_ability_special_bonus_unique_ursa_5": "+{s:value} Earthshock 範囲",
     "DOTA_Tooltip_ability_special_bonus_unique_ursa_7": "+{s:bonus_max_attacks} Overpower攻撃回数",
     "DOTA_Tooltip_ability_polar_furbolg_ursa_warrior_thunder_clap_movespeed_slow": "移動速度減少:",
