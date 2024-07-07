@@ -6823,7 +6823,7 @@
     "DOTA_Lobby_Settings_Bots_Browse": "ワークショップを閲覧する...",
     "dota_lobby_host": "ロビーホスト: {g:dota_filtered_string:lobby_host_name}",
     "game_mode_22_desc": "各チームはすべてのヒーロープールから交互にヒーローをピックします。",
-    "game_mode_4_desc": "各プレイヤーはランダムに選ばれた3人のヒーローの中から1人のヒーローを選択します。",
+    "game_mode_4_desc": "各プレイヤーはランダムに選ばれた4人のヒーローの中から1人のヒーローを選択します。",
     "game_mode_5_desc": "各プレイヤーはランダムに1人のヒーローが割り当てられます。",
     "game_mode_6_desc": "-",
     "game_mode_7_desc": "Diretide",
@@ -17298,5 +17298,18 @@
     "DOTA_Crownfall_EncounterPitFight_ResultWin_Title": "賭けに勝ちました！",
     "DOTA_Crownfall_EncounterPitFight_ResultWin": "獲得したトークン:",
     "DOTA_Crownfall_EncounterPitFight_ResultLose_Title": "賭けに負けました。",
-    "DOTA_Crownfall_EncounterPitFight_ResultLose": "失ったトークン:"
+    "DOTA_Crownfall_EncounterPitFight_ResultLose": "失ったトークン:",
+    "DOTA_Purchase_Nine": "9個購入",
+    "dota_settings_showfacetnames": "ファセット名",
+    "dota_show_nearby_tower_attack_range": "常に近くのタワーの攻撃範囲を表示する",
+    "dota_settings_alt_right_range_hint": "持続的な範囲の可視化",
+    "dota_settings_hovered_always_top": "ダイナミックな体力バーフォーカス",
+    "DOTA_Tooltip_Settings_HoverAlwaysOnTop": "有効にすると、カーソルを合わせているユニットの体力バーが常に他のヘルスバーより上に表示されます。",
+    "dota_tooltip_settings_alt_right_range_hint": "Altキーを押しながらHUDを右クリックすると、ヒーローの範囲に関する項目（例: アビリティ、アイテム、経験値、攻撃範囲）が表示され、選択した場合、その範囲をリアルタイムで可視化するリングが表示します。 範囲はヒーローのバフやアイテム効果を反映して自動的に更新されます。",
+    "DOTA_Purchase_One": "1個購入",
+    "dota_settings_force_english_local_key_names": "英語配列のキーキャップ名を強制する",
+    "dota_dashboard_start_playing": "プレイ",
+    "dota_settings_force_english_local_key_names_tooltip": "この変更は、USキーボード以外のキーボードを使用したときのキーバインド表示に影響を及ぼします。",
+    "dota_dashboard_category_play": "プレイ",
+    "dota_preview_teleport_channel_time": "キャスト時のテレポート詠唱時間のプレビュー"
 }
