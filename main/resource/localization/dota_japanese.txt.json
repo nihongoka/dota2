@@ -17472,5 +17472,6 @@
     "DOTA_FightingGame_Arcade_NewHighScore": "ハイスコア更新！",
     "DOTA_FightingGame_Arcade_Credits": "クレジット: {d:remaining_credits}",
     "DOTA_FightingGame_Online_Quit": "やめる",
-    "DOTA_FightingGame_Online_Rematch": "再戦"
+    "DOTA_FightingGame_Online_Rematch": "再戦",
+    "DOTA_CrownfallStore_Act3Pass_Tokens": "<child id='PathfinderToken' />トークン×2 : サイドクエストを解放できます"
 }
