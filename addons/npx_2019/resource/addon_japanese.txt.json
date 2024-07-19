@@ -1,1 +1,23 @@
-{}
+{
+    "DotaNPX_Hint": "ヒント",
+    "DOTANPX_MainObjective": "主目標",
+    "DOTANPX_Ok": "OK",
+    "task_fail_pull_target": "中立クリープが死んだ。",
+    "DOTANPX_ScenarioFailed": "ステージ失敗",
+    "task_fail_protect_units": "味方を守るのに失敗した。",
+    "DOTANPX_Restart": "リスタート",
+    "task_fail_stack_target_out_of_time": "クリープのスタックに失敗した。",
+    "DOTANPX_Retry": "やり直す",
+    "DotaNPX_HintOk": "OK、わかった！",
+    "scenario_farming_main_objective": "ファームの基礎を学ぶ",
+    "scenario_farming_task_buy_boots": "Boots of Speedというアイテムをショップから購入",
+    "scenario_farming_task_learn_shrapnel": "Shrapnelのアビリティをレベルアップ",
+    "task_place_unit_at_location_fail": "ユニットの設置位置が遠すぎる。",
+    "DOTANPX_Exit": "退出",
+    "DOTANPX_Tasks": "やること",
+    "DOTANPX_ScenarioComplete": "ステージクリア",
+    "task_place_ward_at_location_fail": "Wardの設置位置が遠すぎる。",
+    "task_fail_stack_target_unit_died": "中立クリープが死んだ。",
+    "DOTANPX_Quit": "退出",
+    "task_fail_player_hero_death_fail": "あなたは死んだ。"
+}
