@@ -6,7 +6,8 @@ from struct import pack
 from .crc import _crc_hash
 
 
-_MAGIC = 0x44434356 # VCCD
+_MAGIC = 0x44434356  # VCCD
+
 
 class ClosedCaptions():
     def __init__(self):
@@ -17,18 +18,16 @@ class ClosedCaptions():
 
     def dump(self) -> bytes:
         buf = BytesIO()
-        blocks:List[BytesIO] = [BytesIO()]
+        blocks: List[BytesIO] = [BytesIO()]
         block = blocks[0]
         block_num = 0
-        block_size = 0 # current
+        block_size = 0  # current
         offset = 0
 
         buf.write(pack('<IIIIII', _MAGIC, self.version, 0, self.block_size, len(self.captions), 0))
 
-        key: str
-        text: str
         for key, text in self.captions.items():
-            if type(key) != str or type(text) != str:
+            if key is not str or text is not str:
                 raise Exception()
             text += '\0'
             text_data = text.encode('utf-16-le')
@@ -61,4 +60,3 @@ class ClosedCaptions():
         buf.seek(0)
 
         return buf.read()
-
