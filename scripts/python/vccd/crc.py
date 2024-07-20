@@ -66,13 +66,12 @@ _crc_table = [
 ]
 
 
-def _crc_hash(text) -> int:
-    if text is str:
-        text = text.encode('ascii')
+def _crc_hash(text: str) -> int:
+    data = text.encode('ascii')
 
     crc = 0xffffffff
 
-    for c in text:
+    for c in data:
         crc = (crc >> 8) ^ _crc_table[c ^ (crc & 0xff)]
 
     crc = ~crc
