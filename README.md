@@ -18,3 +18,7 @@ https://discord.gg/kPVSKVCJsH から参加してください。
 
 `Steam`から`Dota 2`を右クリックしてプロパティを開き、一般タブの中の`起動オプション`に`-language japanese`を追加してください。
 
+## ライセンス
+
+以下のファイルはMITライセンスに基づいて再配布されています。
+- `scripts/python/vdf/*.py`
