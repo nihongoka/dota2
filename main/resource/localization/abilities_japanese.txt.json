@@ -13519,5 +13519,8 @@
     "DOTA_Tooltip_modifier_spectre_dispersion_boost_Description": "より多くのダメージを吸収し、反射している。",
     "DOTA_Tooltip_Ability_item_recipe_rapier": "Divine Rapierレシピ",
     "DOTA_Tooltip_ability_clinkz_bone_and_arrow_scepter_Description": "Skeleton Archerの体力を増加させる。",
-    "DOTA_Tooltip_ability_night_stalker_crippling_fear_mana_pct_cost": "%マナコスト:"
+    "DOTA_Tooltip_ability_night_stalker_crippling_fear_mana_pct_cost": "%マナコスト:",
+    "DOTA_Tooltip_ability_necrolyte_ghost_shroud_Lore": "Rotund'jereは犠牲者の魂を、生から死後の世界への架け橋として利用する。",
+    "DOTA_Tooltip_ability_faceless_void_time_dilation_lore": "Darkterrorと対峙する者にとっては、一瞬一瞬が永遠に続くように感じられる。",
+    "DOTA_Tooltip_ability_skeleton_king_bone_guard_Lore": "Wraith Kingの剣は敵の精気を抜き取り、オーラの糧とする。"
 }
