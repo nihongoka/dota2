@@ -5178,7 +5178,7 @@
     "DOTA_Tooltip_ability_special_bonus_unique_pugna_1": "+{s:bonus_bonus_heal_pct}% Life Drain 回復量",
     "DOTA_Tooltip_ability_special_bonus_unique_pugna_2": "+{s:bonus_blast_damage} Nether Blastダメージ",
     "DOTA_Tooltip_ability_special_bonus_unique_pugna_3": "+{s:bonus_mana_multiplier} Nether Ward マナ毎ダメージ",
-    "DOTA_Tooltip_ability_special_bonus_unique_pugna_4": "-{s:value}秒 Nether Blast クールダウン",
+    "DOTA_Tooltip_ability_special_bonus_unique_pugna_4": "-{s:bonus_AbilityCooldown}秒 Nether Blast クールダウン",
     "DOTA_Tooltip_ability_special_bonus_unique_pugna_5": "+{s:bonus_AbilityDuration}秒 Decrepify 効果時間",
     "DOTA_Tooltip_ability_special_bonus_unique_pugna_6": "+{s:bonus_attacks_to_destroy} Nether Ward 体力",
     "DOTA_Tooltip_ability_special_bonus_unique_timbersaw": "+{s:bonus_tree_damage_scale} Whirling Death木破壊時ボーナスダメージ",
@@ -13463,5 +13463,7 @@
     "DOTA_Tooltip_ability_night_stalker_crippling_fear_mana_pct_cost": "%マナコスト:",
     "DOTA_Tooltip_ability_necrolyte_ghost_shroud_Lore": "Rotund'jereは犠牲者の魂を、生から死後の世界への架け橋として利用する。",
     "DOTA_Tooltip_ability_faceless_void_time_dilation_lore": "Darkterrorと対峙する者にとっては、一瞬一瞬が永遠に続くように感じられる。",
-    "DOTA_Tooltip_ability_skeleton_king_bone_guard_Lore": "Wraith Kingの剣は敵の精気を抜き取り、オーラの糧とする。"
+    "DOTA_Tooltip_ability_skeleton_king_bone_guard_Lore": "Wraith Kingの剣は敵の精気を抜き取り、オーラの糧とする。",
+    "DOTA_Tooltip_ability_antimage_persectur_Description": "敵のマナの不足量に応じてスローを与える。最小スローは%mana_threshold%%%マナ、最大スローは%zero_tooltip%%%マナ。敵のマナが%mana_threshold%%%以上の場合は効果がない。",
+    "DOTA_Tooltip_modifier_antimage_empowered_mana_break_Description": "次のMana Breakはより多くのマナを燃焼させる。"
 }
