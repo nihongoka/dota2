@@ -13465,5 +13465,22 @@
     "DOTA_Tooltip_ability_faceless_void_time_dilation_lore": "Darkterrorと対峙する者にとっては、一瞬一瞬が永遠に続くように感じられる。",
     "DOTA_Tooltip_ability_skeleton_king_bone_guard_Lore": "Wraith Kingの剣は敵の精気を抜き取り、オーラの糧とする。",
     "DOTA_Tooltip_ability_antimage_persectur_Description": "敵のマナの不足量に応じてスローを与える。最小スローは%mana_threshold%%%マナ、最大スローは%zero_tooltip%%%マナ。敵のマナが%mana_threshold%%%以上の場合は効果がない。",
-    "DOTA_Tooltip_modifier_antimage_empowered_mana_break_Description": "次のMana Breakはより多くのマナを燃焼させる。"
+    "DOTA_Tooltip_modifier_antimage_empowered_mana_break_Description": "次のMana Breakはより多くのマナを燃焼させる。",
+    "DOTA_Tooltip_ability_lina_dragon_slave_Note1": "スペルブロックとスペルリフレクションを誘発させない。",
+    "DOTA_Tooltip_ability_lina_combustion": "Combustion",
+    "DOTA_Tooltip_ability_lina_combustion_Description": "Linaが敵ヒーローに%damage_threshold%のダメージを与えるごとにオーバーヒートし、近くの味方にもダメージを与える。この効果は1回のダメージで複数回発動する。オーバーヒートしたイリュージョンは与えるダメージが減少する。",
+    "DOTA_Tooltip_modifier_lina_overheat_Description": "周囲の味方にダメージを与える。",
+    "DOTA_Tooltip_ability_life_stealer_feast_Note3": "ブレイクは新しいスタックの獲得を無効にする。",
+    "DOTA_Tooltip_ability_life_stealer_feast_Note4": "ブレイクは既存のスタックからのボーナスを無効にしない。",
+    "DOTA_Tooltip_ability_life_stealer_infest_Note3": "スペルの反射を誘発しない。",
+    "DOTA_Tooltip_facet_life_stealer_rage": "Rage",
+    "DOTA_Tooltip_facet_life_stealer_rage_Description": "Lifestealerは<b color='white'>Rage</b>を発動でき、デバフ無効になり、魔法耐性が上がる。",
+    "DOTA_Tooltip_modifier_life_stealer_feast": "Feast",
+    "DOTA_Tooltip_Facet_windrunner_focusfire": "Focus Fire",
+    "DOTA_Tooltip_Facet_windrunner_focusfire_Description": "Focus Fireは1体の対象を素早く攻撃する。",
+    "DOTA_Tooltip_ability_vengefulspirit_command_aura_Note0": "ブレイクはダメージオーラを無効にする。",
+    "DOTA_Tooltip_ability_juggernaut_bladeform_Note1": "ブレイクは新しいスタックの獲得を無効にする。",
+    "DOTA_Tooltip_ability_juggernaut_bladeform_Note2": "ブレイクは既存のスタックからのボーナスを無効にしない。",
+    "DOTA_Tooltip_ability_earthshaker_spirit_cairn": "Spirit Cairn",
+    "DOTA_Tooltip_ability_earthshaker_spirit_cairn_Description": "Earthshakerが死ぬと、死んだ場所に範囲%fissure_radius%のFissureができる。このFissureは移動をブロックし、Earthshakerはその周囲で経験値を得続けることができる。Earthshakerがリスポーンするまで残る。"
 }
