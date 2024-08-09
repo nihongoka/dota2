@@ -12392,7 +12392,7 @@
     "DOTA_Tooltip_Facet_enchantress_overprotective_wisps": "Overprotective Wisps",
     "DOTA_Tooltip_Facet_windrunner_tailwind_Description": "WindrunはWindrangerと周囲の味方に追加のボーナス移動速度を与える。",
     "DOTA_Tooltip_Facet_vengefulspirit_avenging_missile_Description": "Magic Missileはその敵が倒したクリープの数1体につき{s:bonus_damage_per_lasthit}のボーナスダメージも与える。",
-    "DOTA_Tooltip_Facet_witch_doctor_voodoo_festeration_Description": "Voodoo Restorationは敵にダメージを与える。回復はしなくなる。",
+    "DOTA_Tooltip_Facet_witch_doctor_voodoo_festeration_Description": "Voodoo Restorationは敵にダメージを与える。回復はWitch Doctorだけに作用するようになる。",
     "DOTA_Tooltip_Facet_juggernaut_bladestorm_Description": "Blade FuryはBlade Danceのレベルに応じたクリティカルダメージを与えるようになる。",
     "DOTA_Tooltip_Facet_pudge_fresh_meat_Description": "Dismemberでヒーローにダメージを与えた際、Strengthが増加する。",
     "DOTA_Tooltip_Facet_pudge_flayers_hook_Description": "Meat Hookは引き寄せた距離に応じてボーナスダメージを得るが、基本ダメージは減少する。",
