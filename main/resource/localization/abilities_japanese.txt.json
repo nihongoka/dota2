@@ -13484,5 +13484,19 @@
     "DOTA_Tooltip_ability_earthshaker_spirit_cairn": "Spirit Cairn",
     "DOTA_Tooltip_ability_earthshaker_spirit_cairn_Description": "Earthshakerが死ぬと、死んだ場所に範囲%fissure_radius%のFissureができる。このFissureは移動をブロックし、Earthshakerはその周囲で経験値を得続けることができる。Earthshakerがリスポーンするまで残る。",
     "DOTA_Tooltip_ability_lion_impale_Note1": "スペルブロックとスペル反射を発動させない。",
-    "DOTA_Tooltip_ability_sandking_burrowstrike_Note0": "スペルブロックとスペル反射を発動させない。"
+    "DOTA_Tooltip_ability_sandking_burrowstrike_Note0": "スペルブロックとスペル反射を発動させない。",
+    "DOTA_Tooltip_ability_antimage_blink_scepter_Description": "Blinkキャスト後%empowered_mana_break_duration%秒以内に発動したMana Breakが、追加で最大マナの%empowered_max_burn_pct_tooltip%%%を燃焼し、短時間対象のマナ回復および自然回復を阻害するデバフを与えるようになる。このデバフはディスペル不可能である。Blinkのクールダウンが%bonus_AbilityCooldown%秒減少する。",
+    "DOTA_Tooltip_ability_antimage_persectur": "Persecutor",
+    "DOTA_Tooltip_ability_antimage_persectur_Note0": "イリュージョンに対しては最大の効果が適用される。",
+    "DOTA_Tooltip_ability_antimage_persectur_move_slow_min": "%最小移動速度減少:",
+    "DOTA_Tooltip_ability_antimage_persectur_move_slow_max": "%最大移動速度減少:",
+    "DOTA_Tooltip_ability_antimage_persectur_slow_duration": "スロー効果時間:",
+    "DOTA_Tooltip_modifier_antimage_persectur_slow": "Persecutor スロー",
+    "DOTA_Tooltip_modifier_antimage_persectur_slow_Description": "移動速度が%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%減少している。",
+    "DOTA_Tooltip_modifier_antimage_empowered_mana_break": "Mana Break",
+    "DOTA_Tooltip_modifier_antimage_empowered_mana_break_debuff": "Mana Break",
+    "DOTA_Tooltip_modifier_antimage_empowered_mana_break_debuff_Description": "マナを獲得できず、自然回復できない。",
+    "DOTA_Tooltip_ability_antimage_blink_empowered_mana_break_debuff_duration_tooltip": "デバフ効果時間:",
+    "DOTA_Tooltip_ability_antimage_counterspell_Note0": "Breakはパッシブの魔法耐性を無効化する。",
+    "DOTA_Tooltip_ability_antimage_mana_void_Note1": "BreakはMana Thirstの視界と攻撃力ボーナスを無効化する。"
 }
