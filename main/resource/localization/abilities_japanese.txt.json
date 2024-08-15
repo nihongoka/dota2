@@ -3336,7 +3336,6 @@
     "DOTA_Tooltip_ability_ursa_enrage_damage_reduction": "%ダメージ軽減:",
     "DOTA_Tooltip_ability_ursa_enrage_status_resistance": "%異常耐性:",
     "DOTA_Tooltip_ability_ursa_enrage_duration": "効果時間:",
-    "DOTA_Tooltip_ability_ursa_enrage_cooldown_scepter": "クールダウン:",
     "DOTA_Tooltip_modifier_ursa_earthshock_Description": "%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%スロー",
     "DOTA_Tooltip_modifier_ursa_overpower_Description": "攻撃速度が大幅に増加中！スロー耐性が%dMODIFIER_PROPERTY_SLOW_RESISTANCE%%%増加している。",
     "DOTA_Tooltip_modifier_ursa_fury_swipes_damage_increase_Description": "%dMODIFIER_PROPERTY_TOOLTIP%追加ダメージが通常攻撃に乗る",
