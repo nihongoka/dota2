@@ -13011,7 +13011,7 @@
     "DOTA_Tooltip_Facet_naga_siren_passive_riptide": "Rip Tide",
     "DOTA_Tooltip_Facet_naga_siren_passive_riptide_Description": "Naga Sirenとそのイリュージョンが6回攻撃するたびに、周囲の敵にダメージを与え、アーマーを減少させる。",
     "DOTA_Tooltip_ability_naga_siren_deluge": "Deluge",
-    "DOTA_Tooltip_ability_naga_siren_deluge_Description": "Naga Sirenとそのイリュージョンの全てがダメージを与え、異常耐性を低下させ、移動速度の上限を与える波を起こす。",
+    "DOTA_Tooltip_ability_naga_siren_deluge_Description": "Naga Sirenとそのイリュージョンの全てがダメージを与え、異常耐性を低下させ、移動速度の上限を制限する波を起こす。",
     "DOTA_Tooltip_ability_naga_siren_deluge_Note0": "Delugaをキャストしてもチャネリングは中断されない。",
     "DOTA_Tooltip_ability_naga_siren_deluge_damage": "ダメージ:",
     "DOTA_Tooltip_ability_naga_siren_deluge_status_resistance": "%異常耐性減少:",
@@ -14169,5 +14169,6 @@
     "DOTA_Tooltip_modifier_omniknight_purification_recast_Description": "Purificationが再び来る！",
     "DOTA_Tooltip_ability_huskar_burning_spear_Note2": "Incendiaryの最大体力に応じた追加ダメージはRoshanに効果ない。",
     "DOTA_Tooltip_ability_huskar_burning_spear_burn_damage_max_pct": "%最大体力燃焼:",
-    "DOTA_Tooltip_ability_huskar_burning_spear_duration_for_nothl_conflagration": "効果時間:"
+    "DOTA_Tooltip_ability_huskar_burning_spear_duration_for_nothl_conflagration": "効果時間:",
+    "DOTA_Tooltip_ability_naga_siren_deluge_max_movement_speed": "最大移動速度:"
 }
