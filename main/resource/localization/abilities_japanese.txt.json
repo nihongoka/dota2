@@ -14161,5 +14161,13 @@
     "DOTA_Tooltip_ability_luna_lunar_orbit_rotating_glaives_duration": "効果時間:",
     "DOTA_Tooltip_ability_luna_lunar_orbit_rotating_glaives_hit_radius": "衝突半径:",
     "DOTA_Tooltip_ability_luna_lunar_orbit_rotating_glaives_collision_damage": "%衝突ダメージ:",
-    "DOTA_Tooltip_ability_luna_lunar_orbit_rotating_glaives_damage_reduction": "%ダメージ減少:"
+    "DOTA_Tooltip_ability_luna_lunar_orbit_rotating_glaives_damage_reduction": "%ダメージ減少:",
+    "DOTA_Tooltip_ability_huskar_burning_spear_Facet_huskar_nothl_conflagration": "Burning Spearsが敵の最大体力の割合でダメージを与える火傷を負わせる。 現在の体力ではなく最大体力の割合に基づいた体力を消費するようになる。 燃焼時間を減少させる。",
+    "DOTA_Tooltip_Facet_huskar_nothl_conflagration": "Incendiary",
+    "DOTA_Tooltip_Facet_huskar_nothl_conflagration_Description": "Burning Spearsが敵の最大体力の割合でダメージを与える火傷を負わせる。 現在の体力ではなく最大体力の割合に基づいた体力を消費するようになる。 燃焼時間を減少させる。",
+    "DOTA_Tooltip_ability_huskar_burning_spear_max_health_cost": "%最大体力コスト:",
+    "DOTA_Tooltip_modifier_omniknight_purification_recast_Description": "Purificationが再び来る！",
+    "DOTA_Tooltip_ability_huskar_burning_spear_Note2": "Incendiaryの最大体力に応じた追加ダメージはRoshanに効果ない。",
+    "DOTA_Tooltip_ability_huskar_burning_spear_burn_damage_max_pct": "%最大体力燃焼:",
+    "DOTA_Tooltip_ability_huskar_burning_spear_duration_for_nothl_conflagration": "効果時間:"
 }
