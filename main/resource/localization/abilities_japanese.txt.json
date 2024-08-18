@@ -14170,5 +14170,19 @@
     "DOTA_Tooltip_ability_huskar_burning_spear_Note2": "Incendiaryの最大体力に応じた追加ダメージはRoshanに効果ない。",
     "DOTA_Tooltip_ability_huskar_burning_spear_burn_damage_max_pct": "%最大体力燃焼:",
     "DOTA_Tooltip_ability_huskar_burning_spear_duration_for_nothl_conflagration": "効果時間:",
-    "DOTA_Tooltip_ability_naga_siren_deluge_max_movement_speed": "最大移動速度:"
+    "DOTA_Tooltip_ability_naga_siren_deluge_max_movement_speed": "最大移動速度:",
+    "DOTA_Tooltip_ability_omniknight_martyr_magic_resist": "%魔法耐性:",
+    "DOTA_Tooltip_Ability_dark_seer_mental_fortitude_str_agi_average_tooltip": "最小INT:",
+    "DOTA_Tooltip_ability_enchantress_rabblerouser": "Rabble-Rouser",
+    "DOTA_Tooltip_ability_enchantress_rabblerouser_Description": "全ての中立クリープはより多くのダメージを敵ヒーローに与える。ダメージは%base_damage_amp%%%+%damage_amp_per_level%%%xEnchantressのレベル 分増加する。",
+    "DOTA_Tooltip_modifier_enchantress_rabblerouser": "Rabble-Rouser",
+    "DOTA_Tooltip_ability_dragon_knight_breathe_fire_Note1": "スペルブロックとスペル反射を誘発させない。",
+    "DOTA_Tooltip_ability_enchantress_natures_attendants_Note1": "ブレイクはOverprotective Wispsを無効化する。",
+    "DOTA_Tooltip_ability_enchantress_rabblerouser_Note0": "中立でなくなったクリープや、トーメンター、Roshanには効果がない。",
+    "DOTA_Tooltip_ability_enchantress_rabblerouser_damage_increase_tooltip": "%ダメージ増加:",
+    "DOTA_Tooltip_modifier_enchantress_rabblerouser_Description": "Enchantressの敵に多くのダメージを与えている。",
+    "DOTA_Tooltip_ability_omniknight_purification_shard_Description": "%recast_delay%秒の遅延の後、対象はもう一度75%の効果を持つPurificationを受ける。",
+    "DOTA_Tooltip_ability_omniknight_guardian_angel_radius": "範囲:",
+    "DOTA_Tooltip_ability_omniknight_guardian_angel_heal_and_regen_amp": "%体力自然回復/回復増幅:",
+    "DOTA_Tooltip_modifier_omniknight_purification_recast": "Purification"
 }
