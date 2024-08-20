@@ -14427,5 +14427,7 @@
     "DOTA_Tooltip_ability_special_bonus_unique_death_prophet_silence_aoe": "+{s:bonus_radius} Silence範囲",
     "DOTA_Tooltip_ability_item_bracer_bonus_slow_resistance": "%+$slow_resistance",
     "DOTA_Tooltip_ability_item_psychic_headband_Note0": "スペルブロックとスペル反射を誘発させない。",
-    "DOTA_Tooltip_ability_item_book_of_shadows_Note0": "スペルブロックとスペル反射を誘発させない。"
+    "DOTA_Tooltip_ability_item_book_of_shadows_Note0": "スペルブロックとスペル反射を誘発させない。",
+    "DOTA_Tooltip_Ability_item_refresher_shard_lore": "終わりのない戦いの時代を越えて、不滅の勝利への意志は決して衰えることはなかった。",
+    "DOTA_Tooltip_ability_item_aeon_disk_lore": "その昔、Ivory Incubariumから密輸された強力なアーティファクト。あるいは、多くの人がそう信じている。"
 }
