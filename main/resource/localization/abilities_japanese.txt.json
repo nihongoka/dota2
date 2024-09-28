@@ -6277,7 +6277,7 @@
     "DOTA_Tooltip_ability_undying_tombstone_zombie_deathstrike_health_threshold_pct": "%体力しきい値割合:",
     "DOTA_Tooltip_ability_undying_tombstone_zombie_deathstrike_bonus_move_speed": "%ボーナス移動速度:",
     "DOTA_Tooltip_ability_undying_tombstone_zombie_deathstrike_bonus_attack_speed": "ボーナス攻撃速度:",
-    "DOTA_Tooltip_ability_undying_tombstone_shard_description": "味方ヒーローが1人まで墓石の中に入れるようになる。1度墓石の中に入ると%tombstone_bunker_cd%秒間出られず、また出た後%tombstone_bunker_cd%秒間再び入ることが出来ない。 墓石と自身は手動で味方ヒーローを墓石の中に入れるアビリティを手に入れる。ヒーローが中に入っている状態で墓石が破壊された場合、そのヒーローは%tombstone_stun_penalty%秒間のスタンを受ける。",
+    "DOTA_Tooltip_ability_undying_tombstone_shard_description": "味方ヒーローを対象にキャストして、1人まで墓石の中に入れれるようになる。1度墓石の中に入ると%tombstone_bunker_cd%秒間出られず、また出た後%tombstone_bunker_cd%秒間再び入ることが出来ない。ヒーローが中に入っている状態で墓石が破壊された場合、そのヒーローは%tombstone_stun_penalty%秒間のスタンを受ける。",
     "DOTA_Tooltip_ability_undying_flesh_golem": "Flesh Golem",
     "DOTA_Tooltip_modifier_undying_decay_buff_counter": "Decay",
     "DOTA_Tooltip_modifier_undying_decay_debuff": "Decay",
