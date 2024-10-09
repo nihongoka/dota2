@@ -4832,7 +4832,7 @@
     "DOTA_Tooltip_ability_snapfire_spit_creep_Description": "Mortimerは口に含んだユニットを吐き出し、範囲ダメージとスタンを与える。火の玉は火の海を作り、現在のレベルのMortimer Kissesの持続ダメージと移動速度減少を与える。Spit Outには最小発射距離が無い。",
     "DOTA_Tooltip_modifier_snapfire_lil_shredder_buff": "Lil' Shredder",
     "DOTA_Tooltip_ability_snapfire_scatterblast": "Scatterblast",
-    "DOTA_Tooltip_ability_snapfire_scatterblast_Description": "扇状の広範囲に散弾を放ち、ダメージと移動速度と攻撃速度を減少させる。至近距離にいる敵に対しては、ダメージ、移動速度、攻撃速度、速度減少時間が%point_blank_dmg_bonus_pct%%増加する。",
+    "DOTA_Tooltip_ability_snapfire_scatterblast_Description": "扇状の広範囲に散弾を放ち、ダメージと移動速度と攻撃速度を減少させる。至近距離にいる敵に対しては、ダメージ、移動速度減少、攻撃速度減少、速度減少時間が%point_blank_dmg_bonus_pct%%%増加する。",
     "DOTA_Tooltip_ability_snapfire_scatterblast_damage": "ダメージ:",
     "DOTA_Tooltip_ability_snapfire_scatterblast_debuff_duration": "スロー効果時間:",
     "DOTA_Tooltip_ability_snapfire_scatterblast_point_blank_range": "追加ダメージ距離:",
