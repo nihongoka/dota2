@@ -6695,7 +6695,7 @@
     "DOTA_Tooltip_ability_special_bonus_unique_treant_11": "Overgrowth ディスペル不可化",
     "DOTA_Tooltip_ability_special_bonus_unique_razor_2": "-{s:bonus_strike_interval}秒 Eye of the Storm 雷撃の間隔",
     "DOTA_Tooltip_ability_special_bonus_unique_doom_1": "+{s:bonus_burn_damage_pct}% Infernal Blade体力割合ダメージ",
-    "DOTA_Tooltip_ability_special_bonus_unique_templar_assassin_7": "Meld中の攻撃で{s:value}秒バッシュが発動",
+    "DOTA_Tooltip_ability_special_bonus_unique_templar_assassin_7": "Meld中の攻撃で{s:bonus_bash_duration}秒バッシュが発動",
     "DOTA_Tooltip_ability_special_bonus_unique_templar_assassin_6": "Psionic Trap設置上限+{s:value}",
     "DOTA_Tooltip_ability_special_bonus_unique_templar_assassin_4_Description": "基本ディスペルとして扱う。",
     "DOTA_Tooltip_ability_special_bonus_unique_templar_assassin_5": "Psi Bladesを受けた敵は短時間遅くなる",
