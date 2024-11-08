@@ -14619,5 +14619,6 @@
     "DOTA_Tooltip_ability_special_bonus_unique_kez_falcon_rush_duration": "+{s:bonus_duration}秒Falcon Rush効果時間",
     "DOTA_Tooltip_ability_special_bonus_unique_kez_kazura_katana_bleed_damage": "+{s:bonus_katana_bleed_attack_damage_pct}% Kazurai刀毎秒ダメージ",
     "DOTA_Tooltip_ability_special_bonus_unique_kez_echo_slash_strike_count_Description": "-0.6秒 間隔",
-    "DOTA_Tooltip_ability_special_bonus_unique_kez_echo_slash_strike_count": "+{s:bonus_katana_strikes} Echo Slash攻撃数"
+    "DOTA_Tooltip_ability_special_bonus_unique_kez_echo_slash_strike_count": "+{s:bonus_katana_strikes} Echo Slash攻撃数",
+    "DOTA_Tooltip_modifier_kez_ravens_veil_blind_Description": "視界を徐々に取り戻している。"
 }
