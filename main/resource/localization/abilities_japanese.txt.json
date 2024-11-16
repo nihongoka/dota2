@@ -2369,7 +2369,7 @@
     "DOTA_Tooltip_ability_legion_commander_moment_of_courage_Description": "攻撃を受けた際、一定の確率で即座にライフスティールを伴うカウンターを行う。",
     "DOTA_Tooltip_ability_legion_commander_moment_of_courage_hp_leech_percent": "%ライフスティール量:",
     "DOTA_Tooltip_ability_legion_commander_duel_Description": "Legion Commanderと対象となった敵ヒーローは強制的に短い時間互いを攻撃しあう。 両者ともにアイテムやアビリティを使用することはできないが、例外としてLigion CommanderのみはOverwhelming Oddsをキャストすることができる。どちらか一方がその効果時間中に死亡した場合、勝ったヒーローは永続的にボーナスダメージを得る。",
-    "DOTA_Tooltip_modifier_legion_commander_overwhelming_odds_Description": "%dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%%%のボーナス攻撃速度を得ている。",
+    "DOTA_Tooltip_modifier_legion_commander_overwhelming_odds_Description": "%dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%のボーナス攻撃速度を得ている。",
     "DOTA_Tooltip_modifier_legion_commander_duel_damage_boost_Description": "Duelに勝利したことでボーナスダメージを得ている。",
     "DOTA_Tooltip_ability_ember_spirit_searing_chains_Description": "鉄球のついた投げ縄を放ち近くの敵を拘束する。対象をその場にとどまらせ、継続ダメージを与える。",
     "DOTA_Tooltip_ability_ember_spirit_sleight_of_fist_Description": "猛烈なスピードで辺りを駆け回り範囲内の敵を攻撃する。攻撃後は元の場所に戻る。 ヒーローに対してはボーナスダメージを与える。",
