@@ -7220,7 +7220,7 @@
     "DOTA_Tooltip_ability_keeper_of_the_light_radiant_bind_duration": "効果時間:",
     "DOTA_Tooltip_ability_keeper_of_the_light_radiant_bind_slow": "%距離100ごとの移動速度減少:",
     "DOTA_Tooltip_ability_item_branches_Description": "<h1>使用: Plant Tree</h1> 地点を指定して、幸せの木を%tree_duration%秒間植える。",
-    "DOTA_Tooltip_ability_item_disperser_Description": "<h1>アクティブ: Suppress</h1>対象が敵であれば%enemy_effect_duration%秒間のスロー与え、味方であれば基本ディスペルとと%ally_effect_duration%秒間の基本ディスペルと%slow_resist%%%のスロー耐性を与える。<br><br>移動速度の減少および増加効果は%phase_movement_speed%%%から0%%にかけて時間経過とともに徐々に減少していく。<br>ディスペルタイプ: <span class=\"GameplayValues GameplayVariable\">基本ディスペル</span>\n\n<h1>パッシブ: Manabreak</h1>攻撃の度に対象のマナを %feedback_mana_burn% 燃焼し、燃焼したマナにつき %damage_per_burn% 物理ダメージ与える。 <br><br>近接のイリュージョンの場合は %feedback_mana_burn_illusion_melee% マナ、遠距離イリュージョンの場合は %feedback_mana_burn_illusion_ranged% マナ、攻撃の度に燃焼する。",
+    "DOTA_Tooltip_ability_item_disperser_Description": "<h1>アクティブ: Suppress</h1>対象が敵であれば%enemy_effect_duration%秒間のスロー与え、味方であれば基本ディスペルと%ally_effect_duration%秒間の基本ディスペルと%slow_resist%%%のスロー耐性を与える。<br><br>移動速度の減少および増加効果は%phase_movement_speed%%%から0%%にかけて時間経過とともに徐々に減少していく。<br>ディスペルタイプ: <span class=\"GameplayValues GameplayVariable\">基本ディスペル</span>\n\n<h1>パッシブ: Manabreak</h1>攻撃の度に対象のマナを%feedback_mana_burn%燃焼し、燃焼したマナにつき、%damage_per_burn%物理ダメージ与える。 <br><br>メレーのイリュージョンの場合は %feedback_mana_burn_illusion_melee%マナ、レンジのイリュージョンの場合は、%feedback_mana_burn_illusion_ranged%マナ、攻撃の度に燃焼させる。",
     "DOTA_Tooltip_ability_item_disperser_bonus_agility": "+$agi",
     "DOTA_Tooltip_ability_item_disperser_bonus_intellect": "+$int",
     "DOTA_Tooltip_ability_item_disperser_bonus_damage": "+$damage",
