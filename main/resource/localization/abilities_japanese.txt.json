@@ -14636,5 +14636,7 @@
     "DOTA_Tooltip_modifier_courier_shield": "シールド",
     "DOTA_Tooltip_ability_special_bonus_unique_clockwerk_hookshot_damage": "+{s:bonus_damage} Hookshotダメージ",
     "DOTA_Tooltip_ability_special_bonus_unique_luna_lunar_orbit_glaive_count": "+{s:bonus_rotating_glaives} Lunar Orbitグレイブス数",
-    "DOTA_Tooltip_modifier_courier_shield_Description": "シールド展開中"
+    "DOTA_Tooltip_modifier_courier_shield_Description": "シールド展開中",
+    "DOTA_Tooltip_ability_kez_echo_slash_katana_distance": "距離:",
+    "DOTA_Tooltip_ability_kez_echo_slash_katana_radius": "SLASH範囲:"
 }
