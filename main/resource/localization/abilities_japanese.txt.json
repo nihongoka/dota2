@@ -14638,5 +14638,12 @@
     "DOTA_Tooltip_ability_special_bonus_unique_luna_lunar_orbit_glaive_count": "+{s:bonus_rotating_glaives} Lunar Orbitグレイブス数",
     "DOTA_Tooltip_modifier_courier_shield_Description": "シールド展開中",
     "DOTA_Tooltip_ability_kez_echo_slash_katana_distance": "距離:",
-    "DOTA_Tooltip_ability_kez_echo_slash_katana_radius": "SLASH範囲:"
+    "DOTA_Tooltip_ability_kez_echo_slash_katana_radius": "SLASH範囲:",
+    "DOTA_Tooltip_ability_seasonal_party_hat_scepter_description": "Spirit of Frostivusは範囲効果アビリティとなり、対象の範囲%aoe_scepter%内のユニットに影響を与える。最初に敵から帽子が奪われ、その後味方に均等に分配される。",
+    "DOTA_Tooltip_modifier_kez_switch_weapons_aghs_Description": "Kezが次に使うアビリティは、その別の武器アビリティのクールダウンを発生させない。",
+    "DOTA_Tooltip_modifier_kez_sai_Description": "移動速度が%dMODIFIER_PROPERTY_MOVESPEED_BONUS_CONSTANT_UNIQUE%%%増加する。",
+    "DOTA_Tooltip_ability_kez_shodo_sai_parry_cancel_Description": "物理攻撃をブロックするのを止める。",
+    "DOTA_Tooltip_ability_special_bonus_unique_kez_ravens_veil_mark_parry_bonus": "Raven's Veilマークにパリィボーナスの適用",
+    "DOTA_Tooltip_ability_pangolier_gyroshell_stop_lore": "Donté Panlinは好きなときに止められる。",
+    "DOTA_Tooltip_ability_dark_willow_terrorize_abilitydraft_note": "また、Bedlamの能力も付与される。"
 }
