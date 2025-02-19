@@ -14366,5 +14366,19 @@
     "DOTA_Tooltip_ability_kez_shodo_sai_parry_cancel_Description": "物理攻撃をブロックするのを止める。",
     "DOTA_Tooltip_ability_special_bonus_unique_kez_ravens_veil_mark_parry_bonus": "Raven's Veilマークにパリィボーナスの適用",
     "DOTA_Tooltip_ability_pangolier_gyroshell_stop_lore": "Donté Panlinは好きなときに止められる。",
-    "DOTA_Tooltip_ability_dark_willow_terrorize_abilitydraft_note": "また、Bedlamの能力も付与される。"
+    "DOTA_Tooltip_ability_dark_willow_terrorize_abilitydraft_note": "また、Bedlamの能力も付与される。",
+    "DOTA_Tooltip_ability_antimage_counterspell_ally_mana_drain_percent": "%マナ燃焼率:",
+    "DOTA_Tooltip_ability_antimage_counterspell_mana_drain_percent": "%マナ燃焼率:",
+    "DOTA_Tooltip_ability_queenofpain_succubus_spell_lifesteal": "%最小ライフスティール:",
+    "DOTA_Tooltip_ability_jakiro_ice_path_detonate": "Ice Pathを破壊する",
+    "DOTA_Tooltip_ability_jakiro_ice_path_detonate_Description": "Ice Pathを破壊し、敵にダメージとスタンを与える。",
+    "DOTA_Tooltip_ability_jakiro_double_trouble_facet_jakiro_twin_terror": "Jakiroは二回攻撃をすることで、より多くのダメージを与える。",
+    "DOTA_Tooltip_ability_jakiro_double_trouble_attack_damage_reduction": "%ダメージ軽減:",
+    "DOTA_Tooltip_ability_queenofpain_succubus_Facet_queenofpain_facet_bondage": "スペルライフスティールはピュア&魔法反射ダメージにも適用される。",
+    "DOTA_Tooltip_ability_jakiro_ice_path_facet_jakiro_ice": "Jakiroは任意のタイミングでIce Pathを破壊することができ、敵をスタンさせて再びダメージを与えることができる。",
+    "DOTA_Tooltip_ability_queenofpain_succubus_spell_lifesteal_close": "%最大ライフスティール:",
+    "DOTA_Tooltip_ability_jakiro_ice_path_facet_jakiro_ice_breaker": "Ice Pathは持続時間が長く、効果が切れると爆発し、2回目のダメージを与え敵をスタンさせる。Ice Pathは手動で早めに爆発させることもできる。",
+    "DOTA_Tooltip_facet_jakiro_twin_terror_Description": "Jakiroは二回攻撃をすることで、より多くのダメージを与える。",
+    "DOTA_Tooltip_facet_jakiro_ice_breaker_Description": "Ice Pathは持続時間が長く、効果が切れると爆発し、2回目のダメージを与え敵をスタンさせる。Ice Pathは手動で早めに爆発させることもできる。",
+    "DOTA_Tooltip_ability_special_bonus_unique_jakiro_3_Description": "対象の最大体力の +{s:bonus_pct_health_damage}% をダメージとして与える。このダメージは建物には適用されない。"
 }
