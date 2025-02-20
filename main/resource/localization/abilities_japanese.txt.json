@@ -14378,5 +14378,7 @@
     "DOTA_Tooltip_ability_jakiro_ice_path_facet_jakiro_ice_breaker": "Ice Pathは持続時間が長く、効果が切れると爆発し、2回目のダメージを与え敵をスタンさせる。Ice Pathは手動で早めに爆発させることもできる。",
     "DOTA_Tooltip_facet_jakiro_twin_terror_Description": "Jakiroは二回攻撃をすることで、より多くのダメージを与える。",
     "DOTA_Tooltip_facet_jakiro_ice_breaker_Description": "Ice Pathは持続時間が長く、効果が切れると爆発し、2回目のダメージを与え敵をスタンさせる。Ice Pathは手動で早めに爆発させることもできる。",
-    "DOTA_Tooltip_ability_special_bonus_unique_jakiro_3_Description": "対象の最大体力の +{s:bonus_pct_health_damage}% をダメージとして与える。このダメージは建物には適用されない。"
+    "DOTA_Tooltip_ability_special_bonus_unique_jakiro_3_Description": "対象の最大体力の +{s:bonus_pct_health_damage}% をダメージとして与える。このダメージは建物には適用されない。",
+    "DOTA_Tooltip_modifier_path_movespeed": "彷徨う渦巻き",
+    "DOTA_Tooltip_modifier_path_movespeed_Description": "渦巻く水は下流に向かって足早に進むが、不思議なことに逆走しても何の抵抗もない......。"
 }
