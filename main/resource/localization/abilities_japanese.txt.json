@@ -10593,7 +10593,6 @@
     "DOTA_Tooltip_ability_viper_corrosive_skin_scepter_Description": "Corrosive skinは周囲%effect_multiplier_distance%内にいる敵から攻撃を受けた場合、%effect_multiplier%倍の攻撃速度スローを与るようになる。",
     "DOTA_Tooltip_ability_viper_nose_dive": "Nosedive",
     "DOTA_Tooltip_ability_viper_nose_dive_Description": "地面にダイブし、それぞれの敵に毒をまき散らし、周囲%corrosive_radius%内にいる敵にCorrosive Skinの効果を%effect_duration%秒間与える。",
-    "DOTA_Tooltip_ability_viper_nose_dive_Note0": "束縛、ルート中は使えない。",
     "DOTA_Tooltip_ability_luna_lunar_blessing_shard_description": "Lunar Blessingをキャストすることで、範囲800内にいる味方を隠すことができるようになる。さらに夜間はブレイク範囲とボーナス移動速度が増加し、Eclipseの夜間時間が10秒増加する。",
     "DOTA_Tooltip_ability_luna_eclipse_night_duration": "夜間時間:",
     "DOTA_Tooltip_modifier_luna_lucent_beam_damage_buff_counter": "Lucent Damage",
