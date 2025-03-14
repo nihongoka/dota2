@@ -14216,7 +14216,7 @@
     "DOTA_Tooltip_ability_earthshaker_slugger_projectile_body_distance": "距離:",
     "DOTA_Tooltip_ability_earthshaker_slugger_projectile_body_damage_creep": "ダメージ(クリープ死亡):",
     "DOTA_Tooltip_ability_earthshaker_slugger_projectile_body_damage_hero": "ダメージ(ヒーロー死亡):",
-    "DOTA_Tooltip_ability_earthshaker_slugger_projectile_body_damage_additional_percent_health": "%飛行する敵の最大体力毎ダメージ:",
+    "DOTA_Tooltip_ability_earthshaker_slugger_projectile_body_damage_additional_percent_health": "%吹き飛ばした敵の最大体力毎ダメージ:",
     "DOTA_Tooltip_ability_warlock_imp_explode": "Eldritch Explosion",
     "DOTA_Tooltip_ability_warlock_imp_explode_explosion_delay": "遅延:",
     "DOTA_Tooltip_ability_warlock_imp_explode_explosion_radius": "範囲:",
