@@ -12664,7 +12664,7 @@
     "DOTA_Tooltip_ability_meepo_pack_rat": "Pack Rat",
     "DOTA_Tooltip_ability_ogre_magi_multicast_Facet_ogre_magi_fat_chance": "Ogre MagiのStrengthにより、Multicastの確率が%strength_mult%%%上昇している。",
     "DOTA_Tooltip_Facet_ogre_magi_fat_chance": "Fat Chance",
-    "DOTA_Tooltip_Facet_ogre_magi_fat_chance_Description": "Ogre MagiのStrengthにより、Multicastの確率が%strength_mult%%%上昇している。",
+    "DOTA_Tooltip_Facet_ogre_magi_fat_chance_Description": "Ogre MagiのStrengthにより、Multicastの確率が  {s:bonus_strength_mult}%上昇している。",
     "DOTA_Tooltip_Facet_ogre_magi_learning_curve": "Learning Curve",
     "DOTA_Tooltip_Facet_ogre_magi_learning_curve_Description": "全てのスペルとタレントの必要レベルが{s:bonus_required_level}減少する。レベル1の時点でもらえるアビリティポイントは{s:bonus_level_one_ability_points}だが、レベル2になったときにもらえるアビリティポイントは{s:bonus_level_two_ability_points}になる。",
     "DOTA_Tooltip_ability_visage_grave_chill_Facet_visage_sepulchre": "Grave Chillが対象の周りのユニットにも影響を及ぼすようになる。",
