@@ -14468,5 +14468,6 @@
     "DOTA_Tooltip_ability_axe_counter_helix_damage_reduction": "%攻撃ダメージ減少:",
     "DOTA_Tooltip_ability_axe_counter_helix_max_stacks": "最大スタック数:",
     "DOTA_Tooltip_Facet_pudge_rotten_core_Description": "Rotの発動中に、Pudgeは徐々にボーナス攻撃ダメージを得るようになる。",
-    "DOTA_Tooltip_Facet_phantom_lancer_lancelot": "Lancelot"
+    "DOTA_Tooltip_Facet_phantom_lancer_lancelot": "Lancelot",
+    "DOTA_Tooltip_ability_phantom_lancer_spirit_lance_facet_phantom_lancer_lancelot": "Phantom Lancerのイリュージョンが与えるSpirit Lanceのダメージは%illusion_lance_damage_pct%%%になる。<br><br>セプターによる追加跳弾のダメージは影響しない。"
 }
