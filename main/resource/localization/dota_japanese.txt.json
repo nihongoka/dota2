@@ -16983,5 +16983,9 @@
     "DOTA_TeamNeutralItems_Enhancements": "ニュートラルエンチャント",
     "DOTA_Glossary_Map_Structures_Shrine_Of_Wisdom": "ウィズダムの神殿",
     "DOTA_Glossary_Map_Structures_Shrine_Of_Wisdom_Desc": "ウィズダムの神殿はマップの左右の端に配置されている。それぞれの神殿は7分ごとに起動可能になる。ヒーローが近くに立ち続けると起動し、そのヒーローとそのヒーロー以外のチーム内で一番レベルが低いヒーロー2体に経験値を与える。",
-    "DOTA_Timer_Jungle_Camps_Title": "ジャングルキャンプ"
+    "DOTA_Timer_Jungle_Camps_Title": "ジャングルキャンプ",
+    "DOTA_Tooltip_RoshanTimerMessage_RoshanIsAlive": "Roshanは{s:roshan_cave_location}のピットで生きている。",
+    "DOTA_Tooltip_RoshanTimerMessage_VariableTime": "Roshanは{s:roshan_cave_location}のピットで生きているかもしれない。{s:roshan_respawn_time}経てば必ずリスポーンしている。",
+    "DOTA_Tooltip_RoshanTimerMessage_BaseTime": "Roshanは死んでいる。\n{s:roshan_respawn_time}で復活するかもしれない。",
+    "DOTA_Tooltip_RoshanTimerMessage_VisibleTime": "Roshanは後{s:roshan_respawn_time}で{s:roshan_cave_location}のピットにリスポーンする。"
 }
