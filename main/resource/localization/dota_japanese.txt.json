@@ -12254,7 +12254,7 @@
     "DOTA_Tooltip_ability_aghsfort_void_spirit_astral_step_Description": "アストラル面を切り裂いて対象の場所に現れ、その経路上にいる全ての敵を攻撃する。この攻撃は、%pop_damage_delay% 秒間スローになるVoid Markを付与し、その後爆発させる。",
     "DOTA_Tooltip_ability_aghsfort_void_spirit_astral_step_Note0": "Astral Stepにはクリーブが適用されない。",
     "DOTA_Tooltip_ability_aghsfort_void_spirit_astral_step_Lore": "Inaiの小さな一歩が、人間界に大きな破壊をもたらす。",
-    "DOTA_Tooltip_ability_aghsfort_void_spirit_astral_step_bonus_damage": "ボーナスダメージ:",
+    "DOTA_Tooltip_ability_aghsfort_void_spirit_astral_step_bonus_damage": "ボーナス攻撃ダメージ:",
     "DOTA_Tooltip_ability_aghsfort_void_spirit_astral_step_max_charges": "最大チャージ数:",
     "DOTA_Tooltip_ability_aghsfort_void_spirit_astral_step_charge_restore_time": "チャージ時間:",
     "DOTA_Tooltip_ability_aghsfort_void_spirit_astral_step_max_travel_distance": "射程:",
@@ -16980,5 +16980,8 @@
     "DOTA_CraftHUD_ChooseEnhancement": "エンチャントの選択肢",
     "DOTA_Toast_CraftAvailableBody": "新しいアーティファクトとエンチャントを選ぼう！",
     "DOTA_NeutralCraft_HoverTooltip_Limited": "中立キャンプを倒しきることでMadstoneを獲得できます。獲得できる量は{s:madstone_unlimited_time}に固定されており、現在追加で{d:madstone_obtainable}個まで獲得することができます。",
-    "DOTA_TeamNeutralItems_Enhancements": "ニュートラルエンチャント"
+    "DOTA_TeamNeutralItems_Enhancements": "ニュートラルエンチャント",
+    "DOTA_Glossary_Map_Structures_Shrine_Of_Wisdom": "ウィズダムの神殿",
+    "DOTA_Glossary_Map_Structures_Shrine_Of_Wisdom_Desc": "ウィズダムの神殿はマップの左右の端に配置されている。それぞれの神殿は7分ごとに起動可能になる。ヒーローが近くに立ち続けると起動し、そのヒーローとそのヒーロー以外のチーム内で一番レベルが低いヒーロー2体に経験値を与える。",
+    "DOTA_Timer_Jungle_Camps_Title": "ジャングルキャンプ"
 }
