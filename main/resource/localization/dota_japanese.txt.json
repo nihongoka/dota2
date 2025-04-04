@@ -4356,7 +4356,7 @@
     "DOTA_Location_Name_Statue": "石像",
     "DOTA_Location_Name_Graveyard": "墓地",
     "DOTA_Location_Name_Tormentor": "トーメンター",
-    "DOTA_Location_Name_LotusPool:p": "ロータスプール - ロータス%s1つ",
+    "DOTA_Location_Name_LotusPool:p": "<font color='#58C0F1'>ロータスプール</font>%s1 Lotusが%s2個、次は後%s3 (%s4)",
     "DOTA_Location_Name_TwinGate": "ツインゲート",
     "DOTA_Location_Pattern_TwoItems": "%s1 %s2",
     "DOTA_Location_Pattern_ThreeItems": "%s1 %s2 %s3",
