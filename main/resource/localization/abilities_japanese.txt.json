@@ -3934,7 +3934,7 @@
     "DOTA_Tooltip_ability_special_bonus_unique_ogre_magi_4": "+{s:bonus_burn_damage} Ignite毎秒ダメージ",
     "DOTA_Tooltip_ability_special_bonus_unique_silencer_2": "Global Silenceディスペル不可",
     "DOTA_Tooltip_ability_special_bonus_unique_silencer_3": "+{s:bonus_intellect_damage_pct}% Glaives of Wisdom ダメージ",
-    "DOTA_Tooltip_ability_special_bonus_unique_silencer_4": "+{s:bonus_damage_per_silence}/{s:bonus_slow_per_silence}% Last Wordダメージ/スロー",
+    "DOTA_Tooltip_ability_special_bonus_unique_silencer_4": "{s:bonus_radius} Last Word範囲化",
     "DOTA_Tooltip_ability_special_bonus_unique_silencer_5": "+{s:value}秒 Glaives Silence 効果時間",
     "DOTA_Tooltip_ability_special_bonus_unique_silencer_6": "+{s:value}% Arcane Curse スロー",
     "DOTA_Tooltip_ability_special_bonus_unique_death_prophet_2": "-{s:bonus_AbilityCooldown}秒Crypt Swarmクールダウン",
@@ -3981,7 +3981,7 @@
     "DOTA_Tooltip_ability_special_bonus_unique_skywrath_arcane_bolt_lifesteal": "+{s:bonus_spell_lifesteal}% Ruin and Restorationスペルライフスティール",
     "DOTA_Tooltip_ability_special_bonus_unique_medusa_4": "Split Shotにアイテムの付帯効果が乗る",
     "DOTA_Tooltip_ability_special_bonus_unique_ogre_magi": "+{s:bonus_bonus_attack_speed} Bloodlust攻撃速度",
-    "DOTA_Tooltip_ability_special_bonus_unique_silencer": "+{s:bonus_damage} Arcane Curse ダメージ",
+    "DOTA_Tooltip_ability_special_bonus_unique_silencer": "+{s:bonus_penalty_multiplier} Arcane Curse追加時間乗数",
     "DOTA_Tooltip_ability_special_bonus_unique_death_prophet": "+{s:bonus_spirits} Exorcism Spirit数",
     "DOTA_Tooltip_ability_special_bonus_unique_phantom_assassin_5": "+{s:bonus_attack_factor}% Stifling Dagger ダメージ",
     "DOTA_Tooltip_ability_special_bonus_unique_riki_4": "+{s:value} Tricks of the Trade 範囲",
@@ -14031,7 +14031,7 @@
     "DOTA_Tooltip_ability_special_bonus_unique_phantom_lancer_illusory_armaments_dmg": "+{s:bonus_bonus_to_base}% Illusory Armamentsダメージ",
     "DOTA_Tooltip_ability_special_bonus_unique_viper_predator_damage": "+{s:bonus_damage_base} Predator失った体力毎ダメージ",
     "DOTA_Tooltip_ability_special_bonus_unique_skywrath_concussive_shot_slow": "+{s:bonus_movement_speed_pct}% Concussive Shotスロー",
-    "Dota_Tooltip_ability_special_bonus_unique_silencer_arcane_curse_duration": "+{s:bonus_duration}/{s:bonus_silence_duration}秒Arcane Curse基本/サイレンス 時間",
+    "Dota_Tooltip_ability_special_bonus_unique_silencer_arcane_curse_duration": "+{s:bonus_duration}秒/+{s:bonus_penalty_duration}秒Arcane Curse基本/追加時間",
     "DOTA_Tooltip_ability_special_bonus_unique_sniper_shrapnel_damage": "+{s:bonus_shrapnel_damage}% Shrapnelダメージ",
     "DOTA_Tooltip_ability_item_claddish_spyglass": "Claddish Spyglass",
     "DOTA_Tooltip_ability_item_bloodstone_bonus_mp_regen": "+$mana_regen",
@@ -14853,5 +14853,6 @@
     "DOTA_Tooltip_ability_silencer_last_word_radius": "範囲:",
     "DOTA_Tooltip_modifier_silencer_last_word_stack": "Last Word",
     "dota_hud_error_no_last_word_victims": "Last Wordを受けている敵はいない",
-    "DOTA_Tooltip_modifier_silencer_last_word_stack_applier": "Last Word"
+    "DOTA_Tooltip_modifier_silencer_last_word_stack_applier": "Last Word",
+    "DOTA_Tooltip_modifier_silencer_last_word_stack_applier_Description": "スペルを発動するたびにスタックが積み重なり、Silencerがサイレンスを与えダメージを与えられるようになる。"
 }
