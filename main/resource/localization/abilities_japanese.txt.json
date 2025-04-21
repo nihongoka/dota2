@@ -3910,7 +3910,7 @@
     "DOTA_Tooltip_ability_special_bonus_unique_lifestealer": "+{s:bonus_duration}秒 Rage 効果時間",
     "DOTA_Tooltip_ability_special_bonus_unique_lifestealer_2": "+{s:bonus_movement_speed_bonus}% Ghoul Frenzy移動速度",
     "DOTA_Tooltip_ability_special_bonus_unique_lifestealer_3": "+{s:bonus_hp_damage_percent}% Feast回復/ダメージ",
-    "DOTA_Tooltip_ability_special_bonus_unique_lifestealer_5": "-{s:bonus_AbilityCooldown}秒Open Woundsクールダウン",
+    "DOTA_Tooltip_ability_special_bonus_unique_lifestealer_5": "+{s:bonus_attack_speed_bonus} Ghoul Frenzy攻撃速度",
     "DOTA_Tooltip_ability_special_bonus_unique_lion": "Mana Drainの対象数 +{s:value}",
     "DOTA_Tooltip_ability_special_bonus_unique_lion_2": "+{s:bonus_AbilityCastRange} Earth Spikeキャスト範囲",
     "DOTA_Tooltip_ability_special_bonus_unique_lion_3": "+{s:bonus_damage} Earth Spike ダメージ",
