@@ -16957,7 +16957,7 @@
     "DOTA_CraftHUD_FinalizeOptions": "クラフト",
     "DOTA_Toast_CraftAvailableTitle": "新しい中立アイテムが獲得可能",
     "DOTA_AdjNounWordOrder": "{s:adj} {s:noun}",
-    "DOTA_Chat_MadstoneAlert_NeedMadstone_Self": "<font color='#4BEE81'>Madstone</font> %s1 <font color='%s4'>ティア%s3</font>の中立アイテムをクラフトするのに後%s1個必要。",
+    "DOTA_Chat_MadstoneAlert_NeedMadstone_Self": "<font color='#4BEE81'>Madstone</font> %s1 <font color='%s4'>ティア%s3</font>の中立アイテムをクラフトするのに後%s2個必要。",
     "DOTA_Chat_MadstoneAlert_CanCraft_Ally": "<font color='%s3'>%s4</font>は<font color='%s2'>ティア%s1</font>の中立アイテムをクラフト可能。",
     "DOTA_Chat_MadstoneAlert_CanCraft_Self": "<font color='%s2'>ティア%s1</font> 中立アイテムを作製できます",
     "DOTA_Chat_MadstoneAlert_WaitingForNextTier": "<font color='#4BEE81'>Madstone</font> %s1 <font color='%s3'>ティア%s2</font>の中立アイテムは%s4からクラフト可能。",
