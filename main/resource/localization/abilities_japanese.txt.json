@@ -11288,7 +11288,7 @@
     "DOTA_Tooltip_modifier_antimage_thirst_effect_Description": "マナが少ない敵を検知した。攻撃力が%dMODIFIER_PROPERTY_TOOLTIP%増加している。",
     "DOTA_Tooltip_ability_antimage_counterspell_ally_Facet_antimage_magebanes_mirror": "Counterspellが防いだスペルの消費マナと同等のマナバーンを与え、その%damage_from_mana_drain_percent%%%分のダメージを与えるようになる。このダメージはスペル毎に最大%max_damage_from_mana_drain%まで与える。",
     "DOTA_Tooltip_ability_antimage_counterspell_Facet_antimage_magebanes_mirror": "Counterspellが防いだスペルの消費マナと同等のマナバーンを与え、その%damage_from_mana_drain_percent%%%分のダメージを与えるようになる。このダメージはスペル毎に最大%max_damage_from_mana_drain%まで与える。",
-    "DOTA_Tooltip_ability_antimage_mana_void_bonus_attack_damage": "Mana Thirst 最大攻撃力:",
+    "DOTA_Tooltip_ability_antimage_mana_void_bonus_attack_damage": "MANA THIRST最大攻撃力:",
     "DOTA_Tooltip_modifier_queenofpain_sonic_wave_damage": "Sonic Wave",
     "DOTA_Tooltip_modifier_queenofpain_sonic_wave_damage_Description": "Sonic Waveによって苦痛を受けている。",
     "DOTA_Tooltip_ability_queenofpain_masochist": "Masochist",
