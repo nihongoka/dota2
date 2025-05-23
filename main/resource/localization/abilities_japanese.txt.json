@@ -13585,5 +13585,9 @@
     "DOTA_Tooltip_modifier_item_giant_maul_debuff": "脳震盪",
     "DOTA_Tooltip_modifier_item_giant_maul_debuff_Description": "移動速度、攻撃速度、キャスト速度が減少している。",
     "DOTA_Tooltip_Ability_item_divine_regalia_broken_Description": "<h1>パッシブ: Fallen</h1>死んでしまったのでこのアイテムは何もしない。",
-    "DOTA_Tooltip_Ability_item_circlet_of_the_flayed_twins_Description": ""
+    "DOTA_Tooltip_Ability_item_circlet_of_the_flayed_twins_Description": "",
+    "DOTA_Tooltip_Ability_item_sisters_shroud_Description": "<h1>パッシブ: Veiled</h1>ダメージを受け、体力が%hp_threshold%%%未満になったとき、%evasion_max%%%の回避を%max_duration%秒間獲得する。発動中、攻撃を回避するたびにこの回避が%evasion_loss%%%減少する。\n<h1>パッシブ: Last Caress</h1>Veiledのクールダウンは所有者が死ぬか、敵ヒーローをキルしたときにのみリセットされる。",
+    "DOTA_Tooltip_Ability_item_sisters_shroud_Note0": "プレイヤーの支配下でないクリープからのダメージでは発動しない。",
+    "DOTA_Tooltip_modifier_item_sisters_shroud_buff": "Veiled",
+    "DOTA_Tooltip_modifier_item_sisters_shroud_buff_Description": "回避が%dMODIFIER_PROPERTY_EVASION_CONSTANT%%%上昇している。"
 }
