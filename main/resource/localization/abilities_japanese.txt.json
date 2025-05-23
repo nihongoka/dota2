@@ -13596,7 +13596,7 @@
     "DOTA_Tooltip_Facet_furion_natures_profit_Description": "Nature's Prophetが敵ヒーローを殺すか、近くでヒーローが死ぬと、その場所にゴールドが産み出される木が生え、ゴールドを回収できるようになる。",
     "DOTA_Tooltip_Ability_furion_natures_profit": "Nature's Profit",
     "DOTA_Tooltip_Ability_furion_natures_profit_tick_interval": "ばらまき間隔:",
-    "DOTA_Tooltip_Ability_furion_natures_profit_bags_per_tick": "ゴールドの袋ばらまき間隔:",
+    "DOTA_Tooltip_Ability_furion_natures_profit_bags_per_tick": "ゴールドの袋間隔:",
     "DOTA_Tooltip_Ability_furion_natures_profit_tree_duration": "ゴールドの生る木効果時間:",
     "DOTA_Tooltip_Ability_furion_natures_profit_hero_level_gold_multiplier": "レベル毎ゴールド倍数:",
     "DOTA_Tooltip_Ability_furion_natures_profit_initial_spawn_time": "木成長遅延:"
