@@ -7447,7 +7447,7 @@
     "DOTA_Tooltip_ability_item_third_eye_bonus_vision": "+視界ボーナス",
     "DOTA_Tooltip_ability_item_princes_knife_projectile_bonus": "%+弾速",
     "DOTA_Tooltip_modifier_item_spider_legs_active": "Skitter",
-    "DOTA_Tooltip_ability_item_helm_of_the_undying_Description": "<h1>パッシブ: Death Delay</h1>致命的なダメージを受けた後、%duration%秒間生き残る。",
+    "DOTA_Tooltip_ability_item_helm_of_the_undying_Description": "<h1>パッシブ: Death Delay</h1>致命的なダメージを受けた後、%duration%秒間死が遅延される。周囲%kill_radius%以内で敵ヒーローが死ぬたびにその遅延時間は%bonus_kill_duration%秒延長される。",
     "DOTA_Tooltip_modifier_item_helm_of_the_undying_active": "Death Delay",
     "DOTA_Tooltip_modifier_item_ocean_heart_Description": "体力とマナ自然回復のボーナス",
     "DOTA_Tooltip_Ability_item_trident_spell_lifesteal_amp": "%+スペルライフスティール増幅",
