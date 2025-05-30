@@ -7929,7 +7929,6 @@
     "DOTA_HeroGuide_PublishingGuide_Title": "公開中",
     "DOTA_HeroGuide_PublishingGuide_Body": "ガイド\"{s:guide_name}\"をSteamワークショップに公開中...",
     "DOTA_HeroGuide_ErrorSavingGuide_Title": "ガイドの保存エラー",
-    "DOTA_Plus_ItemAssistant_Help": "左クリックで他のオプションを見る。",
     "DOTA_GiftRestrictions_Title": "ギフトの制限",
     "DOTA_GiftRestrictions_LoadingFailed": "ギフトの制限についてロードできません。",
     "DOTA_GiftRestrictions_SenderRestricted": "あなたは現在ギフトを贈れません。{s:sender_restricted_message}",
