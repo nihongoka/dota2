@@ -13595,5 +13595,11 @@
     "DOTA_Tooltip_ability_witch_doctor_maledict_Facet_witch_doctor_malpractice": "呪われている状態で死亡した敵は、半径%spread_radius%内にいる全ての敵ユニットに、次のバーストダメージの%spread_pct%%%に等しいダメージを与える。",
     "DOTA_Tooltip_ability_juggernaut_blade_fury_blade_fury_damage": "秒間ダメージ:",
     "DOTA_Tooltip_Facet_witch_doctor_malpractice": "Malpractice",
-    "DOTA_Tooltip_Facet_witch_doctor_malpractice_Description": "Maledictを受けている敵は死亡したら爆発する。"
+    "DOTA_Tooltip_Facet_witch_doctor_malpractice_Description": "Maledictを受けている敵は死亡したら爆発する。",
+    "DOTA_Tooltip_ability_ad_normal_grant": "追加アビリティも付与される: <font color=\"#ffffff\"><b>%s1</b></font>",
+    "DOTA_Tooltip_ability_earthshaker_fissure_Facet_earthshaker_reverberating_ridge": "Fissureでスタンを受けた敵が、周囲%echoes_radius%以内のユニットにEchoを発し、Echo SlamのEchoダメージの%echoes_damage_multipiler%%%分のダメージを与える。",
+    "DOTA_Tooltip_Facet_earthshaker_reverberating_ridge": "Resonating Ridge",
+    "DOTA_Tooltip_ability_ad_toggling_autocast_description": "<span class=\"ADWhite\"><b>%s1</b></span>を発動するには<span class=\"ADWhite\"><b>%s2</b></span>のオートキャストを切り替えてください。",
+    "DOTA_Tooltip_Facet_earthshaker_reverberating_ridge_Description": "Fissureによってスタンした敵ヒーローは周囲にEcho Slamのダメージをばらまくようになる。",
+    "DOTA_Tooltip_ability_earthshaker_aftershock_aftershock_range_tooltip": "範囲:"
 }
