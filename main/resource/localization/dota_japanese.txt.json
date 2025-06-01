@@ -1287,7 +1287,7 @@
     "DOTA_Hotkeys_Tooltip_DotaAlt": "Altキー修飾子を設定する。",
     "DOTA_Hotkeys_Tooltip_DotaAlternativeCastSwitch": "Altキャストがあるアビリティの非選択時の効果を、トグルすることなくキャストするためのキーを設定する (デフォルトはCtrlキー)",
     "DOTA_Hotkeys_Tooltip_Group": "設定したユニットグループを選択する。グループの設定するには、対象ユニットを選択して、Ctrlキー＋グループのホットキーを押してください。",
-    "DOTA_Hotkeys_Tooltip_Legacy": "Dota1のホットキーを使用します。アビリティーのホットキー設定はヒーローによって異なります。",
+    "DOTA_Hotkeys_Tooltip_Legacy": "Dota1のホットキーを使用します。アビリティーのホットキー設定はヒーローによって異なります。追記: レガシーキーが有効な場合、クイックキャストは動作しません。",
     "DOTA_Hotkeys_Tooltip_PerUnitHotkeys": "ユニットによって異なるホットキーを使用する。",
     "DOTA_Watch_MissingLeagueSubscription": "この試合はリーグ戦のため、観戦には登録が必要です。",
     "vs": "VS",
@@ -17002,5 +17002,8 @@
     "dota_settings_pingwheel_defaults": "デフォルトに戻す",
     "dota_settings_pingwheel": "ピンホイール",
     "dota_settings_mark_for_buy_description": "クイックバイのアイテムを購入可能になったときに自動で購入する。",
-    "dota_settings_mark_for_buy_title": "購入メモ"
+    "dota_settings_mark_for_buy_title": "購入メモ",
+    "DOTA_HUD_RadiantRoshanRoar": "Roshanが唸っている！Radiantチームに襲われているに違いない！",
+    "DOTA_HUD_DireRoshanRoar": "Roshanが唸っている！Direチームに襲われているに違いない！",
+    "DOTA_Chat_RoshanRoar": "Roshanが唸っている！"
 }
