@@ -12723,7 +12723,7 @@
     "DOTA_Tooltip_Facet_crystal_maiden_glacial_guard": "Glacial Guard",
     "DOTA_Tooltip_Facet_crystal_maiden_glacial_guard_description": "Crystal Novaの範囲は広くなり、味方に物理バリアを与えるようになる。Crystal Maidenへのバリアは多くなる。",
     "DOTA_Tooltip_Facet_crystal_maiden_arcane_overflow": "Arcane Overflow",
-    "DOTA_Tooltip_Facet_crystal_maiden_arcane_overflow_Description": "Arcane Auraを発動すると、Crystal Maidenのスペルの増幅率とマナコストが一時的に増加する。持続時間中、Crystal Maidenはスペルを唱える際に自信と味方のマナを回復する。",
+    "DOTA_Tooltip_Facet_crystal_maiden_arcane_overflow_Description": "Arcane Auraを発動すると、Crystal Maidenのスペルの増幅率とマナコストが一時的に増加する。持続時間中、Crystal Maidenはスペルを唱える際に自身と味方のマナを回復する。",
     "DOTA_Tooltip_ability_dazzle_innate_weave_Facet_dazzle_facet_nothl_boon": "Weaveは%ally_multiplier%スタックを味方に与える。WeaveのスタックはDazzleから受ける回復を1つあたり%heal_amplification_pct%%%増加させる。",
     "DOTA_Tooltip_ability_dazzle_innate_weave_Facet_dazzle_poison_bloom": "Weaveは敵に%enemy_multiplier%スタック与える。",
     "DOTA_Tooltip_ability_dazzle_nothl_projection": "Nothl Projection",
