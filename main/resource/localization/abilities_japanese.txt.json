@@ -2363,7 +2363,7 @@
     "DOTA_Tooltip_ability_pugna_life_drain_Description": "チャネリング - 敵にキャストした場合、対象から体力を吸い取り自身を回復し、対象の視界を得る。\n\n味方にキャストした場合、自身の体力を消費して味方を回復する。",
     "DOTA_Tooltip_modifier_pugna_decrepify_Description": "移動速度が%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%減少し、スペルダメージを%dMODIFIER_PROPERTY_MAGICAL_RESISTANCE_DECREPIFY_UNIQUE%%%多く受ける。また、回復量が%dMODIFIER_PROPERTY_HEAL_AMPLIFY_PERCENTAGE_TARGET%%%増加する。",
     "DOTA_Tooltip_ability_templar_assassin_refraction_Description": "Templar Assassinは捉えどころのないものとなり、小さなバリアを得て、ボーナスダメージを得る。  攻撃無効化とダメージの回数は別であり、それぞれ回数が決まっている。バリアを消費しきったとき、チャージが残っている限り新しいバリアを自動的に張る。ダメージがバリアの残量を超える場合、それらのダメージは無力化される。",
-    "DOTA_Tooltip_ability_templar_assassin_meld_Description": "Templar Assassinは身を隠し、動かない限り透明になり続ける。もし、敵への攻撃によって透明が解除された場合、Templar Assassinの攻撃にボーナスダメージと%abilityduration%秒間のアーマー減少させる効果を与える。",
+    "DOTA_Tooltip_ability_templar_assassin_meld_Description": "Templar Assassinは身を隠し、動かない限り透明になり続ける。もし、敵への攻撃によって透明が解除された場合、Templar Assassinの攻撃にボーナスダメージと%debuff_duration%秒間のアーマー減少させる効果を与える。",
     "DOTA_Tooltip_ability_templar_assassin_psionic_trap_Description": "敵の動きを監視する透明な罠を仕掛ける。罠を破裂させた時、小さいダメージを与え、%movement_speed_min%%%の移動速度減少を周囲に与える。罠は %trap_max_charge_duration%秒後間%movement_speed_max%%%移動速度減少になるまでチャージする。チャージが最大の時、ボーナスダメージを与える。",
     "DOTA_Tooltip_ability_templar_assassin_trap_Description": "自身に一番近い罠を破裂させ、周囲の敵に移動速度減少を与える。<br><br>オートキャストを有効にすると、マウスカーソルに一番近い罠を破裂させるようになる。",
     "DOTA_Tooltip_ability_templar_assassin_trap_teleport_Description": "チャネリング - %abilitychanneltime%秒間の詠唱後、Psionic Trapの場所にテレポートし、即座に与えるボーナス%extra_damage%ダメージ付きでそれを発動させる。Psionic Projectionの詠唱はMeldを解除しない。",
@@ -13659,5 +13659,6 @@
     "DOTA_Tooltip_modifier_bounty_hunter_track_permanent_buff": "Track",
     "DOTA_Tooltip_modifier_bounty_hunter_track_permanent_buff_PostGame": "Trackから得た合計ゴールド",
     "DOTA_Tooltip_ability_bounty_hunter_cutpurse_Note0": "TrackをつけなおしてもCutpurseによってゴールドは盗めない。",
-    "DOTA_Tooltip_ability_batrider_sticky_napalm_stacks_per_cast": "キャスト毎スタック数:"
+    "DOTA_Tooltip_ability_batrider_sticky_napalm_stacks_per_cast": "キャスト毎スタック数:",
+    "DOTA_Tooltip_ability_viper_nose_dive_corrosive_radius": "範囲:"
 }
