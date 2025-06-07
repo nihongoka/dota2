@@ -13660,5 +13660,10 @@
     "DOTA_Tooltip_modifier_bounty_hunter_track_permanent_buff_PostGame": "Trackから得た合計ゴールド",
     "DOTA_Tooltip_ability_bounty_hunter_cutpurse_Note0": "TrackをつけなおしてもCutpurseによってゴールドは盗めない。",
     "DOTA_Tooltip_ability_batrider_sticky_napalm_stacks_per_cast": "キャスト毎スタック数:",
-    "DOTA_Tooltip_ability_viper_nose_dive_corrosive_radius": "範囲:"
+    "DOTA_Tooltip_ability_viper_nose_dive_corrosive_radius": "範囲:",
+    "DOTA_Tooltip_ability_batrider_firefly_Facet_batrider_buff_on_displacement": "FireflyはBatriderをも燃やす。Batriderは移動速度とスペル増幅率を上昇させ、毎秒ごとに最大体力の一部を燃やす。ボーナスは持続時間終了時に最大値に達する。自己燃焼ダメージは一定で、時間経過による増加はない。",
+    "DOTA_Tooltip_ability_batrider_firefly_movement_speed_pct_total": "%最大移動速度ボーナス:",
+    "DOTA_Tooltip_ability_batrider_firefly_spell_amplification_total": "%最大スペル増幅ボーナス:",
+    "DOTA_Tooltip_ability_batrider_firefly_hp_cost_per_second": "%最大体力を毎秒ダメージとして与える:",
+    "DOTA_Tooltip_Facet_batrider_buff_on_displacement_Description": "FireflyはBatriderをも燃やす。Batriderは移動速度とスペル増幅率を上昇させ、毎秒ごとに最大体力の一部を燃やす。"
 }
