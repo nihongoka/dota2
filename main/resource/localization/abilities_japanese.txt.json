@@ -13665,5 +13665,12 @@
     "DOTA_Tooltip_ability_batrider_firefly_movement_speed_pct_total": "%最大移動速度ボーナス:",
     "DOTA_Tooltip_ability_batrider_firefly_spell_amplification_total": "%最大スペル増幅ボーナス:",
     "DOTA_Tooltip_ability_batrider_firefly_hp_cost_per_second": "%最大体力を毎秒ダメージとして与える:",
-    "DOTA_Tooltip_Facet_batrider_buff_on_displacement_Description": "FireflyはBatriderをも燃やす。Batriderは移動速度とスペル増幅率を上昇させ、毎秒ごとに最大体力の一部を燃やす。"
+    "DOTA_Tooltip_Facet_batrider_buff_on_displacement_Description": "FireflyはBatriderをも燃やす。Batriderは移動速度とスペル増幅率を上昇させ、毎秒ごとに最大体力の一部を燃やす。",
+    "DOTA_Tooltip_ability_chen_hand_of_god_Scepter_Description": "Hand of Godのクールダウンを%AbilityCooldown%秒に減らし、%AbilityChannelTime%秒のチャネリングスペルにする。チャネリング開始時に通常の回復が発生し、自分以外の周囲の味方に%debuff_immune_resist%%%の魔法耐性付きのデバフ無効を与え、持続回復は%nearby_hot_boost%%%に増幅する。",
+    "DOTA_Tooltip_modifier_chen_hand_of_god_invuln_aura": "Hand of God",
+    "DOTA_Tooltip_Facet_batrider_buff_on_displacement": "Stoked",
+    "DOTA_Tooltip_ability_chen_hand_of_god_debuff_immune_radius": "チャネリング範囲:",
+    "DOTA_Tooltip_modifier_chen_hand_of_god_invuln_aura_Description": "周囲の味方はデバフ無効で、それらへのHand of Godの回復効果が強くなっている。",
+    "DOTA_Tooltip_modifier_chen_hand_of_god_invuln": "Hand of God",
+    "DOTA_Tooltip_modifier_chen_hand_of_god_invuln_Description": "デバフ無効。Hand of Godの持続回復の効果は強化されている。"
 }
