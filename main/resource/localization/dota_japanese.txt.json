@@ -16592,8 +16592,8 @@
     "DOTA_Welcome": "DotAへようこそ",
     "DOTA_Facet_Ping": "%s1 %s2はヒーローファセットを持っています %s3%s4",
     "DOTA_Innate_Ping": "%s1 %s2はイネイトアビリティを持っている %s3",
-    "DOTA_Modifier_Alert_Oracle_Rune_Prediction": "予言通り、%s2ルーンが%s3に出現した。Oracleは%s5の%s6ルーンは%s4に出現すると予言した。",
-    "DOTA_Modifier_Alert_Oracle_Rune_Prediction_FirstSpawn": "Oracleが最初はバウンティールーン、その後は2度もウォータールーンであることを予言した。いつものことだ。",
+    "DOTA_Modifier_Alert_Oracle_Rune_Prediction": "%1の予言%2<font color='%s3'>%s4</font>が%s5に沸いた。次は<font color='%s6'>%s7</font>が%s8で%s9に沸く。",
+    "DOTA_Modifier_Alert_Oracle_Rune_Prediction_FirstSpawn": "%1の予言%2最初のルーンは<font color='#FF7800'>バウンティー</font>ルーン、その後は2度も<font color='#0ba0c1'>ウォーター</font>ルーンだ。",
     "DOTA_Modifier_Alert_Oracle_Rune_Top": "トップ",
     "DOTA_Modifier_Alert_Oracle_Rune_Bottom": "ボトム",
     "DOTA_Crownfall_FrontPage_EventDescription_Act2": "クラウンフォールの物語は続きます。新しいマップを探索し、ミニゲームをクリアして、スキンを獲得しましょう。",
@@ -17005,5 +17005,7 @@
     "dota_settings_mark_for_buy_title": "購入メモ",
     "DOTA_HUD_RadiantRoshanRoar": "Roshanが唸っている！Radiantチームに襲われているに違いない！",
     "DOTA_HUD_DireRoshanRoar": "Roshanが唸っている！Direチームに襲われているに違いない！",
-    "DOTA_Chat_RoshanRoar": "Roshanが唸っている！"
+    "DOTA_Chat_RoshanRoar": "Roshanが唸っている！",
+    "DOTA_InventoryMenu_MarkForSell": "売却予約",
+    "DOTA_InventoryMenu_UnmarkForSell": "売却予約解除"
 }
