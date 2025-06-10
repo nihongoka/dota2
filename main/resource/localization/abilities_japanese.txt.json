@@ -13684,5 +13684,15 @@
     "DOTA_Tooltip_ability_invoker_ice_wall_root_damage": "ルートダメージ(<font color='#7998b5'>QUAS</font>):",
     "DOTA_Tooltip_ability_special_bonus_unique_invoker_chaos_meteor_size": "+{s:bonus_area_of_effect} Chaos Meteor大きさ",
     "DOTA_Tooltip_ability_special_bonus_unique_invoker_cold_snap_heal": "",
-    "DOTA_Tooltip_ability_special_bonus_unique_invoker_orb_levels": "+1オーブレベル"
+    "DOTA_Tooltip_ability_special_bonus_unique_invoker_orb_levels": "+1オーブレベル",
+    "DOTA_Tooltip_Facet_silencer_spread_the_knowledge_Description": "Glaives of Wisdomの最大レベルを増やす。レベル{s:bonus_max_level_tooltip}のGlaives of Wisdomは範囲{s:bonus_bounce_range_tooltip}以内のランダムな敵に{s:bonus_bounce_count_tooltip}回跳弾する。",
+    "DOTA_Tooltip_ability_alchemist_corrosive_weaponry_attack_dmg_per_stack": "%スタック毎基本ダメージ減少:",
+    "DOTA_Tooltip_Facet_silencer_spread_the_knowledge": "Synaptic Split",
+    "DOTA_Tooltip_Facet_silencer_oppressive_silence": "Suffer In Silence",
+    "DOTA_Tooltip_ability_silencer_oppressive_silence": "Suffer In Silence",
+    "DOTA_Tooltip_Facet_silencer_oppressive_silence_Description": "Silencerはサイレンス状態の敵から受けるダメージが減り、与えるダメージも増えるようになる。",
+    "DOTA_Tooltip_ability_silencer_oppressive_silence_Description": "Silencerはサイレンス状態の敵から受けるダメージが減り、与えるダメージも増えるようになる。",
+    "DOTA_Tooltip_ability_silencer_oppressive_silence_damage_pct": "%ダメージ:",
+    "DOTA_Tooltip_ability_silencer_glaives_of_wisdom_Facet_silencer_spread_the_knowledge": "Glaives of Wisdomの最大レベルを増やす。レベル%max_level_tooltip%のGlaives of Wisdomは範囲%bounce_range_tooltip%以内のランダムな敵に%bounce_count_tooltip%回跳弾する。跳弾毎に追加のマナを消費し、ヒーローを優先して跳弾する。",
+    "DOTA_Tooltip_ability_silencer_global_silence_Note1": "セプター付きのGlobal Silenceから発生する複数のArcane Cursesはスタックしない。"
 }
