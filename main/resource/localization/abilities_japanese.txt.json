@@ -2640,7 +2640,7 @@
     "DOTA_Tooltip_ability_nyx_assassin_spiked_carapace": "Spiked Carapace",
     "DOTA_Tooltip_ability_nyx_assassin_spiked_carapace_Note0": "反射ダメージはアーマー、魔法耐性などで軽減された後の数値を与える。",
     "DOTA_Tooltip_ability_nyx_assassin_spiked_carapace_Note1": "Spiked Carapaceは他のプレイヤーが操作するユニットからの攻撃でのみ発動する。",
-    "DOTA_Tooltip_ability_nyx_assassin_spiked_carapace_Note2": "反射のダメージタイプは基の攻撃手段と同じダメージタイプになる。",
+    "DOTA_Tooltip_ability_nyx_assassin_spiked_carapace_Note2": "反射のダメージタイプはNyx Assassinが受けたダメージと同じダメージタイプになる。",
     "DOTA_Tooltip_ability_nyx_assassin_spiked_carapace_reflect_duration": "効果時間:",
     "DOTA_Tooltip_ability_nyx_assassin_spiked_carapace_stun_duration": "スタン時間:",
     "DOTA_Tooltip_ability_nyx_assassin_spiked_carapace_damage_reflect_pct": "%ダメージ反射量:",
@@ -2670,7 +2670,7 @@
     "DOTA_Tooltip_modifier_nyx_assassin_burrow_Description": "動けず、見えず、通常攻撃ができない。HP、マナ自然回復が増加し、受けるダメージを軽減している。",
     "DOTA_Tooltip_ability_nyx_assassin_spiked_carapace_Description": "1回だけダメージを無効化して反射し、スタンも与える。このアビリティを使用してもVendettaは解除されない。\n\nBurrowed使用中このアビリティは周囲の敵をスタンさせるアビリティに変化する。",
     "DOTA_Tooltip_ability_nyx_assassin_vendetta_Description": "Nyx Assassinは透明になり、移動速度が増す。Nyx Assassinがこの透明中に通常攻撃で透明を解除した場合、その攻撃に大きなボーナスダメージを追加する。この攻撃は追加の%attack_range_bonus%の攻撃範囲を持ち、攻撃アニメーションが%attack_animation_bonus%%%早くなる。",
-    "DOTA_Tooltip_ability_nyx_assassin_burrow_Description": "地面に潜り、通常攻撃と移動ができなくなるかわりに各種ボーナスを得る。Spiked Carapaceは周囲の敵ユニットをスタンさせるアビリティに変化し、Mana FlareとImpaleの射程が伸び、Impaleのクールダウンと受けるダメージが減少し、透明化する。",
+    "DOTA_Tooltip_ability_nyx_assassin_burrow_Description": "地面に潜り、各種ボーナスを得る。Spiked Carapaceは周囲の敵ユニットをスタンさせるアビリティに変化し、Mana FlareとImpaleの射程が伸び、Impaleのクールダウンと受けるダメージが減少する。また潜っている間、Nyx Assassinは移動、攻撃ができず、透明状態。Nyx Assassinは全てのダメージタイプのダメージ軽減を得る。",
     "DOTA_Tooltip_rune_regeneration": "リジェネレーション",
     "DOTA_Tooltip_ability_zuus_thundergods_wrath_sight_duration": "効果時間:",
     "DOTA_Tooltip_ability_zuus_cloud_cloud_bolt_interval": "Lightning Bolt 基本クールダウン:",
@@ -13697,5 +13697,8 @@
     "DOTA_Tooltip_ability_silencer_global_silence_Note1": "セプター付きのGlobal Silenceから発生する複数のArcane Cursesはスタックしない。",
     "DOTA_Tooltip_ability_lycan_summon_wolves_Note0": "このスペルを使用すると、現在召喚されている狼が置き換えられる。",
     "DOTA_Tooltip_ability_meepo_divided_we_stand_magic_resist": "%ボーナス魔法耐性:",
-    "DOTA_Tooltip_Facet_disruptor_conduit": "Transference"
+    "DOTA_Tooltip_Facet_disruptor_conduit": "Transference",
+    "DOTA_Tooltip_Facet_disruptor_conduit_Description": "Electromagnetic Repulsionが味方に対して手動で発動できるようになり、更にDisruptorの現在の体力の割合に応じたダメージを与えるようになる。",
+    "DOTA_Tooltip_ability_disruptor_kinetic_fence_wall_width": "長さ:",
+    "DOTA_Tooltip_ability_disruptor_electromagnetic_repulsion_Facet_disruptor_conduit": "Electromagnetic Repulsionが味方に対して手動で発動できるようになり、更にDisruptorの現在の体力の%current_hp_as_damage%%%のダメージも与えるようになる。手動で発動した場合、クールダウンは%manual_cooldown%秒になる。"
 }
