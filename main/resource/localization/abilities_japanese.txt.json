@@ -5554,8 +5554,6 @@
     "DOTA_Tooltip_ability_shadow_demon_demonic_purge_Note1": "有用なバフはPurgeの期間中対象から継続的に削除される。",
     "DOTA_Tooltip_ability_shadow_demon_demonic_purge_Note2": "無敵ユニットにもキャストできる。",
     "DOTA_Tooltip_ability_shadow_demon_demonic_purge_abilityduration": "効果時間:",
-    "DOTA_Tooltip_ability_shadow_demon_demonic_purge_charge_restore_time_tooltip_scepter": "基本チャージ時間:",
-    "DOTA_Tooltip_ability_shadow_demon_demonic_purge_max_charges": "最大チャージ数:",
     "DOTA_Tooltip_modifier_shadow_demon_disruption": "Disruption",
     "DOTA_Tooltip_modifier_shadow_demon_disruption_Description": "追放された。",
     "DOTA_Tooltip_modifier_shadow_demon_shadow_poison": "Shadow Poison",
