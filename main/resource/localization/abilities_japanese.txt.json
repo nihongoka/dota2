@@ -2811,8 +2811,6 @@
     "DOTA_Tooltip_ability_death_prophet_exorcism_spirits": "幽霊数:",
     "DOTA_Tooltip_ability_death_prophet_exorcism_heal_percent": "%体力吸収:",
     "DOTA_Tooltip_ability_death_prophet_exorcism_average_damage": "幽霊ダメージ:",
-    "DOTA_Tooltip_ability_death_prophet_exorcism_scepter_movespeed_slow": "%移動速度減少:",
-    "DOTA_Tooltip_ability_death_prophet_exorcism_scepter_movespeed_debuff_duration": "スロー効果時間:",
     "DOTA_Tooltip_ability_death_prophet_exorcism_scepter_spirit_bonus_damage": "%幽霊ボーナスダメージ:",
     "DOTA_Tooltip_ability_death_prophet_exorcism_movement_bonus": "%有効時移動速度ボーナス:",
     "DOTA_Tooltip_modifier_death_prophet_spirit_siphon_slow": "Spirit Siphonスロー",
