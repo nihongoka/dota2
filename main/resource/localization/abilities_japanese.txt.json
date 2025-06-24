@@ -9837,7 +9837,7 @@
     "DOTA_Tooltip_Facet_leshrac_attacks_mana": "Chronoptic Nourishment",
     "DOTA_Tooltip_Facet_leshrac_attacks_mana_Description": "Leshracの攻撃はマナを回復する。",
     "DOTA_Tooltip_modifier_pudge_innate_graft_flesh": "Flesh Heap",
-    "DOTA_Tooltip_modifier_pudge_innate_graft_flesh_Description": "%fMODIFIER_PROPERTY_STATS_STRENGTH_BONUS%Strengthを得る。",
+    "DOTA_Tooltip_modifier_pudge_innate_graft_flesh_Description": "%fMODIFIER_PROPERTY_STATS_STRENGTH_BONUS% Strengthを得ている。",
     "DOTA_Tooltip_ability_pudge_dismember_Facet_pudge_fresh_meat": "Dismemberでヒーローにダメージを与えた際、Strengthが増加する。",
     "DOTA_Tooltip_ability_pudge_dismember_AbilityCooldown": "クールダウン:",
     "DOTA_Tooltip_ability_pudge_dismember_gluttony_strength_bonus": "Strength増加:",
