@@ -5404,7 +5404,7 @@
     "DOTA_TeamConfirmKickMember": "{g:dota_persona:kickee_account_id}を{s:team_name}からキックしますか？",
     "DOTA_TeamCreateNewTeam": "新しいチームを作る",
     "DOTA_TeamsMyTeams": "自分のチーム",
-    "DOTA_OfficialTeamInfo": "マイプロ情報",
+    "DOTA_OfficialTeamInfo": "自分の公式情報",
     "DOTA_TeamImagesBrowse": "ブラウズ",
     "DOTA_TeamBaseLogo": "チームベースロゴ",
     "DOTA_TeamBannerLogo": "チームバナーロゴ",
@@ -17006,5 +17006,13 @@
     "DOTA_Chat_RoshanRoar": "Roshanが唸っている！",
     "DOTA_InventoryMenu_MarkForSell": "売却予約",
     "DOTA_InventoryMenu_UnmarkForSell": "売却予約解除",
-    "DOTA_AbilityTooltip_Dependency": "レベル追従:{s:dependentability}"
+    "DOTA_AbilityTooltip_Dependency": "レベル追従:{s:dependentability}",
+    "dota_settings_bind_togglebuybackprotection_new_title": "バイバック保護切り替えホットキー",
+    "DOTA_Hotkeys_Tooltip_ToggleBuybackProtection": "バイバック保護のオン/オフ切り替え。",
+    "dota_settings_bind_togglebuybackprotection_description": "バイバック保護にホットキーを設定して簡単に切り替えする。",
+    "dota_settings_bind_togglebuybackprotection": "バイバック保護の切り替え",
+    "DOTA_InventoryMenu_MarkForSell_Tooltip": "売却可能になったときに即座に売却するようにする。(生存しており、ベースかシークレットショップにいる場合。または、クーリエが自動で持ち帰る。)",
+    "DOTA_Buyback_Protection": "バイバック保護({s:buyback_protection_status})",
+    "DOTA_Buyback_Protection_On": "オン",
+    "DOTA_Buyback_Protection_Off": "オフ"
 }
