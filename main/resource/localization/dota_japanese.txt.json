@@ -17005,5 +17005,6 @@
     "DOTA_HUD_DireRoshanRoar": "Roshanが唸っている！Direチームに襲われているに違いない！",
     "DOTA_Chat_RoshanRoar": "Roshanが唸っている！",
     "DOTA_InventoryMenu_MarkForSell": "売却予約",
-    "DOTA_InventoryMenu_UnmarkForSell": "売却予約解除"
+    "DOTA_InventoryMenu_UnmarkForSell": "売却予約解除",
+    "DOTA_AbilityTooltip_Dependency": "レベル追従:{s:dependentability}"
 }
