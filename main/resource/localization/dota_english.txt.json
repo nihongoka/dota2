@@ -19873,6 +19873,8 @@
     "dota_settings_no_results_message_11": "Anything but that.",
     "dota_settings_no_results_message_12": "From the highest peaks... nothing",
     "dota_settings_no_results_message_13": "Maybe in different labyrinth.",
+    "dota_settings_dota_ping_menu_delay": "Ping Wheel Show Delay",
+    "dota_settings_dota_ping_menu_delay_tooltip": "How long it takes in seconds before holding ALT + Left Click opens the ping wheel.",
     "dota_settings_CPUInLowPowerMode": "Power Saver Mode Detected",
     "dota_settings_CPUInLowPowerMode_tooltip": "Your PC Power Options are set to an Energy Saver mode, which will result in a lower frame rate when playing Dota.",
     "dota_settings_labs_description": "Dota Labs contains features where our playtesting has produced mixed or ambiguous data. We can't really know if they're good or how to make them better without seeing real Dota players using them, so we're shipping them in an earlier form on purpose so you can tell us whether they're worth continuing to invest in. Some of these features (or future Dota Labs ideas) will mature and graduate out, while others may be retired. Which depends on you.",
