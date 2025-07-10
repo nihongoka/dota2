@@ -3656,7 +3656,7 @@
     "DOTA_HUD_MoveSpeed": "移動速度:",
     "DOTA_HUD_SpellAmp": "スペル増幅:",
     "DOTA_HUD_ManaRegenDetail": "マナ自然回復:",
-    "DOTA_HUD_HealthRegenDetail": "HP自然回復:",
+    "DOTA_HUD_HealthRegenDetail": "体力自然回復:",
     "DOTA_HUD_Defense": "防御",
     "DOTA_HUD_Armor": "アーマー:",
     "DOTA_HUD_PhysicalResist": "物理耐性:",
@@ -3669,9 +3669,9 @@
     "DOTA_HUD_PrimaryAttributeAgility": "= {d:primary_attribute_damage}攻撃力(第一属性ボーナス)",
     "DOTA_HUD_PrimaryAttributeIntelligence": "= {d:primary_attribute_damage}攻撃力(第一属性ボーナス)",
     "DOTA_HUD_PrimaryAttributeAll": "= {d:primary_attribute_damage}攻撃力(第一属性ボーナス)",
-    "DOTA_HUD_StrengthDetails": "= {d:strength_hp}HP, {s:strength_hp_regen}HP自然回復",
-    "DOTA_HUD_AgilityDetails": "= {s:agility_armor}アーマー, {d:agility_attack_speed}攻撃速度",
-    "DOTA_HUD_IntelligenceDetails": "= {d:intelligence_mana}マナ, {s:intelligence_mana_regen}マナ自然回復, {s:intelligence_magic_resist}%基本魔法耐性",
+    "DOTA_HUD_StrengthDetails": "= {d:strength_hp}体力、{s:strength_hp_regen}体力自然回復",
+    "DOTA_HUD_AgilityDetails": "= {s:agility_armor}アーマー、{d:agility_attack_speed}攻撃速度",
+    "DOTA_HUD_IntelligenceDetails": "= {d:intelligence_mana}マナ、{s:intelligence_mana_regen}マナ自然回復、{s:intelligence_magic_resist}%基本魔法耐性",
     "DOTA_NewMusicPack": "新しいミュージックパック",
     "DOTA_TeamInvite_OpenQualifier": "オープン予選",
     "DOTA_TeamInvite_OpenQualifier1": "オープン予選 #1",
@@ -17014,5 +17014,6 @@
     "DOTA_InventoryMenu_MarkForSell_Tooltip": "売却可能になったときに即座に売却するようにする。(生存しており、ベースかシークレットショップにいる場合。または、クーリエが自動で持ち帰る。)",
     "DOTA_Buyback_Protection": "バイバック保護({s:buyback_protection_status})",
     "DOTA_Buyback_Protection_On": "オン",
-    "DOTA_Buyback_Protection_Off": "オフ"
+    "DOTA_Buyback_Protection_Off": "オフ",
+    "DOTA_HUD_SlowResist": "スロー耐性:"
 }
