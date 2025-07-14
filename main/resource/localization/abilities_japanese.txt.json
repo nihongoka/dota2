@@ -8683,7 +8683,7 @@
     "DOTA_Tooltip_ability_special_bonus_unique_troll_warlord_6": "Whirling Axes スペル耐性貫通",
     "DOTA_Tooltip_ability_special_bonus_unique_elder_titan_bonus_spirit_speed": "+{s:bonus_move_pct_heroes}% Astral Spirit ボーナス移動速度(ヒーロー)",
     "DOTA_Tooltip_ability_special_bonus_unique_medusa_6": "+{s:bonus_damage_per_mana} Mana Shield ダメージごとのマナ",
-    "DOTA_Tooltip_ability_special_bonus_unique_legion_commander_8": "Press the Attackが{s:value}秒のデバフ無効を付与",
+    "DOTA_Tooltip_ability_special_bonus_unique_legion_commander_8": "Press the Attack {s:bonus_immunity_duration}秒デバフ無効",
     "DOTA_Tooltip_ability_special_bonus_unique_legion_commander_8_Description": "魔法耐性も50%%付与する",
     "DOTA_Tooltip_ability_special_bonus_unique_legion_commander_9": "-{s:bonus_AbilityCooldown}秒 Overwhelming Odds クールダウン",
     "DOTA_Tooltip_ability_special_bonus_unique_broodmother_6": "+{s:bonus_kill_heal_heroes}% Spider's Milkヒーローからの回復",
