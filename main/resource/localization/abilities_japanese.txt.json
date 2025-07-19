@@ -10500,7 +10500,7 @@
     "DOTA_Tooltip_Facet_omniknight_omnipresent_Description": "OmniknightはDegen Auraの中にいるヒーローにより多くダメージを与える。",
     "DOTA_Tooltip_ability_huskar_inner_fire_health_cost": "体力コスト:",
     "DOTA_Tooltip_ability_huskar_blood_magic": "Blood Magic",
-    "DOTA_Tooltip_ability_huskar_blood_magic_Description": "Huskarはマナを持たない。アイテムのマナコストは代わりに体力を消費する。",
+    "DOTA_Tooltip_ability_huskar_blood_magic_Description": "Huskarはマナを持たない。アイテムのマナコストは代わりに体力コストとなる。<br/><br/>また、Huskarの体力コストは魔法ダメージ扱いとなり、魔法耐性で軽減することができる。",
     "DOTA_Tooltip_ability_huskar_life_break_splash_radius": "スプラッシュ範囲:",
     "DOTA_Tooltip_ability_huskar_life_break_life_break_heal_radius": "回復範囲:",
     "DOTA_Tooltip_Facet_huskar_nothl_transfusion": "Nothl Transfusion",
