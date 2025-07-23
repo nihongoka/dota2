@@ -3749,7 +3749,7 @@
     "DOTA_Tooltip_ability_huskar_berserkers_blood_Description": "Huskarの怪我は彼の力を養い、減った体力に基づき攻撃速度、魔法耐性、体力自然回復を得る。体力自然回復量はStrengthの割合に基づく。",
     "DOTA_Tooltip_ability_huskar_berserkers_blood_maximum_attack_speed": "最大攻撃速度:",
     "DOTA_Tooltip_ability_huskar_berserkers_blood_maximum_health_regen": "%最大STR自然回復:",
-    "DOTA_Tooltip_ability_huskar_berserkers_blood_hp_threshold_max": "%HPで最大ボーナス:",
+    "DOTA_Tooltip_ability_huskar_berserkers_blood_hp_threshold_max": "%最大ボーナス化体力:",
     "DOTA_Tooltip_ability_huskar_life_break_Note0": "突進中にHuskarがディセーブルされるか、対象が0.015秒で距離1400以上移動した場合、突進が停止する。",
     "DOTA_Tooltip_ability_huskar_life_break_Note1": "スローはスペル耐性ユニットも受ける。",
     "DOTA_Tooltip_ability_huskar_life_break_Note2": "Life Breakはdisjointできない。",
