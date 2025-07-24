@@ -9664,7 +9664,7 @@
     "DOTA_Tooltip_ability_item_shivas_guard_bonus_strength": "+$str",
     "DOTA_Tooltip_ability_item_shivas_guard_bonus_hp_regen": "+$hp_regen",
     "DOTA_Tooltip_ability_item_tiara_of_selemene_bonus_mana_regen": "+$mana_regen",
-    "DOTA_Tooltip_ability_item_devastator_Lore": "警告：間違えて逆側を持ってしまったとしても解毒剤はない。",
+    "DOTA_Tooltip_ability_item_devastator_Lore": "警告: 間違えて逆側を持ってしまったとしても解毒剤はない。",
     "DOTA_Tooltip_ability_item_devastator_bonus_attack_speed": "+$attack",
     "DOTA_Tooltip_ability_item_devastator_bonus_armor": "+$armor",
     "DOTA_Tooltip_ability_item_devastator_bonus_intellect": "+$int",
