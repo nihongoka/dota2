@@ -17016,5 +17016,6 @@
     "DOTA_Buyback_Protection_On": "オン",
     "DOTA_Buyback_Protection_Off": "オフ",
     "DOTA_HUD_SlowResist": "スロー耐性:",
-    "DOTA_HUD_AlchemistGrantedScepter": "{s:alchemist_name}が{s:grantee_name}に{s:scepter_icon}を与えた"
+    "DOTA_HUD_AlchemistGrantedScepter": "{s:alchemist_name}が{s:grantee_name}に{s:scepter_icon}を与えた",
+    "DOTA_AbilityTooltip_Breakable": "ブレイク可能: はい"
 }
