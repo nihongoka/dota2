@@ -40964,7 +40964,7 @@
     "DOTA_Fall2025_Tier2": "Tier 2",
     "DOTA_UI_EventProgress_CurrentLabelText": "{d:level_progress} XP",
     "DOTA_UI_EventProgress_NextLabelText": "/ {d:points_per_level}",
-    "DOTA_EventEffect_Fountain": "Fountain Rejuvination FX",
+    "DOTA_EventEffect_Fountain": "Fountain Rejuvenation FX",
     "DOTA_EventEffect_Teleport": "Town Portal Scroll FX",
     "DOTA_EventEffect_BlinkDagger": "Blink Dagger FX",
     "DOTA_EventEffect_LevelUp": "Level Up FX",
