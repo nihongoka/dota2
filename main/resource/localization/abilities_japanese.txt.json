@@ -13789,5 +13789,9 @@
     "DOTA_Tooltip_ability_terrorblade_dark_unity_outside_radius_bonus_damage_pct": "%ダメージ減少:",
     "DOTA_Tooltip_modifier_terrorblade_dark_unity_Description": "Terrorbladeの近くにいる間はダメージが上昇する。離れている場合はダメージが減少する。",
     "DOTA_Tooltip_modifier_terrorblade_dark_unity": "Dark Unity",
-    "DOTA_Tooltip_ability_antimage_counterspell_ally_Lore": "Anti-Mageが何とか許容できる唯一の魔法は... 友情。"
+    "DOTA_Tooltip_ability_antimage_counterspell_ally_Lore": "Anti-Mageが何とか許容できる唯一の魔法は... 友情。",
+    "DOTA_Tooltip_ability_leshrac_greater_lightning_storm_Lore": "Leshracは目的を果たすため、一時的に物質界での存在を希薄化させる。",
+    "DOTA_Tooltip_ability_sandking_scorpion_strike_Lore": "Crixalisは確かに慈悲深い存在だが、砂の魂は救うに値する敵をほとんど見出さない。",
+    "DOTA_Tooltip_ability_kunkka_tidal_wave_Lore": "良い船乗りは、潮の満ち引きのタイミングを自分の手のひらのように熟知している。",
+    "DOTA_Tooltip_ability_skeleton_king_spectral_blade_Lore": "Ostarionによって奪われたすべての魂の永遠の憎しみが、彼の残虐な剣の一振りと共に現実へと滲み出る。"
 }
