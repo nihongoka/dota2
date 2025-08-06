@@ -10981,7 +10981,7 @@
     "encounter_bandits": "荒地の盗賊",
     "encounter_bomb_squad": "爆弾処理班",
     "DOTA_Fall2021_SeasonalSpray": "期間限定のスプレー",
-    "DOTA_BattlePass_RandomReward_Info_Labyrinth": "Aghanim's Labyrinth.で使える追加ヒーロー1体をアンロックします。すべてのヒーローがアンロックされている場合、代わりに1,000魔法の欠片を獲得できます。",
+    "DOTA_BattlePass_RandomReward_Info_Labyrinth": "Aghanim's Labyrinthで使える追加ヒーロー1体をアンロックします。すべてのヒーローがアンロックされている場合、代わりに1,000魔法の欠片を獲得できます。",
     "DOTA_BattlePass_RandomReward_Info_Labyrinth_Desc": "<b><i>Aghanim's Labyrinth</b></i>の追加プレイアブルヒーローアンロック",
     "DOTA_Fall2021UpcomingRewards_PersonaInfo2": "Miranaペルソナ",
     "DOTA_Fall2021UpcomingRewards_ArcanaInfo2": "Drow Rangerのアルカナバンドル",
@@ -17017,5 +17017,7 @@
     "DOTA_Buyback_Protection_Off": "オフ",
     "DOTA_HUD_SlowResist": "スロー耐性:",
     "DOTA_HUD_AlchemistGrantedScepter": "{s:alchemist_name}が{s:grantee_name}に{s:scepter_icon}を与えた",
-    "DOTA_AbilityTooltip_Breakable": "ブレイク可能: はい"
+    "DOTA_AbilityTooltip_Breakable": "ブレイク可能: はい",
+    "DOTA_Fall2025_EventLevel_Tooltip_Body": "ゲームをプレイしてレベルを稼ぎ、QuarteoからのCuriosを受け取ろう。<br><br>勝利 = {d:win_xp}XP, 敗北 = {d:lose_xp}XP<br><i>ターボ</i>: 勝利 = {d:win_turbo_xp}XP, 敗北 = {d:lose_turbo_xp}XP",
+    "DOTA_Seasonal_Fall_2025_Description": "Dotaをプレイして無料でスキンをゲット!"
 }
