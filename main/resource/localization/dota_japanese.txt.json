@@ -17025,5 +17025,6 @@
     "DOTA_Chat_RoshanTimerMessage_AttackRoshan": "Roshan %s1 %s2のピットで攻撃しよう!",
     "DOTA_Chat_RoshanTimerMessage_WaitForRoshanToRespawn": "Roshan %s1 リスポーンするのを待とう。",
     "DOTA_Reward_Line_Fall_2025_HeroSetRewardDescription": "直近にリリースされた100種類のヒーローセットのうち1つか、低確率でイモータルかアルカナを獲得。",
-    "DOTA_Fall2025_EventLevel_Tooltip_PreviousMatchInfo": "(前回の試合で{d:points_gained}XP獲得)"
+    "DOTA_Fall2025_EventLevel_Tooltip_PreviousMatchInfo": "(前回の試合で{d:points_gained}XP獲得)",
+    "DOTA_EnemyAbility_Ping_Cooldown": " (多分クールダウン中)"
 }
