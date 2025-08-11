@@ -1,4 +1,8 @@
-# UI ファイル用ルール（dota_{english,japanese}.txt.json）
+# Dota 翻訳ルール
+
+## 対象ファイル
+翻訳前: `dota_english.txt.json`
+翻訳後: `dota_japanese.txt.json`
 
 ## 文体・語調
 - **敬体**（です・ます／〜してください／〜しましょう）を基本  

@@ -1,4 +1,8 @@
-# Ability ファイル用ルール（abilities_{english,japanese}.txt.json）
+# Ability翻訳ルール
+
+## 対象ファイル
+翻訳前: `abilities_english.txt.json`
+翻訳後: `abilities_japanese.txt.json`
 
 ## 文体
 - **常体（〜する）**。短文は体言止め可（例：`効果時間: 3秒`）
