@@ -1,6 +1,5 @@
 en,ja,policy,category,match,notes
 
-# ==== アビリティ ====
 Cooldown,クールダウン,translate,ui_text,ci,
 Mana Cost,マナコスト,translate,ui_text,ci,
 AbilityManaCost,マナコスト,translate,ui_text,ci,キー由来の表記
@@ -13,33 +12,40 @@ Damage Reduction,ダメージ軽減,translate,ui_text,ci,
 Bonus Damage,ボーナスダメージ,translate,ui_text,ci,
 Melee,メレー,translate,ui_text,ci,
 Ranged,レンジ,translate,ui_text,ci,
-per,毎,translate,ui_text,ci,
 AoE,効果範囲,translate,ui_text,ci,
 
-# ==== システム ====
 Passive,パッシブ,translate,mechanic,word,
 AutoCast,オートキャスト,translate,mechanic,word,
 Toggle,トグル,translate,mechanic,word,
 Channeled,チャネリング,translate,mechanic,word,
 
-# ==== ユニット ====
-heros,ヒーロー,translate,unit,word,
+hero,ヒーロー,translate,unit,word,
+heroes,ヒーロー,translate,unit,word,
+creep,クリープ,translate,unit,word,
 creeps,クリープ,translate,unit,word,
+neutral creep,中立クリープ,translate,unit,word,
 neutral creeps,中立クリープ,translate,unit,word,
+ancient creep,エンシェントクリープ,translate,unit,word,
 ancient creeps,エンシェントクリープ,translate,unit,word,
+Creep Heroe,クリープヒーロー,translate,unit,word,
+Creep Heroes,クリープヒーロー,translate,unit,word,
 Creep-Heroes,クリープヒーロー,translate,unit,word,
+courier,クーリエ,translate,unit,word,
 couriers,クーリエ,translate,unit,word,
+ward,ワード,translate,unit,word,
 wards,ワード,translate,unit,word,
 observer ward,,keep_en,unit,word,
 sentry ward,,keep_en,unit,word,
 Roshan,,keep_en,unit,word,
 
-
-# ==== オブジェクト ====
+building,建造物,translate,object,word,
 buildings,建造物,translate,object,word,
+structure,建造物,translate,object,word,
 structures,建造物,translate,object,word,
+tower,タワー,translate,object,word,
 towers,タワー,translate,object,word,
 Tier,ティア,translate,object,ci,
+barrack,バラック,translate,object,word,
 barracks,バラック,translate,object,word,
 ancient,エンシェント,translate,object,word,
 fountain,泉,translate,object,word,
@@ -65,7 +71,7 @@ Damage,ダメージ,translate,stat,ci,
 Health,HP,translate,stat,word,
 HP,,keep_en,stat,word,
 MP,,keep_en,stat,word,
-regeneration,自然回復,keep_en,stat,word,
+regeneration,自然回復,translate,stat,word,
 Strength,,keep_en,stat,word,
 Str,,keep_en,stat,word,
 Agility,,keep_en,stat,word,
