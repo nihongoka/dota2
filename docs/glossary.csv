@@ -1,0 +1,62 @@
+en,ja,policy,category,match,notes
+
+# ==== アビリティ ====
+Cooldown,クールダウン,translate,ui_text,ci,
+Mana Cost,マナコスト,translate,ui_text,ci,
+AbilityManaCost,マナコスト,translate,ui_text,ci,キー由来の表記
+Cast Range,キャスト範囲,translate,ui_text,ci,「射程」に統一する場合はここを変更
+AbilityCastRange,キャスト範囲,translate,ui_text,ci,キー由来の表記
+Range,範囲,translate,ui_text,word,文脈で半径/範囲
+Radius,半径,translate,ui_text,ci,
+Duration,効果時間,translate,ui_text,ci,
+Damage Reduction,ダメージ軽減,translate,ui_text,ci,
+Bonus Damage,ボーナスダメージ,translate,ui_text,ci,
+Melee,メレー,translate,ui_text,ci,
+Ranged,レンジ,translate,ui_text,ci,
+per,毎,translate,ui_text,ci,
+AoE,効果範囲,translate,ui_text,ci,
+
+# ==== システム ====
+Passive,パッシブ,translate,mechanic,word,
+AutoCast,オートキャスト,translate,mechanic,word,
+Toggle,トグル,translate,mechanic,word,
+Channeled,チャネリング,translate,mechanic,word,
+
+# ==== オブジェクト ====
+Building,建造物,translate,object,word,
+Structure,建造物,translate,object,word,
+Tower,タワー,translate,object,word,
+Tier,ティア,translate,object,word,
+Barrack,バラック,translate,object,word,
+Ancient,エンシェント,translate,object,word,
+Fountain,泉,translate,object,word,
+Lotus Pool,ロータスプール,translate,object,word,
+Outpost,アウトポスト,translate,object,word,
+Twin Gate,ツインゲート,translate,object,word,
+Watcher,ウォッチャー,translate,object,word,
+
+
+# ==== ステータス ====
+Basic Dispel,基本ディスペル,translate,stat,ci,
+Strong Dispel,強化ディスペル,translate,stat,ci,
+Spell Immunity,スペル耐性,translate,stat,ci,
+spell immune,スペル耐性,translate,stat,ci,動詞句
+debuff immune,デバフ無効,translate,stat,ci,
+Status Resistance,異常耐性,translate,stat,ci,
+Magic Resistance,魔法耐性,translate,stat,ci,
+Slow Resistance,スロー耐性,translate,stat,ci,
+Movement Speed,移動速度,translate,stat,ci,
+Attack Speed,攻撃速度,translate,stat,ci,
+Armor,アーマー,translate,stat,ci,
+Damage,ダメージ,translate,stat,ci,
+Health,HP,translate,stat,word,
+HP,,keep_en,stat,word,
+MP,,keep_en,stat,word,
+regeneration,自然回復,keep_en,stat,word,
+Strength,,keep_en,stat,word,
+Str,,keep_en,stat,word,
+Agility,,keep_en,stat,word,
+Agi,,keep_en,stat,word,
+Intelligence,,keep_en,stat,word,
+Int,,keep_en,stat,word,
+Leash,束縛,translate,stat,ci,

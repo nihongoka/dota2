@@ -1,0 +1,10 @@
+rules:
+  - apply_to:
+      - "abilities_english.txt.json"
+      - "abilities_japanese.txt.json"
+    use: "./abilities.md"
+
+  - apply_to:
+      - "dota_english.txt.json"
+      - "dota_japanese.txt.json"
+    use: "./dota.md"
