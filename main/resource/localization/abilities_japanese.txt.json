@@ -11243,7 +11243,7 @@
     "DOTA_Tooltip_ability_tusk_bitter_chill_attack_speed_slow": "攻撃速度減少:",
     "DOTA_Tooltip_Facet_tusk_facet_tag_team_description": "Tuskは<b color='white'>Tag Team</b>をキャストする事で、近くの敵を攻撃する際、ボーナスダメージを攻撃に与えられるようになる。",
     "DOTA_Tooltip_Facet_skywrath_mage_shield": "Shield of the Scion",
-    "DOTA_Tooltip_ability_skywrath_mage_arcane_bolt_shard_description": "Skywrath MageがArcane Boltをキャストした時、同時に%total_bolt_count%発発射され、1つは選択した対象に、もう1つは選択した対象の範囲%extra_bolt_search_radius%以内のランダムな敵に発射される。ヒーローが優先される。",
+    "DOTA_Tooltip_ability_skywrath_mage_arcane_bolt_shard_description": "Skywrath MageがArcane Boltをキャストした時、同時に%total_bolt_count%発発射され、1つは選択した対象に、残りは選択した対象の範囲%extra_bolt_search_radius%以内のランダムな敵に発射される。ヒーローが優先される。",
     "DOTA_Tooltip_modifier_skywrath_mage_shield_barrier": "Shield of the Scion",
     "DOTA_Tooltip_ability_abaddon_aphotic_shield_facet_abaddon_mephitic_shroud": "ダメージバリアの量が増えるが、爆発してダメージを与えることは無くなる。吸収したダメージの%absorb_to_damage%%%を周囲の敵に与える。クールダウンが増加する。",
     "DOTA_Tooltip_ability_abaddon_aphotic_shield_absorb_damage_aoe": "反射ダメージ範囲:",
