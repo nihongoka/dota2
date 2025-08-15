@@ -8151,7 +8151,7 @@
     "DOTA_Tooltip_Ability_item_heavy_blade_Lore": "実験体が容易に手に入るTyler Estateの塀の中では想像も絶するような実験が幾度となく行われている。",
     "DOTA_Tooltip_Ability_item_unstable_wand_Description": "<h1>Active: Pig, Out!</h1>%duration%秒間自身を豚に変身させ、移動速度を%active_movespeed_pct%%%増加させる。",
     "DOTA_Tooltip_Ability_item_unstable_wand_Lore": "平和を愛する頭の悪い魔法使いが置き忘れたその場しのぎのお守り。",
-    "DOTA_Tooltip_Ability_item_misericorde_Description": "<h1>パッシブ: Dark Mercy</h1>攻撃時、敵の体力が%missing_hp%%%減るたびに%bonus_damage%ボーナスダメージを与える。",
+    "DOTA_Tooltip_Ability_item_misericorde_Description": "<h1>パッシブ: Dark Mercy</h1>攻撃時、敵の失っている体力%missing_hp%%%ごとに%bonus_damage%多くダメージを与える。",
     "DOTA_Tooltip_Ability_item_misericorde_Lore": "所有者の不可解な死の後、White Spireから盗み出され、密輸された悪名高いアサシンの刃。",
     "DOTA_Tooltip_modifier_item_force_field_effect": "Arcanist's Armor",
     "DOTA_Tooltip_modifier_item_force_field_effect_Description": "アーマーが%dMODIFIER_PROPERTY_PHYSICAL_ARMOR_BONUS%、魔法耐性が%dMODIFIER_PROPERTY_MAGICAL_RESISTANCE_BONUS%%%増加している。",
