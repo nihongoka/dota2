@@ -8967,7 +8967,7 @@
     "DOTA_Tooltip_ability_tusk_ice_shards_aghs_shard_damage": "秒間ダメージ:",
     "DOTA_Tooltip_ability_tusk_ice_shards_aghs_shard_depth": "シャード奥行:",
     "DOTA_Tooltip_ability_skywrath_mage_shield_of_the_scion": "Shield of the Scion",
-    "DOTA_Tooltip_ability_skywrath_mage_shield_of_the_scion_Description": "Skywrath Mageがアビリティで敵ヒーローに魔法ダメージを与えるたびに、%damage_barrier_base% + %damage_barrier_per_level% * ヒーローレベル の魔法ダメージバリアを得るようになる。それぞれのバフは独立してスタックする。",
+    "DOTA_Tooltip_ability_skywrath_mage_shield_of_the_scion_Description": "Skywrath Mageがアビリティで敵ヒーローに魔法ダメージを与えるたびに、(%damage_barrier_base%+%damage_barrier_per_level%xヒーローレベル)の魔法ダメージバリアを得るようになる。それぞれのバフは独立してスタックする。",
     "DOTA_Tooltip_ability_elder_titan_move_spirit": "Move Astral Spirit",
     "DOTA_Tooltip_ability_elder_titan_move_spirit_Description": "Astral Spiritを指定方向に移動する。",
     "DOTA_Tooltip_ability_ember_spirit_fire_remnant_shard_charge_radius": "チャージ範囲:",
