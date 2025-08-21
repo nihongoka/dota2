@@ -16992,7 +16992,7 @@
     "DOTA_Chat_RoshanRoar": "Roshanが唸っている！",
     "DOTA_InventoryMenu_MarkForSell": "売却予約",
     "DOTA_InventoryMenu_UnmarkForSell": "売却予約解除",
-    "DOTA_AbilityTooltip_Dependency": "レベル追従:{s:dependentability}",
+    "DOTA_AbilityTooltip_Dependency": "レベル追従: {s:dependentability}",
     "dota_settings_bind_togglebuybackprotection_new_title": "バイバック保護切り替えホットキー",
     "DOTA_Hotkeys_Tooltip_ToggleBuybackProtection": "バイバック保護のオン/オフ切り替え。",
     "dota_settings_bind_togglebuybackprotection_description": "バイバック保護にホットキーを設定して簡単に切り替えする。",
