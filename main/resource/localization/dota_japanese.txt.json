@@ -17014,5 +17014,6 @@
     "DOTA_Fall2025_EventLevel_Tooltip_PreviousMatchInfo": "(前回の試合で{d:points_gained}XP獲得)",
     "DOTA_EnemyAbility_Ping_Cooldown": " (多分クールダウン中)",
     "DOTA_HUD_RadiantBannerPlanted": "RadiantチームがBannerを設置した",
-    "DOTA_HUD_DireBannerPlanted": "DireチームがBannerを設置した"
+    "DOTA_HUD_DireBannerPlanted": "DireチームがBannerを設置した",
+    "Notification_International25_GG_Withdraw": "Gaimin GladiatorsはThe Internationalへの出場を辞退しました。新しいチームが見つかり次第、予想は自動で更新されます。そしてプレイヤーに追加で10個のファンタジークラフトロールが配布されました。"
 }
