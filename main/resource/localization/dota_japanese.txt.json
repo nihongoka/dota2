@@ -17195,5 +17195,6 @@
     "dota_settings_bind_FilterHero": "ヒーローのみにキャスト",
     "dota_settings_bind_FilterNonHero": "非ヒーローユニットのみにキャスト",
     "dota_settings_bind_OverlayMapToggle": "オーバーレイマップ表示",
-    "dota_settings_bind_AbilityPrimary1AutoCastAlternate": "アビリティ1のオートキャスト"
+    "dota_settings_bind_AbilityPrimary1AutoCastAlternate": "アビリティ1のオートキャスト",
+    "Notification_International25_YB_Entrance": "Yakutou BrothersがGaimin Gladiatorsの代わりにThe Internationalに参加することが公式に決まりました。あなたの予想を更新するときです!"
 }
