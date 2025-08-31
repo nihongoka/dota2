@@ -17010,7 +17010,7 @@
     "DOTA_Chat_RoshanTimerMessage_VisibleTime": "Roshan %s1 %s3で%s2のピットにリスポーンする。",
     "DOTA_Chat_RoshanTimerMessage_AttackRoshan": "Roshan %s1 %s2のピットで攻撃しよう!",
     "DOTA_Chat_RoshanTimerMessage_WaitForRoshanToRespawn": "Roshan %s1 リスポーンするのを待とう。",
-    "DOTA_Reward_Line_Fall_2025_HeroSetRewardDescription": "直近にリリースされた100種類のヒーローセットのうち1つか、低確率でイモータルかアルカナを獲得。",
+    "DOTA_Reward_Line_Fall_2025_HeroSetRewardDescription": "これまでにリリースされた100種類以上のヒーローセットのうち1つか、低確率でイモータルかアルカナを獲得。",
     "DOTA_Fall2025_EventLevel_Tooltip_PreviousMatchInfo": "(前回の試合で{d:points_gained}XP獲得)",
     "DOTA_EnemyAbility_Ping_Cooldown": " (多分クールダウン中)",
     "DOTA_HUD_RadiantBannerPlanted": "RadiantチームがBannerを設置した",
