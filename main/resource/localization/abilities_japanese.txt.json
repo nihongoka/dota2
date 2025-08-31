@@ -10584,7 +10584,7 @@
     "DOTA_Tooltip_Facet_rattletrap_hookup_Description": "Hookshotの命中した対象の周囲{s:bonus_radius_ally}に別の味方がいる場合、Clockwerkとそのすべての味方はボーナスアーマーを獲得し、Hookshotのクールダウンとマナコストが一部還元されるようになる。",
     "DOTA_Tooltip_Facet_lich_frostbound_Description": "Chain Frostが跳ねる対象を見つけられなかった場合、最後の対象に一時的にとどまり、新しい対象が見つかったときに再度跳ねるようになる。",
     "DOTA_Tooltip_Facet_tidehunter_kraken_swell_Description": "Anchor Smashの効果を受けた敵ヒーローが死亡した場合、Kraken Shellのダメージブロックが永続的に強化される。",
-    "DOTA_Tooltip_Facet_shadow_shaman_massive_serpent_ward_Description": "{s:bonus_mega_ward_multiplier_damage}倍のダメージを与え、{s:bonus_mega_ward_multiplier_health}倍の体力を持ち、賞金が多い強大な1体のSerpent Wardを召喚するようになる。",
+    "DOTA_Tooltip_Facet_shadow_shaman_massive_serpent_ward_Description": "{s:bonus_mega_ward_multiplier_damage}倍のダメージと{s:bonus_mega_ward_multiplier_health}倍の体力を持ち、賞金が多い強大な1体のSerpent Wardを召喚するようになる。",
     "DOTA_Tooltip_Facet_riki_contract_killer_Description": "Rikiはキルやアシストでボーナス経験値を得る。",
     "DOTA_Tooltip_Facet_tinker_repair_bots_Description": "March of the Machinesはスタックしない一時的な回復を味方ヒーローに与える。",
     "DOTA_Tooltip_Facet_tinker_translocator_Description": "Tinker自身に張られたDefense Matrixが完全になくなったとき、Tinkerは前方のランダムな場所にブリンクする。<br><br>ディスペルタイプ: 基本ディスペル",
