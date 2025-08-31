@@ -17196,5 +17196,6 @@
     "dota_settings_bind_FilterNonHero": "非ヒーローユニットのみにキャスト",
     "dota_settings_bind_OverlayMapToggle": "オーバーレイマップ表示",
     "dota_settings_bind_AbilityPrimary1AutoCastAlternate": "アビリティ1のオートキャスト",
-    "Notification_International25_YB_Entrance": "Yakutou BrothersがGaimin Gladiatorsの代わりにThe Internationalに参加することが公式に決まりました。あなたの予想を更新するときです!"
+    "Notification_International25_YB_Entrance": "Yakutou BrothersがGaimin Gladiatorsの代わりにThe Internationalに参加することが公式に決まりました。あなたの予想を更新するときです!",
+    "Notification_International25_Whitemon_Replace": "チームTundraのWhitemonがThe Internationalに出場できないことになりました。代わりにTobias \"Tobi\" Buchnerが出場します。"
 }
