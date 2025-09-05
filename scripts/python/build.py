@@ -25,6 +25,7 @@ files = [
     # ('hero_lore', format_default),
     ('leagues', format_simple('leagues')),
     ('richpresence', format_default),
+    ('teamfandom', format_default)
 ]
 
 if os.path.exists('pak01/'):

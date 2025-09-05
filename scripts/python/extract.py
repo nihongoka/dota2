@@ -46,6 +46,7 @@ l10ns = [
     L10nRule('gameui', False),
     L10nRule('leagues', True),
     L10nRule('richpresence', False),
+    L10nRule('teamfandom', False)
 ]
 
 
