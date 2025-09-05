@@ -17198,5 +17198,6 @@
     "dota_settings_bind_AbilityPrimary1AutoCastAlternate": "アビリティ1のオートキャスト",
     "Notification_International25_YB_Entrance": "Yakutou BrothersがGaimin Gladiatorsの代わりにThe Internationalに参加することが公式に決まりました。あなたの予想を更新するときです!",
     "Notification_International25_Whitemon_Replace": "チームTundraのWhitemonがThe Internationalに出場できないことになりました。代わりにTobias \"Tobi\" Buchnerが出場します。",
-    "Notification_International25_Fantasy_Stun_Fix": "あなたのファンタジーロースターはスタンの比重が想定より大きいバグの影響を受けていました。そのバグは修正され、影響を受けたエンブレム1つにつき3つのロールトークンが付与されました。"
+    "Notification_International25_Fantasy_Stun_Fix": "あなたのファンタジーロースターはスタンの比重が想定より大きいバグの影響を受けていました。そのバグは修正され、影響を受けたエンブレム1つにつき3つのロールトークンが付与されました。",
+    "DOTA_Hud_Shop_Filter_Toggle": "チームアイテムの表示を切り替え。"
 }
