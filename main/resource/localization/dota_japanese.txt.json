@@ -17203,5 +17203,7 @@
     "strange": "刻印",
     "genuine": "ジュニュイン",
     "tournament": "ヒロイック",
-    "favored": "お気に入り"
+    "favored": "お気に入り",
+    "dota_stat_dropdown_herofacet": "ヒーローファセット",
+    "dota_settings_spectatordropdown_herofacet": "ヒーローファセット"
 }
