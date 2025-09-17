@@ -12742,7 +12742,7 @@
     "DOTA_Tooltip_modifier_dazzle_nothl_projection_soul_debuff": "Nothl Projection",
     "DOTA_Tooltip_modifier_dazzle_nothl_projection_soul_debuff_Description": "無敵で、肉体から離れすぎると引き戻される。",
     "DOTA_Tooltip_ability_ringmaster_weighted_pie_Description": "<h1>使用: Toss Pie</h1>相手をノックバックし、視界を%vision_radius%に%blind_duration%秒間減少させ、その間その敵の味方から視認されなくする。エンシェントでないクリープだった場合は即死させる。",
-    "DOTA_Tooltip_ability_ringmaster_crystal_ball_Description": "<h1>使用: Clairvoyance</h1>グローバルな対象の地点の周囲%radius%を%duration%秒間スキャンする。範囲内に敵ヒーローがいるかどうかが分かる。範囲内にいる見えないユニットも見えるようになるが、直接視界を得ることはできない。この看破効果は%truesight_linger_duration%秒間持続する。",
+    "DOTA_Tooltip_ability_ringmaster_crystal_ball_Description": "<h1>使用: Clairvoyance</h1>グローバルな対象の地点の周囲%radius%を%duration%秒間スキャンする。範囲内に敵ヒーローがいるかどうかが分かる。範囲内にいる透明なユニットを看破するが、直接視界を得ることはできない。この看破効果は%truesight_linger_duration%秒間持続する。",
     "DOTA_Tooltip_modifier_ringmaster_unicycle_movement_Description": "一輪車に乗っている。",
     "DOTA_Tooltip_modifier_ringmaster_weighted_pie_debuff": "Weighted Pie",
     "DOTA_Tooltip_modifier_ringmaster_weighted_pie_debuff_Description": "パイを顔に投げつけられてノックバックしている。",
