@@ -124299,6 +124299,9 @@ DOTA_CompanionPoints_Prediction_MainEvent: |-
 DOTA_Companion_CorrectPrediction: |-
   Correct Oracle's Challenge Prediction
 
+DOTA_EventRanking_Award: |-
+  Event Ranking Reward
+
 DOTA_ClaimGatedEvent_GenericFailure: |-
   Unknown server error, please try again.
 
