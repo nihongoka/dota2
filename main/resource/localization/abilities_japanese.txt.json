@@ -311,7 +311,7 @@
     "DOTA_Tooltip_ability_special_bonus_unique_crystal_maiden_3": "+{s:bonus_damage} Freezing Field ダメージ",
     "DOTA_Tooltip_ability_special_bonus_unique_crystal_maiden_4": "+{s:bonus_base_mana_regen} Arcane Aura 基本マナ自然回復",
     "DOTA_Tooltip_ability_special_bonus_unique_crystal_maiden_5": "-{s:bonus_AbilityCooldown}秒 Crystal Nova クールダウン",
-    "DOTA_Tooltip_ability_crystal_maiden_brilliance_aura_Description": "マップ上にいる全ての味方ユニットに追加のマナ自然回復を与える。Crystal Maidenの周囲%proximity_bonus_radius%内にいる味方ユニットは%proximity_bonus_factor%倍のマナ自然回復を与える。",
+    "DOTA_Tooltip_ability_crystal_maiden_brilliance_aura_Description": "マップ上にいる全ての味方ユニットに追加のマナ自然回復を与える。Crystal Maidenの周囲%proximity_bonus_radius%以内にいる味方ユニットには%proximity_bonus_factor%倍のマナ自然回復を与える。",
     "DOTA_Tooltip_ability_crystal_maiden_freezing_field_Description": "チャネリング - Crystal Maidenの周囲に100回ランダムな氷の爆発を起こし、敵にスローと大ダメージを与える。%abilitychanneltime%秒間継続する。",
     "DOTA_Tooltip_modifier_crystal_maiden_crystal_nova_Description": "移動速度が%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%減少している。",
     "DOTA_Tooltip_ability_drow_ranger_frost_arrows": "Frost Arrows",
