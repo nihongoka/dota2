@@ -124531,6 +124531,9 @@ DOTA_Compendium2025_ItemChoice_AlreadyOwned: |-
 DOTA_Compendium2025_ItemChoice_ButtonLabel: |-
   Choose
 
+DOTA_Compendium2025_ItemChoice_AllowDuplicates: |-
+  Allow claiming owned rewards
+
 DOTA_Compendium25_Claim_Confirm: |-
   Choose This Item?
 
