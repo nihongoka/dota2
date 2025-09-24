@@ -9838,7 +9838,7 @@
     "DOTA_Tooltip_ability_pudge_dismember_gluttony_strength_bonus": "Strength増加:",
     "DOTA_Tooltip_ability_pudge_dismember_glutton_strength_stack_duration": "Strength効果時間:",
     "DOTA_Tooltip_modifier_pudge_dismember_gluttony_strength_buff_counter": "Fresh Meat",
-    "DOTA_Tooltip_ability_item_grisgris_Description": "落とすことやバックパックに入れることができないが普通のスロットには入れることができるアイテム。持ち主が死亡すると、死亡によって失われたゴールドの%death_gold_lost_reduction_pct%%%がこのアイテムに加算され、アイテムを消費すると払い戻される。右クリックすることでアイテムを消費し、永久に削除することができる。",
+    "DOTA_Tooltip_ability_item_grisgris_Description": "落とすことやバックパックに入れることができないが普通のスロットには入れることができるアイテム。持ち主が死亡すると、死亡によって失われたゴールドの%death_gold_lost_reduction_pct%%%がこのアイテムに蓄積され、アイテムを消費すると払い戻される。右クリックすることでアイテムを消費し、永久に削除することができる。",
     "DOTA_Tooltip_Facet_pudge_fresh_meat": "Fresh Meat",
     "DOTA_Tooltip_ability_bane_nightmare_Facet_bane_dream_stalker": "Nightmare効果中の敵を攻撃する際、攻撃速度を得る。",
     "DOTA_Tooltip_ability_bane_nightmare_walk_speed": "歩く速度:",
