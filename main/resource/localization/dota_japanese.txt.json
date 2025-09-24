@@ -17205,5 +17205,6 @@
     "tournament": "ヒロイック",
     "favored": "お気に入り",
     "dota_stat_dropdown_herofacet": "ヒーローファセット",
-    "dota_settings_spectatordropdown_herofacet": "ヒーローファセット"
+    "dota_settings_spectatordropdown_herofacet": "ヒーローファセット",
+    "DOTA_InventoryMenu_ConsumeItem": "アイテムを消費"
 }
