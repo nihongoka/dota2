@@ -17206,5 +17206,6 @@
     "favored": "お気に入り",
     "dota_stat_dropdown_herofacet": "ヒーローファセット",
     "dota_settings_spectatordropdown_herofacet": "ヒーローファセット",
-    "DOTA_InventoryMenu_ConsumeItem": "アイテムを消費"
+    "DOTA_InventoryMenu_ConsumeItem": "アイテムを消費",
+    "dota_pingwheel_defend": "防衛"
 }
