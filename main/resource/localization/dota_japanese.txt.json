@@ -8356,7 +8356,7 @@
     "DOTA_HUD_KillStreak_6_Ended": "{s:victim_name} アンストッパブル (6連続キル) が終了",
     "DOTA_HUD_KillStreak_8_Ended": "{s:victim_name} モンスターキル (8連続キル) が終了",
     "DOTA_HUD_KillStreak_10_Ended": "{s:victim_name} ゴッドライク (10連続キル) が終了",
-    "DOTA_HUD_PlayerDenied": "{s:killer_name} {s:denied_icon} {s:victim_name} をディナイした",
+    "DOTA_HUD_PlayerDenied": "{s:killer_name} {s:denied_icon} {s:victim_name}をディナイした",
     "DOTA_HUD_KillStreak_4_Ended": "{s:victim_name} ドミネーティング (4連続キル) が終了",
     "DOTA_HUD_KillStreak_5_Ended": "{s:victim_name} メガキル (5連続キル) が終了",
     "DOTA_HUD_PlayerDeniedSelf": "{s:victim_name} {s:denied_icon} ディナイした",
@@ -17207,5 +17207,7 @@
     "dota_stat_dropdown_herofacet": "ヒーローファセット",
     "dota_settings_spectatordropdown_herofacet": "ヒーローファセット",
     "DOTA_InventoryMenu_ConsumeItem": "アイテムを消費",
-    "dota_pingwheel_defend": "防衛"
+    "dota_pingwheel_defend": "防衛",
+    "DOTA_HUD_Tower_Denied": "{s:killer} {s:denied_icon} {s:tower_name}をディナイした",
+    "DOTA_tooltip_econ_item_static_attribute_has_arcana_augment": "アルカナ拡張"
 }
