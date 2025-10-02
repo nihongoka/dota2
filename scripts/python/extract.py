@@ -60,7 +60,7 @@ def detect_encoding(filename):
 def main():
     def main_version():
         head = 'ClientVersion='
-        with open(DOTA2_CLIENT+'game/dota/steam.inf', 'r') as inf:
+        with open(os.path.join(DOTA2_CLIENT, 'game/dota/steam.inf'), 'r') as inf:
             while True:
                 line = inf.readline().strip()
                 if line:
@@ -74,7 +74,7 @@ def main():
 
     os.makedirs('localization', exist_ok=True)
 
-    with vpk.open(DOTA2_CLIENT+'game/dota/pak01_dir.vpk') as pak01:
+    with vpk.open(os.path.join(DOTA2_CLIENT, 'game/dota/pak01_dir.vpk')) as pak01:
         for rule in l10ns:
             with pak01.get_file(rule.get_pak_path('english')) as input:
                 data = rule.pull(vdf.loads(input.read().decode('utf-8')))
@@ -104,7 +104,7 @@ def main():
 
     with open('addons.json', 'r') as addons:
         for addon in json.load(addons):
-            filename = DOTA2_CLIENT + 'game/dota_addons/' + addon['name']
+            filename = os.path.join(DOTA2_CLIENT, 'game/dota_addons/', addon['name'])
             with open(filename, encoding='utf-8') as input:
                 data = vdf.loads(input.read())
                 if addon['is_simple']:
