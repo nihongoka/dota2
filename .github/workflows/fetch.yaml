@@ -37,13 +37,13 @@ jobs:
         run: pip install vdf vpk
 
       - name: Fetch Dota2 client data
-        run: steamcmd +force_install_dir "C:/dota2" +login ${{ secrets.STEAM_USERNAME }} ${{ secrets.STEAM_PASSWORD }} +app_update 570 validate +quit
+        run: steamcmd +force_install_dir ${{ runner.temp }} +login ${{ secrets.STEAM_USERNAME }} ${{ secrets.STEAM_PASSWORD }} +app_update 570 validate +quit
 
       - uses: actions/checkout@v2
 
       - name: Extract from client data
         env:
-          DOTA2_CLIENT: C:/dota2/
+          DOTA2_CLIENT: ${{ runner.temp }}
         run: python ./scripts/python/extract.py
 
       - name: Remove unused strings
