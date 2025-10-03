@@ -20519,7 +20519,7 @@ DOTA_Tooltip_ability_disruptor_thunder_strike_Description: |-
   Repeatedly strikes the targeted unit with lightning.  Each strike damages nearby enemy units in a small radius and slows enemy movement and attack speed by %slow_amount%%% for %slow_duration% seconds.  Provides vision of its target.
 
 DOTA_Tooltip_ability_disruptor_thunder_strike_Facet_disruptor_thunderstorm: |-
-  Thunder Strike additionally hits all enemies within Kinetic Field. Thunder Strike Slow duration is doubled.
+  Thunder Strike additionally hits all enemies within Kinetic Field. Thunder Strike Slow duration is increased to %slow_duration%s.
 
 DOTA_Tooltip_ability_disruptor_thunder_strike_shard_description: |-
   Increases the cast range and strike count of Thunder Strike. It can now also be ground targeted, where it will lie dormant for up to %shard_ground_delay% seconds and attach to the first enemy that comes within the radius.
@@ -20564,7 +20564,7 @@ DOTA_Tooltip_Facet_disruptor_thunderstorm: |-
   Thunderstorm
 
 DOTA_Tooltip_Facet_disruptor_thunderstorm_Description: |-
-  Thunder Strike additionally hits all enemies within Kinetic Field. Thunder Strike Slow duration is doubled.
+  Thunder Strike additionally hits all enemies within Kinetic Field. Thunder Strike Slow duration is increased.
 
 DOTA_Tooltip_Facet_disruptor_line_walls: |-
   Kinetic Fence
@@ -22531,6 +22531,9 @@ DOTA_Tooltip_ability_magnataur_skewer_Description: |-
 
 DOTA_Tooltip_ability_magnataur_skewer_shard_description: |-
   Increases range and deals additional damage when skewering enemies into trees or cliffs.
+
+DOTA_Tooltip_ability_magnataur_skewer_Note0: |-
+  Skewer is interrupted if Magnus is stunned, hexed or banished.
 
 DOTA_Tooltip_ability_magnataur_skewer_Lore: |-
   Magnoceros horns are valuable in direct proportion to their danger to prospective merchants.
@@ -26374,6 +26377,9 @@ DOTA_Tooltip_ability_monkey_king_tree_dance_Note0: |-
 DOTA_Tooltip_ability_monkey_king_tree_dance_Note1: |-
   Right-clicking the ground will have Monkey King drop from the tree.
 
+DOTA_Tooltip_ability_monkey_king_tree_dance_Note2: |-
+  Movement is interrupted if Monkey King is stunned, hexed or banished.
+
 DOTA_Tooltip_ability_monkey_king_tree_dance_perched_jump_distance: |-
   DISTANCE:
 
@@ -28212,7 +28218,7 @@ DOTA_Tooltip_ability_hoodwink_hunters_boomerang_mark_duration: |-
   DEBUFF DURATION:
 
 DOTA_Tooltip_ability_hoodwink_hunters_boomerang_spell_amp: |-
-  %INCOMING SPELL DAMAGE:
+  %INCOMING SPELL DAMAGE AMP:
 
 DOTA_Tooltip_ability_hoodwink_hunters_boomerang_slow_pct: |-
   %MOVEMENT SLOW:
@@ -29765,7 +29771,7 @@ DOTA_Tooltip_Facet_kez_flutter: |-
   Flutter
 
 DOTA_Tooltip_Facet_kez_flutter_Description: |-
-  Kez deals extra damage on the first attack or ability after switching to Katana, and gains bonus movement speed after switching to Sai.
+  Kez deals extra damage on the first attack after switching to Katana, and gains bonus movement speed after switching to Sai.
 
 DOTA_Tooltip_ability_kez_shadowhawk_passive: |-
   Shadowhawk
@@ -29813,7 +29819,7 @@ DOTA_Tooltip_ability_kez_switch_weapons_scepter_description: |-
   Casting a weapon ability that would set its alternate weapon ability on cooldown does not do so if it's the first one used within %scepter_cooldown_timer% seconds after casting Switch Discipline.<br><br>Casting any weapon ability refreshes the cooldown of Switch Discipline.
 
 DOTA_Tooltip_ability_kez_switch_weapons_Facet_kez_flutter: |-
-  Kez deals extra damage on the first attack or ability after switching to Katana, and gains bonus speed after switching to Sai.
+  Kez deals extra damage on the first attack after switching to Katana, and gains bonus speed after switching to Sai.
 
 DOTA_Tooltip_ability_kez_switch_weapons_katana_swap_bonus_damage: |-
   %KATANA SWAP BONUS DAMAGE:
@@ -39870,7 +39876,7 @@ DOTA_Tooltip_ability_item_ghost_Description: |-
   <h1>Active: Ghost Form</h1> You enter ghost form for %duration% seconds, becoming immune to physical damage, but are unable to attack and %extra_spell_damage_percent%%% more vulnerable to magic damage.
 
 DOTA_Tooltip_ability_item_ghost_Note0: |-
-  Ends if you become Spell Immune, and will have no effect if you are already Spell Immune.
+  Ends if you become Debuff Immune, and will have no effect if you are already Debuff Immune.
 
 DOTA_Tooltip_ability_item_ghost_Note1: |-
   Shares cooldown with Ethereal Blade.
@@ -39957,7 +39963,7 @@ DOTA_Tooltip_ability_item_helm_of_iron_will_bonus_regen: |-
   +$hp_regen
 
 DOTA_Tooltip_ability_item_helm_of_the_dominator_Description: |-
-  <h1>Active: Dominate</h1>Takes control of one neutral, non-ancient target unit and sets its movement speed to %speed_base% and max health to a minimum of %health_min%. Also provides the unit with +%creep_bonus_damage% base attack damage, +%creep_bonus_hp_regen% health regen, +%creep_bonus_mp_regen% mana regen and +%creep_bonus_armor% armor. <br><br>Dominated units with a max health of greater than %health_min% retain their original max health. Grants the caster the gold and experience bounty of the dominated creep.  Dominated unit's bounty is set to %bounty_gold% gold and it can no longer be killed by abilities that instantly kill creeps otherwise.
+  <h1>Active: Dominate</h1>Takes control of one neutral, non-ancient target unit and sets its movement speed to %speed_base% and max health to a minimum of %health_min%. Also provides the unit with +%creep_bonus_damage% base attack damage, +%creep_bonus_hp_regen% health regen, +%creep_bonus_mp_regen% mana regen and +%creep_bonus_armor% armor. <br><br>Dominated units with a max health of greater than %health_min% retain their original max health. Grants the caster the gold and experience bounty of the dominated creep. Dominated unit's bounty is set to %bounty_gold% gold and it can no longer be killed by abilities that instantly kill creeps otherwise.<br><br>The Helm cannot be used for %creep_damage_taken_cooldown% seconds after the dominated creep takes damage from an enemy hero or Roshan.
 
 DOTA_Tooltip_ability_item_helm_of_the_dominator_Lore: |-
   The powerful headpiece of a dead necromancer.
@@ -39981,7 +39987,7 @@ DOTA_Tooltip_ability_item_helm_of_the_dominator_bonus_regen: |-
   +$hp_regen
 
 DOTA_Tooltip_ability_item_helm_of_the_overlord_Description: |-
-  <h1>Active: Dominate</h1>Takes control of one neutral target unit and sets its movement speed to %speed_base% and max health to a minimum of %health_min%. Also provides the unit with +%creep_bonus_damage% base attack damage, +%creep_bonus_hp_regen% health regen, +%creep_bonus_mp_regen% mana regen, +%creep_bonus_armor% armor, and levels up some abilities of the target by 1 level. <br><br>Dominated units with a max health of greater than %health_min% retain their original max health. Grants the caster the gold and experience bounty of the dominated creep. Dominated unit's bounty is set to %bounty_gold% gold and it can no longer be killed by abilities that instantly kill creeps otherwise.
+  <h1>Active: Dominate</h1>Takes control of one neutral target unit and sets its movement speed to %speed_base% and max health to a minimum of %health_min%. Also provides the unit with +%creep_bonus_damage% base attack damage, +%creep_bonus_hp_regen% health regen, +%creep_bonus_mp_regen% mana regen, +%creep_bonus_armor% armor, and levels up some abilities of the target by 1 level. <br><br>Dominated units with a max health of greater than %health_min% retain their original max health. Grants the caster the gold and experience bounty of the dominated creep. Dominated unit's bounty is set to %bounty_gold% gold and it can no longer be killed by abilities that instantly kill creeps otherwise.<br><br>The Helm cannot be used for %creep_damage_taken_cooldown% seconds after the dominated creep takes damage from an enemy hero or Roshan.
 
 DOTA_Tooltip_ability_item_helm_of_the_overlord_Lore: |-
   The powerful headpiece of an undead necromancer.
@@ -41256,6 +41262,9 @@ DOTA_Tooltip_ability_item_refresher_bonus_mana_regen: |-
 
 DOTA_Tooltip_ability_item_refresher_bonus_damage: |-
   +$damage
+
+DOTA_Tooltip_ability_item_refresher_cooldown_duration: |-
+  COOLDOWN:
 
 DOTA_Tooltip_ability_item_relic_Lore: |-
   An ancient weapon that often turns the tides of war.
@@ -43826,7 +43835,7 @@ DOTA_Tooltip_modifier_item_jidi_pollen_bag_Description: |-
   Coated in poisonous pollen! Health Restoration decreased and taking magic damage over time.
 
 DOTA_Tooltip_Ability_item_outworld_staff_Description: |-
-  <h1>Active: Self-Exile</h1> Removes the caster from the world for %invuln_duration% seconds, making them invulnerable and disabled. When returning to the world, the caster takes %self_dmg_pct%%% of their maximum health as damage.
+  <h1>Active: Self-Exile</h1> Makes the caster completely invulnerable and disabled for %invuln_duration% seconds. When returning to the world, the caster takes %self_dmg_pct%%% of their maximum health as damage.
 
 DOTA_Tooltip_Ability_item_outworld_staff_Lore: |-
   Proof that the lone sentinel was not always so.
