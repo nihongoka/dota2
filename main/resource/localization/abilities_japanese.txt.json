@@ -13796,5 +13796,6 @@
     "DOTA_Tooltip_ability_skeleton_king_spectral_blade_Lore": "Ostarionによって奪われたすべての魂の永遠の憎しみが、彼の残虐な剣の一振りと共に現実へと滲み出る。",
     "DOTA_Tooltip_ability_magnataur_skewer_Note0": "Magnusがスタン、ヘックス、追放を受けるとSkewerは中断される。",
     "DOTA_Tooltip_ability_item_refresher_cooldown_duration": "クールダウン:",
-    "DOTA_Tooltip_ability_monkey_king_tree_dance_Note2": "Monkey Kingがスタン、ヘックス、追放を受けると移動は中断される。"
+    "DOTA_Tooltip_ability_monkey_king_tree_dance_Note2": "Monkey Kingがスタン、ヘックス、追放を受けると移動は中断される。",
+    "DOTA_Tooltip_ability_life_stealer_ghoul_frenzy_Lore": "ヴァイル評議会の遠い記憶が、一方の心を陰謀へと駆り立て、もう一方の心をより差し迫った闇の目的へと向かわせる。"
 }
