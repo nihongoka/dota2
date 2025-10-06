@@ -16576,8 +16576,8 @@
     "DOTA_Welcome": "DotAへようこそ",
     "DOTA_Facet_Ping": "%s1 %s2はヒーローファセットを持っています %s3%s4",
     "DOTA_Innate_Ping": "%s1 %s2はイネイトアビリティを持っている %s3",
-    "DOTA_Modifier_Alert_Oracle_Rune_Prediction": "%1の予言%2<font color='%s3'>%s4</font>が%s5に沸いた。次は<font color='%s6'>%s7</font>が%s8で%s9に沸く。",
-    "DOTA_Modifier_Alert_Oracle_Rune_Prediction_FirstSpawn": "%1の予言%2最初のルーンは<font color='#FF7800'>バウンティー</font>ルーン、その後は2度も<font color='#0ba0c1'>ウォーター</font>ルーンだ。",
+    "DOTA_Modifier_Alert_Oracle_Rune_Prediction": "%s1の予言%s2<font color='%s3'>%s4</font>が%s5に沸いた。次は<font color='%s6'>%s7</font>が%s8で%s9に沸く。",
+    "DOTA_Modifier_Alert_Oracle_Rune_Prediction_FirstSpawn": "%s1の予言%s2最初のルーンは<font color='#FF7800'>バウンティー</font>ルーン、その後は2度も<font color='#0ba0c1'>ウォーター</font>ルーンだ。",
     "DOTA_Modifier_Alert_Oracle_Rune_Top": "トップ",
     "DOTA_Modifier_Alert_Oracle_Rune_Bottom": "ボトム",
     "DOTA_Crownfall_FrontPage_EventDescription_Act2": "クラウンフォールの物語は続きます。新しいマップを探索し、ミニゲームをクリアして、スキンを獲得しましょう。",
@@ -17209,5 +17209,6 @@
     "DOTA_InventoryMenu_ConsumeItem": "アイテムを消費",
     "dota_pingwheel_defend": "防衛",
     "DOTA_HUD_Tower_Denied": "{s:killer} {s:denied_icon} {s:tower_name}をディナイした",
-    "DOTA_tooltip_econ_item_static_attribute_has_arcana_augment": "アルカナ拡張"
+    "DOTA_tooltip_econ_item_static_attribute_has_arcana_augment": "アルカナ拡張",
+    "DOTA_Item_With_TimeRemaining": "%s1 (残り時間: %s2:%s3)"
 }
