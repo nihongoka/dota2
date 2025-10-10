@@ -2909,10 +2909,10 @@
     "DOTA_Workshop_SlotTitle": "装備スロット:",
     "DOTA_SavedSets_SetName": "セット名:",
     "DOTA_SavedSets_Confirm_Description": "本当に保存したセット{s:saved_set_name} ({g:dota_hero_name:hero_id})を削除しますか？セットに含まれるアイテム自体は消去されません。",
-    "DOTA_tooltip_econ_item_trade_restriction_permanent": "トレード不可 / 売買不可",
+    "DOTA_tooltip_econ_item_trade_restriction_permanent": "トレード/売買不可",
     "DOTA_tooltip_econ_item_battle_pass_accessible": "バトルパスシーズン中利用可能",
     "DOTA_tooltip_econ_item_seasonal_accessible": "シーズン終了まで利用可能",
-    "DOTA_tooltip_econ_item_trade_restriction_date": "{t:s:tradable_after_date_time}後トレード, 売買可能",
+    "DOTA_tooltip_econ_item_trade_restriction_date": "{t:s:tradable_after_date_time}以降トレード可能",
     "DOTA_tooltip_econ_item_trade_cooldown_date": "{t:s:trade_cooldown_until_date_time}までトレードクールダウン中",
     "DOTA_tooltip_econ_item_market_restriction_permanent": "売買不可",
     "DOTA_tooltip_econ_item_gift_restriction_permanent": "ギフト不可",
@@ -17210,5 +17210,7 @@
     "dota_pingwheel_defend": "防衛",
     "DOTA_HUD_Tower_Denied": "{s:killer} {s:denied_icon} {s:tower_name}をディナイした",
     "DOTA_tooltip_econ_item_static_attribute_has_arcana_augment": "アルカナ拡張",
-    "DOTA_Item_With_TimeRemaining": "%s1 (残り時間: %s2:%s3)"
+    "DOTA_Item_With_TimeRemaining": "%s1 (残り時間: %s2:%s3)",
+    "DOTA_tooltip_econ_item_trade_market_restriction_date": "{t:s:tradable_after_date_time}以降トレード/売買可能",
+    "DOTA_tooltip_econ_item_trade_market_cooldown_date": "{t:s:trade_cooldown_until_date_time}までトレード/売買クールダウン中"
 }
