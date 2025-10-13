@@ -13797,5 +13797,15 @@
     "DOTA_Tooltip_ability_magnataur_skewer_Note0": "Magnusがスタン、ヘックス、追放を受けるとSkewerは中断される。",
     "DOTA_Tooltip_ability_item_refresher_cooldown_duration": "クールダウン:",
     "DOTA_Tooltip_ability_monkey_king_tree_dance_Note2": "Monkey Kingがスタン、ヘックス、追放を受けると移動は中断される。",
-    "DOTA_Tooltip_ability_life_stealer_ghoul_frenzy_Lore": "ヴァイル評議会の遠い記憶が、一方の心を陰謀へと駆り立て、もう一方の心をより差し迫った闇の目的へと向かわせる。"
+    "DOTA_Tooltip_ability_life_stealer_ghoul_frenzy_Lore": "ヴァイル評議会の遠い記憶が、一方の心を陰謀へと駆り立て、もう一方の心をより差し迫った闇の目的へと向かわせる。",
+    "DOTA_Tooltip_ability_zuus_lightning_hands_Lore": "Aghanimの手助けにより、失墜した天界の主はかつての力を幾分か取り戻す。",
+    "DOTA_Tooltip_ability_rattletrap_jetpack_Lore": "確かに14体のテスト用ダミー人形は吹き飛んだが、少なくとも全員飛んだ！",
+    "DOTA_Tooltip_ability_dazzle_innate_weave_Lore": "Nothl Realmへと続く彼の幽玄なる旅路は、Dazzleに光と闇の力を融合させることを可能とし、移ろいゆく魔法の波を生み出した。",
+    "DOTA_Tooltip_ability_nevermore_frenzy_Lore": "Nevermoreにとって、収穫の喜びは宴の喜びに等しい。",
+    "DOTA_Tooltip_ability_crystal_maiden_crystal_clone_Lore": "あまりにも説得力があったため、一部の仲間はクローンが返事をしないことに気づくまで、何分も話しかけていた。",
+    "DOTA_Tooltip_ability_zuus_heavenly_jump_Lore": "天界から一時的に追放されたとはいえ、Zeusは依然として神々しい飛翔をある程度は行える。",
+    "DOTA_Tooltip_ability_puck_ethereal_jaunt_Lore": "オーブは可能性の卵であり、独自の時間軸に沿って移動する。",
+    "DOTA_Tooltip_ability_dazzle_nothl_projection_Lore": "Nothl Realmの誘惑は人を酔わせるほどだが、Dazzleはそこにいる目的を決して忘れない。",
+    "DOTA_Tooltip_Facet_lich_ritualist_Description": "Death ChargeはChain Frostがレベルアップするとアクティブ効果となり、味方クリープを倒してその体力をLichのマナに変換できる。",
+    "DOTA_Tooltip_ability_lich_death_charge_Facet_lich_ritualist": "Death ChargeはChain Frostがレベルアップするとアクティブ効果となり、味方クリープを犠牲にしてその現在の体力をリッチのマナに変換し、%xp_multiplier%%%の経験値を付与できる。 "
 }
