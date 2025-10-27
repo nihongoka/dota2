@@ -5951,7 +5951,7 @@
     "DOTA_Tooltip_ability_special_bonus_unique_shadow_demon_6": "Soul Catcherの効果時間中に敵がデスすると2体のイリュージョン生成",
     "DOTA_Tooltip_ability_special_bonus_unique_shadow_demon_7": "{s:bonus_AbilityCharges} Disruptionチャージ数",
     "DOTA_Tooltip_ability_special_bonus_unique_slardar": "+{s:bonus_crush_damage} Slithereen Crushダメージ",
-    "DOTA_Tooltip_ability_special_bonus_unique_slardar_3": "Corrosive Hazeがディスペルされなくなる",
+    "DOTA_Tooltip_ability_special_bonus_unique_slardar_3": "Corrosive Hazeディスペル不可",
     "DOTA_Tooltip_ability_special_bonus_unique_slardar_4": "-{s:bonus_AbilityCooldown}秒Slithereen Crushクールダウン",
     "DOTA_Tooltip_ability_special_bonus_unique_slardar_5": "-{s:bonus_armor_reduction} Corrosive Hazeアーマー",
     "DOTA_Tooltip_ability_special_bonus_unique_lina_2": "+{s:bonus_fiery_soul_attack_speed_bonus}/{s:bonus_fiery_soul_move_speed_bonus}% Fiery Soul スタック効果",
