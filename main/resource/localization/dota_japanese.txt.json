@@ -11467,7 +11467,7 @@
     "DOTA_Tooltip_ability_aghsfort_undying_flesh_golem_slow": "%スロー:",
     "DOTA_Tooltip_ability_aghsfort_undying_flesh_golem_damage_amp": "%ダメージ増幅:",
     "DOTA_Tooltip_ability_aghsfort_undying_flesh_golem_slow_duration": "スロー効果時間:",
-    "DOTA_Tooltip_ability_aghsfort_undying_flesh_golem_str_percentage": "%STRENGTH増加割合:",
+    "DOTA_Tooltip_ability_aghsfort_undying_flesh_golem_str_percentage": "%STR増加乗数:",
     "DOTA_Tooltip_ability_aghsfort_undying_flesh_golem_movement_bonus": "ボーナス移動速度:",
     "DOTA_Tooltip_ability_aghsfort_special_undying_consume_zombies": "死の飢え",
     "dota_hud_error_no_zombies_to_eat": "食べるゾンビがいない",
