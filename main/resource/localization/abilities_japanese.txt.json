@@ -13807,5 +13807,6 @@
     "DOTA_Tooltip_ability_puck_ethereal_jaunt_Lore": "オーブは可能性の卵であり、独自の時間軸に沿って移動する。",
     "DOTA_Tooltip_ability_dazzle_nothl_projection_Lore": "Nothl Realmの誘惑は人を酔わせるほどだが、Dazzleはそこにいる目的を決して忘れない。",
     "DOTA_Tooltip_Facet_lich_ritualist_Description": "Death ChargeはChain Frostがレベルアップするとアクティブ効果となり、味方クリープを倒してその体力をLichのマナに変換できる。",
-    "DOTA_Tooltip_ability_lich_death_charge_Facet_lich_ritualist": "Death ChargeはChain Frostがレベルアップするとアクティブ効果となり、味方クリープを犠牲にしてその現在の体力をリッチのマナに変換し、%xp_multiplier%%%の経験値を付与できる。 "
+    "DOTA_Tooltip_ability_lich_death_charge_Facet_lich_ritualist": "Death ChargeはChain Frostがレベルアップするとアクティブ効果となり、味方クリープを犠牲にしてその現在の体力をリッチのマナに変換し、%xp_multiplier%%%の経験値を付与できる。 ",
+    "DOTA_Tooltip_modifier_luna_lucent_beam_damage_buff": "Lucentダメージバフ"
 }
