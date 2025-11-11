@@ -17219,5 +17219,16 @@
     "DOTA_Settings_ChannelCancel_AnyAction_Default": "何か別の行動をするとチャネリングが中断される。 (デフォルト設定)",
     "DOTA_Settings_ChannelCancel_RequiresHoldCancel": "このアビリティの中断には待機/中断コマンドを出す必要がある。",
     "DOTA_Settings_ChannelCancel_AnyAction": "何か別の行動をするとチャネリングが中断される。",
-    "dota_settings_per_ability_channel_cancel_new_settings_title": "アビリティ毎チャネリングキャンセルカスタム"
+    "dota_settings_per_ability_channel_cancel_new_settings_title": "アビリティ毎チャネリングキャンセルカスタム",
+    "DOTA_tooltip_econ_item_modifier_facet": "ファセットスタイル",
+    "dota_settings_healthbar_visualization_new_settings_title": "ヒーローのヘルスバーにダメージと回復を可視化",
+    "dota_settings_healthbar_visualization_new_settings_description": "ヘルスバーにヒーローが受け取ったダメージや回復を可視化するエフェクトを追加できます。",
+    "dota_settings_visualize_damage": "ダメージを可視化",
+    "dota_settings_visualize_damage_tooltip": "ヒーローがダメージを受けたときにそのヘルスバーにエフェクトを表示する",
+    "dota_settings_visualize_healing": "回復可視化",
+    "dota_settings_visualize_healing_tooltip": "ヒーローが回復を受けたときにそのヘルスバーにエフェクトを表示する",
+    "dota_settings_windowfocus": "ウィンドウフォーカス",
+    "DOTA_Chat_Poogie_Flee": "%s1のプーギーは逃げ出した！",
+    "dota_settings_notifications": "ゲーム内通知",
+    "DOTA_tooltip_econ_item_modifier_mvp_map_override": "MVP背景"
 }
