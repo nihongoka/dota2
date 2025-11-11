@@ -12543,6 +12543,9 @@ DOTA_Tooltip_modifier_luna_lucent_beam_damage_buff_counter: |-
 DOTA_Tooltip_modifier_luna_lucent_beam_damage_buff_counter_Description: |-
   Attack damage increased by %dMODIFIER_PROPERTY_TOOLTIP%
 
+DOTA_Tooltip_modifier_luna_lucent_beam_damage_buff: |-
+  Lucent Damage Buff
+
 DOTA_Tooltip_modifier_luna_moon_glaive_shield: |-
   Lunar Orbit
 
