@@ -17213,5 +17213,11 @@
     "DOTA_Item_With_TimeRemaining": "%s1 (残り時間: %s2:%s3)",
     "DOTA_tooltip_econ_item_trade_market_restriction_date": "{t:s:tradable_after_date_time}以降トレード/売買可能",
     "DOTA_tooltip_econ_item_trade_market_cooldown_date": "{t:s:trade_cooldown_until_date_time}までトレード/売買クールダウン中",
-    "dota_page_post_game_player_hero_damage": "プレイヤーヒーローダメージ"
+    "dota_page_post_game_player_hero_damage": "プレイヤーヒーローダメージ",
+    "dota_settings_per_ability_channel_cancel_new_settings_description": "アビリティごとにチャネリングを中断するのに中止/待機コマンドを必須にするかカスタマイズ。ホットキータブの\"アビリティとアイテム\"の\"ヒーロー\"セクションからチャネリングアビリティの右上に表示されるスイッチで挙動をカスタマイズできる。",
+    "DOTA_Settings_ChannelCancel_RequiresHoldCancel_Default": "このアビリティの中断には待機/中断コマンドを出す必要がある。(デフォルト設定) ",
+    "DOTA_Settings_ChannelCancel_AnyAction_Default": "何か別の行動をするとチャネリングが中断される。 (デフォルト設定)",
+    "DOTA_Settings_ChannelCancel_RequiresHoldCancel": "このアビリティの中断には待機/中断コマンドを出す必要がある。",
+    "DOTA_Settings_ChannelCancel_AnyAction": "何か別の行動をするとチャネリングが中断される。",
+    "dota_settings_per_ability_channel_cancel_new_settings_title": "アビリティ毎チャネリングキャンセルカスタム"
 }
