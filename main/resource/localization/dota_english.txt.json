@@ -19930,7 +19930,7 @@
     "dota_settings_selection_groups_new_setting_title": "Smart Selection Groups",
     "dota_settings_selection_groups_new_setting_description": "Set units summoned by heroes (e.g. Spiderlings, Eidolons, Treants) as groups for selection.",
     "dota_settings_smart_multiunit_cast": "Smart Multi-unit Casting",
-    "dota_settings_smart_multiunit_cast_tooltip": "If multiple of the same kind of unit are selected, casting an ability will automatically cast from the first unit that has the abiliy off cooldown.",
+    "dota_settings_smart_multiunit_cast_tooltip": "If multiple of the same kind of unit are selected, casting an ability will automatically cast from the first unit that has the ability off cooldown.",
     "dota_settings_smart_multiunit_cast_new_setting_title": "Smart Multi-unit Casting",
     "dota_settings_smart_multiunit_cast_new_setting_description": "Enable a simplified casting mode for activating the same ability on multiple selected units of the same kind (e.g. Meepo Clones).",
     "DOTA_Hotkeys_Tooltip_Invoker": "Enabling this box will set each individual invoker's spell to their Legacy Keys instead of using the bindings for Ability 4 and Ability 5",
