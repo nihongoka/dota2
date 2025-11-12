@@ -60248,7 +60248,7 @@ dota_settings_smart_multiunit_cast: |-
   Smart Multi-unit Casting
 
 dota_settings_smart_multiunit_cast_tooltip: |-
-  If multiple of the same kind of unit are selected, casting an ability will automatically cast from the first unit that has the abiliy off cooldown.
+  If multiple of the same kind of unit are selected, casting an ability will automatically cast from the first unit that has the ability off cooldown.
 
 dota_settings_smart_multiunit_cast_new_setting_title: |-
   Smart Multi-unit Casting
