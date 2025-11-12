@@ -17230,5 +17230,9 @@
     "dota_settings_windowfocus": "ウィンドウフォーカス",
     "DOTA_Chat_Poogie_Flee": "%s1のプーギーは逃げ出した！",
     "dota_settings_notifications": "ゲーム内通知",
-    "DOTA_tooltip_econ_item_modifier_mvp_map_override": "MVP背景"
+    "DOTA_tooltip_econ_item_modifier_mvp_map_override": "MVP背景",
+    "DOTA_MonsterHunter_Material_monster_essence": "",
+    "DOTA_MonsterHunter_Material_monster_bone": "",
+    "DOTA_MonsterHunter_Material_monster_fur": "",
+    "DOTA_MonsterHunter_Material_monster_claws": ""
 }
