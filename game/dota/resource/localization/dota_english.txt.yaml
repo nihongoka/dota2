@@ -125642,7 +125642,7 @@ DOTA_PurchaseMonsterHunterPremium_Price: |-
   Purchase {g:dota_item_price:monster_hunter_premium_item_def}
 
 DOTA_PurchaseMonsterHunterPremiumAsGift_Price: |-
-  Purchase Gift {g:dota_item_price:monster_hunter_gift_item_def}
+  Purchase as Gift {g:dota_item_price:monster_hunter_gift_item_def}
 
 DOTA_PurchaseMonsterHunterPremium_UnlocksUpgradedCrafting: |-
   Unlocks upgraded crafting recipes for:
