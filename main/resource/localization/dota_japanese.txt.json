@@ -17234,5 +17234,9 @@
     "DOTA_MonsterHunter_Material_monster_essence": "",
     "DOTA_MonsterHunter_Material_monster_bone": "",
     "DOTA_MonsterHunter_Material_monster_fur": "",
-    "DOTA_MonsterHunter_Material_monster_claws": ""
+    "DOTA_MonsterHunter_Material_monster_claws": "",
+    "dota_settings_camera_movement": "カメラ移動",
+    "dota_settings_smart_multiunit_cast": "スマートマルチユニットキャスト",
+    "dota_settings_smart_multiunit_cast_new_setting_title": "スマートマルチユニットキャスト",
+    "dota_settings_smart_multiunit_cast_new_setting_description": "同じキャラクターで複数選択されたユニット(例えばMeepoのクローン)が同じスペルをより簡単にキャストできるモード。"
 }
