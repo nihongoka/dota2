@@ -17226,7 +17226,7 @@
     "dota_settings_smart_multiunit_cast_new_setting_title": "スマートマルチユニットキャスト",
     "dota_settings_smart_multiunit_cast_new_setting_description": "同じキャラクターで複数選択されたユニット(例えばMeepoのクローン)が同じスペルをより簡単にキャストできるモード。",
     "DOTA_Chat_MonsterHunter_HuntAlert_HuntedByAll_03": "試してみるといいんじゃないか、%s2 <font color='%s4'>%s3</font>!",
-    "DOTA_Chat_MonsterHunter_HuntAlert_HunterDuelAll_07": "%s2 <font color='%s4'>%s3</font>のチョイスはいいね。やってやるよ!",
+    "DOTA_Chat_MonsterHunter_HuntAlert_HunterDuelAll_07": "%s2 <font color='%s4'>%s3</font>のチョイスはいいね。かかってこいよ!",
     "DOTA_Chat_MonsterHunter_HuntAlert_MainObjectiveAll_01": "今向かってるからな、%s2 <font color='%s4'>%s3</font>!",
     "DOTA_Chat_MonsterHunter_HuntAlert_HuntSelection": "<font color='#ffdda9e2'>モンスターハンター</font>%s1 %s2<font color='%s4'>%s3</font>を狩るつもりだ。",
     "DOTA_Chat_MonsterHunter_HuntAlert_MainObjective": "<font color='#ffdda9e2'>モンスターハンター</font>%s1 %s2<font color='%s4'>%s3</font>を狩っている。",
