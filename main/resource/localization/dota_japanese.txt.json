@@ -17228,7 +17228,7 @@
     "DOTA_Chat_MonsterHunter_HuntAlert_HuntedByAll_03": "試してみるといいんじゃないか、%s2 <font color='%s4'>%s3</font>!",
     "DOTA_Chat_MonsterHunter_HuntAlert_HunterDuelAll_07": "%s2 <font color='%s4'>%s3</font>のチョイスはいいね。やってやるよ!",
     "DOTA_Chat_MonsterHunter_HuntAlert_MainObjectiveAll_01": "今向かってるからな、%s2 <font color='%s4'>%s3</font>!",
-    "DOTA_Chat_MonsterHunter_HuntAlert_HuntSelection": "<font color='#ffdda9e2'>モンスターハンター</font>%s1 %s2<font color='%s4'>%s3</font>を狩ろうとしている。",
+    "DOTA_Chat_MonsterHunter_HuntAlert_HuntSelection": "<font color='#ffdda9e2'>モンスターハンター</font>%s1 %s2<font color='%s4'>%s3</font>を狩るつもりだ。",
     "DOTA_Chat_MonsterHunter_HuntAlert_MainObjective": "<font color='#ffdda9e2'>モンスターハンター</font>%s1 %s2<font color='%s4'>%s3</font>を狩っている。",
     "DOTA_Chat_MonsterHunter_HuntAlert_MainObjectiveFailed": "<font color='#ffdda9e2'>モンスターハンター</font>%s1 %s2<font color='%s4'>%s3</font>を狩るのに失敗した。",
     "DOTA_Chat_MonsterHunter_HuntAlert_MainObjectiveSuccess": "<font color='#ffdda9e2'>モンスターハンター</font>%s1 %s2<font color='%s4'>%s3</font>を狩るのに成功した!",
