@@ -17253,5 +17253,8 @@
     "DOTA_Chat_MonsterHunter_HuntAlert_MainObjectiveAll_02": "後ろに気をつけろよ、%s2 <font color='%s4'>%s3</font>!",
     "DOTA_Chat_MonsterHunter_HuntAlert_HunterDuelAll_04": "本日のメインイベントだぞ、%s2 <font color='%s4'>%s3</font>!",
     "DOTA_Chat_MonsterHunter_HuntAlert_MainObjectiveAll_04": "おい、%s2 <font color='%s4'>%s3</font>! すぐに終わらせてやるよ。",
-    "DOTA_Chat_MonsterHunter_HuntAlert_HunterDuelAll_05": "ちょっと仕事の話でもどうだい、%s2 <font color='%s4'>%s3</font>。"
+    "DOTA_Chat_MonsterHunter_HuntAlert_HunterDuelAll_05": "ちょっと仕事の話でもどうだい、%s2 <font color='%s4'>%s3</font>。",
+    "DOTA_MonsterHunter_SlayHero": "先に{s:hero_name}を倒す",
+    "DOTA_MonsterHunter_KillHero": "先に{s:hero_name}を倒す",
+    "DOTA_MonsterHunter_Quest_HuntText": "倒される前に倒せ:"
 }
