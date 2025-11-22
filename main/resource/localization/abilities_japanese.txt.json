@@ -3718,7 +3718,7 @@
     "DOTA_Tooltip_modifier_obsidian_destroyer_mana_allergy": "Mana Allergy",
     "DOTA_Tooltip_modifier_obsidian_destroyer_mana_allergy_Description": "スペルのキャストやアイテムの使用によって、Outworld Destroyerを回復する。",
     "DOTA_Tooltip_ability_silencer_curse_of_the_silent_Description": "対象範囲を呪い、ダメージを与え、敵ヒーローに時間経過によるダメージと移動速度のスローを与える。対象がサイレンスを受けているならスローとダメージはx%penalty_multiplier%倍になる。影響を受けている敵がスペルを発動すると効果時間が増加する。この効果時間は対象がサイレンスを受けている間カウントしない。",
-    "DOTA_Tooltip_ability_silencer_glaives_of_wisdom_Description": "Silencerは彼の知恵で彼のグレイブをエンチャントし、対象のIntelligenceを命中毎に奪い、自身のIntelligenceに応じた追加ダメージを与える。",
+    "DOTA_Tooltip_ability_silencer_glaives_of_wisdom_Description": "Silencerは知恵の魔法をグレイブにかけ、攻撃が命中するたびに対象のIntelligenceを奪い、自身のIntelligenceに応じた追加ダメージも与える。",
     "DOTA_Tooltip_ability_silencer_last_word_Description": "対象にエンチャントをかけ、対象の視界を得て対象がスペルを発動するか時間切れになったときにダメージを与えてサイレンスにする。その際、Silencerと対象のIntelligenceの差に応じた追加ダメージを与える。",
     "DOTA_Tooltip_ability_silencer_global_silence_Note0": "このスキルは透明状態やデバフ無効ユニットに効果を発揮するが、スペル耐性を発動すればディスペルされる。",
     "DOTA_Tooltip_modifier_silencer_last_word_disarm_Description": "サイレンスを受けてる",
