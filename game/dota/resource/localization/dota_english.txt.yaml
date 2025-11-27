@@ -126084,7 +126084,7 @@ DOTA_MonsterHunter_Codex_Reward_Materials_Info: |-
   Materials dropped during Hunts:
 
 DOTA_MonsterHunter_Codex_Reward_Materials_Claim_Info: |-
-  Claim these Materials when unlocking this heroes' entry.
+  Claim these Materials when unlocking this Atlas entry.
 
 DOTA_MonsterHunter_Codex_Reward_Materials_Claim: |-
   Claim Materials
@@ -126096,7 +126096,7 @@ DOTA_MonsterHunter_Codex_Reward_Sticker_Claim: |-
   Claim Sticker
 
 DOTA_MonsterHunter_Codex_Reward_Sticker_Claim_Info: |-
-  Claim this sticker when unlocking this heroes' entry.
+  Claim this sticker when unlocking this Atlas entry.
 
 DOTA_MonsterHunter_Codex_Reward_Claimable:p: |-
   Claimable#|#Claimable
