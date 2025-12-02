@@ -17260,5 +17260,6 @@
     "DOTA_MonsterHunter_EventDescription": "Dotaをプレイして素材を集め、モンスターハンターテーマのアイテムを作成しよう。",
     "DOTA_MonsterHunterMaterialTrack_NeedMore": "トラッキング中のアイテムをクラフトするのにこの素材が追加で必要。",
     "DOTA_MonsterHunter_Quest_Title": "クエストを受注",
-    "DOTA_MonsterHunter_Quest_Subtitle": "狩りの対象を決めろ。試合に勝てば素材を入手でき、対象から狩られる前に狩ればボーナスを獲得する。"
+    "DOTA_MonsterHunter_Quest_Subtitle": "狩りの対象を決めろ。試合に勝てば素材を入手でき、対象から狩られる前に狩ればボーナスを獲得する。",
+    "DOTA_Hero_Tooltip_Duration": "効果時間%s1秒"
 }
