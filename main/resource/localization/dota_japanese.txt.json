@@ -3323,7 +3323,7 @@
     "DOTA_SUBSHOP_RECIPE_MAGICS": "魔法",
     "DOTA_Hero_Selection_Intro_Header": "ヒーローを選択",
     "DOTA_Hero_Selection_Intro_Body": "マウスや矢印キーを使うとヒーローをスクロールできます。\n\nヒーロー名を入力すると直接選択することができます。\n\nAltキー+エンターキーを押すと選択した内容をすぐに確認できます。\n\nフィルターを使うことで。チームにおいて最も重要なロールを絞り込むことができます。",
-    "DOTA_Hero_Selection_RADIANT_Phase_Ban": "<font color='#009900'>RADIANT</font> バン #%s1",
+    "DOTA_Hero_Selection_RADIANT_Phase_Ban": "<font color='#009900'>RADIANT</font> BAN #%s1",
     "DOTA_Onstage_Side_TeamName_Phase_Pick": "%s1 ピック #%s2",
     "DOTA_Hero_Selection_HeroBanned": "バンされたヒーロー",
     "DOTA_Hero_Selection_BanTitle": "Ban",
@@ -3338,10 +3338,10 @@
     "DOTA_Hero_Selection_AllyLanes": "あなたのレーンを選択",
     "DOTA_Hero_Selection_EnemyLanes": "敵のレーンを予想",
     "DOTA_Hero_Selection_WardPlacement": "ワードを立てる",
-    "DOTA_Hero_Selection_DIRE_Phase_Ban": "<font color='#CC0000'>DIRE</font> バン #%s1",
+    "DOTA_Hero_Selection_DIRE_Phase_Ban": "<font color='#CC0000'>DIRE</font> BAN #%s1",
     "DOTA_Hero_Selection_RADIANT": "<font color='#006600'>RADIANT</font>",
     "DOTA_Hero_Selection_DIRE": "<font color='#990000'>DIRE</font>",
-    "DOTA_Onstage_Side_TeamName_Phase_Ban": "%s1 バン #%s2",
+    "DOTA_Onstage_Side_TeamName_Phase_Ban": "%s1 BAN #%s2",
     "DOTA_Hero_Selection_Instruction": "%s1人ヒーローを選んでください。",
     "DOTA_Hero_Selection_Instruction_Other": "他のプレイヤーがヒーローを選んでいます。",
     "DOTA_Hero_Selection_RemainingGold": "残っているゴールド",
@@ -17261,5 +17261,6 @@
     "DOTA_MonsterHunterMaterialTrack_NeedMore": "トラッキング中のアイテムをクラフトするのにこの素材が追加で必要。",
     "DOTA_MonsterHunter_Quest_Title": "クエストを受注",
     "DOTA_MonsterHunter_Quest_Subtitle": "狩りの対象を決めろ。試合に勝てば素材を入手でき、対象から狩られる前に狩ればボーナスを獲得する。",
-    "DOTA_Hero_Tooltip_Duration": "効果時間%s1秒"
+    "DOTA_Hero_Tooltip_Duration": "効果時間%s1秒",
+    "dota_profile_leaves": "試合放棄"
 }
