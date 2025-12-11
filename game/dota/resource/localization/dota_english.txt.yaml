@@ -125788,6 +125788,9 @@ DOTA_MonsterHunter_Error_NotEnoughResource: |-
 DOTA_MonsterHunter_Error_InvalidTrade: |-
   Invalid Exchange.
 
+DOTA_MonsterHunter_Error_AlreadyClaimedMax: |-
+  You've already claimed this reward the maximum number of times.
+
 DOTA_MonsterHunter_Claim_Reward_Error_Title: |-
   Couldn't claim reward.
 
