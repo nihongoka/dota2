@@ -93668,8 +93668,8 @@ DOTA_PlusSeason_SeasonFall2025_Name: |-
 DOTA_PlusSeason_SeasonFall2025_Quests: |-
   Fall 2025 Quests
 
-DOTA_PlusSeason_SeasonFall2025_Subtitle: |-
-  The Fall 2025 Season will end December 2nd, 2025.
+DOTA_PlusSeason_Generic_Subtitle: |-
+  The {s:season_name} Season will end {t:s:end_time}.
 
 DOTA_PlusSeason_SeasonWinter2025_Name: |-
   Winter 2025
@@ -125715,6 +125715,9 @@ DOTA_MonsterHunter_Error_NotEnoughResource: |-
 
 DOTA_MonsterHunter_Error_InvalidTrade: |-
   Invalid Exchange.
+
+DOTA_MonsterHunter_Error_AlreadyClaimedMax: |-
+  You've already claimed this reward the maximum number of times.
 
 DOTA_MonsterHunter_Claim_Reward_Error_Title: |-
   Couldn't claim reward.
