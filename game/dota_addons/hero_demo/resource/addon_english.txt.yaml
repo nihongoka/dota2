@@ -73,13 +73,13 @@ Misc_ButtonCategory: |-
 Playback_ButtonCategory: |
 
 Global_ButtonCategory: |-
-  Global Settings
+  Global
 
 Map_ButtonCategory: |-
   Map
 
 SpawnCreeps_Button: |-
-  Creep Waves
+  Creeps
 
 SpawnCreepsOn_Msg: |-
   Creep Waves: On
@@ -132,8 +132,17 @@ InvulnOn_Button: |-
 InvulnOff_Button: |-
   Invuln Off
 
+AllVision_Button: |-
+  All Vision
+
+EnableXP_Button: |-
+  Experience Gain
+
+EnableRegen_Button: |-
+  Health/Mana Regeneration
+
 Enemy_Button: |-
-  + Enemy
+  +Enemy
 
 SelectHero_Button: |-
   Choose Enemy Hero
@@ -145,7 +154,7 @@ MaxLevelEnemy_Button: |-
   Level Enemy To Max
 
 Ally_Button: |-
-  + Ally
+  +Ally
 
 SelectAllyHero_Button: |-
   Choose Allied Hero
@@ -157,7 +166,7 @@ MaxLevelAlly_Button: |-
   Level Allies To Max
 
 DummyTarget_Button: |-
-  + Dummy Target
+  +Dummy
 
 RemoveSpawns_Button: |-
   Remove
@@ -176,6 +185,9 @@ QuitDemo_Button: |-
 
 NightEnable_Button: |-
   Night Time
+
+ChangeMyHero_Button: |-
+  Change my hero
 
 Runes_ButtonCategory: |-
   RUNES
@@ -208,7 +220,13 @@ SpawnUnits_ButtonCategory: |-
   SPAWN
 
 EditUnits_ButtonCategory: |-
-  EDIT SELECTED UNITS
+  UNITS
+
+Bosses_ButtonCategory: |-
+  Bosses
+
+Neutrals_ButtonCategory: |-
+  Neutrals
 
 LevelUpSelectedHeroes_Button: |-
   LVL UP
@@ -249,6 +267,9 @@ SaveState_Button: |-
 RestoreState_Button: |-
   Load
 
+GameState_Multiplayer: |-
+  Multiplayer
+
 SpawnDummyTargeT_Tooltip: |-
   Spawn Dummy Target
 
@@ -272,3 +293,63 @@ SpeedReset_Tooltip: |-
 
 Arcana_Hero_Demo_Special_Venge: |-
   Note: Queen Imperia's voice pack is currently disabled as it contains spoilers for the conclusion of Crownfall.
+
+Creeps_Title: |-
+  Creeps
+
+SpawnCreepWave_Button: |-
+  + Creep Wave
+
+SmallCamps_Title: |-
+  Small Camps
+
+MediumCamps_Title: |-
+  Medium Camps
+
+LargeCamps_Title: |-
+  Large Camps
+
+AncientCamps_Title: |-
+  Ancient Camps
+
+AdditionalSettings_Title: |-
+  Additional Settings
+
+TimeScale_Title: |-
+  Time Scale
+
+Invuln_Button: |-
+  Invuln
+
+SwapTeam_Button: |-
+  Swap Team
+
+RefreshSpells_Button: |-
+  Spells
+
+RefreshHealth_Button: |-
+  Health
+
+DemoWithFriends_Button: |-
+  Demo with friends
+
+DemoWithFriends_Tooltip: |-
+  Add players by selecting <b>'Invite to Demo Mode'</b> from the context menu in your Friends List
+
+InviteOnly_Button: |-
+  Invite Only
+
+InviteOnly_Tooltip: |-
+  Other players can only join if you invite them through the context menu in your friends list.
+
+AllFriends_Button: |-
+  All Friends
+
+AllFriends_Tooltip: |-
+  Any friend can join you through the context menu in their friends list and selecting <b>'Join Demo Mode'</b>.
+
+Refresh_Title: |-
+  Refresh:
+
+JoinPermissions_Title: |-
+  Join Permissions
