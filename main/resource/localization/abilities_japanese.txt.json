@@ -13783,5 +13783,7 @@
     "DOTA_Tooltip_Ability_special_bonus_unique_largo_6": "{s:bonus_armor_ally_pct}% Groovin'アーマーオーラ化",
     "DOTA_Tooltip_Ability_special_bonus_unique_largo_7": "+{s:bonus_heal_burst}% Amphibian Rhapsody音楽効果",
     "DOTA_Tooltip_Facet_largo_largo": "Musical pilgrimmage",
-    "DOTA_HUD_LargoSong_Header": "Amphibian Rhapsody Songs"
+    "DOTA_HUD_LargoSong_Header": "Amphibian Rhapsody Songs",
+    "DOTA_Tooltip_Ability_per_hero_level_up_single": "<span class=\"GameplayVariable\">%s1 %s2 %s3 x レベル上昇数</span>",
+    "DOTA_Tooltip_Ability_per_hero_level_up_multiple": "<span class=\"GameplayVariable\">%s1 %s2 %s3 x %s4レベル上昇数</span>"
 }
