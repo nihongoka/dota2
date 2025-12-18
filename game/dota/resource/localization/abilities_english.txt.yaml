@@ -33261,7 +33261,7 @@ DOTA_Tooltip_ability_special_bonus_unique_phoenix_3: |-
   +{s:bonus_damage_per_second} Fire Spirits Damage Per Second
 
 DOTA_Tooltip_ability_special_bonus_unique_phoenix_4: |-
-  +{s:bonus_dash_length}% Icarus Dive Cast Range
+  +{s:bonus_dash_length} Icarus Dive Cast Range
 
 DOTA_Tooltip_ability_special_bonus_unique_phoenix_5: |-
   +{s:bonus_hp_perc_damage}% Max Health Sun Ray Damage
