@@ -30614,15 +30614,15 @@ DOTA_Tooltip_ability_largo_song_fight_song_Description: |-
   Largo plays a song that increases nearby allied heroes' spell amplification and grants their attacks additional magic damage.
 
 DOTA_Tooltip_ability_largo_song_fight_song_subability_Description: |-
-  Increases nearby allied heroes' spell amplification by %spell_amp_bonus_tooltip%%% and grants their attacks additional %magic_damage_bonus_tooltip%%% magic damage.
+  Increases nearby allied heroes' spell amplification by %spell_amp_bonus%%% and grants their attacks additional %magic_damage_bonus%%% magic damage.
 
-DOTA_Tooltip_ability_largo_song_fight_song_magic_damage_bonus_tooltip: |-
+DOTA_Tooltip_ability_largo_song_fight_song_magic_damage_bonus: |-
   %ADDITIONAL MAGIC DAMAGE:
 
-DOTA_Tooltip_ability_largo_song_fight_song_spell_amp_bonus_tooltip: |-
+DOTA_Tooltip_ability_largo_song_fight_song_spell_amp_bonus: |-
   %SPELL AMP:
 
-DOTA_Tooltip_ability_largo_song_fight_song_battle_burst_duration_tooltip: |-
+DOTA_Tooltip_ability_largo_song_fight_song_battle_burst_duration: |-
   BUFF DURATION:
 
 DOTA_Tooltip_ability_largo_song_double_time: |-
@@ -30635,18 +30635,18 @@ DOTA_Tooltip_ability_largo_song_double_time_Description: |-
   Largo plays a song that increases nearby friendly units' movement speed and grants a brief slow resistance.
 
 DOTA_Tooltip_ability_largo_song_double_time_subability_Description: |-
-  Increases nearby friendly units' movement speed by %movespeed_bonus_burst_tooltip%%% and grants a brief %slow_resistance_tooltip%%% slow resistance.
+  Increases nearby friendly units' movement speed by %movespeed_bonus_burst%%% and grants a brief %slow_resistance%%% slow resistance.
 
-DOTA_Tooltip_ability_largo_song_double_time_movespeed_bonus_burst_tooltip: |-
+DOTA_Tooltip_ability_largo_song_double_time_movespeed_bonus_burst: |-
   %MOVE SPEED:
 
-DOTA_Tooltip_ability_largo_song_double_time_slow_resistance_tooltip: |-
+DOTA_Tooltip_ability_largo_song_double_time_slow_resistance: |-
   %SLOW RESISTANCE:
 
-DOTA_Tooltip_ability_largo_song_double_time_movement_burst_duration_tooltip: |-
+DOTA_Tooltip_ability_largo_song_double_time_movement_burst_duration: |-
   MOVEMENT DURATION:
 
-DOTA_Tooltip_ability_largo_song_double_time_slow_resistance_burst_duration_tooltip: |-
+DOTA_Tooltip_ability_largo_song_double_time_slow_resistance_burst_duration: |-
   SLOW RESISTANCE DURATION:
 
 DOTA_Tooltip_ability_largo_song_good_vibrations: |-
@@ -30659,9 +30659,9 @@ DOTA_Tooltip_ability_largo_song_good_vibrations_Description: |-
   Largo plays a song that heals nearby friendly heroes.
 
 DOTA_Tooltip_ability_largo_song_good_vibrations_subability_Description: |-
-  Grants %heal_burst_tooltip% healing to nearby friendly heroes.
+  Grants %heal_burst% healing to nearby friendly heroes.
 
-DOTA_Tooltip_ability_largo_song_good_vibrations_heal_burst_tooltip: |-
+DOTA_Tooltip_ability_largo_song_good_vibrations_heal_burst: |-
   HEAL:
 
 DOTA_Tooltip_modifier_largo_amphibian_rhapsody_self: |-
