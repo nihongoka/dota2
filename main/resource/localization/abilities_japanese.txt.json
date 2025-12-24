@@ -14075,5 +14075,11 @@
     "DOTA_Tooltip_modifier_idol_of_screeauk_Description": "スロー耐性と回避が増加している。すり抜けて移動ができる。",
     "DOTA_Tooltip_ability_seasonal_party_hat": "Spirit of Frostivus",
     "DOTA_Tooltip_ability_seasonal_party_hat_Description": "チャネリング - Frostivus Hatを敵ヒーローから盗むか、味方ヒーローに与える。",
-    "DOTA_Tooltip_ability_seasonal_party_hat_scepter_description": "Spirit of Frostivusが効果範囲アビリティとなり、範囲%aoe_scepter%内の全てのユニットに発動される。最初に全ての敵からHatを奪ったあと、その後全ての味方に均等に分け与える。"
+    "DOTA_Tooltip_ability_seasonal_party_hat_scepter_description": "Spirit of Frostivusが効果範囲アビリティとなり、範囲%aoe_scepter%内の全てのユニットに発動される。最初に全ての敵からHatを奪ったあと、その後全ての味方に均等に分け与える。",
+    "DOTA_Tooltip_ability_brewmaster_earth_spell_immunity_slow_resist": "%スロー耐性:",
+    "DOTA_Tooltip_ability_meepo_poof_Scepter_Description": "タワーになっているMeepoの数だけPoofのダメージが%megameepo_poof_scaling%%%増加する。",
+    "DOTA_Tooltip_ability_mars_arena_of_blood_reduced_vision_percent": "%視界減少:",
+    "DOTA_Tooltip_ability_kez_falcon_rush_Note0": "建造物には影響しない。",
+    "DOTA_Tooltip_ability_largo_croak_of_genius_Note1": "発動者と対象の距離が%max_distance%以内にいる必要がある。",
+    "DOTA_Tooltip_ability_special_bonus_unique_tidehunter_smash_on_blubber_description": "これで発生するダメージは{s:bonus_smash_on_purge}%で、反射ダメージ扱いとなる。"
 }
