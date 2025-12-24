@@ -14603,6 +14603,9 @@ dota_hud_error_not_available_before_game_start: |-
 dota_hud_error_not_enough_gold_buyback_protected: |-
   Not Enough Gold ( Buyback Protected )
 
+dota_hud_error_unit_untargetable: |-
+  Untargetable
+
 dota_cursor_silenced: |-
   Silenced!
 
@@ -43587,7 +43590,7 @@ DOTA_HealthBar_Status_Sleep: |-
   Sleep
 
 DOTA_HealthBar_Status_Fear: |-
-  Fear
+  Feared
 
 DOTA_HealthBar_Status_Charmed: |-
   Charmed
@@ -43636,6 +43639,9 @@ DOTA_HealthBar_Status_Teleporting: |-
 
 DOTA_HealthBar_Status_Untargetable: |-
   Untargetable
+
+DOTA_HealthBar_Status_Blinded: |-
+  Blinded
 
 DOTA_SinglesDaySale_Name: |-
   Fall Sale - 60% OFF
@@ -80717,6 +80723,9 @@ DOTA_739e_Update: |-
 
 DOTA_740_Update: |-
   7.40 Gameplay Update
+
+DOTA_740b_Update: |-
+  7.40b Gameplay Update
 
 DOTA_Settings_Tooltip_NetworkLatency: |-
   If you have a network connection with packet loss, setting this to 'LOW' will increase latency but improve overall smoothness.
