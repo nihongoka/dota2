@@ -6496,7 +6496,7 @@
     "DOTA_Tooltip_ability_beastmaster_call_of_the_wild_hawk_shard_description": "Hawkの効果時間が%bonus_duration%秒長くなり、Hawkの召喚数が増加する。",
     "DOTA_Tooltip_ability_beastmaster_hawk_dive_Description": "対象の敵に向かって飛び込み、ダメージとルートを与える。",
     "DOTA_Tooltip_ability_faceless_void_time_lock_abilitydraft_note": "アビリティドラフト限定でSkull Basherと<b>重複する</b>。",
-    "DOTA_Tooltip_ability_death_prophet_spirit_siphon_shard_description": "Spirit Siphonのチャージが%shard_bonus_charges%増え、連続して%shard_fear_duration%秒間キャストし続けると敵に%shard_consecutive_siphon_duration%秒間の恐怖を与えるようになる。",
+    "DOTA_Tooltip_ability_death_prophet_spirit_siphon_shard_description": "Spirit Siphonのチャージ数が%shard_bonus_charges%増え、連続して%shard_consecutive_siphon_duration%秒間効果を与え続けた敵に%shard_fear_duration%秒間の恐怖を与えるようになる。",
     "DOTA_Tooltip_ability_death_prophet_exorcism_scepter_description": "Death Prophetがスキルか通常攻撃を当てるたびに悪霊を1体召喚する。この方法で召喚した悪霊はユニットに1回だけ普通より強めの攻撃を与え、その後発動者の下に戻り与えたダメージ量に応じて回復させた後消滅する。",
     "DOTA_Tooltip_ability_necrolyte_death_seeker": "Death Seeker",
     "DOTA_Tooltip_ability_slardar_slithereen_crush_scepter_description": "Slithereen Crushの水たまり範囲と効果時間が増加する。",
