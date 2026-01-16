@@ -17576,6 +17576,9 @@ DOTA_Tooltip_ability_invoker_forge_spirit_ad_spirit_hp: |
 DOTA_Tooltip_ability_invoker_forge_spirit_ad_spirit_duration: |
   DURATION:
 
+DOTA_Tooltip_ability_invoker_forge_spirit_ad_spirit_count_ad: |
+  SPIRIT COUNT:
+
 DOTA_Tooltip_ability_invoker_ice_wall_ad: |-
   Ice Wall (AD)
 
