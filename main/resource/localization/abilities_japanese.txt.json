@@ -10022,7 +10022,7 @@
     "DOTA_Tooltip_Facet_phantom_lancer_convergence_Description": "Phantom Lancerの現在の体力に応じて、Doppelgangerが追加のイリュージョンをスポーンさせる。",
     "DOTA_Tooltip_Facet_phantom_lancer_divergence": "Divergence",
     "DOTA_Tooltip_ability_razor_storm_surge": "Storm Surge",
-    "DOTA_Tooltip_ability_razor_storm_surge_Description": "攻撃または対象指定スペルキャスト時、攻撃者のユニットタイプを優先して、対象とその周囲の敵にダメージと移動速度減少を与える電撃を放つことがある。",
+    "DOTA_Tooltip_ability_razor_storm_surge_Description": "攻撃されたときは割合で、対象指定スペルを受けたときは必ず、対象とその周囲の敵数体にダメージと移動速度減少を与える電撃を放つようになる。対象と同じタイプのユニットが優先される。",
     "DOTA_Tooltip_ability_razor_storm_surge_facet_razor_thunderhead": "Eye of the Storm発動中は、確率が%eye_of_the_storm_chance_multiplier%倍になり、クールダウンが%strike_cd_reduction_during_storm%秒減り、Eye of the Stormの範囲内にいる全ての敵に発動するようになる。同じ敵を同時に攻撃することはない。",
     "DOTA_Tooltip_ability_razor_storm_surge_strike_pct_chance": "%発動確率:",
     "DOTA_Tooltip_ability_razor_storm_surge_strike_damage": "ダメージ:",
