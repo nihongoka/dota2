@@ -17279,8 +17279,10 @@
     "DOTA_Chat_TormentorTimerMessage_FirstSpawn": "トーメンター %s1 最初に%s3に%s2側でスポーンする。",
     "DOTA_Chat_TormentorTimerMessage_Respawning": "トーメンター %s1 %s3に%s2側でリスポーンする。",
     "DOTA_Tormentor_Top": "トップ",
-    "DOTA_Tormentor_Bottom": "ボット",
+    "DOTA_Tormentor_Bottom": "ボトム",
     "DOTA_SteamVideo_Title_TormentorKill": "トーメンター破壊",
     "DOTA_Chat_MinibossKilledGood": "Radiantがトーメンターを倒した!",
-    "DOTA_Chat_MinibossKilledBad": "Direがトーメンターを倒した!"
+    "DOTA_Chat_MinibossKilledBad": "Direがトーメンターを倒した!",
+    "DOTA_Roshan_Bottom": "ボトム",
+    "DOTA_Roshan_Top": "トップ"
 }
