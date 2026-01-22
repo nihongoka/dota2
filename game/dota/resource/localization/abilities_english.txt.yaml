@@ -13167,9 +13167,6 @@ DOTA_Tooltip_ability_clinkz_wind_walk_move_speed_bonus_pct: |-
 DOTA_Tooltip_ability_clinkz_wind_walk_skeleton_count: |-
   SKELETON ARCHER COUNT:
 
-DOTA_Tooltip_ability_clinkz_wind_walk_scepter_Description: |-
-  Increases Skeleton Archer health.
-
 DOTA_Tooltip_ability_clinkz_wind_walk_skeleton_duration: |-
   SKELETON ARCHER DURATION:
 
@@ -25692,7 +25689,7 @@ DOTA_Tooltip_ability_terrorblade_demon_zeal: |-
   Demon Zeal
 
 DOTA_Tooltip_ability_terrorblade_demon_zeal_Description: |-
-  Costs part of Terrorblade's current HP to cast, providing Terrorblade and nearby illusions bonus movement, HP Regen and attack speed. Reflection illusions gain %reflection_pct%%% of the bonuses. Can't be cast while in Metamorphosis and Metamorphosis will remove Demon Zeal
+  Costs part of Terrorblade's current HP to cast, providing Terrorblade and nearby illusions bonus movement, HP Regen and attack speed. Does not affect Reflection illusions. Can't be cast while in Metamorphosis and Metamorphosis will remove Demon Zeal
 
 DOTA_Tooltip_ability_terrorblade_demon_zeal_Lore: |-
   Fear is fueled by confusion when Terrorblade's enemies see that the first cut he makes is one to embolden himself.
