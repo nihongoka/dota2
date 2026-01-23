@@ -116,5 +116,8 @@
     "AllFriends_Button": "全フレンド",
     "AllFriends_Tooltip": "フレンドリストの右クリックメニューから<b>'デモに参加'</b>を選ぶことで、すべてのフレンドが参加できる。",
     "Refresh_Title": "リフレッシュ:",
-    "JoinPermissions_Title": "参加権限"
+    "JoinPermissions_Title": "参加権限",
+    "Super_Title": "スーパー",
+    "Mega_Title": "メガ",
+    "Base_Title": "通常"
 }
