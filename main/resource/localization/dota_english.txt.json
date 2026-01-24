@@ -11113,6 +11113,7 @@
     "DOTA_TrophyCategory_International2023": "The International 2023",
     "DOTA_TrophyCategory_Crownfall": "Crownfall",
     "DOTA_TrophyCategory_International2024": "The International 2024",
+    "DOTA_TrophyCategory_MonsterHunter": "Monster Hunter",
     "DOTA_TrophyUnits_Level": "Level %s1",
     "DOTA_TrophyUnits_Challenges_Singular": "%s1 Challenge",
     "DOTA_TrophyUnits_Challenges_Plural": "%s1 Challenges",
@@ -11173,6 +11174,7 @@
     "DOTA_TrophyUnits_CavernChallenge:p": "%s1 Set#|#%s1 Sets",
     "DOTA_TrophyUnits_Percentile:p": "%s1 Percentile#|#%s1 Percentile",
     "DOTA_TrophyUnits_MonthsCompleted:p": "%s1 Month Completed#|#%s1 Months Completed",
+    "DOTA_TrophyUnits_EntriesUnlocked:p": "%s1 Entry Unlocked#|#%s1 Entries Unlocked",
     "DOTA_TrophyTier": "%s1 - Tier %s2 / %s3",
     "DOTA_TrophyTierNoMax": "%s1 - Tier %s2",
     "DOTA_TrophyName_TI4CompendiumLevel": "Compendium Contender 2014",
@@ -41932,5 +41934,7 @@
     "dota_settings_per_ability_channel_cancel_new_settings_description": "Customize individual abilities to require Hold/Stop to end channeling. Select specific abilities in the \"Heroes\" section of the Ability and Items Hotkeys menu, then toggle the switch in the top-right corner of a channeled ability to customize its behavior.",
     "DOTA_EventPurchasePoints_Title": "Convert Points",
     "DOTA_EventPurchasePoints_Text": "Would you like to spend {d:points_to_spend} {g:dota_event_name:event_to_spend} points to purchase {d:points_to_buy} {g:dota_event_name:event_to_buy} points to unlock level {d:level_to_buy}?",
-    "DOTA_EventPurchasePointsNotEnough_Text": "You do not have {d:points_to_spend} {g:dota_event_name:event_to_spend} points that would be needed to purchase {d:points_to_buy} {g:dota_event_name:event_to_buy} points."
+    "DOTA_EventPurchasePointsNotEnough_Text": "You do not have {d:points_to_spend} {g:dota_event_name:event_to_spend} points that would be needed to purchase {d:points_to_buy} {g:dota_event_name:event_to_buy} points.",
+    "DOTA_TrophyName_MonsterHunter_HeroAtlas": "Monster Hunter Hero Atlas",
+    "DOTA_TrophyDesc_MonsterHunter_HeroAtlas": "Overall Hero Atlas Completion during the Monster Hunter collaboration event."
 }
