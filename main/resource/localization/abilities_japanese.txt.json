@@ -13173,7 +13173,7 @@
     "DOTA_Tooltip_ability_special_bonus_unique_mirana_arrow_damage": "+{s:bonus_arrow_bonus_damage} Sacred Arrowボーナスダメージ",
     "DOTA_Tooltip_ability_special_bonus_unique_wraith_king_facet_1_Facet_skeleton_king_facet_bone_guard": "+{s:bonus_blast_dot_duration}秒Wraithfire Blastスロー効果時間",
     "DOTA_Tooltip_ability_special_bonus_unique_wraith_king_facet_2_Facet_skeleton_king_facet_bone_guard": "+{s:bonus_talent_skeleton_damage} Bone Guard Skeletonダメージ",
-    "DOTA_Tooltip_ability_special_bonus_unique_wraith_king_facet_3_Facet_skeleton_king_facet_bone_guard": "+{s:bonus_min_skeleton_spawn} Bone Guard Skeletons数",
+    "DOTA_Tooltip_ability_special_bonus_unique_wraith_king_facet_3_Facet_skeleton_king_facet_bone_guard": "+{s:bonus_min_skeleton_spawn} Bone Guard Skeleton召喚数",
     "DOTA_Tooltip_Facet_kez_flutter": "Flutter",
     "DOTA_Tooltip_Facet_kez_flutter_Description": "KezはKatanaに持ち替えた後の最初の攻撃は追加のダメージを与えるようになり、Saiに持ち替えた後はボーナス移動速度を得るようになる。",
     "DOTA_Tooltip_Ability_special_bonus_unique_dazzle_shallow_grave_cooldown": "-{s:bonus_AbilityCooldown}秒Shallow Graveクールダウン",
