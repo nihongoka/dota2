@@ -33765,6 +33765,9 @@ DOTA_TrophyCategory_Crownfall: |-
 DOTA_TrophyCategory_International2024: |-
   The International 2024
 
+DOTA_TrophyCategory_MonsterHunter: |-
+  Monster Hunter
+
 DOTA_TrophyUnits_Level: |-
   Level %s1
 
@@ -33944,6 +33947,9 @@ DOTA_TrophyUnits_Percentile:p: |-
 
 DOTA_TrophyUnits_MonthsCompleted:p: |-
   %s1 Month Completed#|#%s1 Months Completed
+
+DOTA_TrophyUnits_EntriesUnlocked:p: |-
+  %s1 Entry Unlocked#|#%s1 Entries Unlocked
 
 DOTA_TrophyTier: |-
   %s1 - Tier %s2 / %s3
@@ -126670,3 +126676,9 @@ DOTA_EventPurchasePoints_Text: |-
 
 DOTA_EventPurchasePointsNotEnough_Text: |-
   You do not have {d:points_to_spend} {g:dota_event_name:event_to_spend} points that would be needed to purchase {d:points_to_buy} {g:dota_event_name:event_to_buy} points.
+
+DOTA_TrophyName_MonsterHunter_HeroAtlas: |-
+  Monster Hunter Hero Atlas
+
+DOTA_TrophyDesc_MonsterHunter_HeroAtlas: |-
+  Overall Hero Atlas Completion during the Monster Hunter collaboration event.
