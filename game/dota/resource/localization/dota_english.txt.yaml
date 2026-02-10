@@ -126644,6 +126644,12 @@ DOTA_MonsterHunter_UniversalMaterials_RareMaterialTooltip: |-
 DOTA_MonsterHunter_UniversalMaterials_SuperrareMaterialTooltip: |-
   Substitutes any <b>Super Rare</b> material
 
+DOTA_MonsterHunter_Event_Ended: |-
+  The event has ended
+
+DOTA_MonsterHunter_Event_Autocraft: |-
+  Your remaining materials will be automatically used to craft any unclaimed items.
+
 DOTA_Style_Kirin_Bolts_Offhand_Weapon_0: |-
   Kirin Blue
 
