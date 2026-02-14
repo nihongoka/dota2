@@ -916,6 +916,7 @@ lockdown_single_target_tip_queenofpain_blink_Text: |-
 
 lockdown_single_target_failure_queenofpain_escaped: |-
   Queen of Pain escaped.
+  Don't forget to use both shackles and hex one after the other.
 
 lockdown_single_target_failure_protect_units: |-
   An ally died.
