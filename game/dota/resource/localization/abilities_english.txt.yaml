@@ -9171,7 +9171,7 @@ DOTA_Tooltip_ability_rattletrap_overclocking: |-
   Overclocking
 
 DOTA_Tooltip_ability_rattletrap_overclocking_Description: |-
-  Supercharges Clockwerks abilities:<br><br>Battery Assault has an increased radius and affects all enemies in its range; <br><br>Power Cogs radius in increased, and Clockwerk's armor while near Power Cogs is increased; <br><br> Rocket Flares have increased damage, vision and slow duration, and fire additional rockets to either side of the target; <br><br>Hookshot stun radius and duration is increased; <br><br>Jetpack moves faster. <br><br>Clockwerk's movement and attack speed becomes slowed to a crawl after the duration runs out.
+  Supercharges Clockwerks abilities:<br><br><b>Battery Assault</b>: Increased radius and affects all enemies in its range.<br><b>Power Cogs</b>: Radius increased, and Clockwerk's armor while near Power Cogs is increased.<br><b>Rocket Flares</b>: Increased damage, vision and slow duration, and fire additional rockets to either side of the target.<br><b>Hookshot</b>: Stun radius and duration increased.<br><b>Jetpack</b> Moves faster.<br><br>Clockwerk's movement and attack speed becomes slowed to a crawl after the duration runs out.
 
 DOTA_Tooltip_ability_rattletrap_overclocking_Lore: |-
   Rattletrap understands the limitations of his armor. Just as he understands the risks of pushing past them in times of need.
@@ -17124,13 +17124,13 @@ DOTA_Tooltip_ability_alchemist_goblins_greed_abilitydraft_note: |-
 DOTA_Tooltip_ability_alchemist_goblins_greed_duration: |-
   RECENT KILL WINDOW:
 
-DOTA_Tooltip_ability_alchemist_goblins_greed_bonus_gold: |-
+DOTA_Tooltip_ability_alchemist_goblins_greed_bonus_gold_tooltip: |-
   BASE BONUS GOLD:
 
 DOTA_Tooltip_ability_alchemist_goblins_greed_bonus_bonus_gold: |-
   EXTRA BONUS GOLD:
 
-DOTA_Tooltip_ability_alchemist_goblins_greed_bonus_gold_cap: |-
+DOTA_Tooltip_ability_alchemist_goblins_greed_bonus_gold_cap_tooltip: |-
   MAX BONUS GOLD PER KILL:
 
 DOTA_Tooltip_ability_alchemist_goblins_greed_bounty_multiplier: |-
@@ -27465,7 +27465,7 @@ DOTA_Tooltip_Ability_winter_wyvern_eldwurms_edda: |-
   Eldwurm's Edda
 
 DOTA_Tooltip_Ability_winter_wyvern_eldwurms_edda_Description: |-
-  Grants Winter Wyvern the item Eldwurm's Edda, which can be consumed to increase the current and maximum level of a basic ability by one and Winter Wyvern's base intelligence by %intellect_pct%%% of its current value at the time of consumption.
+  Grants Winter Wyvern the item Eldwurm's Edda, which can be consumed to increase the current and maximum level of a basic ability by one and Winter Wyvern's base intelligence by %tooltip_int_pct%%% of its current value at the time of consumption.
 
 DOTA_Tooltip_ability_arc_warden_flux: |-
   Flux
