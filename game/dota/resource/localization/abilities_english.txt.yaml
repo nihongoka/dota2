@@ -21490,7 +21490,10 @@ DOTA_Tooltip_ability_rubick_spell_steal_Facet_rubick_frugal_filch: |-
   Stolen spells also have lower mana cost.
 
 DOTA_Tooltip_ability_rubick_spell_steal_scepter_description: |-
-  Increases the number of spells that can be stolen to 2. Increases cast range, and upgrades spells to their Scepter version.
+  Increases the number of spells that can be stolen to 2. Increases cast range, and upgrades stolen spells to their Scepter version.
+
+DOTA_Tooltip_ability_rubick_spell_steal_shard_description: |-
+  Upgrades stolen spells to their Shard version.
 
 DOTA_Tooltip_ability_rubick_spell_steal_Lore: |-
   ...but even their lesser magics can be a source of much utility.
