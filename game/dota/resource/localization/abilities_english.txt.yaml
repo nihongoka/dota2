@@ -16323,7 +16323,7 @@ DOTA_Tooltip_ability_ancient_apparition_bone_chill_movement_slow_pct: |-
   MOVEMENT SLOW:
 
 DOTA_Tooltip_ability_ancient_apparition_bone_chill_scepter_Description: |-
-  Increases Base Strength Reduction.
+  Increases Base Strength Reduction by %tooltip_scepter_bonus%.
 
 DOTA_Tooltip_modifier_ancient_apparition_bone_chill_debuff: |-
   Bone Chill
@@ -17114,7 +17114,7 @@ DOTA_Tooltip_ability_alchemist_goblins_greed_Facet_alchemist_dividends: |-
   Alchemist gains %gpm_increase_per_stack% GPM for each Aghanim's Scepter he has granted to allies.
 
 DOTA_Tooltip_ability_alchemist_goblins_greed_scepter_description: |-
-  Alchemist melts down Aghanim's Scepter to grant an allied hero all Aghanim's Scepter upgrades. Alchemist will gain bonus damage and %bonus_gold_per_scepter% additional base and max Greevil's Greed Extra Gold for each melted Scepter.
+  Alchemist melts down Aghanim's Scepter to grant an allied hero all Aghanim's Scepter upgrades. Alchemist will gain bonus %scepter_bonus_damage% damage and %bonus_gold_per_scepter% additional base and max Greevil's Greed Extra Gold for each melted Scepter.
 
 DOTA_Tooltip_ability_alchemist_goblins_greed_abilitydraft_note: |-
   Chemical Rage Aghanim's Scepter has been moved to Greevil's Greed for Ability Draft. Use Aghanim's Scepter on an allied hero to grant them all Aghanim's Scepter upgrades. When you have a Scepter of your own, you will gain bonus damage and spell amplification for each gifted Scepter.
@@ -25363,7 +25363,7 @@ DOTA_Tooltip_ability_legion_commander_outfight_them: |-
   Outfight Them!
 
 DOTA_Tooltip_ability_legion_commander_outfight_them_Description: |-
-  Passively grants Legion Commander armor.<br><br>If Legion or an allied Hero within %radius% range casts an ability, they gain bonus armor for %duration%s; allies gain %ally_factor%%% of the value.  This bonus stacks independently.
+  When Legion Commander or an allied Hero within %radius% range casts an ability, they gain bonus armor for %duration%s; allies gain %ally_factor%%% of the value.  This bonus stacks independently.
 
 DOTA_Tooltip_ability_legion_commander_outfight_them_armor: |-
   ARMOR:
@@ -26839,7 +26839,7 @@ DOTA_Tooltip_ability_techies_land_mines_Lore: |-
   The bane of Toterin!
 
 DOTA_Tooltip_ability_techies_land_mines_Description: |-
-  Plant an invisible mine that cannot be detected by True Sight, but is visible if an enemy is within the active %radius% AoE of the mine. Mines detonate if an enemy is standing within the active AoE for %proximity_threshold% seconds dealing damage and temporarily reducing the enemy's Magic Resistance. The explosion deals full damage if the target is within %min_distance% radius and decreases up to %outer_damage%%% on the edge. Deals %building_damage_pct%%% damage to buildings.
+  Plant an invisible mine that cannot be detected by True Sight, but is visible if an enemy is within the active %radius% AoE of the mine. Mines detonate if an enemy is standing within the active AoE for %proximity_threshold% seconds dealing damage and temporarily reducing the enemy's Magic Resistance. The explosion deals full damage if the target is within %min_distance% radius and decreases down to %outer_damage%%% on the edge. Deals %building_damage_pct%%% damage to buildings.
 
 DOTA_Tooltip_ability_techies_land_mines_damage: |-
   DAMAGE:
@@ -36751,7 +36751,7 @@ DOTA_Tooltip_ability_special_bonus_unique_chen_7: |-
   -{s:value}s Hand of God Cooldown
 
 DOTA_Tooltip_ability_special_bonus_unique_chen_8: |-
-  -{s:bonus_bonus_movement_speed}% Penitence Slow
+  +{s:bonus_bonus_movement_speed}% Penitence Slow
 
 DOTA_Tooltip_ability_special_bonus_unique_chen_9: |-
   Holy Persuasion Targets Ancients
@@ -41424,7 +41424,7 @@ DOTA_Tooltip_modifier_item_tome_of_knowledge_consumed_Description: |-
   Immediately grants 700 experience plus 135 per tome previously consumed by your team.
 
 DOTA_Tooltip_ability_item_dragon_lance_Note0: |-
-  Attack Range bonuses from Dragon Lance and its upgrades do not stack.
+  Attack Range bonuses from Monkey King Bar and Dragon Lance and its upgrades do not stack.
 
 DOTA_Tooltip_ability_item_dragon_lance_bonus_agility: |-
   +$agi
@@ -41454,7 +41454,7 @@ DOTA_Tooltip_Ability_item_hurricane_pike_Note2: |-
   Will not work on a unit inside Chronosphere, Duel, or Black Hole.
 
 DOTA_Tooltip_ability_item_hurricane_pike_Note3: |-
-  Attack Range bonuses from Dragon Lance and its upgrades do not stack.
+  Attack Range bonuses from Monkey King Bar and Dragon Lance and its upgrades do not stack.
 
 DOTA_Tooltip_Ability_item_hurricane_pike_bonus_intellect: |-
   +$int
@@ -43109,6 +43109,9 @@ DOTA_Tooltip_ability_item_monkey_king_bar_bonus_attack_speed: |-
 
 DOTA_Tooltip_ability_item_monkey_king_bar_melee_attack_range: |-
   +$attack_range_melee
+
+DOTA_Tooltip_ability_item_monkey_king_bar_melee_attack_range_Note0: |-
+  Attack Range bonuses from Monkey King Bar and Dragon Lance and its upgrades do not stack.
 
 DOTA_Tooltip_ability_item_mystic_staff_Lore: |-
   Enigmatic staff made of only the most expensive crystals.
@@ -45707,7 +45710,7 @@ DOTA_Tooltip_Ability_item_hydras_breath_Description: |-
   <h1>Passive: Polycephaly</h1>Ranged attacks have a %proc_chance%%% chance to fire additional projectiles at up to %count% nearby enemies with %secondary_target_range_bonus% extra range and within a %secondary_target_angle% degree angle in front of the attacker. The additional projectiles deal %base_proc_dmg% + %proc_dmg_pct%%% damage of a normal attack and do not trigger on hit effects except for Miasma. The primary attack deals %base_proc_dmg% + %proc_dmg_pct_primary_tooltip%%% damage of a normal attack.
 
 DOTA_Tooltip_ability_item_hydras_breath_Note0: |-
-  Attack Range bonuses from Dragon Lance and its upgrades do not stack.
+  Attack Range bonuses from Monkey King Bar and Dragon Lance and its upgrades do not stack.
 
 DOTA_Tooltip_modifier_item_hydras_breath_poison: |-
   Miasma
