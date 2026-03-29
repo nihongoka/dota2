@@ -381,7 +381,7 @@
     "DOTA_Tooltip_ability_special_bonus_unique_earthshaker": "-{s:bonus_AbilityCooldown}秒 Enchant Totem クールダウン",
     "DOTA_Tooltip_ability_juggernaut_blade_dance": "Blade Dance",
     "DOTA_Tooltip_ability_juggernaut_blade_fury": "Blade Fury",
-    "DOTA_Tooltip_ability_juggernaut_blade_fury_Description": "Juggernautの周りに壊滅的な刃嵐を発生させ、デバフ無効と80%%魔法耐性を得るとともに周囲の敵ユニットに%blade_fury_damage_tick%秒毎にダメージを与え続ける。回転の最後に強化ディスペルを得る。",
+    "DOTA_Tooltip_ability_juggernaut_blade_fury_Description": "Juggernautの周りに壊滅的な刃嵐を発生させ、デバフ無効と%immunity_resist%%%の魔法耐性を得るとともに周囲の敵ユニットに%blade_fury_damage_tick%秒毎にダメージを与え続ける。回転の最後に強化ディスペルを得る。",
     "DOTA_Tooltip_ability_juggernaut_blade_fury_Note0": "Blade Fury中はアイテムを使用可能。",
     "DOTA_Tooltip_ability_juggernaut_blade_fury_Note1": "JuggernautはBlade Fury中も攻撃することができる。ただし、このダメージを受けるのは、建造物やワードなど、Blade Furyのダメージを受けていないユニットのみである。",
     "DOTA_Tooltip_ability_juggernaut_blade_fury_blade_fury_radius": "範囲:",
@@ -13922,5 +13922,6 @@
     "DOTA_Tooltip_modifier_vengefulspirit_restitution_enemydebuff": "Revenge",
     "DOTA_Tooltip_modifier_vengefulspirit_retribution": "Retribution",
     "DOTA_Tooltip_modifier_vengefulspirit_retribution_Description": "宿敵である%s1により多くダメージを与えられる!",
-    "DOTA_Tooltip_ability_leshrac_defilement_current_aoe_bonus": "ボーナス効果範囲："
+    "DOTA_Tooltip_ability_leshrac_defilement_current_aoe_bonus": "ボーナス効果範囲：",
+    "DOTA_Tooltip_ability_juggernaut_blade_fury_scepter_description": "刃嵐を広くし、ダメージを受けている敵をスローさせ続ける。<br><br>また、JuggernautがBladefuryの影響を受けている敵全員に%attack_interval%秒ごとに通常攻撃を行うようになる。"
 }
