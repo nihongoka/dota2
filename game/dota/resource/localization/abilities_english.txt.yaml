@@ -9650,12 +9650,6 @@ DOTA_Tooltip_ability_tidehunter_kraken_shell_Facet_tidehunter_kraken_swell: |-
 DOTA_Tooltip_ability_tidehunter_kraken_shell_Lore: |-
   Claddish navymen tell tales of a mighty sea-faring beast that suffered spear and sword but continued to lay waste to the fleet.
 
-DOTA_Tooltip_ability_tidehunter_kraken_shell_Note0: |-
-  Break disables the gaining of new Kraken Swell stacks.
-
-DOTA_Tooltip_ability_tidehunter_kraken_shell_Note1: |-
-  Break does not disable the bonuses from existing Kraken Swell stacks.
-
 DOTA_Tooltip_ability_tidehunter_kraken_shell_Note2: |-
   Does not stack with items that provide Damage Block.
 
