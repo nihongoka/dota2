@@ -3371,7 +3371,7 @@ DOTA_Tooltip_ability_windrunner_windrun_Note0: |-
 DOTA_Tooltip_ability_windrunner_windrun_evasion_pct_tooltip: |-
   %EVASION:
 
-DOTA_Tooltip_ability_windrunner_windrun_duration: |-
+DOTA_Tooltip_ability_windrunner_windrun_AbilityDuration: |-
   DURATION:
 
 DOTA_Tooltip_ability_windrunner_windrun_movespeed_bonus_pct: |-
@@ -35143,7 +35143,7 @@ DOTA_Tooltip_ability_special_bonus_unique_windranger_3: |-
   -{s:bonus_damage_reduction}% Powershot Reduction
 
 DOTA_Tooltip_ability_special_bonus_unique_windranger_4: |-
-  +{s:bonus_duration}s Windrun Duration
+  +{s:bonus_AbilityDuration}s Windrun Duration
 
 DOTA_Tooltip_ability_special_bonus_unique_windranger_5: |-
   +{s:bonus_max_movespeed} Tailwind Max Movespeed
