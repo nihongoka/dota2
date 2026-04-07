@@ -13799,7 +13799,6 @@
     "DOTA_Tooltip_ability_item_consecrated_wraps_Note0": "プレイヤー操作ユニットやRoshanからダメージを受けたあと%stack_gain_time%秒間はスタックを獲得できない。",
     "DOTA_Tooltip_ability_item_consecrated_wraps_Note1": "自己ダメージや体力削除ダメージからはスタックを消費しない。",
     "DOTA_Tooltip_ability_item_consecrated_wraps_Note2": "移動速度バフはスタックしない。",
-    "DOTA_Tooltip_ability_item_consecrated_wraps_Note3": "移動速度バフは、アイテムを装備してから1度最大スタックを獲得しないと獲得できない。",
     "DOTA_Tooltip_ability_item_consecrated_wraps_bonus_spell_resist": "%+$spell_resist",
     "DOTA_Tooltip_ability_item_consecrated_wraps_bonus_all_stats": "+$all",
     "DOTA_Tooltip_ability_item_consecrated_wraps_bonus_health": "+$health",
