@@ -2673,7 +2673,7 @@ DOTA_Tooltip_ability_mirana_celestial_quiver: |-
   Celestial Quiver
 
 DOTA_Tooltip_ability_mirana_celestial_quiver_Description: |-
-  When a charge is available, Mirana's next attack will deal bonus magic damage.<br><br>Gains a charge every %levels_per_quiver_tooltip% hero levels.
+  When a charge is available, Mirana's next attack will deal bonus magic damage.
 
 DOTA_Tooltip_ability_mirana_celestial_quiver_bonus_damage: |-
   BONUS DAMAGE:
@@ -2686,6 +2686,12 @@ DOTA_Tooltip_modifier_mirana_celestial_quiver: |-
 
 DOTA_Tooltip_ability_special_bonus_unique_mirana_quiver_damage: |-
   +{s:bonus_bonus_damage} Celestial Quiver Damage
+
+DOTA_Tooltip_ability_mirana_celestial_quiver_AbilityCharges: |-
+  MAX CHARGES:
+
+DOTA_Tooltip_ability_mirana_celestial_quiver_AbilityChargeRestoreTime: |-
+  CHARGE RESTORE TIME:
 
 DOTA_Tooltip_Facet_mirana_moonlight: |-
   Moonlight Shadow Facet
@@ -4369,7 +4375,7 @@ DOTA_Tooltip_ability_juggernaut_bladeform_max_stacks: |-
   MAX STACKS:
 
 DOTA_Tooltip_ability_juggernaut_bladeform_agi_bonus_pct_per_stack: |-
-  %BASE AGILITY PCT PER STACK:
+  %BASE AGILITY PER STACK:
 
 DOTA_Tooltip_ability_juggernaut_bladeform_movement_speed_pct_per_stack: |-
   %MOVEMENT SPEED PER STACK:
@@ -9857,7 +9863,7 @@ DOTA_Tooltip_Ability_tidehunter_leviathans_catch: |-
   Leviathan's Catch
 
 DOTA_Tooltip_Ability_tidehunter_leviathans_catch_Description: |-
-  Whenever an enemy hero is killed by Tidehunter or dies under his debuffs, a fish appears in their place for %fish_duration% seconds. Tidehunter can eat the fish to permanently gain %fish_health_bonus% Health, %fish_attack_range% Attack Range, and %fish_damage_block% Bonus Damage Block. Tidehunter eats a fish every level up.
+  Whenever an enemy hero is killed by Tidehunter or dies under his debuffs, a fish appears in their place; Tidehunter can eat the fish to permanently gain %fish_health_bonus% Health, %fish_attack_range% Attack Range, and %fish_damage_block% Bonus Damage Block.<br><br>Tidehunter eats a free fish every time he reaches an even hero level.
 
 DOTA_Tooltip_Ability_tidehunter_leviathans_catch_Note0: |-
   Enemies can destroy the fish.
@@ -10639,7 +10645,7 @@ DOTA_Tooltip_ability_tinker_deploy_turrets_description: |-
   Deploys <b>3</b> uncontrollable turrets at the target location. Enemies hit by the impact take damage and are pushed away from the landing point. If Tinker is hit, he also gets pushed by the impact. Once deployed, the turret fires missiles in the direction of the nearest enemy hero.
 
 DOTA_Tooltip_ability_tinker_deploy_turrets_scepter_description: |-
-  Turrets activate faster, and fire missiles %missile_attack_rate_tooltip%%% faster.
+  Turrets fire missiles %missile_attack_rate_tooltip%%% faster.
 
 DOTA_Tooltip_ability_tinker_deploy_turrets_turret_duration: |-
   TURRET DURATION:
@@ -14353,7 +14359,7 @@ DOTA_Tooltip_ability_night_stalker_hunter_in_the_night_Description: |-
   Night Stalker is in his element at night, attacking and moving with great swiftness.
 
 DOTA_Tooltip_ability_night_stalker_hunter_in_the_night_Scepter_Description: |-
-  Increases bonus movement speed and attack speed. Killing an enemy hero resets all basic ability cooldowns.
+  Increases bonus movement speed by %bonus_bonus_movement_speed_pct_night%%% and attack speed by %bonus_bonus_attack_speed_night%. Killing an enemy hero resets all basic ability cooldowns.
 
 DOTA_Tooltip_ability_night_stalker_hunter_in_the_night_shard_description: |-
   Hunter in the Night may be cast on a creep, instantly killing it and restoring some of Night Stalker's maximum health and mana. Cannot target ancients during the daytime.
@@ -17424,7 +17430,7 @@ DOTA_Tooltip_ability_invoker_invoke: |-
   Invoke
 
 DOTA_Tooltip_ability_invoker_invoke_Description: |-
-  Combines the properties of the elements currently being manipulated to create a new spell for Invoker to use. Invoke cooldown is reduced by %cooldown_reduction_per_orb% seconds for each orb level.<br><br>Invoker's vast knowledge of magic allows him to choose from Multiple Aghanim's Scepter and Shard options.  The items must be activated before they can be used, and cannot be changed after they are chosen.<br><br> Click the help button to see the list of possible spells.
+  Combines the properties of the elements currently being manipulated to create a new spell for Invoker to use. Invoke cooldown is reduced by %cooldown_reduction_per_orb% seconds for each orb level.  Invoker gains a bonus ability point for his orbs at levels %first_ability_level%, %second_ability_level%, and %third_ability_level%.<br><br>Invoker's vast knowledge of magic allows him to choose from Multiple Aghanim's Scepter and Shard options.  The items must be activated before they can be used, and cannot be changed after they are chosen.<br><br> Click the help button to see the list of possible spells.
 
 DOTA_Tooltip_ability_invoker_invoke_Lore: |-
   So begins a new age of knowledge.
@@ -17855,7 +17861,7 @@ DOTA_Tooltip_modifier_forged_spirit_melting_strike_debuff: |-
   Melting Strike
 
 DOTA_Tooltip_modifier_forged_spirit_melting_strike_debuff_Description: |-
-  Armor reduced by %dMODIFIER_PROPERTY_PHYSICAL_ARMOR_BONUS%.
+  Armor reduced by %fMODIFIER_PROPERTY_PHYSICAL_ARMOR_BONUS%.
 
 DOTA_Tooltip_modifier_invoker_emp_pull: |-
   E.M.P.
@@ -20529,7 +20535,7 @@ DOTA_Tooltip_ability_meepo_divided_we_stand: |-
   Divided We Stand
 
 DOTA_Tooltip_ability_meepo_divided_we_stand_Description: |-
-  Meepo summons another Meepo, which levels up and shares items with the main Meepo. Ability cooldowns are independent, but items share cooldowns between Meepos. Damage, attack speed, health / mana regeneration, mana burn, and proc chance bonuses from items are distributed equally among the amount of Meepos.<br><br>If any Meepo dies, they all die.
+  Meepo summons another Meepo, which levels up and shares items and experience with the main Meepo. Ability cooldowns are independent, but items share cooldowns between Meepos, except Teleport Scrolls. <br><br>Damage, attack speed, health, mana, regeneration, mana burn, and proc chance bonuses from items are distributed equally among the amount of Meepos, making them %dps_penalty_pct%%% less effective.<br><br>If any Meepo dies, they all die.
 
 DOTA_Tooltip_ability_meepo_divided_we_stand_Facet_meepo_more_meepo: |-
   Can now be upgraded at level %required_level% and every %bonus_levels_between_upgrades% levels afterwards to a max level of %max_level%. Duplicate Meepos receive %main_meepo_stats_pct%%% of the main Meepo's bonus attributes.
@@ -24392,7 +24398,7 @@ DOTA_Tooltip_ability_tusk_drinking_buddies: |-
   Drinking Buddies
 
 DOTA_Tooltip_ability_tusk_drinking_buddies_Description: |-
-  Tusk reaches out to tag an allied unit, pulling them closer. Once tagged, both Tusk and his tagged ally gain movement speed and armor. Can be put on alt-cast to only pull Tusk towards his ally with %alt_cast_castrange_pct%%% reduced cast range.
+  Tusk reaches out to tag an allied unit, pulling them closer. Once tagged, both Tusk and his tagged ally gain movement speed and armor.
 
 DOTA_Tooltip_ability_tusk_drinking_buddies_Lore: |-
   The only thing better than finding a good drinking buddy is finding an equally good enemy the two of you can punch. 
@@ -26200,7 +26206,7 @@ DOTA_Tooltip_ability_phoenix_sun_ray_Description: |-
   Phoenix expels a beam of light at the cost of its own health. The beam damages enemies and heals allies for a base amount plus a percentage of their health. The percentage increases as the beam continues to fire.
 
 DOTA_Tooltip_ability_phoenix_sun_ray_shard_description: |-
-  Allows Sun Ray to be cast during Supernova, and slows affected enemies by %shard_move_slow_pct%%%.
+  Allows Sun Ray to be cast during Supernova.
 
 DOTA_Tooltip_ability_phoenix_sun_ray_abilitydraft_note: |-
   In Ability Draft, Sun Ray movement is disabled.  The hero can only turn in place while Sun Ray is active.
@@ -31864,7 +31870,7 @@ DOTA_Tooltip_Ability_special_bonus_unique_largo_1: |-
   +{s:bonus_damage_per_stomp} Frogstomp Damage
 
 DOTA_Tooltip_Ability_special_bonus_unique_largo_2: |-
-  x{s:bonus_dispel_hp_regen} Catchy Lick Health Regen
+  {s:bonus_dispel_hp_regen}x Catchy Lick Health Regen
 
 DOTA_Tooltip_Ability_special_bonus_unique_largo_3: |-
   {s:bonus_damage_hp_pct}% Croak of Genius Max Health DPS
@@ -34635,6 +34641,9 @@ DOTA_Tooltip_ability_special_bonus_unique_invoker_ice_wall_dps: |-
 DOTA_Tooltip_ability_special_bonus_unique_invoker_additional_chaos_meteors: |-
   +{s:bonus_meteor_count} Chaos Meteors
 
+DOTA_Tooltip_ability_special_bonus_unique_invoker_forged_spirit_armor_reduction: |-
+  +{s:bonus_armor_removed}% Forged Spirit Armor Reduction
+
 DOTA_Tooltip_ability_special_bonus_unique_abaddon: |-
   +{s:bonus_damage_absorb} Aphotic Shield Barrier Amount
 
@@ -34804,7 +34813,7 @@ DOTA_Tooltip_ability_special_bonus_unique_clinkz_12: |-
   +{s:value} Burning Barrage arrows
 
 DOTA_Tooltip_ability_special_bonus_unique_juggernaut: |-
-  +{s:bonus_blade_fury_damage} Blade Fury DPS
+  +{s:bonus_blade_fury_damage} Blade Fury Damage Per Second
 
 DOTA_Tooltip_ability_special_bonus_unique_juggernaut_2: |-
   +{s:bonus_healing_ward_bonus_health} Healing Ward Hits to Kill
@@ -35366,6 +35375,9 @@ DOTA_Tooltip_ability_special_bonus_unique_tidehunter_9: |-
 
 DOTA_Tooltip_ability_special_bonus_unique_tidehunter_10: |-
   Anchor Smash affects buildings
+
+DOTA_Tooltip_ability_special_bonus_unique_tidehunter_10_description: |-
+  Deals {s:bonus_building_pct_damage}% damage to buildings.
 
 DOTA_Tooltip_ability_special_bonus_unique_tidehunter_ravage_cooldown: |-
   -{s:bonus_AbilityCooldown}s Ravage Cooldown
@@ -36271,7 +36283,7 @@ DOTA_Tooltip_ability_special_bonus_unique_drow_ranger_7: |-
   -{s:bonus_AbilityManaCost}% Frost Arrows Mana Cost
 
 DOTA_Tooltip_ability_special_bonus_unique_drow_ranger_8: |-
-  +{s:bonus_wave_count} Multishot Wave
+  +{s:bonus_wave_count} Multishot Waves
 
 DOTA_Tooltip_ability_special_bonus_unique_drow_ranger_gust_invis: |-
   Gust Reveals Invisible Units
@@ -36646,7 +36658,7 @@ DOTA_Tooltip_ability_special_bonus_unique_bloodseeker_3: |-
   +{s:bonus_AbilityCastRange} Rupture Cast Range
 
 DOTA_Tooltip_ability_special_bonus_unique_bloodseeker_4: |-
-  +{s:bonus_bonus_movement_speed}% Max Thirst MS
+  +{s:bonus_bonus_movement_speed}% Max Thirst Move Speed
 
 DOTA_Tooltip_ability_special_bonus_unique_bloodseeker_5: |-
   +{s:bonus_attack_speed} Bloodrage Attack Speed
@@ -40916,6 +40928,9 @@ DOTA_Tooltip_ability_item_black_king_bar_Lore: |-
 DOTA_Tooltip_ability_item_black_king_bar_Note0: |-
   Purchasing another Black King Bar will not reset its immunity duration.
 
+DOTA_Tooltip_ability_item_black_king_bar_Note1: |-
+  Avatar duration is not affected by increases to buff duration.
+
 DOTA_Tooltip_ability_item_black_king_bar_bonus_strength: |-
   +$str
 
@@ -42223,19 +42238,16 @@ DOTA_Tooltip_ability_item_hood_of_defiance_bonus_health_regen: |-
   +$hp_regen
 
 DOTA_Tooltip_ability_item_consecrated_wraps_Description: |-
-  <h1>Passive: Hallowed</h1> Gain a stack every %stack_gain_time%s, up to a maximum of %max_stacks% stacks. Upon gaining a stack, your movement speed is increased by %movement_speed_pct_on_stack_gain%%% for %duration%s.<br><br>Whenever you take damage from a player-controlled unit or Roshan, consume all stacks to gain an all damage barrier for %duration%s that absorbs %barrier_per_stack% damage per stack (%max_barrier_tooltip% max).
+  <h1>Passive: Hallowed</h1> Gain a charge every %AbilityChargeRestoreTime%s, up to a maximum of %AbilityCharges% charges. Upon gaining a charge, your movement speed is increased by %movement_speed_pct_on_stack_gain%%% for %duration%s.<br><br>Whenever you take damage from a player-controlled unit or Roshan, consume all charges to gain an all damage barrier for %duration%s that absorbs %barrier_per_stack% damage per charge (%max_barrier_tooltip% max).
 
 DOTA_Tooltip_ability_item_consecrated_wraps_Note0: |-
-  Stacks cannot be gained for %stack_gain_time%s after you take damage from a player-controlled unit or Roshan.
+  Charges cannot be gained for %stack_gain_time%s after you take damage from a player-controlled unit or Roshan.
 
 DOTA_Tooltip_ability_item_consecrated_wraps_Note1: |-
-  Self-damage and HP Loss damage cannot remove stacks.
+  Self-damage and HP Loss damage cannot remove charges.
 
 DOTA_Tooltip_ability_item_consecrated_wraps_Note2: |-
   Movement speed buff does not stack.
-
-DOTA_Tooltip_ability_item_consecrated_wraps_Note3: |-
-  Movement speed buff is only provided if you have reached maximum stacks at least once while the item is equipped.
 
 DOTA_Tooltip_ability_item_consecrated_wraps_bonus_spell_resist: |-
   %+$spell_resist
@@ -42256,7 +42268,7 @@ DOTA_Tooltip_modifier_item_consecrated_wraps: |-
   Hallowed
 
 DOTA_Tooltip_modifier_item_consecrated_wraps_Description: |-
-  After taking damage, remove all stacks to gain an all damage barrier.
+  After taking damage, remove all Charges to gain an all damage barrier.
 
 DOTA_Tooltip_modifier_item_consecrated_wraps_speed_buff: |-
   Hallowed
@@ -45328,13 +45340,13 @@ DOTA_Tooltip_Ability_item_trident_spell_lifesteal_amp: |-
   %+Spell Lifesteal Amplification
 
 DOTA_Tooltip_Ability_item_demonicon_Description: |-
-  <h1>Active: Greater Demonic Summoning</h1> Summon 2 demonic warriors and 2 demonic archers that last %summon_duration% seconds. The <font color='#c04048'>Warrior</font> burns mana every hit, reveals invisible units, and deals magical damage to whoever kills it. The <font color='#0078d7'>Archer</font> has a basic dispel ability with a slow and a passive movement speed aura.
+  <h1>Active: Greater Demonic Summoning</h1> Summon 2 demonic warriors and 2 demonic archers that last %summon_duration% seconds. The <font color='#c04048'>Warrior</font> burns mana every hit and deals magical damage to whoever kills it. The <font color='#0078d7'>Archer</font> has a basic dispel ability with a slow and a passive movement speed aura.
 
 DOTA_Tooltip_Ability_item_demonicon_Lore: |-
   A record of the final reckoning. With one page torn out.
 
 DOTA_Tooltip_Ability_item_demonicon_Note0: |-
-  The Demonic Warrior has 1600 Health, 4 Armor, 40% Magic Resistance, 380 Movement Speed, 134 Attack Damage, 50 Mana Burn on Hit, 800 Damage on Death, and 1000 True Sight Radius.
+  The Demonic Warrior has 1600 Health, 4 Armor, 40% Magic Resistance, 380 Movement Speed, 134 Attack Damage, 50 Mana Burn on Hit, and deals 800 Damage on Death.
 
 DOTA_Tooltip_Ability_item_demonicon_Note1: |-
   The Demonic Archer has 1300 Health, 4 Armor, 40% Magic Resistance, 425 Movement Speed, 131 Attack Damage, a basic dispel ability with a slow on a 15s Cooldown, and a 9% Bonus Movement Speed Aura.
@@ -46258,7 +46270,7 @@ DOTA_Tooltip_Ability_item_dormant_curio_Note0: |-
   Certain stats on the next artifact will be amplified. Will not amplify cooldown, mana cost, or cast range.
 
 DOTA_Tooltip_Ability_item_jidi_pollen_bag_Description: |-
-  <h1>Active: Pollinate</h1>Spreads pollen on all enemy units in a %debuff_radius% unit radius for %debuff_duration% seconds, decreasing their health restoration by %health_regen_loss%%% and dealing damage equal to %hp_damage%%% of their maximum health per second.
+  <h1>Active: Pollinate</h1>Spreads pollen on all enemy units in a %debuff_radius% unit radius for %debuff_duration% seconds, decreasing their health restoration by %health_regen_loss%%% and dealing damage per second, the total equal to %hp_damage%%% of their maximum health.
 
 DOTA_Tooltip_Ability_item_jidi_pollen_bag_Lore: |-
   Very dangerous. Very difficult to obtain more.

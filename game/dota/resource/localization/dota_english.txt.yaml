@@ -80931,6 +80931,9 @@ DOTA_741_Update: |-
 DOTA_741a_Update: |-
   7.41a Gameplay Update
 
+DOTA_741b_Update: |-
+  7.41b Gameplay Update
+
 DOTA_Settings_Tooltip_NetworkLatency: |-
   If you have a network connection with packet loss, setting this to 'LOW' will increase latency but improve overall smoothness.
 
