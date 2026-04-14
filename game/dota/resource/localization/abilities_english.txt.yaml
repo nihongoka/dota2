@@ -31268,7 +31268,7 @@ DOTA_Tooltip_ability_kez_echo_slash: |-
   Echo Slash
 
 DOTA_Tooltip_ability_kez_echo_slash_Description: |-
-  Kez slashes forward in a %katana_distance% distance line with his Katana, attacking enemies in an area and applying a brief %tag_slow%s impact slow. After a short delay, the area is attacked again. Heroes take bonus damage.
+  Kez slashes forward in a %katana_distance% distance line with his Katana, attacking enemies in an area and applying a brief %tag_slow%%% impact slow. After a short delay, the area is attacked again. Heroes take bonus damage.
 
 DOTA_Tooltip_ability_kez_echo_slash_Note0: |-
   Destroys trees. Doesn't apply Cleave.
@@ -42070,7 +42070,7 @@ DOTA_Tooltip_modifier_item_crellas_crozier_debuff: |-
   Putrefaction Aura
 
 DOTA_Tooltip_modifier_item_crellas_crozier_debuff_Description: |-
-  Health Restoration reduced by %dMODIFIER_PROPERTY_RESTORATION_AMPLIFICATION%%%.
+  Health Restoration reduced by %dMODIFIER_PROPERTY_TOOLTIP%%%.
 
 DOTA_Tooltip_modifier_item_crellas_crozier_active: |-
   Rite of Rumusque
