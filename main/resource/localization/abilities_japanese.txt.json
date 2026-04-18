@@ -14498,7 +14498,6 @@
     "DOTA_Tooltip_ability_special_bonus_unique_weaver_shukuchi_movespeed": "+{s:bonus_min_movespeed_override} Shukuchi移動速度",
     "DOTA_Tooltip_ability_special_bonus_unique_elder_titan_momentum_attack_speed": "ボーナス移動速度の{s:bonus_attack_speed_from_movespeed}%が攻撃速度になる",
     "Dota_Tooltip_ability_special_bonus_unique_silencer_arcane_curse_radius": "+{s:bonus_radius} Arcane Curse範囲",
-    "Dota_Tooltip_ability_special_bonus_unique_silencer_oppressive_silence": "",
     "DOTA_Tooltip_ability_special_bonus_unique_silencer_glaives_pierce": "Glaives of Wisdomピュアダメージ化/デバフ耐性貫通",
     "DOTA_Tooltip_ability_special_bonus_unique_death_prophet_exorcism_duration_on_kill": "Exorcism中の死は+{s:bonus_duration_increase_per_kill}秒延長させる",
     "DOTA_Tooltip_ability_special_bonus_unique_lina_7_Description": "Slow Burnのダメージが{s:bonus_additional_tick_total_damage_tooltip}%増加する",
