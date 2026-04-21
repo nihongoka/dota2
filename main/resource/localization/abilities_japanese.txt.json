@@ -6128,7 +6128,7 @@
     "DOTA_Tooltip_ability_ogre_magi_smash": "Fire Shield",
     "DOTA_Tooltip_ability_lich_ice_spire": "Ice Spire",
     "DOTA_Tooltip_ability_lich_sinister_gaze_scepter_description": "Sinister Gazeは範囲内%aoe_scepter%の全てに発動する地点指定スペルになる。Sinister Gazeのチャネリング中に中断せずに他のアビリティを発動することができるようになる。",
-    "DOTA_Tooltip_ability_ogre_magi_smash_Description": "指定した味方の周りにシールドを作り、敵ヒーローからの攻撃を %attacks%回まで割合でダメージを吸収する。ダメージ吸収時、攻撃者に対して火の玉を飛ばす。タワーにもキャストできる。",
+    "DOTA_Tooltip_ability_ogre_magi_smash_Description": "指定した味方にシールドを張り、敵ヒーローからの攻撃を%attacks%回まで割合でダメージを吸収する。ダメージ吸収時、攻撃者に対して火の玉を飛ばす。タワーにもキャストできる。",
     "DOTA_Tooltip_ability_ogre_magi_smash_duration": "シールド効果時間:",
     "DOTA_Tooltip_ability_ogre_magi_smash_damage": "火の玉のダメージ:",
     "DOTA_Tooltip_ability_ogre_magi_frost_armor_Description": "Ogre Frostmageは、指定した味方ユニットに対して、アーマーを増加させ、攻撃してくる勇敢な敵を一時的にスローさせる、目に見えない氷の空気の層を作り出す。",
