@@ -38287,58 +38287,58 @@ DOTA_Tooltip_Ability_item_enhancement_wise: |-
   Wise
 
 DOTA_Tooltip_Ability_item_enhancement_mystical_Bound:f: |-
-  Mystical
+  {noun, gender, other{Mystical}}
 
 DOTA_Tooltip_Ability_item_enhancement_brawny_Bound:f: |-
-  Brawny
+  {noun, gender, other{Brawny}}
 
 DOTA_Tooltip_Ability_item_enhancement_alert_Bound:f: |-
-  Alert
+  {noun, gender, other{Alert}}
 
 DOTA_Tooltip_Ability_item_enhancement_tough_Bound:f: |-
-  Tough
+  {noun, gender, other{Tough}}
 
 DOTA_Tooltip_Ability_item_enhancement_quickened_Bound:f: |-
-  Quickened
+  {noun, gender, other{Quickened}}
 
 DOTA_Tooltip_Ability_item_enhancement_keen_eyed_Bound:f: |-
-  Keen-eyed
+  {noun, gender, other{Keen-eyed}}
 
 DOTA_Tooltip_Ability_item_enhancement_vast_Bound:f: |-
-  Vast
+  {noun, gender, other{Vast}}
 
 DOTA_Tooltip_Ability_item_enhancement_greedy_Bound:f: |-
-  Greedy
+  {noun, gender, other{Greedy}}
 
 DOTA_Tooltip_Ability_item_enhancement_vampiric_Bound:f: |-
-  Vampiric
+  {noun, gender, other{Vampiric}}
 
 DOTA_Tooltip_Ability_item_enhancement_timeless_Bound:f: |-
-  Timeless
+  {noun, gender, other{Timeless}}
 
 DOTA_Tooltip_Ability_item_enhancement_titanic_Bound:f: |-
-  Titanic
+  {noun, gender, other{Titanic}}
 
 DOTA_Tooltip_Ability_item_enhancement_crude_Bound:f: |-
-  Crude
+  {noun, gender, other{Crude}}
 
 DOTA_Tooltip_Ability_item_enhancement_feverish_Bound:f: |-
-  Feverish
+  {noun, gender, other{Feverish}}
 
 DOTA_Tooltip_Ability_item_enhancement_fleetfooted_Bound:f: |-
-  Fleetfooted
+  {noun, gender, other{Fleetfooted}}
 
 DOTA_Tooltip_Ability_item_enhancement_audacious_Bound:f: |-
-  Audacious
+  {noun, gender, other{Audacious}}
 
 DOTA_Tooltip_Ability_item_enhancement_evolved_Bound:f: |-
-  Evolved
+  {noun, gender, other{Evolved}}
 
 DOTA_Tooltip_Ability_item_enhancement_boundless_Bound:f: |-
-  Boundless
+  {noun, gender, other{Boundless}}
 
 DOTA_Tooltip_Ability_item_enhancement_wise_Bound:f: |-
-  Wise
+  {noun, gender, other{Wise}}
 
 DOTA_Tooltip_Ability_item_mana_draught:n: |-
   Mana Draught
@@ -38479,22 +38479,22 @@ DOTA_Tooltip_Ability_item_enhancement_nimble: |-
   Nimble
 
 DOTA_Tooltip_Ability_item_enhancement_fierce_Bound:f: |-
-  Fierce
+  {noun, gender, other{Fierce}}
 
 DOTA_Tooltip_Ability_item_enhancement_dominant_Bound:f: |-
-  Dominant
+  {noun, gender, other{Dominant}}
 
 DOTA_Tooltip_Ability_item_enhancement_restorative_Bound:f: |-
-  Restorative
+  {noun, gender, other{Restorative}}
 
 DOTA_Tooltip_Ability_item_enhancement_thick_Bound:f: |-
-  Thick
+  {noun, gender, other{Thick}}
 
 DOTA_Tooltip_Ability_item_enhancement_curious_Bound:f: |-
-  Unleashed
+  {noun, gender, other{Unleashed}}
 
 DOTA_Tooltip_Ability_item_enhancement_nimble_Bound:f: |-
-  Nimble
+  {noun, gender, other{Nimble}}
 
 DOTA_Tooltip_ability_item_enhancement_vital: |-
   Vital
@@ -38506,13 +38506,13 @@ DOTA_Tooltip_ability_item_enhancement_manic: |-
   Manic
 
 DOTA_Tooltip_ability_item_enhancement_vital_Bound:f: |-
-  Vital
+  {noun, gender, other{Vital}}
 
 DOTA_Tooltip_ability_item_enhancement_hulking_Bound:f: |-
-  Hulking
+  {noun, gender, other{Hulking}}
 
 DOTA_Tooltip_ability_item_enhancement_manic_Bound:f: |-
-  Manic
+  {noun, gender, other{Manic}}
 
 DOTA_Tooltip_ability_item_thorn_armor:n: |-
   Thorn Armor
