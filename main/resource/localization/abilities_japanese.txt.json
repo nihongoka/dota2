@@ -10606,7 +10606,7 @@
     "DOTA_Tooltip_Facet_muerta_dance_of_the_dead": "Dance of the Dead",
     "DOTA_Tooltip_Facet_muerta_dance_of_the_dead_Description": "The Calling内でヒーローが死亡した場合、効果が強くなる。",
     "DOTA_Tooltip_Facet_muerta_ofrenda": "Ofrenda",
-    "DOTA_Tooltip_ability_marci_bodyguard_Description": "パッシブでMarciはライフスティールとボーナス攻撃ダメージを得る。\n\n味方ヒーローにキャストも可能で、%max_partner_penalty%%%分の効果のパッシブのライフスティールとボーナス攻撃ダメージを与える。更に、Marciと対象の味方に残量が共有される全ダメージも付与する。このバリアはMarciが敵ヒーローに攻撃するたびに、そのダメージの%shared_barrier_replenish_amount%%%分補充される。",
+    "DOTA_Tooltip_ability_marci_bodyguard_Description": "パッシブでMarciはライフスティールとボーナス攻撃ダメージを得る。\n\n味方ヒーローにキャストも可能で、%max_partner_penalty%%%分の効果のパッシブのライフスティールとボーナス攻撃ダメージを与える。更に、Marciと対象の味方に残量が共有される全ダメージバリアも付与する。このバリアはMarciが敵ヒーローに攻撃するたびに、そのダメージの%shared_barrier_replenish_amount%%%分補充される。",
     "DOTA_Tooltip_Facet_primal_beast_romp_n_stomp_Description": "Trampleの発動中にPrimal Beastとその味方にボーナス移動速度を与える。",
     "DOTA_Tooltip_ability_special_bonus_unique_muerta_calling_hp_regen": "+{s:bonus_hp_regen_pct}% The Calling内で割合自然回復",
     "DOTA_Tooltip_ability_muerta_the_calling_Facet_muerta_dance_of_the_dead": "The Calling内でヒーローがキルされた場合、効果時間を延長し、新しい亡霊を召喚し、範囲を%kill_radius_expansion%拡張する。",
