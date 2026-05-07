@@ -7353,7 +7353,7 @@ DOTA_Tooltip_ability_storm_spirit_galvanized: |-
   Galvanized
 
 DOTA_Tooltip_ability_storm_spirit_galvanized_Description: |-
-  Storm Spirit gains a charge of %mp_per_kill% mana regeneration per kill. Loses %charges_per_death% charges per death. Additionally every time he gains a charge he also gains %perma_mp_per_kill% Mana Regen permanently.
+  Storm Spirit gains a charge of %mp_per_kill% mana regeneration per kill, and a charge every %level_divisor% levels. Loses %charges_per_death% charges per death. Additionally every time he gains a charge he also gains %perma_mp_per_kill% Mana Regen permanently.
 
 DOTA_Tooltip_ability_storm_spirit_galvanized_Note0: |-
   Break disables the gaining of new stacks from kills.
@@ -26203,7 +26203,7 @@ DOTA_Tooltip_ability_phoenix_sun_ray: |-
   Sun Ray
 
 DOTA_Tooltip_ability_phoenix_sun_ray_Description: |-
-  Phoenix expels a beam of light at the cost of its own health. The beam damages enemies and heals allies for a base amount plus a percentage of their health. The percentage increases as the beam continues to fire.
+  Phoenix expels a beam of light at the cost of its own health. The beam damages enemies and heals allies for a base amount plus a percentage of their max health. The percentage increases as the beam continues to fire.
 
 DOTA_Tooltip_ability_phoenix_sun_ray_shard_description: |-
   Allows Sun Ray to be cast during Supernova.
@@ -26221,13 +26221,13 @@ DOTA_Tooltip_ability_phoenix_sun_ray_base_damage: |-
   BASE DAMAGE PER SECOND:
 
 DOTA_Tooltip_ability_phoenix_sun_ray_hp_perc_damage: |-
-  %MAX DAMAGE:
+  %MAX HEALTH AS DAMAGE:
 
 DOTA_Tooltip_ability_phoenix_sun_ray_base_heal: |-
   BASE HEAL PER SECOND:
 
 DOTA_Tooltip_ability_phoenix_sun_ray_hp_perc_heal: |-
-  %MAX HEAL:
+  %MAX HEALTH AS HEAL:
 
 DOTA_Tooltip_ability_phoenix_sun_ray_abilityduration: |-
   MAX DURATION:
@@ -27346,7 +27346,7 @@ DOTA_Tooltip_ability_winter_wyvern_winters_curse: |-
   Winter's Curse
 
 DOTA_Tooltip_ability_winter_wyvern_winters_curse_Description: |-
-  Winter Wyvern dispells then freezes an enemy in place while striking those nearby with a maddening curse which causes them to attack their frozen ally with increased attack speed. The frozen ally and those cursed to attack their ally are immune to all damage from their enemies with the exception of damage from Winter Wyvern or her controlled units.
+  Winter Wyvern dispells then freezes an enemy in place while striking those nearby with a maddening curse which causes them to attack their frozen ally with increased attack speed. The frozen ally and those cursed to attack their ally are immune to all damage from their enemies with the exception of damage from Winter Wyvern or her controlled units. Enemy heroes which enter the cursed area after the cast add to the duration of the curse.
 
 DOTA_Tooltip_ability_winter_wyvern_winters_curse_Lore: |-
   The oldest of the bookwurm's spells, this curse lends truth to the old saw: sometimes the enemy of my enemy is my enemy still.
@@ -31879,7 +31879,7 @@ DOTA_Tooltip_Ability_special_bonus_unique_largo_4: |-
   +{s:bonus_AbilityCastRange} Catchy Lick Cast Range / +{s:bonus_pull_distance} Pull Distance
 
 DOTA_Tooltip_Ability_special_bonus_unique_largo_5: |-
-  +{s:bonus_damage} Catchy Lick Damage
+  {s:bonus_total_ticks}x Frogstomp Stomps/Interval
 
 DOTA_Tooltip_Ability_special_bonus_unique_largo_6: |-
   {s:bonus_armor_ally_pct}% Groovin' Armor Aura
@@ -33970,7 +33970,7 @@ DOTA_Tooltip_ability_special_bonus_unique_venomancer_3: |-
   -{s:bonus_AbilityCooldown}s Venomous Gale CD
 
 DOTA_Tooltip_ability_special_bonus_unique_venomancer_4: |-
-  +{s:bonus_tick_damage}% Snakebite Damage
+  +{s:bonus_base_damage} Snakebite Initial Damage
 
 DOTA_Tooltip_ability_special_bonus_unique_venomancer_5: |-
   Snakebite Undispellable
@@ -34870,7 +34870,7 @@ DOTA_Tooltip_ability_special_bonus_unique_winter_wyvern_4_Description: |-
   The slow is still applied for the same duration.
 
 DOTA_Tooltip_ability_special_bonus_unique_winter_wyvern_5: |-
-  +{s:bonus_heal_additive} HP/s Cold Embrace Heal
+  +{s:bonus_heal_additive} Cold Embrace Base Heal Per Second
 
 DOTA_Tooltip_ability_special_bonus_unique_winter_wyvern_6: |-
   +{s:bonus_damage_duration}s Arctic Burn Debuff Duration
@@ -35341,7 +35341,7 @@ DOTA_Tooltip_ability_special_bonus_unique_storm_spirit_8: |-
   -{s:bonus_AbilityCooldown}s Static Remnant Cooldown
 
 DOTA_Tooltip_ability_special_bonus_unique_storm_spirit_overload_aspd: |-
-  -{s:bonus_overload_move_slow} Overload Attack/Movement Speed Slow
+  +{s:bonus_overload_move_slow}/{s:bonus_overload_move_slow}% Overload Attack/Movement Speed Slow
 
 DOTA_Tooltip_ability_special_bonus_unique_tidehunter: |-
   -{s:bonus_negative_armor} Gush Armor
@@ -35467,7 +35467,7 @@ DOTA_Tooltip_ability_special_bonus_unique_tiny_5_Description: |-
   Toss can target the ground as well as enemy units.
 
 DOTA_Tooltip_ability_special_bonus_unique_tiny_6: |-
-  -{s:bonus_attack_speed_reduction}% Grow Attack Speed Reduction
+  +{s:bonus_attack_count} Tree Grab Attacks
 
 DOTA_Tooltip_ability_special_bonus_unique_tiny_7: |-
   +{s:bonus_bonus_damage} Tree Grab Base Damage
@@ -36586,7 +36586,7 @@ DOTA_Tooltip_ability_special_bonus_unique_puck_4: |-
   +{s:bonus_coil_stun_duration}s Dream Coil Stun Duration
 
 DOTA_Tooltip_ability_special_bonus_unique_puck_5: |-
-  Dream Coil Pierces Debuff Immunity
+  +{s:bonus_mana_and_health_restore_pct}% Puckish Health and Mana Restoration
 
 DOTA_Tooltip_ability_special_bonus_unique_puck_6: |-
   +{s:bonus_damage} Waning Rift Damage
@@ -36781,7 +36781,7 @@ DOTA_Tooltip_ability_special_bonus_unique_lone_druid_1_Description: |-
   Also applies to Spirit Bear's Entangling Claws Root
 
 DOTA_Tooltip_ability_special_bonus_unique_lone_druid_2: |-
-  -{s:bonus_AbilityCooldown}s Summon Spirit Bear Cooldown
+  +{s:bonus_duration}s True Form Duration
 
 DOTA_Tooltip_ability_special_bonus_unique_lone_druid_3: |-
   +{s:bonus_bonus_building_damage} Demolish Building Armor Reduction
@@ -46110,6 +46110,12 @@ DOTA_Tooltip_modifier_foragers_health_buff: |-
 
 DOTA_Tooltip_modifier_foragers_health_buff_Description: |-
   Munching on that delicious Toadstool.
+
+DOTA_Tooltip_modifier_item_foragers_nuts_consumed: |-
+  Ironwood Nuts
+
+DOTA_Tooltip_modifier_item_foragers_nuts_consumed_Description: |-
+  Number of Nuts consumed.
 
 DOTA_Tooltip_Ability_item_partisans_brand_Description: |-
   <h1>Passive: Brand</h1> Increases spell damage dealt to player controlled units by %bonus_damage_pct%%%.
