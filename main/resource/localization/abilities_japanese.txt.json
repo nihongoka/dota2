@@ -14674,5 +14674,7 @@
     "DOTA_Tooltip_ability_invoker_ghost_walk_ad_enemy_slow": "%移動速度減少:\n",
     "DOTA_Tooltip_ability_earth_spirit_boulder_smash_abilitydraft_note": "MagnetizeでStone Remnantを使うにはStone Remnantもドラフトする必要がある。",
     "DOTA_Tooltip_ability_invoker_forge_spirit_ad_spirit_duration": "効果時間:\n",
-    "DOTA_Tooltip_ability_venomancer_snakebite_Description": "VenomancerはSpawn of Aktokを呼び出して対象に噛みつかせて魔法ダメージを与え、秒間ダメージを与える毒素を注入する。毒を受けている対象は攻撃するたびに、追加で初期ダメージを受ける。"
+    "DOTA_Tooltip_ability_venomancer_snakebite_Description": "VenomancerはSpawn of Aktokを呼び出して対象に噛みつかせて魔法ダメージを与え、秒間ダメージを与える毒素を注入する。毒を受けている対象は攻撃するたびに、追加で初期ダメージを受ける。",
+    "DOTA_Tooltip_modifier_item_foragers_nuts_consumed": "Ironwood Nut",
+    "DOTA_Tooltip_modifier_item_foragers_nuts_consumed_Description": "消費したIronwood Nutの数。"
 }
