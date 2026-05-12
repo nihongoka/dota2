@@ -2731,7 +2731,7 @@
     "DOTA_Tooltip_ability_venomancer_poison_sting_damage": "毎秒ダメージ:",
     "DOTA_Tooltip_ability_venomancer_poison_sting_movement_speed": "%移動速度スロー:",
     "DOTA_Tooltip_ability_venomancer_plague_ward_duration": "効果時間:",
-    "DOTA_Tooltip_ability_venomancer_plague_ward_ward_hp_tooltip": "Ward体力:",
+    "DOTA_Tooltip_ability_venomancer_plague_ward_ward_hp_tooltip": "WARD体力:",
     "DOTA_Tooltip_ability_venomancer_plague_ward_ward_damage_tooltip": "WARD攻撃力:",
     "DOTA_Tooltip_modifier_venomancer_venomous_gale_Description": "スローを受け、毎秒%dMODIFIER_PROPERTY_TOOLTIP%ダメージを受ける。",
     "DOTA_Tooltip_modifier_venomancer_noxious_plague_primary": "Noxious Plague",
@@ -14001,7 +14001,7 @@
     "DOTA_Tooltip_Ability_tidehunter_leviathans_catch_attack_range_tooltip": "攻撃範囲:",
     "DOTA_Tooltip_Ability_tidehunter_leviathans_catch_anchor_smash_range_tooltip": "ANCHOR SMASH範囲:",
     "DOTA_Tooltip_ability_shadow_shaman_mass_serpent_ward_mega_ward_damage_tooltip": "強大WARDダメージ:",
-    "DOTA_Tooltip_ability_shadow_shaman_mass_serpent_ward_mega_ward_health_tooltip": "強大WARD体力:",
+    "DOTA_Tooltip_ability_shadow_shaman_mass_serpent_ward_mega_ward_health_tooltip": "メガWARD体力:",
     "DOTA_Tooltip_ability_shadow_shaman_urnaconda": "Urnaconda",
     "DOTA_Tooltip_ability_shadow_shaman_urnaconda_impact_damage": "衝撃ダメージ:",
     "DOTA_Tooltip_ability_shadow_shaman_urnaconda_impact_radius": "衝撃範囲:",
@@ -14673,5 +14673,6 @@
     "DOTA_Tooltip_ability_invoker_chaos_meteor_ad": "Chaos Meteor (AD)",
     "DOTA_Tooltip_ability_invoker_ghost_walk_ad_enemy_slow": "%移動速度減少:\n",
     "DOTA_Tooltip_ability_earth_spirit_boulder_smash_abilitydraft_note": "MagnetizeでStone Remnantを使うにはStone Remnantもドラフトする必要がある。",
-    "DOTA_Tooltip_ability_invoker_forge_spirit_ad_spirit_duration": "効果時間:\n"
+    "DOTA_Tooltip_ability_invoker_forge_spirit_ad_spirit_duration": "効果時間:\n",
+    "DOTA_Tooltip_ability_venomancer_snakebite_Description": "VenomancerはSpawn of Aktokを呼び出して対象に噛みつかせて魔法ダメージを与え、秒間ダメージを与える毒素を注入する。毒を受けている対象は攻撃するたびに、追加で初期ダメージを受ける。"
 }
