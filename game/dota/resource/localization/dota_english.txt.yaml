@@ -24321,6 +24321,9 @@ KillEaterEventType_Muerta_NoVisionDeadShotHits: |-
 KillEaterEventType_Muerta_DeadShotKills: |-
   Dead Shot Ricochet Kills
 
+KillEaterEventType_Muerta_DeadShotsIntoTheCalling: |-
+  Dead Shots into The Calling
+
 KillEaterEvent_NewBloom2024_GiftsGiven: |-
   Dragon's Gifts Given
 
@@ -45015,6 +45018,9 @@ KillEaterEvent_Slardar_KillsDuringCorrosiveHaze: |-
 
 KillEaterEvent_Slardar_CrushesOnThree: |-
   Three Hero Crushes
+
+KillEaterEventType_Slardar_BashDamage: |-
+  Slardar Bash Damage
 
 KillEaterEvent_Slark_KillsDuringPounce: |-
   Kills During Pounce
