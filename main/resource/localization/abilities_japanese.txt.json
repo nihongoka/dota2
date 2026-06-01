@@ -390,7 +390,7 @@
     "DOTA_Tooltip_ability_juggernaut_healing_ward_Note0": "Healing Wardは操作可能。",
     "DOTA_Tooltip_ability_juggernaut_healing_ward_Note1": "複数のHealing Wardから同時に回復できない。",
     "DOTA_Tooltip_ability_juggernaut_healing_ward_healing_ward_heal_amount": "%秒間最大回復:",
-    "DOTA_Tooltip_ability_juggernaut_blade_dance_Description": "Juggernautは攻撃時、Blade Furyつきのクリティカルダメージを与える確率を得る。",
+    "DOTA_Tooltip_ability_juggernaut_blade_dance_Description": "JuggernautはBlade Fury発動時および攻撃のたびに、クリティカルダメージを与えるチャンスを得る。",
     "DOTA_Tooltip_ability_juggernaut_blade_dance_blade_dance_crit_mult": "%クリティカルダメージ:",
     "DOTA_Tooltip_ability_juggernaut_blade_dance_blade_dance_crit_chance": "%クリティカル確率:",
     "DOTA_Tooltip_ability_juggernaut_omni_slash": "Omnislash",
@@ -14676,5 +14676,7 @@
     "DOTA_Tooltip_ability_invoker_forge_spirit_ad_spirit_duration": "効果時間:\n",
     "DOTA_Tooltip_ability_venomancer_snakebite_Description": "VenomancerはSpawn of Aktokを呼び出して対象に噛みつかせて魔法ダメージを与え、秒間ダメージを与える毒素を注入する。毒を受けている対象は攻撃するたびに、追加で初期ダメージを受ける。",
     "DOTA_Tooltip_modifier_item_foragers_nuts_consumed": "Ironwood Nut",
-    "DOTA_Tooltip_modifier_item_foragers_nuts_consumed_Description": "消費したIronwood Nutの数。"
+    "DOTA_Tooltip_modifier_item_foragers_nuts_consumed_Description": "消費したIronwood Nutの数。",
+    "DOTA_Tooltip_ability_shadow_shaman_fowl_play_Lore": "Rhastaは(正当な理由があろうとなかろうと)自分に危害を加えようとする者たちより、常に一歩先を行く術を、早い段階で身につけなければならなかった。",
+    "DOTA_Tooltip_Ability_kunkka_admirals_rum_Lore": "陸の者には厳しい話だが、海の男に勝るラム酒の飲み手はいない。"
 }
