@@ -15482,7 +15482,7 @@
     "wearable": "装着可能",
     "dota_hud_error_treejump_tree_target_same_tree": "同じ木は選択できない",
     "DOTA_PlayerBehavior_Restricion_CommType13": "コミュニケーションスコアが低い、新規プレイヤーのガイドができません。",
-    "DOTA_PlayerBehavior_Restricion_CommType14": "行動・コミュニケーションスコアが低いため、コーチングをリクエストできません。",
+    "DOTA_PlayerBehavior_Restricion_CommType14": "行動/コミュニケーションスコアが低いため、コーチングをリクエストできません。",
     "dota_hud_error_tree_dance_tree_target_out_of_range": "木が遠すぎる",
     "dota_hud_error_tree_dance_cant_hop_yet": "クールダウン中は飛び降りることができない",
     "DOTA_Frostivus_2023_Treasure_Intro": "お気に入りのヒーローの真新しいセット、そしてホリデーシーズンの人気者たちの再び登場！さらにWraith KingアルカナとCrystal Maidenペルソナもやってきました。",
@@ -17029,5 +17029,8 @@
     "DOTA_Chat_MinibossKilledGood": "Radiantがトーメンターを倒した!",
     "DOTA_Chat_MinibossKilledBad": "Direがトーメンターを倒した!",
     "DOTA_Roshan_Bottom": "ボトム",
-    "DOTA_Roshan_Top": "トップ"
+    "DOTA_Roshan_Top": "トップ",
+    "DOTA_HeroGrid_MissingHeroes:f": "{d:missing_hero_count}体のヒーローが非表示",
+    "dota_chatwheel_message_MissingHero:f": "{hero_name}{hero_name, gender, other{を見失った!}}",
+    "dota_chatwheel_message_ReturnedHero:f": "{hero_name}{hero_name, gender, other{が戻った!}}"
 }
