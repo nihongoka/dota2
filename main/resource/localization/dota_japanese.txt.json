@@ -1390,7 +1390,7 @@
     "dota_region_korea": "韓国",
     "dota_region_southafrica": "南アフリカ",
     "dota_region_pw": "パーフェクトワールド(中国)",
-    "dota_region_pw_telecom_shanghai": "中国TC 上海",
+    "dota_region_pw_telecom_shanghai": "中国 上海",
     "dota_region_pw_telecom_guangdong": "中国TC 広東",
     "dota_region_pw_telecom_zhejiang": "中国TC 浙江",
     "dota_region_pw_telecom_wuhan": "中国TC 武漢",
@@ -17032,5 +17032,10 @@
     "DOTA_Roshan_Top": "トップ",
     "DOTA_HeroGrid_MissingHeroes:f": "{d:missing_hero_count}体のヒーローが非表示",
     "dota_chatwheel_message_MissingHero:f": "{hero_name}{hero_name, gender, other{を見失った!}}",
-    "dota_chatwheel_message_ReturnedHero:f": "{hero_name}{hero_name, gender, other{が戻った!}}"
+    "dota_chatwheel_message_ReturnedHero:f": "{hero_name}{hero_name, gender, other{が戻った!}}",
+    "DOTA_Chat_SmokeActivated": "<font color='#FF80FF'><b>Smoke of Deceit</b></font>を発動した。",
+    "DOTA_Hero_Selection_RandomConfirm_AutoConfirm:f": "後{d:confirm_seconds_remaining}秒であなたのヒーローが自動選択されます。",
+    "Captains_Mode": "キャプテンズモード",
+    "DOTA_Item_Charge_StackableDescription:f": " (x{charges})",
+    "DOTA_Item_Charge_Description:f": " ({charges}チャージ)"
 }
