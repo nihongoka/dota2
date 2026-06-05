@@ -3162,7 +3162,7 @@ DOTA_Tooltip_ability_furion_spirit_of_the_forest: |-
   Spirit of the Forest
 
 DOTA_Tooltip_ability_furion_spirit_of_the_forest_Description: |-
-  Nature's Prophet gains %damage_per_tree_pct%%% bonus damage for each nearby tree. Treants also provide this bonus with multiplied values and with larger radius. Treants also possess this ability.
+  Nature's Prophet gains %damage_per_tree_pct%%% bonus damage for each nearby tree. Treants also provide this bonus with multiplied values regardless of proximity. Treants also possess this ability.
 
 DOTA_Tooltip_ability_furion_spirit_of_the_forest_Note0: |-
   Treants gain bonuses from trees and other treants around them.
@@ -3175,9 +3175,6 @@ DOTA_Tooltip_ability_furion_spirit_of_the_forest_facet_furion_ironwood_treant: |
 
 DOTA_Tooltip_ability_furion_spirit_of_the_forest_radius_base: |-
   TREE RADIUS:
-
-DOTA_Tooltip_ability_furion_spirit_of_the_forest_radius_treant: |-
-  TREANT RADIUS:
 
 DOTA_Tooltip_ability_furion_spirit_of_the_forest_multiplier: |-
   TREANT MULTIPLIER:
@@ -5627,7 +5624,7 @@ DOTA_Tooltip_ability_phantom_assassin_immaterial: |-
   Immaterial
 
 DOTA_Tooltip_ability_phantom_assassin_immaterial_Description: |-
-  Phantom Assassin focuses inward, increasing her ability to evade enemy attacks. Evasion improves with Phantom Assassin's levels. 
+  Phantom Assassin focuses inward, increasing her ability to evade enemy attacks.
 
   Stacks diminishingly with other sources of Evasion.
 
@@ -16715,7 +16712,7 @@ DOTA_Tooltip_ability_gyrocopter_side_gunner_spawn_ability: |-
   Side Gunner
 
 DOTA_Tooltip_ability_gyrocopter_side_gunner_spawn_ability_description: |-
-  Gyrocopter gains a Side Gunner that attacks enemy units in a %AbilityCastRange% unit radius every %sidegunner_fire_rate%s with his attack. Side Gunner will attack 2 units at a time while Flak Cannon is active. Prioritizes furthest unit away within its range.
+  Gyrocopter gains a Side Gunner that attacks enemy units in a %AbilityCastRange% unit radius every %sidegunner_fire_rate%s with his attack. Prioritizes furthest unit away within its range.
 
 DOTA_Tooltip_ability_gyrocopter_side_gunner_spawn_ability_Note0: |-
   Side Gunner can attack even while Gyrocopter is disabled.
@@ -16974,6 +16971,12 @@ DOTA_Tooltip_modifier_spirit_breaker_bull_rush_intrinsic: |-
 
 DOTA_Tooltip_modifier_spirit_breaker_bull_rush_intrinsic_Description: |-
   Spirit Breaker is gaining movement speed for stunning units.
+
+DOTA_Tooltip_modifier_spiritbreaker_greater_bash_knockback: |-
+  Greater Bash
+
+DOTA_Tooltip_modifier_spiritbreaker_greater_bash_knockback_Description: |-
+  Stunned
 
 DOTA_Tooltip_modifier_spirit_breaker_bulldoze: |-
   Bulldoze
@@ -18520,7 +18523,7 @@ DOTA_Tooltip_ability_obsidian_destroyer_sanity_eclipse: |-
   Sanity's Eclipse
 
 DOTA_Tooltip_ability_obsidian_destroyer_sanity_eclipse_Description: |-
-  Unleashes a psychic blast that deals damage to enemies based on the difference between your mana and the target's mana. Sanity's Eclipse can hit units trapped by Astral Imprisonment.
+  Unleashes a psychic blast that deals damage to enemies based on the difference between your max mana and the target's max mana. Sanity's Eclipse can hit units trapped by Astral Imprisonment.
 
 DOTA_Tooltip_ability_obsidian_destroyer_sanity_eclipse_Facet_obsidian_destroyer_overwhelming_devourer: |-
   Affected Heroes gain a Mana Allergy Debuff for %debuff_duration% seconds, healing Outworld Destroyer every time they cast a spell.
@@ -18532,7 +18535,7 @@ DOTA_Tooltip_ability_obsidian_destroyer_sanity_eclipse_base_damage: |-
   BASE DAMAGE:
 
 DOTA_Tooltip_ability_obsidian_destroyer_sanity_eclipse_damage_multiplier: |-
-  MANA DIFFERENCE MULTIPLIER:
+  MAX MANA DIFFERENCE MULTIPLIER:
 
 DOTA_Tooltip_ability_obsidian_destroyer_sanity_eclipse_radius: |-
   RADIUS:
@@ -30130,6 +30133,9 @@ DOTA_Tooltip_ability_marci_special_delivery_Description: |-
 DOTA_Tooltip_ability_marci_special_delivery_Lore: |-
   Professional courtesy, from one courier to another.
 
+DOTA_Tooltip_ability_marci_special_delivery_AbilityCooldown: |-
+  COOLDOWN:
+
 DOTA_Tooltip_ability_marci_special_delivery_Note0: |-
   Special Delivery whistle has a cast point of %abilitycastpoint% second.
 
@@ -31166,7 +31172,7 @@ DOTA_Tooltip_Ability_special_bonus_unique_ringmaster_box_cast_range: |-
   +{s:bonus_AbilityCastRange} Escape Act Cast Range
 
 DOTA_Tooltip_Ability_special_bonus_unique_ringmaster_wheel_radius: |-
-  +{s:bonus_mesmerize_radius} Wheel Radius and Range
+  +{s:bonus_mesmerize_radius} Wheel of Wonder Radius and Range
 
 DOTA_Tooltip_Ability_special_bonus_unique_ringmaster_the_box_strong_dispel_and_flying: |-
   Escape Act Grants Strong Dispel and Flying
@@ -31602,6 +31608,9 @@ DOTA_Tooltip_ability_special_bonus_unique_kez_falcon_rush_damage: |-
 
 DOTA_Tooltip_ability_special_bonus_unique_kez_ravens_dispel: |-
   Raven's Veil Applies Basic Dispel
+
+DOTA_Tooltip_ability_special_bonus_unique_kez_switch_weapons_swap_bonus: |-
+  +{s:bonus_katana_swap_bonus_damage}% Switch Discipline Swap Bonuses
 
 DOTA_Tooltip_ability_largo_encore: |-
   Encore
@@ -37069,7 +37078,7 @@ DOTA_Tooltip_ability_special_bonus_unique_grimstroke_3: |-
   +{s:bonus_AbilityCastRange}% Stroke of Fate Speed and Travel Range
 
 DOTA_Tooltip_ability_special_bonus_unique_grimstroke_4: |-
-  +{s:bonus_destroy_attacks} Hits to Kill Phantom
+  +{s:bonus_destroy_attacks} Attacks to Destroy Phantom
 
 DOTA_Tooltip_ability_special_bonus_unique_grimstroke_5: |-
   +{s:value} Ink Swell Max Damage
@@ -46435,10 +46444,10 @@ DOTA_Tooltip_modifier_flayers_bota_active_Description: |-
   Base Damage and Attack Speed increased.
 
 DOTA_Tooltip_Ability_item_harmonizer_Description: |-
-  <h1>Passive: Balance</h1> Gain %manacost_reduction%%% spell manacost reduction for every spell off cooldown and %spell_amp%%% spell amplification for every spell on cooldown.
+  <h1>Passive: Balance</h1> Gain %manacost_reduction%%% spell mana cost reduction for every ability off cooldown and %spell_amp%%% spell amplification for every ability on cooldown.
 
 DOTA_Tooltip_Ability_item_harmonizer_Note0: |-
-  Only considers abilities that are visible and have a cooldown
+  Only considers abilities that are visible and have a cooldown.
 
 DOTA_Tooltip_modifier_item_harmonizer: |-
   Harmonizer

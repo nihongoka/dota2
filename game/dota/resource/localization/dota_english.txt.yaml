@@ -2835,6 +2835,9 @@ DOTA_Chat_SentryWardGood: |-
 DOTA_Chat_SentryWardBad: |-
   The Dire has destroyed a Sentry Ward!
 
+DOTA_Chat_SmokeActivated: |-
+  Activated <font color='#FF80FF'><b>Smoke of Deceit</b></font>.
+
 DOTA_Chat_KilledRoshanGood: |-
   Roshan has been killed by the Radiant! %s1 gold to each hero of The Radiant!
 
@@ -9350,7 +9353,7 @@ dota_region_pw_telecom: |-
   China TC
 
 dota_region_pw_telecom_shanghai: |-
-  China TC Shanghai
+  China Shanghai
 
 dota_region_pw_telecom_guangdong: |-
   China TC Guangdong
@@ -9366,6 +9369,9 @@ dota_region_pw_unicom: |-
 
 dota_region_pw_unicom_tianjin: |-
   China UC 2
+
+dota_region_pw_beijing: |-
+  China Beijing
 
 dota_region_dubai: |-
   Dubai
@@ -24066,6 +24072,9 @@ KillEaterEvent_Tinker_MarchOfTheMachinesDamage: |-
 KillEaterEvent_Tinker_MultiHeroLasers: |-
   Multi Hero Lasers
 
+KillEaterEvent_Tinker_DeployTurretsDamage: |-
+  Deploy Turrets Damage
+
 KillEaterEventType_Tinker_DefenseMatrixDamageBlocked: |-
   Defense Matrix Damage Absorbed
 
@@ -38241,6 +38250,12 @@ DOTA_ChallengeDesc_TechiesSuicide: |-
 
 DOTA_ChallengeDesc_SniperAssassinate: |-
   Get <font color='#ffffff'>%s1</font> kill(s) with <font color='#ffffff'>Assassinate</font>.
+
+DOTA_ChallengeDesc_Tinker_DeployTurrets: |-
+  Deal <font color='#ffffff'>%s1</font> damage to enemy Heroes with <font color='#ffffff'>Deploy Turrets</font>.
+
+DOTA_ChallengeStatus_Tinker_DeployTurrets: |-
+  %s2I need to deal %s1 more damage with Deploy Turrets!
 
 DOTA_ChallengeDesc_BountyHunterTrackKills: |-
   Earn <font color='#ffffff'>%s1</font> bounties from tracked enemies.
@@ -79819,6 +79834,9 @@ DOTA_741b_Update: |-
 DOTA_741c_Update: |-
   7.41c Gameplay Update
 
+DOTA_741d_Update: |-
+  7.41d Gameplay Update
+
 DOTA_Settings_Tooltip_NetworkLatency: |-
   If you have a network connection with packet loss, setting this to 'LOW' will increase latency but improve overall smoothness.
 
@@ -89183,6 +89201,9 @@ DOTA_Plus_Winter2025_Update_Desc: |-
 DOTA_Plus_Spring2026_Update_Title: |-
   Spring 2026 Season Update
 
+DOTA_Plus_Summer2026_Update_Title: |-
+  Summer 2026 Season Update
+
 DOTA_Plus_Autumn_Assitant_Title: |-
   New Assistant Features
 
@@ -92645,6 +92666,12 @@ DOTA_PlusSeason_SeasonSpring2026_Name: |-
 
 DOTA_PlusSeason_SeasonSpring2026_Quests: |-
   Spring 2026 Quests
+
+DOTA_PlusSeason_SeasonSummer2026_Name: |-
+  Summer 2026
+
+DOTA_PlusSeason_SeasonSummer2026_Quests: |-
+  Summer 2026 Quests
 
 DOTA_MatchRewards: |-
   Match Rewards
