@@ -9322,6 +9322,12 @@ dota_region_shanghai: |-
 dota_region_beijing: |-
   Beijing
 
+dota_region_chengdu: |-
+  Chengdu
+
+dota_region_guangzhou: |-
+  Guangzhou
+
 dota_region_malaysia: |-
   Malaysia
 
@@ -9372,6 +9378,12 @@ dota_region_pw_unicom_tianjin: |-
 
 dota_region_pw_beijing: |-
   China Beijing
+
+dota_region_pw_chengdu: |-
+  China Chengdu
+
+dota_region_pw_guangzhou: |-
+  China Guangzhou
 
 dota_region_dubai: |-
   Dubai
@@ -9467,7 +9479,7 @@ dota_matchgroup_pw_telecom: |-
   China TC
 
 dota_matchgroup_pw_telecom_shanghai: |-
-  China TC Shanghai
+  China Shanghai
 
 dota_matchgroup_pw_telecom_guangdong: |-
   China TC Guangdong
@@ -9483,6 +9495,15 @@ dota_matchgroup_pw_unicom: |-
 
 dota_matchgroup_pw_unicom_tianjin: |-
   China UC 2
+
+dota_matchgroup_pw_beijing: |-
+  China Beijing
+
+dota_matchgroup_pw_chengdu: |-
+  China Chengdu
+
+dota_matchgroup_pw_guangzhou: |-
+  China Guangzhou
 
 dota_matchgroup_dubai: |-
   Dubai
