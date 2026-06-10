@@ -14677,5 +14677,9 @@
     "DOTA_Tooltip_modifier_item_foragers_nuts_consumed": "Ironwood Nut",
     "DOTA_Tooltip_modifier_item_foragers_nuts_consumed_Description": "消費したIronwood Nutの数。",
     "DOTA_Tooltip_ability_shadow_shaman_fowl_play_Lore": "Rhastaは(正当な理由があろうとなかろうと)自分に危害を加えようとする者たちより、常に一歩先を行く術を、早い段階で身につけなければならなかった。",
-    "DOTA_Tooltip_Ability_kunkka_admirals_rum_Lore": "陸の者には厳しい話だが、海の男に勝るラム酒の飲み手はいない。"
+    "DOTA_Tooltip_Ability_kunkka_admirals_rum_Lore": "陸の者には厳しい話だが、海の男に勝るラム酒の飲み手はいない。",
+    "DOTA_Tooltip_modifier_spiritbreaker_greater_bash_knockback": "Greater Bash",
+    "DOTA_Tooltip_modifier_spiritbreaker_greater_bash_knockback_Description": "スタンを受けている。",
+    "DOTA_Tooltip_ability_marci_special_delivery_AbilityCooldown": "クールダウン:",
+    "DOTA_Tooltip_ability_special_bonus_unique_kez_switch_weapons_swap_bonus": "+{s:bonus_katana_swap_bonus_damage}% Switch Discipline切り替えボーナス"
 }
