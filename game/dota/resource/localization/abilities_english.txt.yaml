@@ -30844,7 +30844,7 @@ DOTA_Tooltip_Ability_muerta_supernatural_stack_collection_range: |-
 DOTA_Tooltip_Ability_muerta_supernatural_spell_amp_per_stack: |-
   %SPELL AMP PER STACK:
 
-DOTA_Tooltip_Ability_muerta_supernatural_max_stacks_tooltip: |-
+DOTA_Tooltip_Ability_muerta_supernatural_max_stacks: |-
   %MAX AMP:
 
 DOTA_Tooltip_modifier_muerta_supernatural: |-
