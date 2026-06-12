@@ -14680,5 +14680,6 @@
     "DOTA_Tooltip_modifier_spiritbreaker_greater_bash_knockback": "Greater Bash",
     "DOTA_Tooltip_modifier_spiritbreaker_greater_bash_knockback_Description": "スタンを受けている。",
     "DOTA_Tooltip_ability_marci_special_delivery_AbilityCooldown": "クールダウン:",
-    "DOTA_Tooltip_ability_special_bonus_unique_kez_switch_weapons_swap_bonus": "+{s:bonus_katana_swap_bonus_damage}% Switch Discipline切り替えボーナス"
+    "DOTA_Tooltip_ability_special_bonus_unique_kez_switch_weapons_swap_bonus": "+{s:bonus_katana_swap_bonus_damage}% Switch Discipline切り替えボーナス",
+    "DOTA_Tooltip_Ability_muerta_supernatural_max_stacks": "%最大増幅:"
 }
