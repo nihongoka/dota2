@@ -1370,7 +1370,7 @@
     "dota_matchgroup_au": "オーストラリア",
     "dota_matchgroup_icn": "韓国",
     "dota_matchgroup_pw": "パーフェクトワールド(中国)",
-    "dota_matchgroup_pw_telecom_shanghai": "中国TC 上海",
+    "dota_matchgroup_pw_telecom_shanghai": "中国 上海",
     "dota_matchgroup_pw_telecom_wuhan": "中国TC 武漢",
     "dota_matchgroup_pw_unicom": "中国UC",
     "dota_matchgroup_pw_unicom_tianjin": "中国UC2",
@@ -17037,5 +17037,6 @@
     "DOTA_Hero_Selection_RandomConfirm_AutoConfirm:f": "後{d:confirm_seconds_remaining}秒であなたのヒーローが自動選択されます。",
     "Captains_Mode": "キャプテンズモード",
     "DOTA_Item_Charge_StackableDescription:f": " (x{charges})",
-    "DOTA_Item_Charge_Description:f": " ({charges}チャージ)"
+    "DOTA_Item_Charge_Description:f": " ({charges}チャージ)",
+    "dota_hud_error_cant_craft_neutral_no_space": "中立アイテムをクラフトできない。スロットに空きがありません。"
 }
