@@ -14681,5 +14681,9 @@
     "DOTA_Tooltip_modifier_spiritbreaker_greater_bash_knockback_Description": "スタンを受けている。",
     "DOTA_Tooltip_ability_marci_special_delivery_AbilityCooldown": "クールダウン:",
     "DOTA_Tooltip_ability_special_bonus_unique_kez_switch_weapons_swap_bonus": "+{s:bonus_katana_swap_bonus_damage}% Switch Discipline切り替えボーナス",
-    "DOTA_Tooltip_Ability_muerta_supernatural_max_stacks": "%最大増幅:"
+    "DOTA_Tooltip_Ability_muerta_supernatural_max_stacks": "%最大増幅:",
+    "DOTA_Tooltip_ability_pugna_decrepify_Lore": "幼少期に見出した遺物を今や自在に操るPugnaは、それが善であれ悪であれ、あるいは単なる楽しみのためであれ、他者をNether Realmへと追放することを楽しんでいる。",
+    "DOTA_Tooltip_ability_pugna_nether_blast_Lore": "オブリビオンの術には、Nether Reachesから放たれる、耳をつんざくように轟くエメラルド色の炎が含まれている。",
+    "DOTA_Tooltip_ability_pugna_nether_ward_Lore": "オブリビオンの術を学ぶためにラマ僧院に滞在していた頃、Pugnaはネザーの魔法を込めた単純な結界を使って、同級生たちを支配する術を身につけた。",
+    "DOTA_Tooltip_ability_pugna_life_drain_Lore": "Pugnaは、もはやオブリビオンのグランドマスターさえも凌ぐほどの強さを手に入れた。"
 }
