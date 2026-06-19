@@ -36850,7 +36850,7 @@ DOTA_Tooltip_ability_special_bonus_unique_lone_druid_spirit_bear_return_cd: |-
   Return has No Cooldown and -{s:bonus_AbilityChannelTime}s Channel Time
 
 DOTA_Tooltip_ability_special_bonus_unique_wisp: |-
-  +{s:bonus_hero_damage} Spirits Hero Damage
+  +{s:bonus_hero_damage}% Spirits Damage
 
 DOTA_Tooltip_ability_special_bonus_unique_wisp_2: |-
   Tether Stuns
