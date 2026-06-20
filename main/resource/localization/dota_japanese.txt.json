@@ -17038,5 +17038,20 @@
     "Captains_Mode": "キャプテンズモード",
     "DOTA_Item_Charge_StackableDescription:f": " (x{charges})",
     "DOTA_Item_Charge_Description:f": " ({charges}チャージ)",
-    "dota_hud_error_cant_craft_neutral_no_space": "中立アイテムをクラフトできない。スロットに空きがありません。"
+    "dota_hud_error_cant_craft_neutral_no_space": "中立アイテムをクラフトできない。スロットに空きがありません。",
+    "DOTA_EventEffect_Fountain": "泉回復エフェクト",
+    "DOTA_EventEffect_Teleport": "Town Portal Scrollエフェクト",
+    "DOTA_EventEffect_BlinkDagger": "Blink Daggerエフェクト",
+    "DOTA_EventEffect_LevelUp": "レベルアップエフェクト",
+    "DOTA_EventEffect_Euls": "Eul's Scepterエフェクト",
+    "DOTA_EventEffect_Aghanim": "Aghanim's Scepterエフェクト",
+    "DOTA_EventEffect_ForceStaff": "Force Staffエフェクト",
+    "DOTA_EventEffect_Mekansm": "Mekansmエフェクト",
+    "DOTA_EventEffect_Mjollnir": "Mjollnirエフェクト",
+    "DOTA_EventEffect_Radiance": "Radianceエフェクト",
+    "DOTA_EventEffect_Dagon": "Dagonエフェクト",
+    "DOTA_EventEffect_Shivas": "Shivas Guardエフェクト",
+    "DOTA_EventEffect_LotusOrb": "Lotus Orbエフェクト",
+    "DOTA_EventEffect_Bottle": "Bottleエフェクト",
+    "DOTA_EventEffect_Phase_Boots": "Phase Bootsエフェクト"
 }
