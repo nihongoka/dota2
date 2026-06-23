@@ -34635,6 +34635,9 @@ DOTA_TrophyDesc_TI7SeasonalMMR_Party: |-
 DOTA_TrophyUnits_TI7SeasonalMMR_Party:f: |-
   Peak Party Rank: {score}
 
+DOTA_TrophyDesc_MonsterHunter_HeroAtlas: |-
+  Awarded for unlocking entries in the Hero Atlas during the Monster Hunter event.
+
 DOTA_AllHeroChallenge_ProfileHead: |-
   All-Hero Challenge
   Progress
@@ -127372,3 +127375,6 @@ DOTA_Compendium2024_CompendiumBoosterAmount:f: |-
 
 DOTA_Compendium2025_Rewards_DotaPlus:f: |-
   {reward_count, plural, one{{d:reward_count} Month} other{{d:reward_count} Months}}
+
+DOTA_Axe_Missing: |-
+  Axe is missing and cannot participate
