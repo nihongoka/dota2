@@ -311,10 +311,16 @@ npc_dota_hero_drow_ranger__en:n: |-
   Drow Ranger
 
 npc_dota_hero_axe:n: |-
-  Axe?
+  Axe
 
 npc_dota_hero_axe__en:n: |-
-  Axe?
+  Axe
+
+npc_dota_hero_axe_carnival:n: |-
+  Axe Automaton
+
+npc_dota_hero_axe_carnival_en:n: |-
+  Axe Automaton
 
 npc_dota_hero_bloodseeker:n: |-
   Bloodseeker
@@ -339,6 +345,12 @@ npc_dota_hero_morphling:n: |-
 
 npc_dota_hero_morphling__en:n: |-
   Morphling
+
+npc_dota_hero_morphling_carnival:n: |-
+  Morphling Automaton
+
+npc_dota_hero_morphling_carnival_en:n: |-
+  Morphling Automaton
 
 npc_dota_hero_zuus:n: |-
   Zeus
@@ -778,6 +790,12 @@ npc_dota_hero_bristleback:n: |-
 npc_dota_hero_bristleback__en:n: |-
   Bristleback
 
+npc_dota_hero_bristleback_carnival:n: |-
+  Bristleback Automaton
+
+npc_dota_hero_bristleback_carnival_en:n: |-
+  Bristleback Automaton
+
 npc_dota_hero_tusk:n: |-
   Tusk
 
@@ -807,6 +825,12 @@ npc_dota_hero_legion_commander:n: |-
 
 npc_dota_hero_legion_commander__en:n: |-
   Legion Commander
+
+npc_dota_hero_legion_commander_carnival:n: |-
+  Legion Commander Automaton
+
+npc_dota_hero_legion_commander_carnival_en:n: |-
+  Legion Commander Automaton
 
 npc_dota_hero_ember_spirit:n: |-
   Ember Spirit
@@ -843,6 +867,12 @@ npc_dota_hero_oracle:n: |-
 
 npc_dota_hero_oracle__en:n: |-
   Oracle
+
+npc_dota_hero_oracle_carnival:n: |-
+  Oracle Automaton
+
+npc_dota_hero_oracle_carnival_en:n: |-
+  Oracle Automaton
 
 npc_dota_hero_techies:n: |-
   Techies
@@ -15376,6 +15406,9 @@ DOTA_Tooltip_ability_jakiro_double_trouble: |-
 
 DOTA_Tooltip_ability_jakiro_double_trouble_Description: |-
   Jakiro's attacks launch an attack from each head, but deal less damage each.
+
+DOTA_Tooltip_ability_jakiro_double_trouble_Note0: |-
+  The second attack ignores Damage Block.
 
 DOTA_Tooltip_ability_jakiro_double_trouble_attack_damage_reduction: |-
   %ATTACK DAMAGE REDUCTION:
@@ -46875,6 +46908,33 @@ DOTA_Tooltip_ability_seasonal_party_hat_Description: |-
 
 DOTA_Tooltip_ability_seasonal_party_hat_scepter_description: |-
   Spirit of Frostivus becomes an Area of Effect ability, affecting units within a radius of %aoe_scepter% in the target area. Hats are taken from enemies first, then evenly distributed amongst allies.
+
+DOTA_Tooltip_ability_seasonal_dark_carnival_balloon: |-
+  Carnival Balloon
+
+DOTA_Tooltip_ability_seasonal_dark_carnival_balloon_Description: |-
+  Release a balloon
+
+DOTA_Tooltip_ability_seasonal_dark_carnival_balloon_Lore: |-
+  Prizes!
+
+DOTA_Tooltip_ability_seasonal_dark_carnival_firework: |-
+  Carnival Firework
+
+DOTA_Tooltip_ability_seasonal_dark_carnival_firework_Description: |-
+  Shoot a firework into the air.
+
+DOTA_Tooltip_ability_seasonal_dark_carnival_firework_Lore: |-
+  Boom!
+
+DOTA_Tooltip_ability_seasonal_dark_carnival_pie: |-
+  Carnival Pie
+
+DOTA_Tooltip_ability_seasonal_dark_carnival_pie_Description: |-
+  Throw a pie
+
+DOTA_Tooltip_ability_seasonal_dark_carnival_pie_Lore: |-
+  Splat!
 
 DOTA_Tooltip_ability_plus_high_five: |-
   High Five
