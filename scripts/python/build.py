@@ -31,7 +31,6 @@ files = [
 if os.path.exists('pak01/'):
     shutil.rmtree('pak01/')
 os.makedirs('pak01/resource/localization', exist_ok=True)
-os.makedirs('pak01/resource/subtitles', exist_ok=True)
 
 for file in files:
     with open('main/resource/localization/' + file[0] + '_japanese.txt.json', 'r', encoding='utf-8') as jf:
