@@ -84237,6 +84237,9 @@ DOTA_Play_RR_FiveStack: |-
 DOTA_Play_RR_HighDemand: |-
   All high-demand roles are selected.  Select all roles to earn more Role Queue games.
 
+DOTA_Play_RR_HighDemandAtLeastOne: |-
+  At least one high-demand role has been selected. Select all roles to earn more Role Queue games.
+
 DOTA_Play_RR_SoloSpendingQP: |-
   You will spend a Role Queue game.
 
@@ -84292,7 +84295,7 @@ DOTA_RR_FiveStack: |-
   Full parties are always eligible for Ranked Roles, but do not earn more games for future use.
 
 DOTA_RR_SoloHighDemand: |-
-  You have selected all high-demand roles.  Select the remainder of the roles if you wish to earn additional Role Queue games for future use.
+  You have selected a high-demand role. Select the remainder of the roles if you wish to earn additional Role Queue games for future use.
 
 DOTA_RR_PartyHighDemand: |-
   Your party has selected all high-demand roles.  Select the remainder of the roles if you wish to earn additional Role Queue games for future use.
@@ -84301,7 +84304,7 @@ DOTA_RR_HighDemandRole_Title: |-
   High Demand Role
 
 DOTA_RR_HighDemandRole_Description: |-
-  This role is in high demand. If your party queues for all high demand roles, you won't need Role Queue games to play Ranked Roles.
+  This role is in high demand. If you queue for a high demand role (or if your party queues for all high demand roles), you won't need Role Queue games to play Ranked Roles.
 
 DOTA_RR_SoloSpendingQP: |-
   You will spend a game of Role Queue and receive your selected roles.
@@ -116822,6 +116825,9 @@ DOTA_Overworld_Inventory_HeroTrayHidden: |-
 DOTA_Overworld_Inventory_PathUnlocker: |-
   <b>Path Unlock</b> tickets can unlock a node without spending the tokens normally required. Use them by clicking the <b>UNLOCK NOW</b> button under the node cost.
 
+DOTA_Overworld_Inventory_ScrapToken: |-
+  Earn <b>{s:scrap_token_name}</b> tokens for every game you play, win or lose.<br>They can be traded at the <b>Token Trader</b> for a hero token of your choice.
+
 DOTA_Crownfall_Encounter_UnableToClaimReward: |-
   Unable to Claim Reward
 
@@ -117863,7 +117869,7 @@ DOTA_HeroGrid_Overworld: |-
   Dark Carnival
 
 DOTA_HeroGrid_Overworld_Description: |-
-  Highlight and show tickets for heroes that unlock the active paths on your Dark Carnival map. 
+  Highlight heroes that unlock paths on your Dark Carnival map.
 
 DOTA_CrownfallLeaderboard_Act1_Title: |-
   Act I Progress
@@ -128126,6 +128132,9 @@ DOTA_DarkCarnival_Token_NodeUnlock: |-
 DOTA_DarkCarnival_Token_MinigameUnlock: |-
   Carnival Game Unlock
 
+DOTA_DarkCarnival_Token_CarnivalScrap: |-
+  Scrap
+
 DOTA_Overworld_Token_Random: |-
   Random Ticket
 
@@ -128838,6 +128847,12 @@ dota_chatwheel_source_hoodwink: |-
 
 dota_chatwheel_source_clown: |-
   Clarence
+
+DOTA_DarkCarnival_HeroHighlightTooltip_TicketsNeeded: |-
+  Tickets Needed
+
+DOTA_DarkCarnival_HeroHighlightTooltip_NoTicketsNeeded: |-
+  No Tickets Needed
 
 DOTA_Axe_Missing: |-
   Axe is missing and cannot participate
