@@ -119463,11 +119463,17 @@ DOTA_TalentContent_RejectReason_PhotoBadQuality: |-
 DOTA_TalentContent_RejectReason_PhotoExtraElements: |-
   Your photo contains extra elements that have been edited in
 
+DOTA_TalentContent_RejectReason_PhotoAI: |-
+  Your photo was made or edited using Generative AI
+
 DOTA_TalentContent_RejectReason_AutoBadAlpha: |-
   Your autograph background is not completely transparent and cannot be shipped
 
 DOTA_TalentContent_RejectReason_AutoBadQuality: |-
   Your autograph does not adhere to the quality guidelines, which are available at https://www.dota2.com/autographguidelines
+
+DOTA_TalentContent_RejectReason_AutoAI: |-
+  Your autograph was made using Generative AI
 
 DOTA_TalentContent_RejectReason_VoiceNotTalent: |-
   The voice used for Voiceline {d:voiceline_number} is not in your own voice
@@ -119513,6 +119519,9 @@ DOTA_TalentContent_RejectReason_VoiceLength: |-
 
 DOTA_TalentContent_RejectReason_VoiceAbrasive: |-
   Voiceline {d:voiceline_number} is too abrasive or obnoxious
+
+DOTA_TalentContent_RejectReason_VoiceAI: |-
+  Voiceline {d:voiceline_number} was made using Generative AI
 
 DOTA_TalentContent_Approval_Photo: |-
   Your photo has been approved
