@@ -16709,7 +16709,7 @@
     "DOTA_Tooltip_RoshanTimerMessage_VisibleTime": "Roshanは後{s:roshan_respawn_time}で{s:roshan_cave_location}のピットにリスポーンする。",
     "DOTA_Chat_RoshanTimerMessage_RoshanIsAlive": "Roshan %s1 %s2のピットで生きている。",
     "DOTA_Chat_RoshanTimerMessage_VariableTime": "Roshan %s1 %s2のピットにいるか、%s3で必ずリスポーンする。",
-    "DOTA_Chat_Rune_XP_Time_Remaining": "<font color='#c642fe'>ウィズダムの神殿</font>が使用可能になるまで%s1 (%s2)",
+    "DOTA_Chat_Rune_XP_Time_Remaining": "<font color='#c642fe'>ウィズダムの神殿</font>が使用可能になるまで後%s1 (%s2)",
     "DOTA_Chat_Rune_XP_Time_Remaining_RecentlyOccurred": "<font color='#c642fe'>ウィズダムの神殿</font>が%s1前に使用可能になった。(次は%s2)",
     "DOTA_HUD_AutoCourier": "クーリエの自動配達 ({s:courier_autocourier_hotkey})",
     "dota_settings_auto_deliver": "クーリエの自動配達",
