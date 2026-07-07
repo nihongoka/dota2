@@ -116826,7 +116826,7 @@ DOTA_Overworld_Inventory_PathUnlocker: |-
   <b>Path Unlock</b> tickets can unlock a node without spending the tokens normally required. Use them by clicking the <b>UNLOCK NOW</b> button under the node cost.
 
 DOTA_Overworld_Inventory_ScrapToken: |-
-  Earn <b>{s:scrap_token_name}</b> tokens for every game you play, win or lose.<br>They can be traded at the <b>Token Trader</b> for a hero token of your choice.
+  Earn <b>{s:scrap_token_name}</b> tickets for every game you play, win or lose.<br>They can be traded at the <b>Ticket Trader</b> for a ticket of your choice.
 
 DOTA_Crownfall_Encounter_UnableToClaimReward: |-
   Unable to Claim Reward
