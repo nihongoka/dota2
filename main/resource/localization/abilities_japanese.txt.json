@@ -3785,7 +3785,7 @@
     "DOTA_Tooltip_ability_phoenix_sun_ray_hp_perc_damage": "%最大体力ダメージ:",
     "DOTA_Tooltip_ability_phoenix_sun_ray_hp_perc_heal": "%最大体力回復:",
     "DOTA_Tooltip_ability_oracle_fates_edict_duration": "効果時間:",
-    "DOTA_Tooltip_ability_oracle_false_promise_Description": "効果が切れるまで、回復あるいは受けるダメージを保留することで一時的に味方の運命を変える。保留された回復量は増幅される。ほとんどのデバフとディスエーブルをキャスト時に取り除く。\n\nディスペルタイプ: 強化ディスペル",
+    "DOTA_Tooltip_ability_oracle_false_promise_Description": "効果時間中、回復と受けるダメージを完全に保留し、味方1体の運命を変える。保留された回復量は増幅される。ほとんどのデバフとディスエーブルをキャスト時に取り除く。\n\nディスペルタイプ: 強化ディスペル",
     "DOTA_Tooltip_ability_oracle_false_promise_duration": "持続時間:",
     "DOTA_Tooltip_ability_monkey_king_boundless_strike_Description": "如意棒を巨大化させて地面を叩きつけ、直線上にいる敵をスタンさせてボーナスダメージ付きの攻撃のクリティカルダメージを与える。この攻撃はトゥルーストライクとなる。",
     "DOTA_Tooltip_ability_monkey_king_boundless_strike_strike_cast_range": "射程距離:",
