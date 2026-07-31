@@ -1249,49 +1249,49 @@ npc_dota_lone_druid_bear4: |-
   Spirit Bear
 
 npc_dota_brewmaster_earth: |-
-  Earth
+  Earth Brewling
 
 npc_dota_brewmaster_earth_1: |-
-  Earth
+  Earth Brewling
 
 npc_dota_brewmaster_earth_2: |-
-  Earth
+  Earth Brewling
 
 npc_dota_brewmaster_earth_3: |-
-  Earth
+  Earth Brewling
 
 npc_dota_brewmaster_earth_4: |-
-  Earth
+  Earth Brewling
 
 npc_dota_brewmaster_storm: |-
-  Storm
+  Storm Brewling
 
 npc_dota_brewmaster_storm_1: |-
-  Storm
+  Storm Brewling
 
 npc_dota_brewmaster_storm_2: |-
-  Storm
+  Storm Brewling
 
 npc_dota_brewmaster_storm_3: |-
-  Storm
+  Storm Brewling
 
 npc_dota_brewmaster_storm_4: |-
-  Storm
+  Storm Brewling
 
 npc_dota_brewmaster_fire: |-
-  Fire
+  Fire Brewling
 
 npc_dota_brewmaster_fire_1: |-
-  Fire
+  Fire Brewling
 
 npc_dota_brewmaster_fire_2: |-
-  Fire
+  Fire Brewling
 
 npc_dota_brewmaster_fire_3: |-
-  Fire
+  Fire Brewling
 
 npc_dota_brewmaster_fire_4: |-
-  Fire
+  Fire Brewling
 
 npc_dota_brewmaster_void: |-
   Void
@@ -1328,6 +1328,9 @@ npc_dota_unit_undying_zombie: |-
 
 npc_dota_unit_undying_zombie_torso: |-
   Undying Zombie
+
+npc_dota_visage_familiar: |-
+  Familiar
 
 npc_dota_visage_familiar1: |-
   Familiar
@@ -1410,6 +1413,9 @@ npc_dota_chen_zealot_goodguys: |-
 npc_dota_chen_zealot_badguys: |-
   Zealot
 
+npc_dota_chen_zealot: |-
+  Zealot
+
 npc_dota_creep_badguys_melee: |-
   Melee Creep
 
@@ -1483,7 +1489,7 @@ npc_dota_creep_goodguys_flagbearer_upgraded_mega: |-
   Mega Flagbearer Creep
 
 npc_dota_neutral_default: |-
-  Neutrals
+  All Units
 
 npc_dota_neutral_kobold: |-
   Kobold
@@ -2191,9 +2197,6 @@ DOTA_Tooltip_ability_antimage_mana_void_Lore: |-
 
 DOTA_Tooltip_ability_antimage_mana_void_Note0: |-
   Damage is calculated based on the primary target's mana, but applied to all enemies within the area of effect.
-
-DOTA_Tooltip_ability_antimage_mana_void_Note1: |-
-  Break disables Mana Thirst vision and attack bonuses.
 
 DOTA_Tooltip_ability_antimage_mana_void_mana_void_damage_per_mana: |-
   DAMAGE PER 1 MANA MISSING:
@@ -2908,7 +2911,7 @@ DOTA_Tooltip_ability_life_stealer_open_wounds_Note0: |-
   Open Wounds slows over 8 different steps: 50% / 50% / 40% / 30% / 20% / 10% / 10% / 10%, with the slow decreasing one step per second.
 
 DOTA_Tooltip_ability_life_stealer_open_wounds_Note1: |-
-  The amount healed is amplified by Lifestealer's Lifesteal Amplification.
+  The amount healed is amplified by Lifestealer's Health Restoration Amplification.
 
 DOTA_Tooltip_ability_life_stealer_open_wounds_heal_percent: |-
   %DAMAGE TO HEALING:
@@ -3397,9 +3400,6 @@ DOTA_Tooltip_ability_windrunner_windrun_Description: |-
 
 DOTA_Tooltip_ability_windrunner_windrun_Lore: |-
   Lyralei enchants gusts of winds to fight incoming attacks.
-
-DOTA_Tooltip_ability_windrunner_windrun_Note0: |-
-  Activating Windrun will evade incoming projectiles.
 
 DOTA_Tooltip_ability_windrunner_windrun_evasion_pct_tooltip: |-
   %EVASION:
@@ -3959,7 +3959,7 @@ DOTA_Tooltip_ability_witch_doctor_maledict: |-
   Maledict
 
 DOTA_Tooltip_ability_witch_doctor_maledict_Description: |-
-  Curses all enemy Heroes and player-controlled units in a small area, causing them to take a set amount of damage each second, as well as bursts of damage every 4 seconds based on how much health they have lost since the curse began.
+  Curses all enemy Heroes and player-controlled targets in a small area, causing them to take a set amount of damage each second, as well as bursts of damage every 4 seconds based on how much health they have lost since the curse began.
 
 DOTA_Tooltip_ability_witch_doctor_maledict_Facet_witch_doctor_malpractice: |-
   Enemies who die while cursed deal damage equal to %spread_pct%%% of what the next burst damage would be to all enemy units in a %spread_radius% radius.
@@ -4794,7 +4794,7 @@ DOTA_Tooltip_ability_bane_fiends_grip_Description: |-
   CHANNELED - Grips an enemy unit, disabling it and causing heavy damage over time, while stealing mana every %fiend_grip_tick_interval% seconds based on the unit's maximum mana.
 
 DOTA_Tooltip_ability_bane_fiends_grip_scepter_description: |-
-  Reduces Fiend's Grip cooldown by %bonus_AbilityCooldown%. Fiend's Grip now creates two uncontrollable illusions that are also channeling Fiend's Grip on the target. Illusions take %scepter_incoming_illusion_damage%%% incoming damage and immediately die if they are interrupted. Damage does not stack.
+  Reduces Fiend's Grip cooldown by %bonus_AbilityCooldown%s. Fiend's Grip now creates two uncontrollable illusions that are also channeling Fiend's Grip on the target. Illusions take %scepter_incoming_illusion_damage%%% incoming damage and immediately die if they are interrupted. Damage does not stack.
 
 DOTA_Tooltip_ability_bane_fiends_grip_Lore: |-
   Victims of Atropos are frequently torn apart by vivid conjurations of their own nightmares.
@@ -5713,7 +5713,7 @@ DOTA_Tooltip_ability_phantom_assassin_blur_Description: |-
   Phantom Assassin blurs her body, disjointing incoming projectiles, increasing her movement speed, causing her to be impossible to see until she comes near enemy heroes or towers.
 
 DOTA_Tooltip_ability_phantom_assassin_blur_shard_description: |-
-  Decreases Cooldown. Any time Phantom Assassin gets a hero kill, her ability cooldowns advance %cooldown_refund_pct%%% of their max cooldown values.
+  Decreases Cooldown by %bonus_AbilityCooldown%s. Any time Phantom Assassin gets a hero kill, her ability cooldowns advance %cooldown_refund_pct%%% of their max cooldown values.
 
 DOTA_Tooltip_ability_phantom_assassin_blur_abilitydraft_note: |-
   With Scepter, only non-ultimate spells will refresh.
@@ -6151,7 +6151,7 @@ DOTA_Tooltip_ability_drow_ranger_multishot: |-
   Multishot
 
 DOTA_Tooltip_ability_drow_ranger_multishot_Description: |-
-  CHANNELED - Drow releases a flurry of arrows in continuous salvos, hitting enemies for extra damage and applying Frost Arrows. Lasts up to %abilitychanneltime% seconds.<br><br>Drow can move slowly and use items while casting Multishot.
+  CHANNELED - Drow releases a flurry of arrows in continuous salvos, hitting enemies for extra damage and applying Frost Arrows with a range of Drow's Attack Range + %arrow_range_base%. Lasts up to %abilitychanneltime% seconds.<br><br>Drow can move slowly and use items while casting Multishot.
 
 DOTA_Tooltip_ability_drow_ranger_multishot_Lore: |-
   In the ranger's youth, learning to fire multiple arrows at once was considered a distracting frivolity. In the war of the Ancients, such technique has become strange necessity.
@@ -6167,9 +6167,6 @@ DOTA_Tooltip_ability_drow_ranger_multishot_arrow_count_per_wave: |-
 
 DOTA_Tooltip_ability_drow_ranger_multishot_arrow_damage_pct: |-
   %ARROW BASE DAMAGE BONUS:
-
-DOTA_Tooltip_ability_drow_ranger_multishot_arrow_range_multiplier: |-
-  ARROW RANGE MULTIPLIER:
 
 DOTA_Tooltip_ability_drow_ranger_multishot_Note0: |-
   Arrow base damage pierces magic immunity.
@@ -12409,7 +12406,7 @@ DOTA_Tooltip_ability_templar_assassin_meld_Lore: |-
   Lanaya is as elusive as her covenant with the Hidden Temple.
 
 DOTA_Tooltip_ability_templar_assassin_meld_Description: |-
-  Templar Assassin conceals herself, becoming invisible as long as she remains still. If Meld's invisibility is broken by attacking an enemy, Lanaya's attack will deal bonus damage to the enemy and reduce their armor for %debuff_duration% seconds. Bonus damage and armor reductions are applied to all enemies in the Psi Blades split range.
+  Templar Assassin conceals herself, becoming invisible as long as she remains still. If Meld's invisibility is broken by attacking an enemy, Lanaya's attack will deal bonus damage to the enemy and reduce their armor for %debuff_duration% seconds. Bonus damage and debuffs from Meld are applied to all enemies in the Psi Blades split range.
 
 DOTA_Tooltip_ability_templar_assassin_meld_Facet_templar_assassin_voidblades: |-
   Meld bonus damage and armor reductions are applied to all enemies in the Psi Blades split range.
@@ -13139,9 +13136,6 @@ DOTA_Tooltip_ability_dragon_knight_elder_dragon_form_scepter_description: |-
 DOTA_Tooltip_ability_dragon_knight_elder_dragon_form_Lore: |-
   The dormant dragon power springs forth from within Davion, combining the powers of a legendary knight with a legendary Eldwurm.
 
-DOTA_Tooltip_ability_dragon_knight_elder_dragon_form_Note0: |-
-  Cooldowns of items that are different for ranged and melee units will be based on which form Dragon Knight was in when the item was used.
-
 DOTA_Tooltip_ability_dragon_knight_elder_dragon_form_duration: |-
   DURATION:
 
@@ -13768,9 +13762,6 @@ DOTA_Tooltip_ability_enchantress_natures_attendants_Lore: |-
 
 DOTA_Tooltip_ability_enchantress_natures_attendants_Note0: |-
   Units with full HP will not be selected for the heal.
-
-DOTA_Tooltip_ability_enchantress_natures_attendants_Note1: |-
-  Break disables Overprotective Wisps.
 
 DOTA_Tooltip_ability_enchantress_natures_attendants_wisp_count: |-
   WISPS:
@@ -17541,7 +17532,7 @@ DOTA_Tooltip_ability_invoker_ghost_walk_ally_cast_area_of_effect: |-
   ALLY RADIUS:
 
 DOTA_Tooltip_ability_invoker_ghost_walk_shard_description: |-
-  Ghost Walk now also applies the Ice Wall Damage Per Second to enemies in a larger radius.
+  Ghost Walk now also applies the Ice Wall Damage Per Second to enemies in its area of effect.
 
 DOTA_Tooltip_ability_invoker_tornado: |-
   Tornado
@@ -19204,9 +19195,6 @@ DOTA_Tooltip_ability_lone_druid_true_form_facet_lone_druid_bear_with_me: |-
 DOTA_Tooltip_ability_lone_druid_true_form_facet_lone_druid_unbearable: |-
   Lone Druid morphs his Spirit Bear into an enraged form that gains bonus armor, attack speed, demolish damage, and a %entangling_claws_cooldown_reduction_pct%%% cooldown on Entangling Claws.
 
-DOTA_Tooltip_ability_lone_druid_true_form_Note0: |-
-  Cooldowns of items that are different for ranged and melee units will be based on which form Lone Druid was in when the item was used.
-
 DOTA_Tooltip_ability_lone_druid_true_form_bonus_armor: |-
   BONUS ARMOR:
 
@@ -20565,7 +20553,7 @@ DOTA_Tooltip_ability_meepo_ransack_health_steal_heroes: |-
   HEALTH STEAL (HEROES):
 
 DOTA_Tooltip_ability_meepo_ransack_Note0: |-
-  Amount healed is amplified by Lifesteal Amplification
+  Amount healed is amplified by Health Restoration Amplification
 
 DOTA_Tooltip_ability_meepo_divided_we_stand: |-
   Divided We Stand
@@ -21462,12 +21450,6 @@ DOTA_Tooltip_ability_rubick_arcane_supremacy_Facet_rubick_arcane_accumulation: |
 DOTA_Tooltip_ability_rubick_arcane_supremacy_Lore: |-
   Not every magus can be a Grand Magus...
 
-DOTA_Tooltip_ability_rubick_arcane_supremacy_Note0: |-
-  Break disables the gaining of new Arcane Accumulation stacks.
-
-DOTA_Tooltip_ability_rubick_arcane_supremacy_Note1: |-
-  Break does not disable the bonuses from existing Arcane Accumulation stacks.
-
 DOTA_Tooltip_ability_rubick_arcane_supremacy_cast_range: |-
   CAST RANGE:
 
@@ -21825,7 +21807,7 @@ DOTA_Tooltip_ability_nyx_assassin_spiked_carapace_Note0: |-
   The damage is calculated after all reductions.
 
 DOTA_Tooltip_ability_nyx_assassin_spiked_carapace_Note1: |-
-  Spiked Carapace will only trigger on damage from other player controlled units.
+  Spiked Carapace will only trigger on damage from other player controlled sources.
 
 DOTA_Tooltip_ability_nyx_assassin_spiked_carapace_Note2: |-
   The damage reflected will have the same damage type as it had when it was dealt to Nyx Assassin.
@@ -21855,12 +21837,9 @@ DOTA_Tooltip_ability_nyx_assassin_vendetta_Lore: |-
   The scarab kills for the glory of his queen.
 
 DOTA_Tooltip_ability_nyx_assassin_vendetta_Note0: |-
-  Has a %fade_time% second fadetime.
-
-DOTA_Tooltip_ability_nyx_assassin_vendetta_Note1: |-
   If a spell is used to break the invisibility, or the invisibility expires, the bonus damage is lost.
 
-DOTA_Tooltip_ability_nyx_assassin_vendetta_Note2: |-
+DOTA_Tooltip_ability_nyx_assassin_vendetta_Note1: |-
   With Aghanim's Shard, the Break is applied before the bonus damage.
 
 DOTA_Tooltip_ability_nyx_assassin_vendetta_duration: |-
@@ -22298,7 +22277,7 @@ DOTA_Tooltip_ability_keeper_of_the_light_chakra_magic_cooldown_reduction: |-
   COOLDOWN REDUCTION:
 
 DOTA_Tooltip_ability_keeper_of_the_light_chakra_magic_Note0: |-
-  Chakra Magic does not reduce the cooldown of Ultimate abilities
+  Chakra Magic does not reduce the cooldown of Ultimate abilities.
 
 DOTA_Tooltip_ability_keeper_of_the_light_will_o_wisp: |-
   Will-O-Wisp
@@ -22312,14 +22291,17 @@ DOTA_Tooltip_ability_keeper_of_the_light_will_o_wisp_Lore: |-
 DOTA_Tooltip_ability_keeper_of_the_light_will_o_wisp_radius: |-
   RADIUS:
 
-DOTA_Tooltip_ability_keeper_of_the_light_will_o_wisp_wisp_duration: |-
-  DURATION:
+DOTA_Tooltip_ability_keeper_of_the_light_will_o_wisp_wisp_duration_tooltip: |-
+  TOTAL DURATION:
 
 DOTA_Tooltip_ability_keeper_of_the_light_will_o_wisp_hit_count: |-
   HIT COUNT:
 
-DOTA_Tooltip_ability_keeper_of_the_light_will_o_wisp_interval: |-
-  INTERVAL:
+DOTA_Tooltip_ability_keeper_of_the_light_will_o_wisp_off_duration: |-
+  OFF INTERVAL:
+
+DOTA_Tooltip_ability_keeper_of_the_light_will_o_wisp_on_duration: |-
+  ON INTERVAL:
 
 DOTA_Tooltip_ability_keeper_of_the_light_will_o_wisp_wisp_damage: |-
   DAMAGE:
@@ -22508,7 +22490,7 @@ DOTA_Tooltip_ability_wisp_tether_Lore: |-
   The benevolent touch of Io brings strength from between the planes.
 
 DOTA_Tooltip_ability_wisp_tether_Note0: |-
-  If you try to tether a unit that is 700 distance or further away from Io, he will latch on and pull himself closer to the tethered unit (to a distance of 300).
+  If you try to tether a unit that is 700 distance or further away from Io, Io will latch on and pull itself closer to the tethered unit (to a distance of 300).
 
 DOTA_Tooltip_ability_wisp_tether_Note1: |-
   The tethered unit will heal faster and will heal even if Io is at full health.
@@ -23193,9 +23175,6 @@ DOTA_Tooltip_ability_troll_warlord_berserkers_rage_Description: |-
 DOTA_Tooltip_ability_troll_warlord_berserkers_rage_Lore: |-
   Like his anger, Troll Warlord's supply of axes is infinite.
 
-DOTA_Tooltip_ability_troll_warlord_berserkers_rage_Note0: |-
-  Cooldowns of items that are different for ranged and melee units will be based on which form Troll Warlord was in when the item was used.
-
 DOTA_Tooltip_ability_troll_warlord_berserkers_rage_bonus_move_speed: |-
   BONUS MOVE SPEED:
 
@@ -23335,7 +23314,7 @@ DOTA_Tooltip_ability_troll_warlord_battle_trance: |-
   Battle Trance
 
 DOTA_Tooltip_ability_troll_warlord_battle_trance_Description: |-
-  Troll unleashes a powerful battle trance, that forces you to continuously attack the closest enemy unit within %range% range, prioritizing heroes. Damage does not kill you during this mode. Grants you bonus lifesteal, attack speed and movement speed. Applies a Basic Dispel.
+  Troll unleashes a powerful battle trance, that forces you to continuously attack the closest enemy unit within %range% range, prioritizing heroes. Damage does not kill you during this mode. Grants you bonus lifesteal, attack speed, slow resistance and movement speed. Applies a Basic Dispel.
 
   DISPEL TYPE: Basic Dispel
 
@@ -23362,6 +23341,9 @@ DOTA_Tooltip_ability_troll_warlord_battle_trance_lifesteal: |-
 
 DOTA_Tooltip_ability_troll_warlord_battle_trance_movement_speed: |-
   %MOVEMENT SPEED:
+
+DOTA_Tooltip_ability_troll_warlord_battle_trance_slow_resistance: |-
+  %SLOW RESISTANCE:
 
 DOTA_Tooltip_ability_troll_warlord_battle_trance_attack_speed: |-
   ATTACK SPEED:
@@ -24710,12 +24692,9 @@ DOTA_Tooltip_ability_skywrath_mage_mystic_flare_Note0: |-
   Mystic Flare only affects Heroes. Mystic Flare does not damage creep heroes.
 
 DOTA_Tooltip_ability_skywrath_mage_mystic_flare_Note1: |-
-  Spell immune enemies do not count toward the damage distribution.
-
-DOTA_Tooltip_ability_skywrath_mage_mystic_flare_Note2: |-
   Mystic Flare will damage enemy creeps if no enemy heroes are present.
 
-DOTA_Tooltip_ability_skywrath_mage_mystic_flare_Note3: |-
+DOTA_Tooltip_ability_skywrath_mage_mystic_flare_Note2: |-
   Mystic Flare will immediately destroy illusions.
 
 DOTA_Tooltip_ability_skywrath_mage_mystic_flare_radius: |-
@@ -25942,7 +25921,7 @@ DOTA_Tooltip_ability_abyssal_underlord_atrophy_aura_Lore: |-
   To merely stand in the presence of the Underlord is to feel the conviction of battle sapped from one's soul.
 
 DOTA_Tooltip_ability_abyssal_underlord_atrophy_aura_Note0: |-
-  Break disables the Attack Damage Reduction aura and prevents Underlord from gaining new stacks.
+  Break disables the Attack Damage Reduction aura and prevents Underlord from gaining new bonus damage.
 
 DOTA_Tooltip_ability_abyssal_underlord_atrophy_aura_radius: |-
   RADIUS:
@@ -27729,9 +27708,6 @@ DOTA_Tooltip_ability_monkey_king_tree_dance_perched_jump_distance: |-
 DOTA_Tooltip_ability_monkey_king_tree_dance_jump_damage_cooldown: |-
   DAMAGE COOLDOWN:
 
-DOTA_Tooltip_ability_monkey_king_tree_dance_abilitydraft_note: |-
-  For Ability Draft only, Tree Dance ability swaps with Primal Spring while you are perched on a tree. You can no longer jump to other trees without returning to the ground first.
-
 DOTA_Tooltip_ability_monkey_king_primal_spring: |-
   Primal Spring
 
@@ -27782,9 +27758,6 @@ DOTA_Tooltip_ability_monkey_king_boundless_strike_strike_flat_damage: |-
 
 DOTA_Tooltip_ability_monkey_king_boundless_strike_strike_crit_mult: |-
   %CRITICAL DAMAGE:
-
-DOTA_Tooltip_ability_monkey_king_boundless_strike_Note0: |-
-  Does not affect spell-immune enemies.
 
 DOTA_Tooltip_ability_monkey_king_jingu_mastery: |-
   Jingu Mastery
@@ -28927,9 +28900,6 @@ DOTA_Tooltip_ability_void_spirit_dissimilate_Facet_void_spirit_aether_artifice: 
 DOTA_Tooltip_ability_void_spirit_dissimilate_Lore: |-
   Inai much prefers to observe our plane free from the confines of corporeal form.
 
-DOTA_Tooltip_ability_void_spirit_dissimilate_Note0: |-
-  Call of the Void will never spawn Aether Remnants in the Outer Ring.
-
 DOTA_Tooltip_ability_void_spirit_dissimilate_phase_duration: |-
   PHASE DURATION:
 
@@ -29689,7 +29659,7 @@ DOTA_Tooltip_ability_dawnbreaker_solar_guardian_Note1: |-
   Total flight duration is %abilitychanneltime% seconds of channel time + %airtime_duration% of flight time.
 
 DOTA_Tooltip_ability_dawnbreaker_solar_guardian_Note2: |-
-  Cannot be cast without the Hammer.
+  Instantly recalls the Hammer on cast.
 
 DOTA_Tooltip_ability_dawnbreaker_solar_guardian_scepter_description: |-
   Solar Guardian's aura follows Dawnbreaker for %scepter_aura_duration%s after landing.
@@ -29857,7 +29827,7 @@ DOTA_Tooltip_Ability_dawnbreaker_luminosity_Facet_dawnbreaker_solar_charged: |-
   Whenever Dawnbreaker hits a target with a powered up Luminosity, she decreases the cooldowns of all of her abilities.
 
 DOTA_Tooltip_ability_dawnbreaker_luminosity_Note0: |-
-  Luminosity Heal is increased by sources of Lifesteal Amplification.
+  Luminosity Heal is increased by sources of Health Restoration Amplification.
 
 DOTA_Tooltip_ability_dawnbreaker_luminosity_Note1: |-
   Break disables the gaining of new stacks.
@@ -31885,7 +31855,7 @@ DOTA_Tooltip_ability_largo_catchy_lick_Description: |-
   DISPEL TYPE: Basic Dispel
 
 DOTA_Tooltip_ability_largo_catchy_lick_Note0: |-
-  Can lick runes to pull them
+  Can lick runes to pull them.
 
 DOTA_Tooltip_ability_largo_catchy_lick_damage: |-
   DAMAGE:
@@ -34226,6 +34196,9 @@ DOTA_Tooltip_ability_special_bonus_unique_nevermore_shadowraze_cooldown: |-
 
 DOTA_Tooltip_ability_special_bonus_unique_nevermore_raze_procsattacks: |-
   Shadowraze Applies Attack Damage
+
+DOTA_Tooltip_ability_special_bonus_unique_nevermore_raze_procsattacks_Description: |-
+  Does not apply attack modifiers.
 
 DOTA_Tooltip_ability_special_bonus_unique_nevermore_frenzy_castspeed: |-
   Feast of Souls Grants +{s:bonus_cast_speed_pct}% Cast Speed
@@ -36607,7 +36580,7 @@ DOTA_Tooltip_ability_special_bonus_unique_legion_commander_duel_duration: |-
   +{s:bonus_duration}s Duel Duration
 
 DOTA_Tooltip_ability_special_bonus_unique_legion_commander_duel_refresh_on_victory: |-
-  Duel Refreshes Cooldown On Victory
+  Duel Advances Cooldown by {s:bonus_duel_refresh_on_victory}s On Victory
 
 DOTA_Tooltip_ability_special_bonus_unique_legion_commander_outfight_them_armor: |-
   +{s:bonus_armor} Outfight Them! Armor
@@ -42280,10 +42253,10 @@ DOTA_Tooltip_ability_item_hood_of_defiance_bonus_health_regen: |-
   +$hp_regen
 
 DOTA_Tooltip_ability_item_consecrated_wraps_Description: |-
-  <h1>Passive: Hallowed</h1> Gain a charge every %AbilityChargeRestoreTime%s, up to a maximum of %AbilityCharges% charges. Upon gaining a charge, your movement speed is increased by %movement_speed_pct_on_stack_gain%%% for %duration%s.<br><br>Whenever you take damage from a player-controlled unit or Roshan, consume all charges to gain an all damage barrier for %duration%s that absorbs %barrier_per_stack% damage per charge (%max_barrier_tooltip% max).
+  <h1>Passive: Hallowed</h1> Gain a charge every %AbilityChargeRestoreTime%s, up to a maximum of %AbilityCharges% charges. Upon gaining a charge, your movement speed is increased by %movement_speed_pct_on_stack_gain%%% for %duration%s.<br><br>Whenever you take damage from a player-controlled source or Roshan, consume all charges to gain an all damage barrier for %duration%s that absorbs %barrier_per_stack% damage per charge (%max_barrier_tooltip% max).
 
 DOTA_Tooltip_ability_item_consecrated_wraps_Note0: |-
-  Charges cannot be gained for %stack_gain_time%s after you take damage from a player-controlled unit or Roshan.
+  Charges cannot be gained for %stack_gain_time%s after you take damage from a player-controlled source or Roshan.
 
 DOTA_Tooltip_ability_item_consecrated_wraps_Note1: |-
   Self-damage and HP Loss damage cannot remove charges.
@@ -43057,7 +43030,7 @@ DOTA_Tooltip_ability_item_mantle_bonus_intellect: |-
   +$int
 
 DOTA_Tooltip_ability_item_mask_of_madness_Description: |-
-  <h1>Active: Berserk</h1>Gives %berserk_bonus_attack_speed% attack speed, %berserk_bonus_movement_speed%%% / %berserk_bonus_movement_speed_melee%%% movement speed (ranged/melee), and %berserk_slow_resist%%% slow resistance, but reduces your armor by %berserk_armor_reduction% and silences you.  Lasts %berserk_duration% seconds.
+  <h1>Active: Berserk</h1>Gives %berserk_bonus_attack_speed% attack speed, %berserk_bonus_movement_speed%%% / %berserk_bonus_movement_speed_melee%%% movement speed (ranged/melee), and %berserk_slow_resist%%%/%berserk_slow_resist_melee%%% slow resistance (ranged/melee), but reduces your armor by %berserk_armor_reduction% and silences you.  Lasts %berserk_duration% seconds.
 
   <h1>Passive: Lifesteal</h1>Heals the attacker for a percentage of physical damage dealt.
 
@@ -43489,6 +43462,9 @@ DOTA_Tooltip_ability_item_rapier_Description: |-
 
 DOTA_Tooltip_ability_item_rapier_Note0: |-
   If Divine Rapier is dropped and picked up by an enemy of its original owner, it cannot be dropped again except by death.
+
+DOTA_Tooltip_ability_item_rapier_Note1: |-
+  Spell Amplification from multiple Rapiers does not stack.
 
 DOTA_Tooltip_ability_item_rapier_Lore: |-
   So powerful, it cannot have a single owner.
@@ -44548,7 +44524,7 @@ DOTA_Tooltip_modifier_item_pavise_shield_Description: |-
   Absorbing physical damage.
 
 DOTA_Tooltip_ability_item_smoke_of_deceit_Description: |-
-  <h1>Use: Disguise</h1> Turns the caster and all allied player-controlled units in a %application_radius% radius invisible, and grants %bonus_movement_speed%%% bonus movement speed for %duration% seconds. <br><br> While the caster is still disguised, any allies that come within %secondary_application_radius% range of them will also get the buff applied to them. Each smoke can only be applied once to allies. <br><br>Attacking or moving within %visibility_radius% range of an enemy hero or tower, will break the invisibility. <br><br>Disguise grants invisibility that is immune to True Sight. <br><br>Smoke of Deceit is usable from the backpack and has no cooldown when swapped into the main inventory.
+  <h1>Use: Disguise</h1> Turns the caster and all allied player-controlled targets in a %application_radius% radius invisible, and grants %bonus_movement_speed%%% bonus movement speed for %duration% seconds. <br><br> While the caster is still disguised, any allies that come within %secondary_application_radius% range of them will also get the buff applied to them. Each smoke can only be applied once to allies. <br><br>Attacking or moving within %visibility_radius% range of an enemy hero or tower, will break the invisibility. <br><br>Disguise grants invisibility that is immune to True Sight. <br><br>Smoke of Deceit is usable from the backpack and has no cooldown when swapped into the main inventory.
 
 DOTA_Tooltip_ability_item_smoke_of_deceit_Lore: |-
   The charlatan wizard Myrddin's only true contribution to the arcane arts.
@@ -45934,8 +45910,8 @@ DOTA_Tooltip_Ability_item_enhancement_tough_knockback_resist: |-
 DOTA_Tooltip_Ability_item_enhancement_feverish_cooldown_reduction: |-
   %+$cooldown_reduction
 
-DOTA_Tooltip_Ability_item_enhancement_feverish_cost_increase: |-
-  %+<font color='#e03e2e'>Mana Cost/Mana Loss Increase</font>
+DOTA_Tooltip_Ability_item_enhancement_feverish_max_mana: |-
+  %-<font color='#e03e2e'>Max Mana</font>
 
 DOTA_Tooltip_Ability_item_enhancement_fleetfooted_movespeed: |-
   +$move_speed
@@ -46160,10 +46136,10 @@ DOTA_Tooltip_modifier_item_foragers_nuts_consumed_Description: |-
   Number of Nuts consumed.
 
 DOTA_Tooltip_Ability_item_partisans_brand_Description: |-
-  <h1>Passive: Brand</h1> Increases spell damage dealt to player controlled units by %bonus_damage_pct%%%.
+  <h1>Passive: Brand</h1> Increases spell damage dealt to player controlled targets by %bonus_damage_pct%%%.
 
 DOTA_Tooltip_Ability_item_partisans_brand_Note0: |-
-  Player controlled units includes heroes and any creep summoned or converted by them.
+  Player controlled targets includes heroes and any creep summoned or converted by them.
 
 DOTA_Tooltip_Ability_item_enhancement_curious_item_potency: |-
   %+Artifact Potency
@@ -46415,7 +46391,7 @@ DOTA_Tooltip_Ability_item_weighted_dice_Description: |-
   <h1>Passive: Loaded</h1>Increases your base damage maximum by %bonus_max_damage%. When calculating your base damage or creep bounty from last hits, the value is computed %roll_count% times and the highest value is taken.
 
 DOTA_Tooltip_Ability_item_ash_legion_shield_Description: |-
-  <h1>Active: Shield Wall</h1>Reduce your own movement speed by %slow% to provide a %block_amount% physical damage barrier to allied player controlled units in a %block_radius% unit radius. Lasts for %duration% seconds.
+  <h1>Active: Shield Wall</h1>Reduce your own movement speed by %slow% to provide a %block_amount% physical damage barrier to allied player controlled targets in a %block_radius% unit radius. Lasts for %duration% seconds.
 
 DOTA_Tooltip_modifier_item_ash_legion_shield: |-
   Shield Wall
