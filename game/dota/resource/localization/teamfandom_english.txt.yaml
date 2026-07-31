@@ -2705,10 +2705,10 @@ dota_chatwheel_teamfandom_13_9467224_voiceline_143029_message: |-
   How are things, guys?
 
 dota_chatwheel_teamfandom_13_9467224_voiceline_143030_label: |-
-  Опа, всем общий!
+  Всё, пишите
 
 dota_chatwheel_teamfandom_13_9467224_voiceline_143030_message: |-
-  Hey, greetings to everyone!
+  That's it, call it
 
 dota_chatwheel_teamfandom_13_9467224_voiceline_143031_label: |-
   Мне просто не дают играть!
@@ -3122,7 +3122,7 @@ DOTA_talent_chatwheel_message_13_270293472_voice_1: |-
   Why? Why why why why why?
 
 DOTA_talent_chatwheel_message_13_270293472_voice_2: |-
-  Aaaaaaahhhh!
+  Faaaaaaahhhh!
 
 DOTA_talent_chatwheel_message_13_317506304_voice_1: |-
   What? It was like that?
@@ -3588,3 +3588,9 @@ DOTA_talent_chatwheel_message_13_690740_voice_1: |-
 
 DOTA_talent_chatwheel_message_13_690740_voice_2: |-
   Is there a concede button in this game?
+
+DOTA_talent_chatwheel_message_13_22793772_voice_1: |-
+  Alert! A beard has been detected
+
+DOTA_talent_chatwheel_message_13_22793772_voice_2: |-
+  Reviewed play. That play was legal
