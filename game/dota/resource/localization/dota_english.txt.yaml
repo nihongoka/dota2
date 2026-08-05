@@ -202,6 +202,9 @@ DOTA_Basics: |-
 DOTA_Upgrades: |-
   UPGRADES
 
+DOTA_Neutrals: |-
+  NEUTRALS
+
 DOTA_Attributes: |-
   ATTRIBUTES
 
