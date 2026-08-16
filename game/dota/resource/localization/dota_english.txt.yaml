@@ -132798,3 +132798,6 @@ DOTA_TeamFanContent_NoFavorite: |-
 
 Notification_International26_LGD: |-
   LGD Gaming's TaiLung will no longer be competing at The International. He has been replaced with Topias 'Topson' Taavitsainen. Fantasy rosters have been automatically updated.
+
+DOTA_HudSpectator_Buffering: |-
+  Buffering...
