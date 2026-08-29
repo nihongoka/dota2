@@ -132801,3 +132801,12 @@ Notification_International26_LGD: |-
 
 DOTA_HudSpectator_Buffering: |-
   Buffering...
+
+DOTA_Companion26_FreeTyrian: |-
+  Congratulations, cartographer! Because you already own every terrain, we've granted you a bonus Tyrian Regalia.
+
+DOTA_Companion26_FreeTyrian_PopupTitle: |-
+  Congratulations!
+
+DOTA_Companion26_FreeTyrian_PopupBody: |-
+  You already own every terrain and so we've granted you a bonus Tyrian Regalia. You can still claim a duplicate terrain.
