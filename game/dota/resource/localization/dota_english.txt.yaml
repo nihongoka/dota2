@@ -25349,6 +25349,15 @@ DOTA_HoF_AMMAR_THE_F: |-
 DOTA_HoF_Malr1ne: |-
   Stanislav Potorak
 
+TI15_Winner: |-
+  Team Spirit
+
+DOTA_HoF_not_me: |-
+  Alexey Kosmynin
+
+DOTA_HoF_rue: |-
+  Alexander Filin
+
 DOTA_ARDM_Loading: |-
   Loading Heroes
 
@@ -132807,6 +132816,9 @@ DOTA_TeamFanContent_NoFavorite: |-
 
 Notification_International26_LGD: |-
   LGD Gaming's TaiLung will no longer be competing at The International. He has been replaced with Topias 'Topson' Taavitsainen. Fantasy rosters have been automatically updated.
+
+Notification_International26_Yatoro: |-
+  Team Spirit's plea did not fall on deaf ears: All TI competitors have been granted a complimentary Tyrian Regalia!
 
 DOTA_HudSpectator_Buffering: |-
   Buffering...
