@@ -89410,6 +89410,9 @@ DOTA_Plus_Spring2026_Update_Title: |-
 DOTA_Plus_Summer2026_Update_Title: |-
   Summer 2026 Season Update
 
+DOTA_Plus_Fall2026_Update_Title: |-
+  Fall 2026 Season Update
+
 DOTA_Plus_Autumn_Assitant_Title: |-
   New Assistant Features
 
@@ -92878,6 +92881,12 @@ DOTA_PlusSeason_SeasonSummer2026_Name: |-
 
 DOTA_PlusSeason_SeasonSummer2026_Quests: |-
   Summer 2026 Quests
+
+DOTA_PlusSeason_SeasonFall2026_Name: |-
+  Fall 2026
+
+DOTA_PlusSeason_SeasonFall2026_Quests: |-
+  Fall 2026 Quests
 
 DOTA_MatchRewards: |-
   Match Rewards
