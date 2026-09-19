@@ -80022,6 +80022,9 @@ DOTA_741d_Update: |-
 DOTA_741e_Update: |-
   7.41e Gameplay Update
 
+DOTA_741f_Update: |-
+  7.41f Gameplay Update
+
 DOTA_Settings_Tooltip_NetworkLatency: |-
   If you have a network connection with packet loss, setting this to 'LOW' will increase latency but improve overall smoothness.
 
@@ -132150,6 +132153,15 @@ DOTA_Compendium2026_Rewards_Aegis: |-
 
 DOTA_Compendium2026_Rewards_Witness: |-
   x{d:reward_count}
+
+DOTA_Compendium2026_AegisCell_Year: |-
+  2026
+
+DOTA_Compendium2026_AegisCell_Title: |-
+  Physical Aegis
+
+DOTA_Compendium2026_AegisCell_Description: |-
+  Purchase The International 2026 Physical Aegis before Sep 23rd. Remember to use any discount before then!
 
 DOTA_Compendium2026_Rewards_ParticipationHeader: |-
   Rewards for Participation
