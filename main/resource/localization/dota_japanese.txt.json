@@ -4038,7 +4038,7 @@
     "DOTA_Item_Ping_Ready": "%s1%s2 %s3準備完了",
     "DOTA_Item_Black_King_Bar_Duration": "%s1 (%s2秒間)",
     "DOTA_Item_With_Level": "%s1 (レベル %s2)",
-    "DOTA_Item_Charge_Ward_Dispenser": "<font color='%s1'>Observer</font> (%s2本) と <font color='%s3'>Sentry</font> (%s4本) Wards",
+    "DOTA_Item_Charge_Ward_Dispenser": "<font color='%s1'>Observer</font>(%s2本)と<font color='%s3'>Sentry</font>(%s4本)",
     "DOTA_Item_Charge_Empty": " (空)",
     "DOTA_QuickBuyAlert_Cooldown": " (クールダウン中, 後%s1秒)",
     "DOTA_QuickBuyAlert": "%s1 購入可能まで後%s2ゴールド %s1 <font color='%s3'>%s4</font>%s5",
@@ -17088,5 +17088,8 @@
     "DOTA_LaneSelectionSelectRole": "ロール選択:",
     "DOTA_RR_RoleQueueTokens": "ロールキュートークン数:",
     "DOTA_Play_RR_HighDemandAtLeastOne": "消費数: <font color='#8c9aa6'>0</font>",
-    "DOTA_Play_RR_SelectAllRolesNote": "すべてのロールを選択すればトークンを稼げる"
+    "DOTA_Play_RR_SelectAllRolesNote": "すべてのロールを選択すればトークンを稼げる",
+    "DOTA_Neutrals": "中立",
+    "DOTA_Purchase_Eleven": "11個購入",
+    "DOTA_HUD_Gold_Among_Heroes:f": "と他{d:num_heroes}人"
 }
