@@ -2729,8 +2729,6 @@
     "DOTA_Tooltip_ability_venomancer_poison_sting_damage": "毎秒ダメージ:",
     "DOTA_Tooltip_ability_venomancer_poison_sting_movement_speed": "%移動速度スロー:",
     "DOTA_Tooltip_ability_venomancer_plague_ward_duration": "効果時間:",
-    "DOTA_Tooltip_ability_venomancer_plague_ward_ward_hp_tooltip": "WARD体力:",
-    "DOTA_Tooltip_ability_venomancer_plague_ward_ward_damage_tooltip": "WARD攻撃力:",
     "DOTA_Tooltip_modifier_venomancer_venomous_gale_Description": "スローを受け、毎秒%dMODIFIER_PROPERTY_TOOLTIP%ダメージを受ける。",
     "DOTA_Tooltip_modifier_venomancer_noxious_plague_primary": "Noxious Plague",
     "DOTA_Tooltip_modifier_venomancer_noxious_plague_primary_Description": "移動速度が%dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%減少しており、時間経過でダメージを受けている。このデバフがなくなったとき、これと他のVenomancerからのデバフが周囲のすべての味方に感染する。",
