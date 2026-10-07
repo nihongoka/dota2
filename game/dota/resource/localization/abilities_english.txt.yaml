@@ -7674,7 +7674,7 @@ DOTA_Tooltip_ability_crystal_maiden_freezing_field: |-
   Freezing Field
 
 DOTA_Tooltip_ability_crystal_maiden_freezing_field_Description: |-
-  CHANNELED - Surrounds Crystal Maiden with 100 random icy explosions that slow enemies and deal massive damage. Lasts %abilitychanneltime% seconds.
+  CHANNELED - Surrounds Crystal Maiden with %num_explosions% random icy explosions that slow enemies and deal massive damage. Lasts %abilitychanneltime% seconds.
 
 DOTA_Tooltip_ability_crystal_maiden_freezing_field_Lore: |-
   Once the place of her exile, Icewrack has become an anchor for Rylai's frigid onslaught.
@@ -7683,7 +7683,7 @@ DOTA_Tooltip_ability_crystal_maiden_freezing_field_Note0: |-
   The slow is applied on all enemies in the radius, even if they aren't hit by an explosion (lasts %slow_duration% second).
 
 DOTA_Tooltip_ability_crystal_maiden_freezing_field_Note1: |-
-  Explosions occur every %explosion_interval% seconds.
+  Explosions occur every %explosion_interval_tooltip% seconds.
 
 DOTA_Tooltip_ability_crystal_maiden_freezing_field_movespeed_slow: |-
   %MOVEMENT SLOW:
@@ -11631,7 +11631,7 @@ DOTA_Tooltip_ability_venomancer_plague_ward_Lore: |-
 DOTA_Tooltip_ability_venomancer_plague_ward_duration: |-
   DURATION:
 
-DOTA_Tooltip_ability_venomancer_plague_ward_ward_hp_tooltip: |-
+DOTA_Tooltip_ability_venomancer_plague_ward_ward_max_health: |-
   WARD HP:
 
 DOTA_Tooltip_ability_venomancer_plague_ward_threshold: |-
@@ -11640,7 +11640,7 @@ DOTA_Tooltip_ability_venomancer_plague_ward_threshold: |-
 DOTA_Tooltip_ability_venomancer_plague_ward_threshold_max_hp_pct: |-
   %WARD HP FROM CARRIER:
 
-DOTA_Tooltip_ability_venomancer_plague_ward_ward_damage_tooltip: |-
+DOTA_Tooltip_ability_venomancer_plague_ward_ward_base_damage: |-
   WARD DAMAGE:
 
 DOTA_Tooltip_ability_venomancer_noxious_plague: |-
@@ -33973,7 +33973,7 @@ DOTA_Tooltip_ability_special_bonus_unique_vengeful_spirit_wave_of_terror_steal: 
   Wave Of Terror Steals {s:bonus_steal_pct}% Of Reduced Damage And Armor
 
 DOTA_Tooltip_ability_special_bonus_unique_venomancer: |-
-  {s:bonus_ward_hp_tooltip}x Plague Ward HP/Damage
+  {s:bonus_ward_base_damage}x Plague Ward HP/Damage
 
 DOTA_Tooltip_ability_special_bonus_unique_venomancer_2: |-
   +{s:bonus_movement_speed}% Poison Sting Slow
