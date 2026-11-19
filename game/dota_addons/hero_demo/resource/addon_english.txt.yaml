@@ -312,6 +312,12 @@ LargeCamps_Title: |-
 AncientCamps_Title: |-
   Ancient Camps
 
+GiveMadstone_Button: |-
+  + Madstone
+
+GiveMadstone_Tooltip: |-
+  Give a Madstone Bundle to your hero
+
 AdditionalSettings_Title: |-
   Additional Settings
 
