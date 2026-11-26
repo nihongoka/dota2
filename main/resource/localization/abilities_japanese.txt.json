@@ -7746,8 +7746,6 @@
     "DOTA_Tooltip_ability_item_lotus_orb_Description": "<h1>アクティブ: Echo Shell</h1>%active_duration%秒間、対象にキャストされたスペルを再キャストし返すシールドを展開する。<br><br>シールドを展開されたユニットがスペルダメージを受けなくなるわけではない。<br>ディスペルタイプ: <span class=\"GameplayValues GameplayVariable\">基本ディスペル</span>",
     "DOTA_Tooltip_ability_big_thunder_lizard_slam_movespeed_slow": "%移動速度減少:",
     "DOTA_Tooltip_ability_big_thunder_lizard_slam_attack_slow_tooltip": "攻撃速度減少:",
-    "DOTA_Tooltip_ability_big_thunder_lizard_slam_non_hero_duration": "効果時間:",
-    "DOTA_Tooltip_ability_big_thunder_lizard_slam_hero_duration": "ヒーロー効果時間:",
     "DOTA_Tooltip_ability_item_helm_of_the_overlord_Lore": "亡きネクロマンサーの強力な兜。",
     "DOTA_Tooltip_ability_item_helm_of_the_overlord_Note0": "敵レーンクリープや召喚ユニットも支配することができる。",
     "DOTA_Tooltip_ability_item_helm_of_the_overlord_Note1": "売却時、支配しているユニットは死亡する。",
