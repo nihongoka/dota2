@@ -8698,7 +8698,7 @@
     "DOTA_Glossary_PureDamage_Desc": "いくつかのアビリティはユニットのアーマーや魔法耐性によって軽減されないピュアダメージを与える。",
     "DOTA_Glossary_Damage_BasicAttacks_Desc": "全てのユニットは敵ユニットを右クリックする事で通常攻撃(自動攻撃とも呼ばれる)し、ダメージを与えることができる。この攻撃は物理ダメージで、一般的にマナなどのコストを消費せずに発動できる。",
     "DOTA_Glossary_PhysicalDamage_Desc": "物理ダメージの多くは通常攻撃によるものだが、いくつかのキャストアビリティも物理ダメージを与える。受ける物理ダメージの量はアーマーを上げることにより減少する。",
-    "DOTA_Glossary_Damage_Armor_Desc": "アーマー(物理耐性とも呼ばれる)はユニットから受けた物理ダメージを軽減する。アーマーが高いほど、受ける物理ダメージが軽減される。すべてのヒーローは基本アーマーを持っており、アイテムやタレント、Agilityによって増加する。 アーマーを減少させるアビリティやエフェクトによってアーマー値がマイナスになった場合、受ける物理ダメージを増加する。<child id=\"ArmorTooltip\">",
+    "DOTA_Glossary_Damage_Armor_Desc": "アーマー(物理耐性とも呼ばれる)はユニットから受けた物理ダメージを軽減する。アーマーが高いほど、受ける物理ダメージが軽減される。すべてのヒーローは基本アーマーを持っており、アイテムやタレント、Agilityによって増加する。 アーマーを減少させるアビリティやエフェクトによってアーマー値がマイナスになった場合、受ける物理ダメージは増加する。<child id=\"ArmorTooltip\">",
     "DOTA_Glossary_Damage_ArmorTooltip": "ダメージの変化率の方程式: {s:DOTA_ARMOR_CONSTANT} × アーマー値 / ( 1 + {s:DOTA_ARMOR_CONSTANT} × アーマー値 )",
     "DOTA_Glossary_Damage_MagicResistance_Desc": "魔法耐性は、ユニットから受ける魔法ダメージを軽減する一定の割合であり、ヒーローの初期魔法耐性は{d:hero_default_MagicalResistance}%である。",
     "DOTA_Guide_PlusAssistantAvailable": "プラスアシスタントが利用できます。\nガイドを見るから選択しましょう！",
@@ -17098,5 +17098,6 @@
     "DOTA_Location_Name_LotusPoolMax:f": "<font color='#58C0F1'>ロータスプール</font>{icon}{stacks}個の<font color='#58C0F1'>ロータス</font>がある。",
     "DOTA_Location_Name_LotusPool_Fog:f": "<font color='#58C0F1'>ロータスプール</font>{icon}次の<font color='#58C0F1'>ロータス</font>まで後{delta_time}。({at_time})",
     "DOTA_Bot_Mode_30": "ロータスプール",
-    "DOTA_HUD_HornOfBattleUsed": "{s:caster_name}が<font color='#FF8040'>Greater Horn of Battle</font>の音を鳴らした! メガクリープが行進しだした。"
+    "DOTA_HUD_HornOfBattleUsed": "{s:caster_name}が<font color='#FF8040'>Greater Horn of Battle</font>の音を鳴らした! メガクリープが行進しだした。",
+    "DOTA_ToolTip_Item_Effectiveness_Disclaimer": "<img class=\"InlineIcon PotencyIcon\" src=\"file://{images}/status_icons/ability_effectiveness_icon.png\" />いくつかのパラメーターはアイテム効力によって変動する"
 }
