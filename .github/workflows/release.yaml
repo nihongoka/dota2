@@ -14,13 +14,13 @@ jobs:
         id: date
         run: echo "date=$(TZ=JST-9 date +'%Y-%m-%d-%H-%M-%S')" >> $GITHUB_OUTPUT
 
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
         with:
           ref: 'master'
 
       - uses: actions/setup-python@v5
         with:
-          python-version: '3.12' 
+          python-version: '3.12'
 
       - name: Install packages
         run: pip install vpk

@@ -14,7 +14,7 @@ jobs:
       new_version: ${{ steps.new_version.outputs.version }}
       current_version: ${{ steps.current_version.outputs.version }}
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
         with:
           ref: 'master'
       - id: new_version
@@ -30,16 +30,16 @@ jobs:
     steps:
       - uses: actions/setup-python@v5
         with:
-          python-version: '3.12' 
+          python-version: '3.12'
       - uses: CyberAndrii/setup-steamcmd@v1
-        
+
       - name: Install packages
         run: pip install vdf vpk
 
       - name: Fetch Dota2 client data
         run: steamcmd +force_install_dir ${{ runner.temp }} +login ${{ secrets.STEAM_USERNAME }} ${{ secrets.STEAM_PASSWORD }} +app_update 570 validate +quit
 
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v7
 
       - name: Extract from client data
         env:
